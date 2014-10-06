@@ -1,83 +1,19 @@
 National Information Centre of Earthquake Engineering - IIT-Kanpur-INDIA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 National Information Centre of Earthquake Engineering 
 at IIT Kanpur, INDIA 
  
-
-
-
-
-
-
-
  
-
-
-
-
-
-
-
-
-
-
-
  
-
-
  
-
-
-
                Login
  User ID
  
-
  Password
  
-
-
   
                    
-
-
-
-
-
-
-
-
-
-
  Home
-
-
-
-
  About Us        
-
-
-
-
-
-
-
   Summary
   Objectives
   Functioning
@@ -86,84 +22,25 @@ at IIT Kanpur, INDIA
   Advisory Board
   Institutional Members
   Contact 
-
-
-
-
-
  Events
-
-
-
-
  Newsletter
-
-
-
-
  Brochure
-
-
-
-
  Annual Reports
-
-
-
-
-
-
  2010-2011
  2009-2010
  2008-2009
  2007-2008
  2006-2007
  2005-2006
-
-
-
-
-
-
-
-
-
  Press      Coverage 
-
-
-
  Workshops 
-
-
-
  Free Registsration  to NICEE 
-
-
-
  Giving to NICEE 
-
-
  Institutional  Membership 
-
-
-
  Order NICEE  Publications 
-
-
-
  Download       Publications 
-
-
-
  EQE Practice 
-
-
-
  Indian Earthquakes
-
-
-
-
  1988 Bihar EQ
  1991 Uttarkashi EQ
  1993 Killari EQ
@@ -174,79 +51,24 @@ at IIT Kanpur, INDIA
  2004 Sumatra EQ
  2005 Kashmir EQ
  2006 Sikkim EQ
-
-
-
-
-
-
-
  Manuals
-
-
-
-
-
  IAEE English
  IAEE Hindi
  IAEE Oriya
  Do's and Don'ts
  INTACH Manual
  GREAT Manual
-
-
-
-
-
-
-
-
-
  IITK-GSDMA Codes
-
-
-
-
  IITK-BMTPC EQTips
-
-
-
-
  Other Downloads
-
-
-
-
-
  Latur Report
  e-Conf. Proceedings
  W/S Proceedings
  PG Thesis
-
-
-
-
-
-
  Photo Gallery
-
-
-
-
-
  EQ Photographs
  NICEE Activities
-
-
-
-
-
-
  Acquisitions
-
-
-
-
  Text Books
  Research Reports
  EQ Report
@@ -255,122 +77,37 @@ at IIT Kanpur, INDIA
  Codes
  Thesis
  Proceedings
-
-
-
-
-
-
  Reading Material
-
-
-
-
  Research Papers
-
-
-
-
-
-
  2008
  2007
  2006
  2005
  2004
-
-
-
-
-
-
  NPEEE
-
-
-
  SAP/ETABS Software
-
-
-
-
-
-
  PDF File
  Doc File
-
-
-
-
-
-
  EQE@iitk
-
-
-
-
  Other EQ Links
   Admin Login
-
-
  Feedback
-
-
  Contact
-
-
  Sitemap
-
-
-
-
-
-
  
-
-
-
-
  Last Updated on 12 February 2009
-
-
  
-
-
 Sumatra EQ
-
-
-
-
 Sikkim Earthquake of 14 February 2006 
-
-
  
-
-
 The moderate 5.7 magnitude earthquake occurred in the state of Sikkim (India) on February 14, 2006 at 06:25:23 a.m. local time. The shaking was felt in the North-Eastern states of India and in the neighbouring countries. However, shaking-related damage was reported only from the East and South districts of Sikkim. Most of the structural damage was observed in and around the state capital Gangtok with the maximum intensity of shaking as VII on MSK scale. The earthquake caused damage to heritage structures as well as modern buildings. Both masonry and reinforced concrete buildings showed poor performance. The damage seen in and around Gangtok was clearly disproportionate to the size of the earthquake. This very clearly establishes the high level of seismic vulnerability of the region. Such disproportionate damage is a direct consequence of poor design and construction practices in an inadequate professional environment that is challenged by the lack of trained human resources in the state.  
-
-
  Download Full Report 
-
-
  
-
-
 Article on the Earthquake 
-
-
  Performance of structures during the Sikkim earthquake of 14 February 2006, Current Science, August 2006  
-
-
-
-
-
-
     Copyright © 2005 National Information Centre of Earthquake Engineering - Kanpur - INDIA
 Home   
     Contact   
     About Us   
     Hosted Free by Phoenix Webtech   
     
-
-

@@ -1,115 +1,35 @@
 China News, Headlines, Top Stories, Current Events - Wall Street Journal - Wsj.com
-
-
-
-
-
-
-
 WSJ
-
 WSJ
 Facebook
 Twitter
-
-
-
-
-
 WSJ Live
-
 WSJ Live
-
-
-
 MarketWatch
-
 MarketWatch
-
-
-
 Barron's
-
 Barron's
-
-
-
 Portfolio
-
 Portfolio
-
-
-
 Factiva
-
 Factiva
-
-
-
 Risk
-
 Risk
-
-
-
 More
-
-
 DJ X - Invitation Only
-
-
 All Things Digital
-
-
 WSJ Secure
-
-
 BigCharts
-
-
 Financial News
-
-
 Professor Journal
-
-
 SmartMoney
-
-
 Student Journal
-
-
 Virtual Stock Exchange
-
-
 WSJ Classifieds
-
-
 WSJ Classroom
-
-
 WSJ Radio
-
-
 WSJ Wine
-
-
-
-
-
-
-
-
 SEARCH
-
-
-
-
-
-
-
-
-
 	
  
 	
@@ -159,35 +79,12 @@ SEARCH
 			
 			
 		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Subscribe
 Log In
-
-
-
-
-
 U.S. Edition 
-
-
 U.S.
 Asia
 Europe
-
-
 América Latina
 Brasil
 中文-简体(China)
@@ -197,545 +94,115 @@ Indonesia
 日本(Japan)
 한국(Korea)
 Türkiye
-
-
-
-
-
-
-
-
-
-
-
-
-
  
-
-
-
-
-
-
-
-
-
-
-
 Home
-
-
-
-
-
-
-
-
-
-
-
-
-World
-
-
-» More
-
-
-
-
-
-
-
-
 World
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-U.S.
-
-
+World
 » More
-
-
-
-
-
-
-
-
+Loading…
 U.S.
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-New York
-
-
+U.S.
 » More
-
-
-
-
-
-
-
-
+Loading…
 New York
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-Business
-
-
+New York
 » More
-
-
-
-
-
-
-
-
+Loading…
 Business
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-Tech
-
-
+Business
 » More
-
-
-
-
-
-
-
-
+Loading…
 Tech
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-Markets
-
-
+Tech
 » More
-
-
-
-
-
-
-
-
+Loading…
 Markets
 » More
-
-
-
-
-
-
+Markets
+» More
 Loading…
-
-
-
-
-
-
-
-
-
-
-
-
 Market Data
-
-
-
-
-
-
-
-
-
-
-
-
-Opinion
-
-
-» More
-
-
-
-
-
-
-
-
 Opinion
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-Life & Culture
-
-
+Opinion
 » More
-
-
-
-
-
-
-
-
+Loading…
 Life & Culture
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-Real Estate
-
-
+Life & Culture
 » More
-
-
-
-
-
-
-
-
+Loading…
 Real Estate
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-Management
-
-
+Real Estate
 » More
-
-
-
-
-
-
-
-
+Loading…
 Management
 » More
-
-
-
-
-
-
-Loading…
-
-
-
-
-
-
-
-
-
-
-
-
-C-Suite
-
-
+Management
 » More
-
-
-
-
-
-
-
-
+Loading…
 C-Suite
 » More
-
-
-
-
-
-
+C-Suite
+» More
 Loading…
-
-
-
-
-
-
-
-
-
-
-
-
 Asia
-
-
 China
-
-
 Hong Kong
-
-
 Japan
-
-
 India
-
-
 SE Asia
-
-
 Europe
-
-
 U.K.
-
-
 Russia
-
-
 Middle East
-
-
 Africa
-
-
 Canada
-
-
 Latin America
-
-
 World Markets
-
-
 China In Transition
-
-
-
-
-
-
-
-
-
 Overview
-
-
 U.S.
-
-
 Europe
-
-
 Asia
-
-
 FX
-
-
 Rates
-
-
 Futures
-
-
-
-
-
-
-
  LAST 
  CHG 
  %CHG 
-
-
 DJIA
 14700.80
 +24.50
 0.17%
-
-
 Nasdaq
 3289.99
 +20.33
 0.62%
-
-
 FTSE 100
 6442.59
 +10.83
 0.17%
-
-
 Nikkei 225
 13867.23
 -58.85
 0.42%
-
-
 Crude Oil
 93.35
 -0.29
 0.31%
-
-
 Gold
 1476.60
 +14.60
 1.00%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -744,69 +211,38 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T16:39:10
 Help
-
-
-
-
-
-
  LAST 
  CHG 
  %CHG 
-
-
 DJIA
 14700.80
 +24.50
 0.17%
-
-
 Nasdaq
 3289.99
 +20.33
 0.62%
-
-
 S&P 500
 1585.16
 +6.37
 0.40%
-
-
 DJ Total Mkt
 16520.19
 +73.87
 0.45%
-
-
 Russell 2000
 940.28
 +6.17
 0.66%
-
-
 Global Dow
 2155.45
 +2.98
 0.14%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -815,70 +251,39 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T16:39:10
 Help
-
 More U.S. Coverage »
-
-
-
-
-
  LAST 
  CHG 
  %CHG 
-
-
 FTSE 100
 6442.59
 +10.83
 0.17%
-
-
 DAX
 7832.86
 +73.83
 0.95%
-
-
 CAC 40
 3840.47
 -2.47
 0.06%
-
-
 FTSE MIB
 16649.75
 +86.32
 0.52%
-
-
 IBEX 35
 8365.10
 -24.20
 0.29%
-
-
 Stoxx 600
 296.88
 +2.25
 0.76%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -887,70 +292,39 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T16:35:30
 Help
-
 More europe Coverage »
-
-
-
-
-
  LAST 
  CHG 
  %CHG 
-
-
 Asia Dow
 3037.12
 +8.50
 0.28%
-
-
 Nikkei 225
 13867.23
 -58.85
 0.42%
-
-
 Hang Seng
 22610.04
 +208.80
 0.93%
-
-
 Shanghai
 2195.96
 -3.35
 0.15%
-
-
 Sensex
 19406.85
 +227.49
 1.19%
-
-
 Singapore
 3344.39
 +6.68
 0.20%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -959,70 +333,39 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T23:09:53
 Help
-
 More asia Coverage »
-
-
-
-
-
  LAST 
  CHG 
  %CHG 
-
-
 Euro
 1.3038
 +0.0026
 0.20%
-
-
 Yen
 98.90
 -0.35
 0.36%
-
-
 Pound
 1.5464
 +0.0024
 0.16%
-
-
 Australia $
 1.0322
 +0.0030
 0.29%
-
-
 Swiss Franc
 0.9428
 -0.0021
 0.22%
-
-
 WSJ $ Index
 73.78
 +0.30
 0.41%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -1031,73 +374,40 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T23:10:03.491
 Help
-
-
 About the WSJ Dollar Index »
 More currency Coverage »
-
-
-
-
-
-
  YIELD 
  CHG 
  %CHG 
-
-
 U.S. 10yr
 1.706
 -0.004
 0.21%
-
-
 German 10yr
 1.241
 0
 0%
-
-
 Italy 10yr
 4.041
 0
 0%
-
-
 Spain 10yr
 4.332
 0
 0%
-
-
 U.K. 10yr
 1.731
 0
 0%
-
-
 Japan 10yr
 0.591
 +0.005
 0.78%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -1106,73 +416,40 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T23:10:03.791
 Help
-
-
 More rates Coverage »
 Credit Default Swaps »
-
-
-
-
-
-
  LAST 
  CHG 
  %CHG 
-
-
 Crude Oil
 93.35
 -0.29
 0.31%
-
-
 Gold
 1476.60
 +14.60
 1.00%
-
-
 Corn
 623.75
 -0.75
 0.12%
-
-
 DJIA Futures
 14639
 -14
 0.10%
-
-
 S&P Futures
 1578.75
 -3.00
 0.19%
-
-
 Silver
 24.36
 +0.17
 0.72%
-
-
-
-
-
 Settings
 Range: 1 Day
-
 1 Day
 5 Days
 1 Month
@@ -1181,217 +458,74 @@ Range: 1 Day
 YTD
 1 Year
 2 Years
-
-
-
-
 Chart available at Market Data Center
-
-
-
 2013-04-25T23:00:01
 Help
-
 More futures Coverage »
-
-
-
-
-
-
-
-
-
-
-
-
  
 Luxury's Dirty Little China Secret
  
-
-
  
 Taiwan Moves Up Poultry-Slaughter Ban
  
-
-
  
 Bay VoicesCecilia Chiang, the Queen of Chinese Cuisine
  
-
 Economy
-
-
 The China Econtracker
 To save hours that would be spent navigating the maze of government websites, we present China Econtracker, an interactive tool for tracking the country's economic indicators.
-
  Latest News
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 What's News
 Here are the top business stories from today's Wall Street Journal Asia.
-
-
-
-
 Subscriber Content Read Preview
-
-
 Apple's Smartphone Market Share Falls
 Apple Inc.'s iPhone saw its share of the global smartphone market decline to 18% in the first quarter from 23% a year earlier, with its shipment growing at the lowest rate ever in its history. 
-
-
-
-
 Subscriber Content Read Preview
-
-
 Starbucks' Sales Rise in Americas, Asia
 Starbucks saw its second-quarter earnings climb 26% on sales growth in the Americas and Asia. The coffee giant also raised its full-year guidance.
-
-
-
-
 Subscriber Content Read Preview
-
-
 Tevi Troy: The Changing Bird Flu Threat
 Why China and the U.S. may be better equipped today for a pandemic than a decade ago.
-
-
-
-
 Subscriber Content Read Preview
-
-
 Melanie Kirkpatrick: North Korea's Kidnappers and the Fate of David Sneddon
 Pyongyang has admitted abducting Japanese citizens. Was a missing Brigham Young student also seized?
-
 Space-Age Comfort in Beijing
 With its Swiss cheese–like white façade, the Conrad Beijing is hard to miss, but inside its flashy exterior are rooms that emphasize function and low-key comfort. 
-
-
-
-
 Subscriber Content Read Preview
-
-
 Gold Drops as Demand Slumps
 Global gold demand fell 11% during the third quarter compared with a year ago, the World Gold Council said.
-
-
-
-
 Subscriber Content Read Preview
-
-
 Baidu's Revenue, Expenses Jump
 Baidu said its first-quarter earnings increased 8.5% on sharply higher  revenue, although the Chinese Internet-search company's expenses also increased significantly. 
-
-
-
-
 Subscriber Content Read Preview
-
-
 Photos of the Day
 In Thursday's pictures, Silvio Berlusconi rests at the dedication of George W. Bush's presidential center, a man dresses up like a monkey-god in New Delhi, baguettes are judged in France, and more.
-
-
-
-
 Subscriber Content Read Preview
-
-
 China Growth Cools For Gucci Parent PPR
 PPR, the parent company of Gucci, on Thursday became the latest luxury-goods conglomerate to signal a drastic slowdown in China, the industry's most important growth market.
-
 In Hong Kong, a Place to Breathe
 A growing number of residents are escaping the buzz of Hong Kong Island for Sai Kung, a waterfront district across the harbor that boasts beaches, hiking trails and the rarest local amenity: homes with lawns.
-
-
-
-
 Subscriber Content Read Preview
-
-
 Airbus Clinches Jet Deal With China
 Airbus sealed an order from China for 60 jets, including 18 planes that had fallen hostage to a row between China and the EU over emissions trading.
-
-
-
-
 Subscriber Content Read Preview
-
-
 Sinopec Profit Rises 25%
-
-
 Abe Stokes Passions Over Wartime History
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 SAIC Net Climbs 11%
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 Insurer China Life Posts a Profit Jump
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 Southeast Asian Leaders Turn to Long-Term Goals
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 China Slowdown Hits Watchmakers 
-
-
 Earnings Growth Slows at Bank of China
-
-
 Bank of Communications Surprises on Upside
-
-
 The Columnists
-
-
 Hong Kong Yuan Market Steps Forward
-
-
-
-
 News by Country and Region
-
-
 News from the Wall Street Journal and Dow Jones Newswires
-
-
  Select a Country/Region 
 Afghanistan
 Australia
@@ -1407,469 +541,150 @@ Singapore
 Taiwan
 Thailand
 Vietnam
-
-
-
-
-
-
-
-
-
-
-
-
 Top China Stories from WSJ: Jet Deal Sealed, Luxury's Dirty Secret
 The secret among luxury companies is that they have been persistently overcharging customers in China; Airbus sealed an order from China for 60 jets.
-
-
-
 The Dirty Secret of Pricing Luxury Goods in China
 Makers of luxury goods have found a way to add to their profits: Charge Chinese consumers more than their counterparts in the U.S. and Europe. The WSJ's Wei Gu tells Deborah Kan why luxury cars and fashion brands are more expensive in China.
-
-
 A Shift in Southeast Asia Over China Territorial Tensions
 Southeast Asian leaders meeting in Brunei for an annual summit are toning down their rhetoric on regional differences over China's incursions in the South China Sea that in the past have soured these kinds of meetings.
-
-
 Breeding a Generation of Angry Web Users
 Although popular social networks such as Facebook and Twitter are blocked in China, users find other ways to voice their opinions. Political journalist Michael Anti tells us how China's censors are breeding a frustrated generation of Internet users.
-
-
 Important Clarity on a Controversial Chinese Bank Product
 After months of leaking figures to the local press, the China Banking Regulatory Commission has finally published official numbers on the volume of wealth management products issued by banks.
-
-
 Creating Chinese Couture
-
-
 Top China Stories from WSJ: Bird Flu Spreads, Apple Dilemma
-
-
-
 See All
-
-
 RSS Feed
-
-
-
-
  Opinion
-
-
 Noonan: The Presidential Wheel Turns
-
-
 Strassel: Nearly Sideswiped by Another Green Car
-
-
 James Taranto: The Difference Between 43 and 44? Not So Much
-
-
-
-
-
-
-
-
-
 Markets
-
-
-
-
-
-
-
-
-
 Market Data
 MoneyBeat
 Watchlist
 Portfolio
 Customize
-
-
 Close
 How to Read this Chart
-
 High
 Current price, up from close
 Price at prior day's close
 Current price, down from close
 Low
-
-
-
-
  
  
-
-
-
-
 Business Video
-
-
-
-
 previous
-
-
-
  
-
-
-
 next
-
-
-
-
-
-
  
-
-
 Don't Be Fooled by Friday's GDP Report 
-
 2:23
-
-
-
  
-
-
 When to Invest? Now, When Everyone Is Afraid to
-
 3:26
-
-
-
  
-
-
 CBOE Resumes Trading After Glitch, and More
-
 1:21
-
-
-
 Most Popular
-
 Read
 Emailed
 Video
 Commented
 Searches
-
-
-
 1.Einstein Proved Right on Gravity—Again
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 2.House Immigration Differences Emerge
-
-
 3.Judge Made Call to Advise Suspect
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 4.Soros Takes Stake in J.C. Penney
-
-
 5.Opinion: Noonan: The Presidential Wheel Turns
-
-
-
-
 1.Einstein Proved Right on Gravity—Again
-
-
 2.Opinion: Noonan: The Presidential Wheel Turns
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 3.The Mommy Business Trip
-
-
-
-
-
 Subscriber Content Read Preview
-
-
 4.Some Hospital Jobs Shrivel
-
-
 5.When Payroll Firms Implode
-
-
-
-
 1.How Much Sex Is 'Normal' for Couples?
-
 2.Bikini Bodybuilding: One Woman's Experience
-
 3.Bagram Batman Battles for Safety in Afghanistan
-
 4.Boston Bombing Suspect Gets Star Defender
-
 5.Best Retirement Move Almost Nobody Makes
-
-
-
-
 1.
-
 GE Capital Cuts Off Lending to Gun Shops807 comments
-
-
-
 2.
-
 Opinion: Flying the Government Skies751 comments
-
-
-
 3.
-
 Suspects Roused by Jihadist Thought628 comments
-
-
-
 4.
-
 Opinion: To Serve Woman607 comments
-
-
-
 5.
-
 Opinion: Henninger: Boston and the Un-Bush476 comments
-
-
-
-
-
-
-
 1.
 Facebook
-
-
 2.
 economy
-
-
 3.
 Apple
-
-
 4.
 Mad Men
-
-
 5.
 China
-
-
-
-
-
-
 Articles Feed
 Most Emailed Feed
 Most Popular Video Feed
 Most Commented Feed
 Most Popular Feeds
-
-
-
-
-
-
-
 Latest Tweets
-
-
-
-
-
  
 ChinaRealTime: Top China stories from WSJ: jet deal sealed, luxury's dirty secret http://t.co/eOyzaIJBGg
-
-
-
               1  hr ago
           
-
-
-
-
-
  
 ChinaRealTime: New clarity on a controversial Chinese bank product - http://t.co/Xp0FoeK56u
-
-
-
               1  day ago
           
-
-
-
-
-
  
 ChinaRealTime: The dirty secret of pricing luxury goods in China, from @weigu: http://t.co/GZI5DHyXEz
-
-
-
               15  hrs ago
           
-
-
-
-
-
  
 ChinaRealTime: A shift in Southeast Asia over China territorial tensions: http://t.co/Pj28Uv6FpH
-
-
-
               17  hrs ago
           
-
-
-
-
-
  
 ChinaRealTime: Breeding a generation of angry web users: @mranti in conversation with @debkhk | http://t.co/7QKvxmXhN2 (video)
-
-
-
               20  hrs ago
           
-
-
-
-
-
 Follow WSJ on
-
-
-
-
-
 Follow China News
-
-
 RSS
 Twitter
 Facebook
-
-
-
-
-
-
 Partner Center
 An Advertising Feature
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Asia-Pacific Jobs
 POST A JOB
-
-
  
-
-
-
-
                             Manager / Senior Manager - Advisory - Deals
                             - 
                                 PricewaterhouseCoopers LLP
-
 Disney Sales & Marketing jobs in China
-
-
-
-
-
-
-
-
-
 MORE JOBS
-
-
 Finance Jobs | 
 Technology Jobs
-
-
-
-
-
-
                         EARN MORE. Learn how to be a Financial Advisor »
-
-
-
-
 		Sponsored Sections
-
 Derivatives in Asia Presented by ISDA
 Asset Management Insight sponsored by QFCA
 Health Care Reform Presented by ADP
 Supply Chain Risk Insights Presented by Zurich
-
-
-
 WSJ Web Slice
 CONTENT
 LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.
-
 15
-
-
-
-
-
 Wall Street Journal
 Facebook
 Twitter
@@ -1880,63 +695,36 @@ YouTube
 Podcasts
 RSS Feed
 AppStore
-
-
 Subscribe
 /Login 
-
-
 Back to Top«
-
-
-
-
 Customer Service
-
 Customer Center
 New! Live Help
-
 Contact Us
 WSJ Weekend
 Contact Directory
 Corrections
-
-
-
 Policy
-
 Privacy Policy
 Data Policy
 Copyright Policy
 Subscriber Agreement& Terms of Use
-
-
-
 Ads
-
 Your Ad Choices
 Advertise
 Advertise Locally
 Place a Classified Ad
-
-
-
 Tools & Features
-
 Apps
 Newsletters and Alerts
-
 Graphics & Photos
 Columns
 Topics
 Guides
 Portfolio
 Old Portfolio
-
-
-
 More
-
 Register for Free
 Reprints
 E-books
@@ -1947,36 +735,7 @@ Mobile Site
 Price & Volume
 Keyword & Symbol
 News Archive
-
-
-
-
-
-
-
 Jobs at WSJ
 Copyright ©2013 Dow Jones & Company, Inc. All Rights Reserved.
-
-
-
-
-
-
-
-
-
-
 Schließen
 Subscribe Now
-
-
-
-
-
-
-
-
-
-
-
-

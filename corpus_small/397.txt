@@ -1,44 +1,16 @@
 Magnitude 6.9 - INDIA-NEPAL BORDER REGION 
-
-
-
 USGS Home
 Contact USGS
 Search USGS
-
-
-
 Earthquake Hazards Program
-
 HomeAbout UsContact Us 
-
-
-
-
-
-
-
-
-
-
  
-
-
 EarthquakesHazardsLearnPrepareMonitoringResearch
-
-
-
-
-
 Magnitude 6.9 - INDIA-NEPAL BORDER REGION 
 2011 September 18  12:40:48 UTC
-
 Versión en Español
 DetailsSummaryMapsScientific & TechnicalTsunami  Earthquake Details
-
 This event has been reviewed by a seismologist.
-
-
 Magnitude6.9
 Date-TimeSunday, September 18, 2011 at 12:40:48 UTCSunday, September 18, 2011 at 06:10:48 PM  at epicenter
 Time of Earthquake in other Time Zones
@@ -50,23 +22,16 @@ Location Uncertaintyhorizontal +/- 13.5 km (8.4 miles); depth +/- 3.5 km (2.2 mi
 ParametersNST=344, Nph=348, Dmin=371.8 km, Rmss=1.21 sec, Gp= 22°,M-type="moment" magnitude from initial P wave (tsuboi method) (Mi/Mwp), Version=C
 SourceMagnitude: USGS NEIC (WDCS-D)Location: USGS NEIC (WDCS-D)
 Event IDusc0005wg6
-
-
 Did you feel it? Report shaking and damage at your location.  You can also view a map displaying accumulated data from your report and others.
-
  Earthquake Summary
-
 Earthquake Summary Poster
 Tectonic Summary
 The September 18, 2011 India-Nepal border region earthquake occurred near the boundary between the India and Eurasia plates, in the mountainous region of northeast India near the Nepalese boarder. Initial analyses suggest the earthquake was complex, likely a result of two events occurring close together in time at depths of approximately 20 km beneath the Earth's surface. At the latitude of the September 18 earthquake, the India plate converges with Eurasia at a rate of approximately 46 mm/yr towards the north-northeast. The broad convergence between these two plates has resulted in the uplift of the Himalayas, the world's tallest mountain range. The preliminary focal mechanism of the earthquake suggests strike slip faulting, and thus an intraplate source within the upper Eurasian plate or the underlying India plate, rather than occurring on the thrust interface plate boundary between the two.
-
-
 This region has experienced relatively moderate seismicity in the past, with 18 earthquakes of M 5 or greater over the past 35 years within 100 km of the epicenter of the September 18 event. The largest of these was a M 6.1 earthquake in November of 1980, 75 km to the southeast.
 Earthquake Information for Asia
 Earthquake Information for India
 Earthquake MapsRecent Activity At This LocationLocation MapsDid You Feel It? Tell UsShakeMapPAGER Earthquake ImpactHistorical SeismicitySeismic Hazard MapEQ Density MapGoogle MapGoogle Earth KML(Requires Google Earth)
  Scientific & Technical Information
-
 USGS Centroid Moment Tensor Solution
 Global CMT Project Moment Tensor Solution
 USGS WPhase Moment Tensor Solution
@@ -74,68 +39,30 @@ Historic Moment Tensor Solutions
 Phase Data
 Theoretical P-Wave Travel Times
 Energy and Broadband Solution
-
  Tsunami InformationThe earthquake locations and magnitudes cited in NOAA tsunami statements and bulletins are preliminary and are superseded by USGS locations and magnitudes computed using more extensive data sets.General Tsunami Information
-
 			NOAA West Coast & Alaska Tsunami Warning Center
-
-
-
 			NOAA Pacific Tsunami Warning Center
-
-
-
 			International Tsunami Information Center
 			
-
-
-
 			Tsunami Information Links
-
-
 Preliminary Earthquake Report
 U.S. Geological Survey, National Earthquake Information Center:
 World Data Center for Seismology, Denver
-
-
-
-
 PastPast 8–30 daysSignificant EarthquakesEarthquake Lists & MapsSearch for an EarthquakePresentReal-time - CA/NVReal-time - USAReal-time - WorldwideAbout Earthquake MapsKML / RSS Feeds & DataEarthquake NotificationsSeismogram DisplaysEarthquake AnimationsDid You Feel It?ShakeMapsPAGEREQ Summary PostersFutureEarthquake ScenariosPredictionProbabilitiesLocationInfo by StateInfo by Country/Region
-
-
-
-
  DOI and USGS link policies apply.
-
 Share this page:
-
 Facebook Twitter Google Email 
-
-
-
-
-
-
 Earthquakes
-
 Past - Present - Future
 Info by State
 Info by Country/Region
-
-
-
 Hazards
-
 Faults
 Hazard Maps & Data
 Seismic Design
 Seismic Analysis Tools
 NSHM Project
-
-
-
 Learn
-
 Earthquake Topics
 FAQ
 Earthquake Glossary
@@ -144,18 +71,10 @@ Students & Teachers
 Photos
 Publications
 Google Earth/KML Files
-
-
-
 Prepare
-
 How do I prepare?
 A quake just happened…
-
-
-
 Monitoring
-
 ANSS - United States
 GSN - World
 Volunteer Monitoring
@@ -164,38 +83,17 @@ ASL - Albuquerque
 Network Operations
 NSMP - Strong Motion
 Crustal Deformation
-
-
-
 Research
-
 Projects
 Data
 Software
 External Support
-
-
-
-
-
-
-
 Accessibility
 FOIA
 Privacy
 Policies and Notices
 In partnership with nehrp
-
-
-
-
-
-
 U.S. Department of the Interior | U.S. Geological Survey
 		Page URL: http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0005wg6.php
 		Page Contact Information: EHP Web Team
 		Page Last Modified: September 21, 2011 11:57:21 UTC	
-
-
-
-

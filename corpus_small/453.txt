@@ -1,43 +1,8 @@
 Web18 Registration
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Create an Account. It’s simple and free!
 This account gives you seamless access across all our network sites
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Name*
-
-
-
-
-
-
 Date of Birth*
-
 Day
 1
 2
@@ -70,8 +35,6 @@ Day
 29
 30
 31
-
-
 Month
 Jan
 Feb
@@ -85,8 +48,6 @@ Sep
 Oct
 Nov
 Dec
-
-
 Year
 2010
 2009
@@ -179,128 +140,23 @@ Year
 1922
 1921
 1920
-
-
-
-
-
-
-
-
 Username*
-
-
-
-
-
-
-
  
-
-
-
-
-
-
-
-
-
 Password*
-
-
-
-
-
-
-
 6 to 10 characters
-
-
 Confirm Password*
-
-
-
-
-
-
 Email*
-
-
-
-
-
-
-
 This address will be used to authenticate your account 
 									if you ever encounter problems or forget your password.
-
-
-
 Mobile No.
-
-
-
-
-
-
-
 Please enter mobile number with country code 
 									example- 919999999999
-
-
-
- 
-
-
-
-
-
  
  
-
-
+ 
  
 *Mandatory
-
-
-
-
-
-
 Here is what you get...
-
-
 Sign up to comment on articles, photogalleries and videos, receive newsletters and breaking news alerts, and talk to CNN-IBN anchors and reporters.
-
-
-
 Already a Member? Sign in here
-
-
-
-
-
-
-
-
 With this account you can login to all these sites
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
