@@ -1,0 +1,61 @@
+function addEvent(objObject, strEventName, fnHandler) {
+       if (objObject.addEventListener)
+       		objObject.addEventListener(strEventName, fnHandler, false);
+       else if (objObject.attachEvent)
+       		objObject.attachEvent("on" + strEventName, fnHandler);
+}
+
+var divId;
+var targetDiv;
+var iframeId;
+var iframeWidth;
+var iframeHeight;
+var iFrameHTML;
+
+function createIframe () {
+	var iframe;
+	if (document.createElement && (iframe = document.createElement('iframe'))) {
+		iframe.name = iframe.id = iframeId;
+		iframe.frameBorder = '0';
+		iframe.width = iframeWidth;
+		iframe.height = iframeHeight;
+		iframe.scrolling = 'no';		
+		iframe.src = '/weather/wow/rebuildmodule/';
+		var divElement = document.getElementById(divId);
+		while(divElement.childNodes.length >= 1) {
+			divElement.removeChild(divElement.firstChild);
+		}		
+		divElement.appendChild(iframe);
+	}
+ 	return true;
+}
+
+
+// Note - this function is ONLY run by IE browser.
+function initIE() {
+       var loadingDiv = document.createElement('div');
+       loadingDiv.innerHTML = 'Loading...';
+       targetDiv = document.getElementById(divId);
+       targetDiv.innerHTML = '';
+       targetDiv.appendChild(loadingDiv);
+
+	   // now start the time/out iterations 
+       wxDivLoadPulse();       
+}
+
+
+// timeout logic variables
+var wx_timeoutID = 0;
+var wx_currentTimeout = 10, wx_wait = 0; wx_maxWait = 6000;
+
+// this logic iteratively check's for the WOW div availability until timeout or cancelled
+// the goal here is to wach the page load, and render the WOWs module as soon as the
+// WOWs div appears on the page.  The change is applied part of BZ 7171, replacing 
+// the prior logic of waiting for entire page to be reloaded. And the users were
+// clearly seeing the "Loading..." message because of latency caused by either
+// WOWs users web site page, or because of of the end users low bandwidth. 
+//
+// Note - this function is ONLY run by IE browser.
+
+function wxDivLoadPulse() {
+	if(!updateWxWOWDIV() && (wx_wait 
