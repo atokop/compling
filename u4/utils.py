@@ -19,9 +19,13 @@ def filter_alpha(tagged):
     return out
 
 # Cleans out all words with non-alphanumeric characters.
-def filter_alpha(tagged):
+def filter_alnum(tagged):
     out = [word for word in tagged if word.isalnum()]
     return out
+
+# Removes stopwords, and all non-alpha words
+def clean(words):
+    return remove_stopwords(filter_alpha(words))
 
 # Stores an object in a pickle file.
 def store(obj, dumpfile="store.pkl"):
