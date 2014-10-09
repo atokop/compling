@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import nltk
 from cPickle import dump, load
+from unidecode import unidecode
 stopset = set(nltk.corpus.stopwords.words('english'))
 f = open("./stopwords.txt", "r")
 for line in f.readlines():
@@ -26,6 +27,10 @@ def filter_alnum(tagged):
 # Removes stopwords, and all non-alpha words
 def clean(words):
     return remove_stopwords(filter_alpha(words))
+
+# Removes stopwords, and all non-alpha words
+def ascii_clean(words):
+    return [unidecode(w) for w in remove_stopwords(filter_alpha(words))]
 
 # Stores an object in a pickle file.
 def store(obj, dumpfile="store.pkl"):
