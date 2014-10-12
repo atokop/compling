@@ -3,7 +3,6 @@ from __future__ import division
 from unidecode import unidecode
 import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
-import textutils
 from nltk.corpus import brown, reuters, state_union, words
 from small_analysis import yoursmall_words, yoursmall_words_lem, yoursmall_sents
 import utils

@@ -10,7 +10,7 @@ import matplotlib
 from nltk.corpus import PlaintextCorpusReader
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import brown, reuters, state_union, words
-import textutils
+import utils
 
 # Put your corpus directory path below instead, e.g.” D:\Test\ClassEvents” 
 corpus_root = '/Users/kwamina/school_dev/senior/comp_linguistics/corpus_small/'
@@ -22,7 +22,7 @@ classevent_wordlists = PlaintextCorpusReader(classevent_corpus_root, '.*')
 lemmer = WordNetLemmatizer()
 
 def clean_words(words):
-    words = [textutils.filter_non_alpha_chars(w).lower() for w in words if w.isalnum()]
+    words = [w.lower() for w in words if w.isalnum()]
     return words
 
 def clean_sents(sents):
