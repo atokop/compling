@@ -1,0 +1,399 @@
+Invensure Blog | The Smart Way To Insure!
+
+
+
+
+
+
+Invensure Blog
+
+
+The Smart Way To Insure!
+
+
+
+Skip to content
+Home
+
+
+
+
+
+
+
+← Older posts
+
+
+
+Health Insurance: What do I need as an individual?
+
+Posted on August 29, 2011 by Invensure 
+
+INDIVIDUAL HEALTH INSURANCE: KNOWING WHAT YOU’RE GETTING AND FIGURING OUT WHAT YOU NEED
+Although most Americans with Health insurance are covered under an employer’s plan, there are still many employers that don’t have Health insurance offerings. Workers of companies not offering insurance are left to find and purchase their own private individual health insurance directly from an insurer.
+There are actually several advantages to purchasing private individual health insurance:
+    * Unlike those covered under an employer’s plan, you won’t just have a limited number of plans that were pre-selected by someone else to choose from. You, instead of your employer, get to determine what plan features are desirable and pick the plan that you see fit. By having a variety of plans available to you, such as those that don’t cover services you don’t want and that have higher deductibles, you can take advantage of lower premiums.
+    * Since private health plans are under your control, not your employer’s control, you also won’t have to worry about losing your coverage if you ever want to change jobs. As long as you pay your premiums when they’re due, the coverage is yours to keep and the insurer can’t drop you.
+However, there are also several disadvantages to private health plan coverage, for example:
+    * Even if paying the same premium rates, individual plans usually provide less coverage than employer plans because individual policies have a larger percentage of the premium dollars going toward paying operational costs.
+    * The premiums for private health insurance plans increase as you age in most states. Since renewal rates tend to be higher than new policy rates, you can avoid the rate hikes for awhile by changing plans as rates become higher. However, this isn’t a long-term solution. Eventually, your age will make it more difficult to find an insurer and your individual policy will become more expensive.
+    * Group plans are typically required to insure all employees and their family members. On the other hand, if an applicant of an individual plan doesn’t have an ideal health status, then the insurer can reject the applicant.
+You will also want to keep a few questions in mind to ask your agent as you compare plans:
+    * What are the plan’s monthly premiums, coinsurance, and deductibles?
+    * What benefits does the plan offer?
+    * What pre-existing conditions affect my coverage?
+    * Is the doctor or hospital I want to use covered under the plan?
+    * If I use out-of-network providers, will there be additional fees or charges?
+    * How does the referral system operate?
+    * How is care handled should I need medical services when I’m away from home?
+    * Does the plan have a maximum amount it will pay over my lifetime or per year?
+In closing, purchasing private market insurance isn’t as complicated as it might seem, but getting the right policy will take a little effort on your part. Remember to approach it just as you would any other major purchase – research all your options, do price and benefit comparisons, and seek expert advice and assistance.
+
+
+
+
+Posted in Health Insurance 
+|
+Leave a comment
+
+
+
+No Reinstatement Under CFRA for Employee Unable to Return to Work Within 12 Weeks
+
+Posted on August 26, 2011 by Invensure 
+
+by Robert Blumberg 
+August 2011
+“After 19 weeks of medical leave, long-time employee Katrina L. Rogers returned to her job with the County of Los Angeles, only to learn that she was being transferred to another position in another department.” Rogers v. County of Los Angeles, No. BC382187 (Aug. 16, 2011). Based upon these facts a jury in Los Angeles Superior Court awarded Rogers over $350,000, finding that her employer had violated her rights under the California Family Rights Act (CFRA). On appeal, California’s Second District Court of Appeal entered a surprising decision, rejecting the jury’s verdict and finding that the County had not violated Rogers’ rights under the CFRA.
+Background
+
+The plaintiff worked for the County of Los Angeles for 36 years, most recently as the personnel officer in the executive office. In April 2006, Rogers took a medical leave, allegedly due to work-related stress. The County provided Rogers with appropriate paperwork explaining her rights under the CFRA and the federal Family and Medical Leave Act (FMLA), including her right to up to 12 weeks of job-protected leave. Based upon her doctor’s certification that she was unable to work, the plaintiff remained on leave for 19 weeks.
+Shortly after the plaintiff began her leave, the County appointed a new executive officer who supervised Rogers’ department. This new executive officer reorganized the executive office shortly after her arrival. She eliminated some positions and added other positions. She also made the decision to replace the plaintiff with a new personnel officer. The executive officer testified that the decision to replace the plaintiff was not because of her performance, but was because she felt that a new person was needed.
+After 19 weeks of leave, the plaintiff returned to work, expecting to resume her position in the County’s executive office. Instead, on her return, she was told that she had been replaced. The plaintiff was offered a transfer to the internal services department. She was assured receipt of the same compensation and benefits in the new position, but Rogers rejected the transfer because she felt it was a demotion. Rogers called in sick for the remainder of the week and then submitted her notice of retirement. She never worked in the new position.
+After the trial court dismissed other claims, the matter proceeded to trial on a single claim for violation of Rogers’ CFRA rights. The jury found that the County interfered with Rogers’ rights under the CFRA by transferring her to a noncomparable position. The jury also found that the decision to transfer her was in retaliation for exercising her CFRA rights. The jury awarded Rogers $356,000, including: $100,000 for past lost earnings; $206,000 for future lost earnings; and $50,000 for past emotional distress damages. The jury did not award future emotional distress damages.
+The Appellate Court Overturns the Jury’s Verdict
+Where Plaintiff Did Not Seek to Return to Work Within 12 Weeks, the County Had No Duty to Reinstate Her Under the CFRA
+In overturning the jury’s verdict, the appellate court examined two distinct issues: interference with CFRA rights and retaliation for exercising CFRA rights. First, the court found that, under the CFRA, reinstatement is only guaranteed when an employee’s leave does not exceed the statutory maximum – 12 weeks. The Second District found that, because the plaintiff was not capable of returning to work within the 12-week period protected by the CFRA, the County did not violate her right to reinstatement. In doing so, the appellate court concluded that “the CFRA’s reinstatement right only applies when an employee returns to work on or before the expiration of the 12-week protected leave period.” Further, the court found that this was true even though the decision to transfer the plaintiff was made prior to the expiration of the 12-week period. The Second District explicitly noted that the policies behind the CFRA and FMLA were intended to balance the rights of employees with the needs of the employers, and were not meant to be a “trap for unwary employers” that provide employees with the mandated leave.
+The Plaintiff Presented No Evidence to Rebut the County’s Legitimate Business Reasons for the Transfer
+In the second part of the decision, the Second District found that the plaintiff presented insufficient evidence to establish a retaliation claim. The appellate court accepted the jury’s determination that the new position offered to the plaintiff was not comparable to her original position, and could, therefore, constitute an adverse employment action. The court found, however, that, even after resolving all conflicting evidence in the plaintiff’s favor, she still lacked sufficient evidence to prove that the executive officer’s decision to transfer her was motivated by her medical leave. Because the County’s legitimate business reason was undisputed, the Second District found that the plaintiff could not establish the “‘requisite causal connection between her protected actions in taking a CFRA medical leave’ and the decision to transfer her to another position.”
+Two Areas of Concern Remain
+Even Where the Appellate Court Found No Evidence of Retaliation, A Jury Still Awarded Plaintiff $356,000
+While the County ultimately prevailed, the decision highlights the inherent risks of a jury trial. Perhaps because it was not needed for the court’s decision, the Second District questioned, yet left undisturbed, the jury’s finding that the new position was not comparable to the old position, even though the duties were similar and the compensation was the same. While the appellate court found there was no evidence of retaliation, the jury found that there was and awarded the plaintiff $356,000. Further, the court might not have disturbed a jury verdict if there had been any evidence of mixed motive, or conflicting evidence of an improper motive, no matter how weak.
+The Second District’s Decision Does Not Address Accommodations Under the Americans with Disabilities Act
+The Rogers decision solely concerned a claim under the CFRA. Either the plaintiff did not bring – or the trial court had previously dismissed – a claim under the Americans with Disabilities Act (ADA) or analogous portions of the California Fair Employment and Housing Act (FEHA). Nonetheless, the Rogers decision included a footnote from a federal court decision comparing the FMLA to the ADA. Quoting from Spangler v. Federal Home Loan Bank of Des Moines, 278 F.3d 847, 851 (8th Cir. 2002), the appellate court noted, while “the ADA’s protection is almost perpetual, lasting as long as the employee continues to meet the statutory criteria, the FMLA grants eligible employees 12 weeks of leave to deal with a specified family situation or medical condition.”1
+The quote from Spangler, while having no bearing on the Second District’s decision in Rogers, may later be used by a plaintiff to support a claim that a disabled employee is entitled to job protection for leaves lasting beyond the 12-week period set forth in the CFRA and FMLA as a reasonable accommodation under the ADA and FEHA. The decision gives no real guidance to employers should that argument be made, nor does it offer assistance to an employer trying to determine whether it must keep a position open for an employee on a medical leave of absence that exceeds 12 weeks. Thus, even where an employee exceeds his or her right to leave under the CFRA/FMLA, this may not end the inquiry. Until the courts clarify this obligation, employers should consider whether an employee has a need for additional leave or other accommodations under the ADA and FEHA, and whether such an accommodation is reasonable under the particular circumstances.
+1 Ironically, despite this language, the court in Spangler actually found no violation of the ADA where an employee was unable to perform the essential functions of her job regularly, but found a potential violation of the FMLA for failure to provide a needed leave of absence.
+Summary and Important Points
+1.  The complexity of leave issues is no “news” to any of you who regularly read this Legal Update.  The interaction between FMLA/CFRA leaves, the disability laws (ADA/FEHA), and the workers’ compensation laws continue to be a very perplexing and dangerous place for employers.  
+2.  Recognizing you have an issue and the need to seek advice is step one.  Missing the issues is potentially catastrophic, as the continuing string of huge jury verdicts painfully highlights.  
+3.  As I have stated in the past, the key to a consistent and step by step approach in dealing with these difficult cases is having an effective leave policy in place for the workplace.  Whether the leave is industrial, non-industrial or pregnancy related, employers should have clear leave policies in place that notify employees of their leave rights and comply with state and federal leave law requirements.  Any well drafted leave policy will also generally reference the types of ADA/FEHA issues that can arise should an employee not be able to return to work at the end of the leave due to a disability.  Put in the time to update and review your policies before the leave issue occurs. 
+4.  Remember, if you have 50 or more employees you are covered by the FMLA/CFRA. The FMLA was amended in 2008, with new regulations issued in 2009, your FMLA/CFRA leave policy should have been updated to address the changes made as a result of the 2009 EEOC regulations. 
+5.  I have provided the following general checklist previously, but this provides an important list of issues that all employers should consider in making the decision whether or not to terminate an employee who is unable to return to work following a medical leave of absence for either industrial or non-industrial reasons.  
+To avoid potential liability under the ADA, and to coordinate obligations under the FMLA, COBRA, and applicable benefit plans, it is recommended that employers take the following course of action with regard to any employee unable to work because of a physical or mental health condition:
+· Place employees on leave when their mental or physical condition prevents them from performing the essential functions of their job with or without reasonable accommodation. It is recommended that employers issue an FMLA notice of eligibility and rights and responsibilities to anyone who is away from work for three or more days because of a mental or physical condition. Even if the employee is not entitled to FMLA leave, it is important to notify the employee of rights that they may have while on leave.
+· Prior to the expiration of an employee’s FMLA leave (or other type of guaranteed leave), or at the time the employee is seeking leave, if the employee is not eligible for FMLA or other guaranteed leave, the employer should engage in the interactive process to determine if the employee needs reasonable accommodation. This interactive process may include consideration of possible accommodations that could return the employee to work, or if the employee is not able to return to work with or without reasonable accommodation, consideration of extended leave. The employer may utilize an application for extended leave which includes supporting medical documentation for extended leave. Employers should also consider sending a cover letter with the application for extended leave explaining the purpose of extended leave and consequences of failure to return a completed application. 
+· If the employee returns a completed application and medical information supports the need for leave, the company should place the employee on unpaid leave, although the employee may be eligible for STD, LTD, workers’ compensation or other benefits. Furthermore, the company should require employees to reapply for extended leave with supporting medical documentation every three, six, twelve months or other period, depending on what is most administratively feasible for the company. The company should not terminate the employee merely because the employee’s leave extends beyond the FMLA period or at any set intervals unless the employee fails to apply for extended leave. In that situation, the termination should be coded as job abandonment.
+· The employer should make the decision regarding reasonable accommodations and undue hardship. These analyses might include consideration of reasonable accommodation to return the employee to work, holding the former or other jobs open for the employee, replacing the employee while on leave, and extended leave. If the available medical evidence indicates that the employee can currently perform the job with or without reasonable accommodation, the employer should inform the employee that he is expected to return to work. If the employee fails to return to work, the employer should terminate for job abandonment. If extended leave is a possible accommodation, the employer should consider whether the available medical evidence demonstrates that the employee cannot currently perform the essential functions of the job and there is some indication that the employee will be able to perform the essential functions of the job with or without reasonable accommodation in the future. If the available medical evidence indicates that the employee will not be able return to work in the future (for example, a permanent impairment rating prevents the employee from performing the job or an application for LTD indicates the employee is totally and permanently disabled), in the absence of other medical evidence or representations to the contrary received from the employee as part of the interactive process, there is no reason to provide extended leave as a reasonable accommodation. As a result, the company can deny extended leave and terminate employment.
+· However, if the available medical evidence indicates that the employee cannot currently perform the job with or without reasonable accommodation, but may be able to perform by some specified or estimated date in the future, the company should place or continue the employee on extended leave, absent an undue hardship determination. In conducting the undue hardship analysis, the employer should review any operational and/or financial hardship associated with extended leave, including any hardship associated with maintaining the employee’s position and, if warranted, should consider the availability of other open positions. These considerations may be assessed at regular intervals during extended leave, such as at the time of application, to determine if there is a change in the undue hardship analysis.
+· Because extended leave after the expiration of FMLA leave is a qualifying event under COBRA, the company may send the employee COBRA notice requiring the employee to pay for medical benefit coverage while on extended leave. 
+· Finally, this process would not apply to employees on leave because of workplace injuries in states that prohibit termination of employees on workers’ compensation leave, such as California or Oklahoma.
+6.  ALL employee leaves are different and pose risks.  When you are considering whether or not to terminate an employee who cannot return from a leave of absence, you should always consult with competent employment law counsel before you terminate the employee. 
+This update is designed to provide accurate and informative information and should not be considered legal advice. © 2011 Littler Mendelson. All rights reserved.
+
+
+
+Posted in Business Insurance, Employment Practices Law, Workers' Compensation 
+|
+
+Tagged employment law, workers compensation 
+|
+Leave a comment
+
+
+
+Small Earthquake in Orange County, CA today
+
+Posted on August 25, 2011 by Invensure 
+
+All this talk about  earthquakes… 2.2 magnitude earthquake at about noon today. Here’s the story: http://latimesblogs.latimes.com/lanow/2011/08/small-earthquake-reported-in-orange-county.html
+
+
+
+Posted in Earthquake Insurance, Uncategorized 
+|
+
+Tagged california earthquake insurance, earthquake insurance orange county, earthquakes orange county california, orange county earthquake insurance, should i get earthquake insurance? 
+|
+Leave a comment
+
+
+
+Poll: Do you have earthquake insurance? Why or why not?
+
+Posted on August 25, 2011 by Invensure 
+
+Wondering who out there has earthquake insurance. If so why? If not why? 78% of homeowners do not have it and we are curious why or why not. What are your reasons?
+
+
+
+Posted in Earthquake Insurance 
+|
+
+Tagged california earthquake insurance, orange county earthquake insurance, should i get earthquake insurance? 
+|
+2 Comments
+
+
+
+Earthquake Insurance & Protecting Your Home from Earthquakes
+
+Posted on August 24, 2011 by Invensure 
+
+Due to the recent earthquake activity in Virginia, many of our California clients are inquiring about the coverage they have on their property insurance.  
+First, let’s define: ‘property insurance’ is any policy you have on a structure. This can range from your apartment that you are renting or your multi-million dollar house or condo. It also pertains to rental property such as a house or apartment building you rent out to tenants.  
+In all the cases above, Earthquake is NOT COVERED under your standard policy.  Much like Flood, Earthquake needs to be purchased separately.
+Below is a general breakdown on how Earthquake Insurance works (if purchased) in each case:
+1. Renter’s: If you have renter’s insurance for the apartment that you rent and decide to purchase Earthquake, it would only cover your personal property subject to a policy deductible.
+2. Condo: If you have insurance on the condo you own and decide to purchase Earthquake Insurance, it would normally cover personal property as well as the interior structure of your condo. This would also have a deductible associated with it.
+3. Single Family Home: Earthquake Insurance in this case would cover the structure (exterior and interior) as well as your personal property, subject to a deductible that is usually a percentage of the dwelling coverage. For example, if the Earthquake Policy is covering your structure for $500,000 and your deductible is 15%, then your deductible would be $75,000.
+For more information, please contact Invensure at (800) 331-4700.
+Protect Your Home from Earthquakes Video
+
+
+
+
+Posted in Condo Insurance, Earthquake Insurance, Homeowners Insurance, Property Insurance 
+|
+Leave a comment
+
+
+
+Earthquake in Washington DC
+
+Posted on August 23, 2011 by Invensure 
+
+Is your earthquake insurance up to date? Do you even have earthquake insurance? 78% of homeowners do not, even though it is a minimal cost.
+There was an earthquake today in Washington DC that was felt as far away as Ohio. The full story from the Associated Press is here: Quake rocks Washington area, felt on East Coast 
+With the series of smaller earthquakes in Baja last year, some people are getting the feeling that Southern California is Overdue for an earthquake. I saw this interesting story in the OC Register about how the Baja quakes in 2010 raised the risk for OC to have a quake. Read it here: www.ocregister.com.
+So this now raises the question of earthquake insurance. Do you have it? Your home is not covered for earthquakes under your homeowner’s policy. You need a separate policy that is covered by the CEA, or California Earthquake Authority. Surprisingly, only 12% of California Homeowners have earthquake insurance.
+
+
+
+
+Posted in Earthquake Insurance 
+|
+
+Tagged 2011 Washington earthquake, earthquake insurance, homeowners insurance 
+|
+Leave a comment
+
+
+
+5 Things You Should Know About Condo Association Insurance
+
+Posted on August 18, 2011 by Invensure 
+
+A condominium unit owner usually has their own insurance policy that covers for loss of personal belongings, parts of the building that the condominium agreement makes individual owners responsible for insuring, the additional cost of living elsewhere after a fire damages a unit, and legal liability for injuries or damages suffered by others. In turn, the condominium association has its own policy, which might cause some unit owners to wonder why they have to buy separate insurance. Doesn’t the association’s insurance cover the same things? Depending on the property at issue, the answer is maybe yes and maybe no. Insurance companies designed the two types of policies to complement each other in some cases and to overlap in others. Here are five things unit owners should know about their associations’ insurance.
+The association’s policy covers the building. Depending on the wording in the contract between the association and the unit owner, the word “building” may mean several different things. If the contract requires the association to insure them, “building” can include fixtures, improvements and alterations that are part of the building and that are within a unit. For example, if a unit owner installs new track lighting or an attached island in the kitchen, the association’s insurance would cover the cost of repairing or replacing them after a loss. Also if the contract requires, the association’s insurance will cover various appliances such as refrigerators, stoves and dishwashers.
+The association’s policy covers personal property “owned indivisibly by all unit owners.” Furniture in the building’s lobby, hand carts and other moving devices, and exercise equipment in an exercise room available to all residents are examples of the types of property that the association’s policy insures.
+The association’s policy does not cover the unit owner’s personal property. A unit owner must buy their own insurance to cover furniture, electronics, clothing and other belongings. Assume, for example, that the condominium contract requires the association to insure appliances. If fire damages a unit owner’s space, the association’s insurance will cover the refrigerator but not the sofa. The unit owner’s policy will cover the sofa. The association’s policy also does not cover an individual unit owner’s legal liability for injuries or damages suffered by others. The unit owner needs their own insurance to provide for legal defense and to pay any judgments.
+It is possible that both policies may apply to the same item of property. In the above example, both the association’s and unit owner’s policies may cover the refrigerator. In that situation, the association’s policy will apply first; if it does not completely pay for the repair or replacement, the unit owner’s policy will cover the balance. For example, if the cost of replacing the refrigerator is $5,000, and for some reason the association’s policy covers only $4,000, the unit owner’s policy will pay the other $1,000 (the example doesn’t include deductibles that may apply.)
+The association’s insurance company will not try to get its money back from a unit owner. Suppose a unit owner left a candle burning overnight and the unwatched candle caused a fire that damaged part of the building. Many types of insurance policies would allow the insurance company to pay its customer for the damage, then try to recover its payment from the person who caused the damage. However, a condominium association policy specifically states that the company waives its right to recover from a unit owner. It still has the right to seek recovery from a person who is not a unit owner and is responsible for the damage.
+Although comprehensive, the association’s policy is no substitute for a unit owner’s own insurance. Work with our professional insurance agents to ensure that you have the proper coverage.
+
+
+
+Posted in Condo Insurance, Homeowners Insurance, Property Insurance 
+|
+
+Tagged condo insurance, homeowners insuranance 
+|
+Leave a comment
+
+
+
+Home Inventory Software
+
+Posted on August 16, 2011 by Invensure 
+
+Here is some useful information about creating a home inventory.
+A home inventory is a way to catalog all your possessions and their value in the event of a disaster. It is much easier to make a list of your household goods and their value before a disaster takes place.
+Here is a helpful video from the Insurance Institute about home inventory software they recommend.
+
+http://www2.iii.org
+Here is a link to the Free Home Inventory Software:
+http://www.knowyourstuff.org/iii/login.html
+
+
+
+Posted in Condo Insurance, Homeowners Insurance, Property Insurance 
+|
+
+Tagged home inventory, home inventory software, homeowners insurance 
+|
+Leave a comment
+
+
+
+Great Article
+
+Posted on August 12, 2011 by Invensure 
+
+Saw a great article today about how preventive measures can save big down the road. It just goes to show how our approach can save big money on insurance down the road!
+http://www.hrmorning.com/10-piece-of-equipment-couldve-saved-128k-in-comp-benefits/
+
+
+
+Posted in Business Insurance, Workers' Compensation 
+|
+
+Tagged preventive programs, save money on insurance, workers compensation 
+|
+Leave a comment
+
+
+
+Property Insurance – The Truth About Replacement Cost
+
+Posted on August 10, 2011 by Invensure 
+
+One of the issues that frequently arises with clients is the issue of how much would it cost to rebuild the building they own if it were lost in a fire or other catastrophe. Often the Insured will say something like “I talked to a friend who is a General Contractor and he says he could build it for $50 per foot” and they resist insuring the building for any more than that.
+While the $50 per foot number may be accurate for the actual construction cost it is probably not the whole story. The following may shed some light on the folly of relying on such an off the cuff estimate:
+It may not include the cost of removing the debris of the original building and demolishing whatever is left of it. This can be very expensive and time-consuming especially if any environmental issues exist such as lead, asbestos, chemicals, etc.
+Replacement Cost is not the same as market value
+- It may not include an allowance for architectural or engineering fees.
+- It may not include any permits that may be required
+- It probably contemplates just a basic shell and may not include additional costs for tenant improvements, offices, additional wiring, air conditioning, etc.
+- It may not include the General Contractor’s overhead and profit.
+- It does not include financing costs such as interest and fees.
+There may have been a change in building codes that do not allow the building to be rebuilt the way it was. (See future articles for a further discussion of this)
+Another misunderstanding has to do with the issue of market value. There is no relationship between market value and Replacement Cost. Market value can be considerably higher than Replacement Cost if the ground is valuable, or considerably less when the real estate market is soft. Market value should be discussed but primarily in the context of whether it makes more sense to rebuild or move to another facility.
+By the way the insurance will only pay Replacement Cost if the building is actually rebuilt. If your intention is to move rather than rebuild then Replacement Cost is probably not the best option and you should discuss alternatives such as Actual Cash Value with your agent or broker. Insuring for a lesser value reduces the premiums and there is no reason to pay the higher cost if you would not rebuild.
+Another comment that we sometimes hear is that the building is sprinklered and made of concrete so a total loss is impossible and that it makes sense to insure the building only for the amount that might actually be damaged. Nearly all property insurance policies contain coinsurance clauses that penalize policyholders for under-insuring their property and this strategy will likely backfire even in the event of a moderate loss.
+The most accurate way to determine the correct Replacement Cost is to have an appraisal performed every few years and to adjust that value every year based on a construction cost index plus any additions or improvements made. This can be rather expensive and very few clients actually do this. The most common approach is to use the Replacement Cost estimates provided by services such as Marshall & Swift/Boekh. These companies track rebuilding costs based on actual losses and are widely used by insurance companies and brokers as guides. Remember that these are based on averages and your building could be significantly above or below the estimate.
+We subscribe to Marshall & Swift/Boekh and provide free estimates to our clients. If you would like to discuss your situation please feel free to contact me.
+The good news is that building insurance is normally relatively inexpensive. The insurance on a typical California building is usually only about $1.00-2.00 per $1000 of coverage so the cost of increasing the coverage to a more appropriate amount is usually a fairly minimal increase in the cost of the overall insurance program. In fact often the cost can be offset by a slightly higher deductible.
+This discussion has been focused on the Replacement Cost of a building, but many of the same issues could arise when insuring Machinery and Equipment. Don’t forget to include the cost of transportation, taxes, removal, disposal, installation, testing, financing, etc. when estimating the Replacement Cost of these items
+Duncan Prince CPCU, CIC, CRM is the CEO and principal of Invensure Insurance Brokers in Irvine California. He has been a commercial insurance broker for over 30 years, has taught CPCU and other college level insurance courses at Coastline College, Rancho Santiago College, and the Insurance Education Association and has been a featured speaker at insurance industry functions.
+Duncan is a graduate of the University of California, Irvine and lives in Orange County. He is married, has 2 children and 2 grandchildren. Duncan is happy to answer any questions regarding insurance and risk management.
+
+
+
+Posted in Homeowners Insurance, Property Insurance 
+|
+
+Tagged homeonwers insurance, property insurance, replacement cost 
+|
+Leave a comment
+
+
+
+← Older posts
+
+
+
+
+
+
+Categories
+Select Category
+Business Insurance
+Car Insurance
+Condo Insurance
+Earthquake Insurance
+Employment Practices Law
+Fleet Insurance
+Health Care Reform
+Health Insurance
+Health Savings Accounts (HSA)
+Homeowners Insurance
+Insurance for Truckers
+Long Term Care Insurance
+Property Insurance
+Uncategorized
+Workers’ Compensation
+
+
+Meta 
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+
+ 
+September 2011
+
+
+M
+T
+W
+T
+F
+S
+S
+
+
+
+
+« Aug
+ 
+ 
+
+
+
+
+ 1234
+
+
+567891011
+
+
+12131415161718
+
+
+19202122232425
+
+
+2627282930
+ 
+
+
+ 
+
+
+
+ Business Insurance NewsBusiness Insurance In FOCUS—watch this week's video report August 30, 2011Our weekly video, Business Insurance In FOCUS, brings you insights into the biggest risk management, insurance and benefits management stories of the week, as well as interactive information about our in-depth coverage, upcoming events and other... […]Business Insurance In FOCUS: Week of August 29, 2011 August 30, 2011Business Insurance In FOCUS video reports deliver insights and updates of content and current features available from Business Insurance. […]Take a video tour of the new BusinessInsurance.com August 25, 2011Welcome to the redesigned BusinessInsurance.com, the online destination for anybody interested in risk and benefits management, and commercial insurance. […]BI Video Reports: Executive Risk Dodd-Frank concerns August 13, 2011BI talks with industry professionals about what firms can expect from the act's whstle-blower protections. […] Workers’ Compensation NewsCaptive insurance use may rise with firming insurance prices September 4, 2011Anticipating firming insurance prices, experts say more risk managers are considering or adopting alternative risk strategies that include forming a captive insurer. […]Workers comp denied for spouse of sales manager working from home September 2, 2011HARRISBURG, Pa.—The spouse of a sales manager who died several days after being found unresponsive in his home office is not entitled to workers compensation benefits, a Pennsylvania appellate court has ruled. […]SOLUTION ARC: Getting the most out of your TPA and improving outcomes September 1, 2011How can risk managers more effectively manage their TPA relationships to exert greater control over costs and outcomes? Our new […]Employers can't pass workers comp premium expenses to employees: Mass. high court August 31, 2011BOSTON—Employers cannot pass their workers compensation premium expenses on to employees, Massachusetts' Supreme Court ruled Wednesday in a worker misclassification case. […]Texas high court disallows unfair settlement claim against workers comp insurer August 29, 2011AUSTIN, Texas—Injured employees cannot sue workers compensation underwriters for violating a portion of Texas’ Insurance Code that addresses unfair claims settlement practices on the part of insurers, the Texas Supreme Court has ruled. […]State workers comp insurer seeks $50M from staffing firm following fraud verdict August 26, 2011SAN FRANCISCO—The California State Compensation Insurance Fund will seek $50 million from Select Staffing Co. Inc. following a jury finding the employer guilty of fraud, the state insurer said Friday. […]Ohio Bureau of Workers’ Compensation proposes deep premium discounts August 26, 2011COLUMBUS, Ohio—The Ohio Bureau of Workers’ Compensation said it hopes to attract new employers to the state with proposed deep discounts of its workers comp premiums. […]Calif. high court allows greater leeway in evaluating workers comp disability August 25, 2011SAN FRANCISCO—California’s Supreme Court has declined to review a controversial ruling that employers and insurers opposed on grounds that it would diminish the objectivity in rating workers compensation disabilities won in reforms adopted in... […]Calif. high court limits insurer subrogation rights in workers comp cases August 23, 2011A ruling handed down by California’s Supreme Court represents a loss for workers compensation payers’ ability to pursue subrogation claims against certain third parties responsible for an employee’s injuries. […]Court rejects Liberty Mutual's appeal of AIG workers comp case settlement August 22, 2011CHICAGO—A federal appeals court has dealt another blow to Liberty Mutual Group Inc.'s years-old legal battle against American International Group Inc. in a case involving the alleged underreporting of workers compensation premiums. […] 
+
+
+
+
+
+
+					Invensure Blog				
+
+
+Proudly powered by WordPress.
+
+
+
+
+
+
+
+
+
+
+
+Social Slider 
+
+
+
+
+
+
+
+
+
+
+
+

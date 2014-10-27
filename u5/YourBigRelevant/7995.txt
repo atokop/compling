@@ -1,0 +1,624 @@
+Roger Pielke Jr.'s Blog - powered by FeedBurner
+&
+
+
+
+Roger Pielke Jr.'s Blog
+
+syndicated content powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based news readers. Click your choice below:
+
+
+
+
+
+
+
+...with other readers:
+
+(Choose Your Reader)FeedDemonNetNewsWireNewsFireNewsGator Outlook EditionRSSOwlShrookUniversal Subscription Mechanism (USM)
+
+
+ View Feed XML
+
+
+
+
+FeedBurner makes it easy to receive content updates in My Yahoo!, Newsgator, Bloglines, and other news readers.
+
+Learn more about syndication and FeedBurner...
+
+Current Feed Content
+
+
+
+Faith-Based Education and a Return to Shop Class
+
+
+Posted: Sun, 04 Sep 2011 15:21:00 +0000
+Today's NYT has a lengthy front page article that wonders why investments in classroom technology do not lead to better educational outcomes among students:
+To be sure, test scores can go up or down for many reasons. But to many  education experts, something is not adding up — here and across the  country. In a nutshell: schools are spending billions on technology,  even as they cut budgets and lay off teachers, with little proof that  this approach is improving basic learning.        In 2008 Dick Nelson and Dan Sarewitz had a commentary in Nature (here in PDF) that eloquently summarized why it is that we should not expect technology in the classroom to reault in better educational outcomes as they suggest we should in the case of a tehcnology like vaccines.
+
+They introduce three rules for technological fixes as follows:
+For some social problems, scientific research and technological innovation deliver significant progress, while for others, such activities lead to little if any improvement. Remarkable advances have been made in disease reduction through vaccination efforts, for example. But the story for literacy is different. In the United States, nearly a half century of research, application of new technologies and development of new methods and policies has failed to translate into improved reading abilities for the nation’s children1.
+
+Although vaccinating children and teaching them to read may seem so different as\ to make them incommensurable, they are similar in several important respects. Both are carried out by trained professionals in a\ controlled environment using the standard tools of their respective trades. Notably, each has been, and continues to be, the subject of considerable research. But the reasons why progress has been so uneven point to three simple rules for anticipating when more research and development (R&D) could help to yield rapid social progress. In a world of limited resources, the trick is distinguishing problems amenable to technological fixes from those that are not. Our rules provide guidance\ in making this distinction . . .
+
+Both vaccinating and teaching involve skilfully produced artefacts. But unlike vaccines, the textbooks and software used in education do not embody the essence of what needs to be done. That is, they don’t provide the basic ‘go’ of teaching and learning. That depends on the skills of teachers and on the attributes of classrooms and students. Most importantly, the effectiveness of a vaccine is largely independent of who gives or receives it, and of the setting in which it is given. A health-care practitioner (unlike a teacher) doesn’t usually have to figure out what will work on a case-by- case basis — no matter if the child is rich or poor, if he or she speaks English or Mandarin. The vaccine captures the basic go in a technological artefact, distinguishing it from the teaching of reading.The three rules for a technological fix proposed by Sarewitz and Nelson are:
+I. The technology must largely embody the cause–effect relationship connecting problem to solution.
+II. The effects of the technological fix must be assessable using relatively unambiguous or uncontroversial criteria.
+III. Research and development is most likely to contribute decisively  to solving a social problem when it focuses on improving a standardized  technical core that already exists.Obviously technology in the classroom fails with respect to each of the three criteria: (a) technology is not a causal factor in learning in the sense that more technology means more learning, (b) assessment of educational outcome sis itself difficult and contested, much less disentangling various causal factors, and (c) the lack of evidence that technology leads to improved educational outcomes means that there is no such standardized technological core.
+
+The NY Times reports:
+This conundrum calls into question one of the most significant  contemporary educational movements. Advocates for giving schools a major  technological upgrade — which include powerful educators, Silicon  Valley titans and White House appointees — say digital devices let  students learn at their own pace, teach skills needed in a modern  economy and hold the attention of a generation weaned on gadgets.         
+
+Some backers of this idea say standardized tests, the most widely used  measure of student performance, don’t capture the breadth of skills that  computers can help develop. But they also concede that for now there is  no better way to gauge the educational value of expensive technology  investments.        
+
+“The data is pretty weak. It’s very difficult when we’re pressed to come  up with convincing data,” said Tom Vander Ark, the former executive  director for education at the Bill and Melinda Gates Foundation and an  investor in educational technology companies. When it comes to showing  results, he said, “We better put up or shut up.”        
+
+And yet, in virtually the same breath, he said change of a historic  magnitude is inevitably coming to classrooms this decade: “It’s one of  the three or four biggest things happening in the world today.”        
+
+Critics counter that, absent clear proof, schools are being motivated by  a blind faith in technology and an overemphasis on digital skills —  like using PowerPoint and multimedia tools — at the expense of math,  reading and writing fundamentals. They say the technology advocates have  it backward when they press to upgrade first and ask questions later.         In this case, the evidence would seem to show fairly conclusively that the critics are right. Yet, despite the lack of evidence for the efficacy of technology in the classroom, the lack of data has not been an obstacle to developing a long-term love affair with the promise of technology.
+In 1997, a science and technology committee assembled by President  Clinton issued an urgent call about the need to equip schools with  technology.
+
+If such spending was not increased by billions of dollars, American  competitiveness could suffer, according to the committee, whose members  included educators like Charles M. Vest, then president of the  Massachusetts Institute of Technology, and business executives like John  A. Young, the former chief executive of Hewlett-Packard.        
+
+To support its conclusion, the committee’s report cited the successes of  individual schools that embraced computers and saw test scores rise or  dropout rates fall. But while acknowledging that the research on  technology’s impact was inadequate, the committee urged schools to adopt  it anyhow.
+
+The report’s  final sentence read: “The panel does not, however, recommend that the  deployment of technology within America’s schools be deferred pending  the completion of such research.”        A 2010 review by the US Department of Education (here in PDF) found very few systematic studies of the role of technology in K-12 education.  WHat this means is that the advocates of technology in the classroom as a means of improving educational outcomes are basing their advocacy on little more than faith -- faith that technology will make outcomes better, despite a lack of evidence to support that faith.
+
+This sort of faith-based education will have consequences, consider this vignette from the Arizona school at the center of the NYT story:
+“We have Smart Boards in every classroom but not enough money to buy  copy paper, pencils and hand sanitizer,” said Nicole Cates, a  co-president of the Parent Teacher Organization at Kyrene de la Colina,  an elementary school . . .
+
+But she loves the fact that her two children, a fourth-grader and  first-grader, are learning technology, including PowerPoint and  educational games.The love affair with technology reflects a deeper problem in education, hinted at in this week's Economist:
+[D]emand for educated labour is being reconfigured by technology, in  much the same way that the demand for agricultural labour was  reconfigured in the 19th century and that for factory labour in the  20th. Computers can not only perform repetitive mental tasks much faster  than human beings. They can also empower amateurs to do what  professionals once did: why hire a flesh-and-blood accountant to  complete your tax return when Turbotax (a software package) will do the  job at a fraction of the cost? And the variety of jobs that computers  can do is multiplying as programmers teach them to deal with tone and  linguistic ambiguity.
+
+Several economists, including Paul Krugman, have begun to argue that  post-industrial societies will be characterised not by a relentless rise  in demand for the educated but by a great “hollowing out”, as mid-level  jobs are destroyed by smart machines and high-level job growth slows.  David Autor, of the Massachusetts Institute of Technology (MIT), points  out that the main effect of automation in the computer era is not that  it destroys blue-collar jobs but that it destroys any job that can be  reduced to a routine. Alan Blinder, of Princeton University, argues that  the jobs graduates have traditionally performed are if anything more  “offshorable” than low-wage ones. A plumber or lorry-driver’s job cannot  be outsourced to India.So by all means lets have more technology in our education system -- such as technologies of operating machine tools, agricultural equipment, power systems and even food old-fashioned shop class.
+
+
+
+
+Energy Efficiency and Carbon Emissions: Class Assignment
+
+
+Posted: Fri, 02 Sep 2011 20:53:00 +0000
+Here is the assignment I gave my students in my graduate seminar on energy efficiency, motivated by this well done article:
+Here is an optional exercise for you to contemplate over the holiday weekend.  (It might make for a good final exam question, hint, hint).
+
+1. The world consumes about 500 quads of energy today
+2. Projections are that the world will consume 700 quads by 2030
+3. Energy efficiency (EE) can be thought of as the inverse of energy intensity (EI) -- that is GDP/TE rather than TE/GDP -- so an increase in energy efficiency is equivalent to a decrease in energy intensity.
+4. In the Kaya Identity CO2/GDP equals the product of energy intensity and carbon intensity -- CO2/GDP = TE/GDP * CO2/TE
+5. Using your new-found appreciation of Excel and exponential growth equations, please calculate the rate of efficiency gains necessary to offset the projected increase in energy consumption by 2030 (#2 above)
+6. Do the same thing for a 30% reduction in energy consumption from 2011
+7. If the world consumed 355 quads in 1990, how do your projected rates of efficiency gain compare with reductions in EI from 1990-2011?
+8. Convert your numbers in #5 and #6 into (a) carbon dioxide emissions and (b) nuclear power plants equivalent
+9. What does this math say about the potential for efficiency to contribute to emissions reduction goals? If not efficiency, then what? (Hint look at the Kaya Identity)
+10. BTW, the numbers in #1 and #2 leave 1.5 billion people in the dark with no energy access.  So redo the exercise assuming (a) these people gain energy access at 20% of today's per capita US level (i.e., add 100 quads to #2), (b) these people gain energy access at 50% of the 2011 US level (i.e., add 250 quads to #2).
+
+Understanding these numbers is, I think, a prerequisite to having a complete understanding of the role of efficiency gains in the debate over emissions.
+
+To be clear on my views -- from TCF and the magazine article that I shared with you will know that I think that (a) energy efficiency is a very good thing and should be pursued, and (b) it is very limited in its potential to contribute to goals for emissions reductions.  The math exercise above will help you to understand why I have come to this conclusion.
+
+
+
+Retraction, Remote Sensing and Due Process
+
+
+Posted: Fri, 02 Sep 2011 20:42:00 +0000
+[UPDATE 9/4: A reader writes in to remind me of my own related posts here and here and here.] 
+
+[UPDATE 9/4: Pielke Sr. has some thoughtful comments here.] 
+
+[UPDATE 9/3: The circus continues:
+Kevin Trenberth received a personal note of apology from both the editor-in-chief and the publisher of Remote Sensing.Why in the world would Trenberth need to be apologized to? Simply bizarre.]
+
+The blogosphere is all atwitter over the news that the editor of the journal Remote Sensing has resigned to atone for what he believes to be a failure of his oversight of the journal by allowing what he asserts is a fatally flawed paper by climate skeptics to pass peer review and to be published.
+
+The editor explains in an editorial published today that the paper in question "is most likely problematic" with respect to "fundamental methodological errors" and "false claims" and consequently "should therefore not have been published."
+
+I am in no position to evaluate the substantive claims of errors and false claims in the paper, but I do agree with the folks over at RetractionWatch who call the resignation "curious" and ask if the editor feels as he does, "why not simply retract it?" In fact, if a paper has "errors" and "false claims" then a journal editor has an obligation to retract a paper (while of course giving the authors proper due process). In this case, the fact that the editor is unwilling or unable to retract the paper suggests that his resignation is probably the best course of action.
+
+It is important for the new editor and editorial board of remote sensing to initiate retraction proceedings for the paper in question -- in other words the charges levied by the resigning editor need to be properly adjudicated. This is both in fairness to the authors (and the rest of us observers) but also good for science.
+
+If the charges of "error" and "false claims" are upheld the paper should certainly be retracted.  If the charges are not upheld then the authors have every right to have such a judgment announced publicly.
+
+Absent such an adjudication we are left with climate science played out as political theater in the media and on blogs -- with each side claiming the righteousness of their views, while everyone else just sees the peer review process in climate science getting another black eye.
+
+
+
+Oil Shocks and Good Times for the Global Economy
+
+
+Posted: Wed, 31 Aug 2011 17:08:00 +0000
+This post revisits the topic of oil prices and economic growth which was explored here earlier this year.  A new paper by Tobias Rasmussen and Agustin Roitmanfrom the IMF (here in PDF) titled "Oil Shocks in a Global Perspective: Are they Really that Bad?" which explores the largely uncharted territory of the effects of oil price increases on economic growth at the global level.  The figuer at the top shows the countries with GDPs that increase following and oil shock (those bars above the horizontal axis) and those the see a decrease (those at the left side, the US and Japan are highlighted in yellow).
+
+Here are the paper's conclusions:
+Conventional wisdom has it that oil shocks are bad for oil-importing countries. This is grounded in the experience of slumps in many advanced economies during the 1970s. It is also consistent with the large body of research on the impact of higher oil prices on the U.S. economy, although the magnitude and channels of the effect are still being debated. In this paper, we offer a global perspective on the macroeconomic impact of oil prices. In doing so, we are filling a void of research on the effects of oil prices on developing economies.
+
+Our findings indicate that oil prices tend to be surprisingly closely associated with good times for the global economy. Indeed, we find that the United States has been somewhat of an outlier in the way that it has been negatively affected by oil price increases. Across the world, oil price shock episodes have generally not been associated with a contemporaneous decline in output but, rather, with increases in both imports and exports. There is evidence of lagged negative effects on output, particularly for OECD economies, but the magnitude has typically been small.
+
+Controlling for global economic conditions, and thus abstracting from our finding that oil price
+increases generally appear to be demand-driven, makes the impact of higher oil prices stand out more clearly. For a given level of world GDP, we do find that oil prices have a negative effect on oil-importing countries and also that cross-country differences in the magnitude of the impact depend to a large extent on the relative magnitude of oil imports. The effect is still not particularly large, however, with our estimates suggesting that a 25 percent increase in oil prices will cause a loss of real GDP in oil-importing countries of less than half of one percent, spread over 2–3 years. One likely explanation for this relatively modest impact is that part of the greater revenue accruing to oil exporters will be recycled in the form of imports or other international flows, thus contributing to keep up demand in oil-importing economies. We provide a model illustrating this effect and find supporting empirical evidence.
+
+The finding that the negative impact of higher oil prices has generally been quite small does not mean that the effect can be ignored. Some countries have clearly been negatively affected by high oil prices. Moreover, our results do not rule out more adverse effects from a future shock that is driven largely by lower oil supply than the more demand-driven increases in oil prices that have been the norm in the last two decades. In terms of policy lessons, our findings suggest that efforts to reduce dependence on oil could help reduce the exposure to oil price shocks and hence costs associated with macroeconomic volatility.13 At the same time, given a certain level of oil imports, developing economic linkages to oil exporters could also work as a natural shock absorber.If oil shocks are not so bad in aggregate, and associated with "good times for the global economy" then maybe the price of oil should be higher? 
+
+H/T VoxEu
+
+
+
+Comment of the Day: The Wrong Side of History, Science and Policy
+
+
+Posted: Wed, 31 Aug 2011 12:45:00 +0000
+This delightful and revealing comment, apparently offered as a defense of Governor Pete Shumlin's remarks that I discussed yesterday, provides a nice capsule summary of my experiences in the climate debate. 
+Verbose and prolific (and cleverly snarky), most of the views expressed  by this blog author are on the wrong side of history, climate science,  and climate policy.  I understood from multiple posts not so long ago  that Dr. Pielke was going to transition to discourse on the subject of  technology policy on this blog rather than climate policy.  Like a moth  to a flame, the content authored here remains mostly climate-based, a  testament to the seduction of the defense of past positions.  While the  influence of environmental factors does not alone explain the causality  of any individual event, most scientists agree that smoking causes  cancer.  You just can't pin it down to the individual cigarette.   Similarly, this blog's on-going attempt to disprove linkages between GHG  accumulation in the atmosphere and weather events misses the forest for  the trees.  The industries that require free dumping grounds in the  earth's atmosphere for their profit margins must be grateful for Dr.  Pielke's support, much as the tobacco companies tobacco companies loved  their captured academic champions in the 1980's.Nowadays, climate is not as much a scientific or policy issue, as it is a  cultural phenomenon (read your Mike Hulme). For years I have advised my students that there is  little point in doing a policy analysis of the abortion issue, as the  topic was entirely political.  Perhaps one day I'll be saying the same about  climate.
+
+
+
+Not Anti-Science, Just Utterly Uninformed
+
+
+Posted: Tue, 30 Aug 2011 20:46:00 +0000
+Yesterday, Governor Pete Shumlin of Vermont made these remarks:
+I find it extraordinary that so many political leaders won’t actually  talk about the relationship between climate change, fossil fuels, our  continuing irrational exuberance about burning fossil fuels, in light of  these storm patterns that we’ve been experiencing. Listen, since I’ve  been sworn in as governor just seven months ago, I have dealt with—this  is the second major disaster as a result of storms. We had storms this  spring that flooded our downtowns and put us through many of the same  exercises that we’re going through right now. We didn’t used to get  weather patterns like this in Vermont. We didn’t get tropical storms. We  didn’t get flash flooding. It wasn’t—you know, our storm patterns  weren’t like Costa Rica; they were like Vermont.A quick look at  the following paper from 2002 -- "Climate Variability and Socioeconomic Consequences of Vermont's Natural Hazards: A Historical Perspective" (here in PDF) by Lesley-Ann Dupigny-Giroux (Vermont's state climatologist), reveals this information:
+One of the most pervasive hazards that impinges upon and marks the Vermont landscape is flooding. Flooding can be categorized as one of two types: flash flooding, which has a rapid onset of six hours or less from the time of the initiating event; and flooding that has a more gradual onset. Rarely does a year elapse without a flooding event of a significant magnitude being reported in at least one of Vermont’s fourteen counties or perhaps statewide, making this the number-one hazard across the state. Between 1955 and 1999, floods accounted for $16.97 million in damage annually.And also:
+[T]ropical remnants have produced widespread, and at times, catastrophic flooding. For example, the Great Flood of 1927 resulted from record rainfall totals produced by tropical storm remnants on November 3, following October precipitation totals that were already 50 percent above normal. As this decaying storm tracked directly along the spine of the Green Mountains, streams rose so rapidly that there was little time for warning. The Winooski River rose 40–45 feet above its normal level, causing land and settlement along the river to bear the brunt of the estimated $30 million in economic losses. The 1927 flood was greater than the 100-year flood on many rivers and remains today as the flood of record at many gauging stations. Eighty-four of the eighty-five fatalities during this New England-wide flood occurred in Vermont. In addition, thousands of dairy cows and other farm animals drowned. Rich topsoil on farmland either washed away or got buried under infertile silt, such that no crops could be produced for many years. Montpelier remained isolated for days and Waterbury for weeks. The flood disrupted communications across the state and with the outside world, producing a “black triangle.” And here is Table 1 from that paper:
+Table 1:  Tropical Remnants that Made Landfall In/Proximate to Vermont
+
+Name Year Month, Day
+[unnamed] 1927 November 3 
+Great New England 1938 September 21
+#2 1949 August 29–30 
+Hurricane Baker 1952 September 1–2
+Hurricane Carol 1954 August 31
+Tropical Storm Brenda 1960 July 30
+Hurricane Donna 1960 September 12
+Tropical Storm Doria 1971 August 28
+Hurricane Belle 1976 August 9–10
+Hurricane David 1979 September 6–7
+Hurricane Frederic 1979 September 14
+Hurricane Gloria 1985 September 27
+Tropical Storm Chris 1988 August 29
+Hurricane Hugo 1989 September 22–23
+Hurricane Bob 1991 August 19
+Hurricane Opal 1995 October 5–6
+Hurricane Bertha 1996 July 13
+Hurricane Fran 1996 September 8–9Is Governor Shumlin "anti-science" (whatever that might mean)?  No, just poorly informed.
+
+[Thanks AS]
+
+
+
+Certain Ignorance versus Uncertain Uncertainty
+
+
+Posted: Tue, 30 Aug 2011 12:55:00 +0000
+Writing in the quarterly newsletter of Risk Frontiers at Macquarie University in Sydney, Rob van den Honert has an excellent discussion (here in PDF) of the interim report of the Queensland Flood Inquiry. Some background on the topic can be found in this post from last January.
+
+In his summary van den Honert writes of the decision of the dam operators to ignore weather forecasts of pending rainfall:
+[P]redicted reservoir levels depend on expected water inflows into the dam, and that expectation would be based almost entirely upon the rainfall forecast for the catchment area. The Bureau of Meteorology supplies regular 24-hour forecasts of rainfall, and the operators also had access to the Bureau’s weather radar, even though the Bureau cautions that in some circumstances the radar can produce poor estimates, either over- or underestimating actual rainfall. Furthermore, there are far fewer rain gauges in the catchment immediately above the Wivenhoe Dam than in other areas, which means that rainfall in that area was not well recorded.
+
+Thus [the dam operator] Seqwater claim that there were gaps in the information available on which operational decisions had to be made. This is despite Seqwater having the best rain/runoff gauge of all - the dam itself!
+
+A 2001 Seqwater report (Feasibility of Making Pre-releases from SEQWC Reservoirs) concluded that the precipitation forecasts were not sufficiently reliable to form the basis of operational decision making for the dam. Thus this less than perfect available information was given zero weight, and not used at all to help predict reservoir levels. Effectively a “forecast” of zero rainfall was used to inform decisions about water release strategies. In other words, under the circumstances, it seems that the operators chose a scenario guaranteed to be wrong over a forecast that was likely to be uncertain.The flood disaster arguably was exacerbated by poor decision making under flawed decision processes -- decision makers chose the certainty of ignorance over the uncertain nature of uncertainty judgments.  Indeed, as van den Honert describes the rainfall forecasts were inaccurate, but this did not mean that they would have been without value.
+
+Ultimately, the only way that Queensland gets out of this situation will be to build sufficient water retention capacity to simultaneously meet the conflicting objectives of flood mitigation and water storage as a drought buffer. In other words, there is a technological fix here that can dramatically reduce uncertainties -- but such a strategy will cost money. 
+
+
+
+A Nice Analysis of Print Media Coverage of Hurricane Irene
+
+
+Posted: Mon, 29 Aug 2011 22:38:00 +0000
+At the NYT FiveThirtyEight blog Nate Silver uses our normalized loss database (above) and historical loss of life data to assess the relative intensity of (mostly) print media coverage of Hurricane Irene. He finds that the coverage was in line with that of other storms since 1980. I would love to see a similar analysis exclusively focused on television news coverage -- I'd hypothesize different results.
+
+
+
+The Folly of Emissions Trading: New Zealand and Europe
+
+
+Posted: Mon, 29 Aug 2011 20:53:00 +0000
+
+Coming Clean - New Zealand's Emissions Trading Scheme Explained from Lindsay Horner on Vimeo.
+
+The video above was brought to my attention by a student in my graduate seminar this term.  It was done by one of his classmates in grad school in New Zealand (Thanks Adam!).  The video is exceedingly well done.  If you have 15 minutes and are interested in the debacle that is New Zealand's carbon policy, have a look.
+
+News from Europe is similarly discouraging about the prospects for emissions trading, EurActiv reports:
+          	European chemical manufacturers are covertly venting huge quantities of  the powerful 'super greenhouse gas' HFC-23, according to a study by the  Swiss Federal Laboratories for Materials Science and Technology (EMPA).
+
+The report,  published in the journal Geophysical Research Letters, says that  Western Europe's emissions of HFC-23s – an 'F' or fluorinated gas mainly  used as a refrigerant – are between 60-140% higher than officially  reported.
+
+Italy alone was found to be emitting 10-20 times more HFC-23s than it officially reports. The greenhouse gas has a global warming potential which is 14,800 times higher than CO2.
+The UK and the Netherlands also emitted around twice as much as they  claimed, although the figures for France and Germany were "within the  reported values".
+
+"We think it is scandalous," Clare Perry, a campaigner for the  Environmental Investigations Agency, told EurActiv. "These gases have a  very high global warming potential over a short timeline."EMPA, the Swiss agency that conducted the research, explains the significance:
+International agreements such as the Kyoto Protocol to reduce greenhouse  gases (GHG) basically have one snag: it is almost impossible to  independently verify whether participating countries abide by the  agreement. Thus the evaluation of whether or not the countries have  achieved their reduction targets is based on the official reports by the  countries that are signatories to the UNFCCC (‘United Nations Framework  Convention on Climate Change’). If they report reduced emissions  they're sitting pretty; if not, they are pilloried.Some might say that the response should be more regulation, more reporting, more rules -- all negotiated through a comprehensive global framework. Of course, that approach hasn't gotten very far to date.
+
+
+
+Guest Post: Kevin Vranes on the Virginia Earthquake
+
+
+Posted: Mon, 29 Aug 2011 17:01:00 +0000
+NOTE: This is a guest post by Kevin Vranes. 
+
+The  overwrought reaction to the M5.8 Virgina earthquake on Tuesday had a  lot of native Californians snickering (ok, me included, I grew up just  south of San Francisco), but I had to concede that a M5.8 in the east is  not the same thing in the well-prepared west.  The fact is, the eastern  seaboard has plenty of shaking in its geologic history, but little in  its human history.  The frequency of very large quakes on the eastern  seaboard is much longer than 1-2 generations, a period which in  California seems to keep the risk fresh in the mind of locals and in the  policy considerations of local governments.
+
+Building  codes in the U.S. have traditionally been highly localized, and only  recently are beginning to reflect the realization that almost every  state in the U.S. has some seismic risk and therefore codes should  incorporate seismic design principles. Combine slow code change with old  building stock (apparently the building stock is older in D.C. than in  any of the 50 states - link), and you have an area at much higher relative risk to moderate shaking than California.  
+
+The question we should be asking is, what is the true risk?  Since this is an intraplate region  with lots of old, hidden faults that do not move often enough to reveal  shaking risk, this is a difficult question to answer (perhaps nearing  impossible in the foreseeable future).  But what about from an economic  damages perspective?  In the absence of seismic data, can some measure  of risk be calculated?
+
+In 2009 Roger and I published a paper in Natural Hazards Review  to examine this question. The analysis was an attempt to put historical  quakes into current-day context by asking essentially this question:  “If the 1906 San Francisco happened again today, with today’s  population, increase in wealth and increase in damage mitigation, what  would we figure the economic losses would be?”  We did this calculation  for every earthquake in the U.S. since 1900 for which we could find a  credible estimate of economic losses -- 80 in all.  How does this apply  to east coast earthquakes, and therefore how does it reflect on  Tuesday’s quake?  By giving us a measure of the frequency of quakes that  cause economic damages in a certain region.
+
+So what does our analysis tell us about Tuesday’s Virginia earthquake?  Unfortunately, the answer is: just about nothing.  Since 1900 only two quakes have occurred in the east that were given  damage estimates: a 1944 quake in Massena, NY (on the Canadian border,  as far from NYC as you can get in New York state) and a 1954 event in  Wilkes-Barre, Pennsylvania.  The Massena quake was given a $1.5M - $2M  price tag, and the Wilkes-Barre event was given a $1M estimate.   Although damaging events have occurred in the mid-Atlantic and  southeast in human history, none have occurred since 1900, the period  for which we have good economic comparison data.
+
+And  this is the problem.  We know the major quakes can occur in the  intraplate east, but they happen so infrequently and the last big ones  happened so long ago, they tell us very little about what would occur  today with the same shaking conditions.  The two major historic quakes  in the east occurred in 1811 (New Madrid, Missouri) and 1886  (Charleston, SC).  Damages from the Charleston event was given a price  tag of about $5 million in 1886 dollars.  By comparison, the 1906 San  Francisco earthquake was estimated at over $500 million in 1906 dollars.
+
+Were these quakes to occur again today damage would undoubtedly be extreme, but how extreme?  What’s left is to model with HAZUS,  which can give a peek into what kind of damages you might expect from  certain shaking types, and hope that your estimate for shaking risk in  certain intraplate regions is fairly accurate.  Whether it is?  We’ll  find out when the next big eastern seaboard quake happens near a major  city. 
+
+
+
+How Intellectually Interesting is the "Debate" over Global Warming and Hurricanes?
+
+
+Posted: Sun, 28 Aug 2011 16:31:00 +0000
+
+
+
+
+
+Hurricane Irene Damage Analogues?
+
+
+Posted: Fri, 26 Aug 2011 15:10:00 +0000
+[UPDATE August 27: This AP news story calls the ICAT Damage Estimator a "model" that "predicts" $4.7 billion in damage. Wrong (The $4.7B is the average of the  27 analogues as you can see in the image above).  The ICAT site is simply a tool to look at historical analogues and offers no predictions of the future.  The WSJ does a much better job discussing the issue.]
+
+I've had a bunch of calls today, presumably following up from Nate Silver's post at the NYT, on potential damage from Irene.
+
+I have used the ICAT Damage Estimator to look at all storms that fall within the spread of the various model projections (displayed above, as of 9AM MT) and here are the top  6 storms that come up.
+
+STORM NAME LANDFALL DATE DAMAGE
+RANK CURRENT DAMAGE 
+($ 2011) BASE DAMAGE 
+($) LANDFALL 
+STATE CATEGORY WINDS
+(MPH) 
+ 
+  New England Sep 21,1938  8  46,160,000,000  306,000,000  NY  2  100  
+  Carol Aug 31,1954  16  19,240,000,000  460,000,000  NY  2  100  
+  Agnes Jun 22,1972  18  18,880,000,000  2,000,000,000  NY  TS  65  
+  Storm 7 in 1944 Sep 14,1944  31  10,670,000,000  90,000,000  NY  1  85  
+  Storm 7 in 1944 Sep 14,1944  36  8,320,000,000  10,000,000  NC  2  105  
+  Storm 8 in 1933 Aug 23,1933  52  4,880,000,000  27,000,000  NC  1  80 
+
+None of the storms is really a good analogue.  We should expect to see damage along the entire eastern seaboard, as well as a considerable amount of damage from inland flooding (not included in these numbers).
+
+It wouldn't be anything more than a guess to speculate at this point on Irene's total impact, but it does seem safe to say that it's effects will be widespread and the damage total considerable.
+
+
+
+Globalization Schmobalization
+
+
+Posted: Thu, 25 Aug 2011 16:08:00 +0000
+A new analysis from the Federal Reserve Bank of San Francisco comes to the counter-intuitive conclusion that,
+Although globalization is widely recognized these   days, the U.S. economy actually remains relatively closed.Here is part of what they find:
+Obviously, if a pair of sneakers made in China   costs $70 in the  United States, not all of that retail price goes to the Chinese    manufacturer. In fact, the bulk of the retail price pays for  transportation of   the sneakers in the United States, rent for the  store where they are sold,   profits for shareholders of the U.S.  retailer, and the cost of marketing the   sneakers. These costs include  the salaries, wages, and benefits paid to the U.S.   workers and  managers who staff these operations.
+
+Table 1 shows that, of the 11.5% of U.S. consumer   spending  that goes for goods and services produced abroad, 7.3% reflects the    cost of imports. The remaining 4.2% goes for U.S. transportation,  wholesale, and   retail activities. Thus, 36% of the price U.S.  consumers pay for imported goods   actually goes to U.S. companies and  workers.   
+
+This U.S. fraction is much higher for imports from   China.  Whereas goods labeled “Made in China” make up 2.7% of U.S. consumer    spending, only 1.2% actually reflects the cost of the imported goods.  Thus, on   average, of every dollar spent on an item labeled “Made in  China,” 55 cents go   for services produced in the United States. In  other words, the U.S. content of   “Made in China” is about 55%. The  fact that the U.S. content of Chinese goods is   much higher than for  imports as a whole is mainly due to higher retail and   wholesale  margins on consumer electronics and clothing than on most other goods    and services.   This analysis supports the thesis of Pankaj Ghemawat that the world really isn't so "flat."  He summarizes this thesis in his challenging recent book World 3.0 which I read over the summer.  Ghemawat wrote in 2007:
+I still remember a TV interview a year ago in Mumbai where the first  question I was asked—quite seriously or, should I say, flatly?—was why I  still thought the world was round.  Spouting such attitudes—the  flattening of the world, the death of distance and the disappearance of  differences across countries—seems to be considered a hallmark of global  thinking.  But I prefer to think of it as “globaloney.”
+
+Why? Because most types of economic activity that could be carried  out within or across national borders are actually still concentrated  domestically.  Not convinced? Ask yourself, of all the capital being  invested around the world, how much is foreign direct investment by  companies outside of their home countries?  Maybe you’ve heard the  globaloney about “investment knowing no boundaries,” and so on.  The  fact is, the ratio is generally less than 10% and, while it may be  pushed higher by merger waves, has never reached 20%.
+
+As the chart below demonstrates, the actual levels of globalization  associated with telephone calls, long-term migration, university  enrollment, stock investment, and trade as a fraction of gross domestic  product (GDP)—look at the blue bars—resemble the data presented above:  they fall much closer to 10% than the levels close to 100% that one  would expect if one took the gurus of globaloney at their word.
+
+The implications here are the we should be supporting globalization -- the interconnections of markets and societies -- not pulling away.  The fact that reducing reliance on Chinese imports costs American workers more than Chinese workers is one of those inconvenient facts that will find it difficult to make it into American political discourse.
+
+As The Economist notes of Ghemawat's analysis versus that of Thomas Friedman or Benjamin Barber:
+This sober view of globalisation deserves a wide audience. But whether  it will get it is another matter. This is partly because “World 3.0” is a  much less exciting title than “The World is Flat” or “Jihad vs.  McWorld”. And it is partly because people seem to have a natural  tendency to overestimate the distance-destroying quality of technology.The world isn't much globalized and globalization is a good thing.  Try making those arguments these days. 
+
+
+
+A Democracy Working
+
+
+Posted: Thu, 25 Aug 2011 03:52:00 +0000
+The Economist has a great letter this week from Marc Ginzberg of Rye, NY:
+SIR – The process in Congress that led to the deal to raise America’s debt ceiling was not “ludicrously irresponsible” (“Time for a double dip?”,  August 6th). Extreme views were passionately expressed, policy  positions maintained and pressure from party leaders withstood. But  there were no shootings, no riots, no bribery, not even an appeal to the  Supreme Court.
+
+Right-wingers opposed to the deal either believed in the correctness  of their position or they reflected the ideas of their constituents and  want to be re-elected; what is wrong with that? If I had been a  dictator, I would have imposed a very different conclusion on the  debt-ceiling fracas; so, it seems, would you. But although you may  regret the terms that the compromise reached, do not regret the process.Well said! 
+
+
+
+Wednesday Climate Linkage
+
+
+Posted: Wed, 24 Aug 2011 15:25:00 +0000
+Is Yogi Berra a climate scientist? "Until it stops happening, we should expect it to continue."
+Japan's reduced reliance on nuclear power has predictable consequences for the use of fossil fuels and carbon dioxide emissions 
+A leading economist blows a seam on Obama Administration energy policies
+Revkin does a hurricane round-up -- "remarkably stationary" landfall statistics (no trends), even so Scientific American brings up the Category 6 nonsense
+The EU floats what will prove to be a lead balloon in advance of Durban
+Tornadoes and hail storms take weekends off, (h/t Pielke Sr.) 
+NSF on Michael Mann at PSU (PDF), but you heard it here first: fudge not fraud 
+John Quiggin writes of Julia Gillard's proposed carbon tax "the impact will be undetectable" (excepting electricity generation) -- so what's the point again? My answer is here.
+
+
+
+
+Hurricane Irene and the ICAT Damage Estimator
+
+
+Posted: Tue, 23 Aug 2011 12:52:00 +0000
+The image above comes from the ICAT Damage Estimator, an online tool that lets you explore our historical database of normalized US hurricane losses.  The IDE has a neat feature which allows you to select a current storm and overlay the projected path according to the current NHC official forecast (or underlying model runs) -- The IDE can then calculate damage from all storms that made landfall within that "cone."  You can also select all storms that passed within X miles of Irene's present position and compare damage statistics on that basis.
+
+Here are some numbers from the IDE and links to the sources:
+
+For storms that made landfall within Irene's 5-day official forecast cone:
+
+Average damage: ~$14 billion
+Median damage: ~$3 billion
+
+For storms that passed within 50 miles of Irene's latest position:
+
+Average damage: ~$9.3 billion
+Median damage: ~$3.6 billion
+
+I'll provide updates this week, meantime, please explore the tool yourself - ICAT Damage Estimator.
+
+
+
+College Tuition Evolves in California
+
+
+Posted: Mon, 22 Aug 2011 21:27:00 +0000
+The LA Times has an article today on the changing nature of in-state tuition in California's state universities.  Here are a few interesting excerpts:
+State funding for UC and the California State University  was cut $650  million this year for each system. As a result, in-state UC undergrads  will pay 18.3%, or nearly $1,900, more in tuition and fees than last  year. Many will get financial aid, and students from families with  annual incomes up to $120,000 may be eligible for reprieves on the  latest increases.
+
+UC leaders note that its tuition is on a par with other top public research schools. The University of Michigan at Ann Arbor will charge state residents about $14,000 this year; the University of Virginia, $11,600; and the University of Texas at Austin, $10,000. But UC student leaders say that living costs are much higher in California.
+
+Sherry Lansing,  a former Hollywood studio executive who chairs UC's Board of Regents,  said the university was trying to find new revenue to replace state  funding and avoid repeated tuition hikes. She said it must become more  entrepreneurial to keep academic quality and student access.
+
+Under consideration are efforts to boost private and alumni donations;  reap more financial rewards from inventions and companies born in UC  labs; and develop online classes that would attract a broader paying  audience. The university also is seeking to save money by consolidating  payroll and computer support functions.
+
+"We are just at the beginning of this," Lansing said.
+
+UC is one of many public universities experiencing  a fundamental shift  in how it operates, with more emphasis on revenue-producing activities,  Hartle said.
+
+"It doesn't mean you have a second-rate university," he said. "You can  have a first-rate university but more focused on their bottom line. And  when that happens, the public university starts looking more like the  private university."And also:
+One way UC has tried to raise revenue has been to enroll more  out-of-state undergraduates, who pay significantly more than California  residents. The goal is for nonresidents to make up about 10% of UC  undergraduates, still far fewer than at top public schools elsewhere.  This fall, UC Berkeley will have the system's largest share of  non-Californians, nearly 30% of freshmen. UC San Diego and UCLA are next, with about 18% each.
+
+The University of Michigan's Ann Arbor campus, which has seen sharp  state funding cuts over the last two decades, is sometimes seen as a  possible model for UC.
+
+About 40% of students in last year's freshman class at Michigan were  from out of state, and the campus is boosting its recruitment worldwide.  It has closed some research centers and increased alumni fundraising.  Undergraduate fees vary by academic divisions, and the university's  business school has moved to mainly private funding.
+
+With such tactics, Michigan has been able to maintain financial aid for  needy students and protect unprofitable academic departments, including   the humanities, that have suffered deep cuts at other schools, said  John Burkhardt, a Michigan education professor who directs the National  Forum on Higher Education for the Public Good.
+
+He said the campus is now a hybrid, with its public mission unchanged but its financing increasingly private.
+
+UC is considering similar actions. The regents are debating whether  campuses should charge undergraduates varying tuition levels, and UCLA's  Anderson School of Management wants to wean itself from state subsidies  in exchange for higher tuition.
+
+
+
+Ink Blots, Ambiguity and Outcomes in the Real World
+
+
+Posted: Mon, 22 Aug 2011 15:08:00 +0000
+A fundamental problem with climate science in the public realm, as conventionally practiced by the IPCC, is the essential ink blot nature of its presentation. By "ink blot" I mean that there is literally nothing that could occur in the real world that would allow those who are skeptical of scientific claims to revise their views due to unfolding experience. That is to say, anything that occurs with respect to the climate on planet earth is "consistent with" projections made by the climate science community. Some scientists go further and argue that climate science cannot be shown to be incorrect based on experience because its projections are probabilistic. The result is that  people tend to see in climate science other things than those that can be resolved empirically -- which fosters politicization and tribal behavior. 
+
+The ink blot nature of climate science would be a non-issue if it were a field like philosophy or cosmology in which people were debating non-empirical claims for academic interests. But climate science -- or at least a very visible part of that field -- has set forth on an evangelistic path in trying to convince the unconvinced of their views among politicians and the general public. 
+
+But the ink blot nature of climate science leaves climate scientists in a position of arguing from authority or demanding that people need "trust us."  The typical mode of engagement with skeptics by many visible climate scientists is to argue how right they are (and wrong/evil the skeptics are) -- but what skeptics need instead is to hear what it would mean for climate scientists to be wrong. If one cannot be wrong, then experience cannot be used to adjudicate claims. (I am aware of various debates that have occurred about using variables such tropical tropospheric temperature trends, ocean heat content, water vapor feedback, etc. in an effort to falsify claims of climate science.  While I am by no means an expert on these debates my understanding is that the climate science community argues that uncertainties/variability are so large as to make such claims not inconsistent with their views, taking us back to square one.)
+
+Consider by way of example how the field of economics handles such situations.  Ratings agencies issue ratings associated with the likelihood of default for lenders, and utilize a language very similar to that found in the IPCC. For instance, here is how S&P defines their credit ratings (PDF):
+In our view, likelihood of default is the centerpiece of creditworthiness. That means likelihood of default--encompassing both capacity and willingness to pay--is the single most important factor in our assessment of the creditworthiness of an issuer or an obligation. Therefore, consistent with our goal of achieving a rank ordering of creditworthiness, higher ratings on issuers and obligations reflect our expectation that the rated issuer or obligation should default less frequently than issuers and obligations with lower ratings, all other things being equal.
+
+Although we emphasize the rank ordering of default likelihood, we do not view the rating categories solely in relative terms. We associate each successively higher rating category with the ability to withstand successively more stressful economic environments, which we view as less likely to occur. We associate issuers and obligations rated in the highest categories with the ability to withstand extreme or severe stress in absolute terms without defaulting. Conversely, we associate issuers and obligations rated in lower categories with vulnerability to mild or modest stress.It is generally understand that the ratings agencies were wrong in their estimates of the likelihood of default among mortgage based securities. How do we know this?  Well, the global economy melted down for one.
+
+I am aware of no one who has claimed that the ratings of subprime mortgages cannot be judged wrong simply because ratings are based on likelihood estimates. But this is exactly where some climate scientists would find themselves, if they were arguing about economics rather than climate.
+
+It is not just the subprime crisis either where experience matters for the evaluation of expectations. Recently, Paul Krugman discusses the recent S&P downgrade of the US as follows:
+When assessing the downgrade, the question of track record comes up.  As I understand it, countries that defaulted in the past were almost  always downgraded well before the default happened; but in all such  cases, the markets were already signalling big trouble before the rating  agencies moved.
+
+The question should be, in cases when the markets aren’t signalling  worry but the agencies downgrade anyway, how often are they right?
+
+The answer, I believe, is never — not for Japan 2002, not for various European countries in the late 1990s, not for Canada 1994.Until the climate science community steps out from behind academic parsing and hiding behind uncertainties, it will continue to be an ink blot, and one that many people evaluate using political and other non-scientific criteria.
+
+There are two ways for the climate science community to move beyond an ink blot (if it wishes to do so). One would be to advance predictions that are in fact conventionally falsifiable (or otherwise able to be evaluated) based on experience.  This would mean risking being wrong, like economists do all the time. The second would be to openly admit that uncertainties are so large that such predictions are not in the offing. This would neither diminish the case for action on climate change nor the standing of climate science, in fact it may just have the opposite effect.  
+
+The default will be the status quo, which means climate science as inkblot -- and the associated arguments from authority, "trust us" and politicization that comes along with it.
+
+
+
+More Fun With Uncertainty Guidance
+
+
+Posted: Sun, 21 Aug 2011 13:22:00 +0000
+Here is a another math exercise.  In its AR4 report the IPCC says:
+The uncertainty guidance provided for the Fourth Assessment Report  draws, for the first time, a careful distinction between levels of  confidence in scientific understanding and the likelihoods of specific  results. This allows authors to express high confidence that an event is  extremely unlikely (e.g., rolling a dice twice and getting a six both  times), as well as high confidence that an event is about as likely as  not (e.g., a tossed coin coming up heads). Confidence and likelihood as  used here are distinct concepts but are often linked in practice.Here are some specific definitions to help you answer some questions.
+
+A. "high confidence" means "about 8 out of 10 chance of being correct".
+B. "extremely unlikely" means "less than 5% probability" of the event or outcome
+C. "as likely as not" means "33 to 66% probability" of the event or outcome
+
+So here are your questions:
+
+1. If the IPCC says of a die that it has -- "high confidence that an event is  extremely unlikely (e.g., rolling a dice twice and getting a six both  times)" -- how should a decision maker interpret this statement in terms of the probability of two sixes being rolled on the next two rolls of the die?
+
+2. If the IPCC says of a die that it has -- "high confidence that an event is about as likely as  not (e.g., a tossed coin coming up heads)" -- how should a decision maker interpret this statement in terms of the  probability of a head appearing on the next coin flip?
+
+Please provide quantitative answers to 1 and 2, show your work. 
+
+
+
+Fun With Epistemic and Aleatory Uncertainties
+
+
+Posted: Sat, 20 Aug 2011 15:51:00 +0000
+Deep in the comments on an earlier thread Paul Baer offers the following hypothetical:
+In my statistics class, I ask my students "what is the probability that  when I flip this coin, it will land heads." (And yes, assume it's a fair  coin.)
+
+Of course they answer 50% or some equivalent. 
+
+Then  I flip it and hold it covered on the back of my hand. Then I ask, "What  is the probability that this coin is heads." There's usually some  puzzlement. Someone says "50%". And I say, "but either it's heads or it  isn't. How can there be a fifty percent chance it's heads?"
+
+Then I  ask "what odds would you give me if I bet that it's not heads?"  Eventually those who know what betting odds mean understand the point.  Even when something has happened (like, the deck has been shuffled and  the card that will be dealt could be known under some epistemic  conditions DIFFERENT FROM OURS) we have to ACT as if the odds are, well,  what we think they are.To which I responded:
+Consider the following case:
+
+You flip a coin in your class and ask for the probability of a head.  A savvy student replies:
+
+[S1]: The odds of a head are 50-50
+
+You  then reveal to the class that the coin is not fair, in fact there is a  75% chance of a tail.  You ask the student, now what are the odds of a  head?  (All while the flipped coin sits on your hand)
+
+The student now replies:
+
+[S2] The odds of a head are 25%.
+
+Q1. Now would it be fair to say that [S1] was incorrect?Answers gladly accepted.
+
+
+
+Friday Funny - Deniers Risk Alien Attack
+
+
+Posted: Fri, 19 Aug 2011 14:10:00 +0000
+This from an academic paper by researchers at Penn State and NASA (here in PDF, note that ETI = extraterrestrial intelligence and METI = messages to ETI):
+Humanity may just now be entering the period in which its rapid civilizational expansion could be detected by an ETI because our expansion is changing the composition of Earth’s atmosphere (e.g. via greenhouse gas emissions), which therefore changes the spectral signature of Earth. While it is difficult to estimate the likelihood of this scenario, it should at a minimum give us pause as we evaluate our expansive tendencies.
+
+It is worth noting that there is some precedent for harmful universalism within humanity. This precedent is most apparent within universalist ethics that place intrinsic value on ecosystems. Human civilization affects ecosystems so strongly that some ecologists now often refer to this epoch of Earth’s history as the anthropocene [79]. If one’s goal is to maximize ecosystem flourishing, then perhaps it would be better if humanity did not exist, or at least if it existed in significantly reduced form. Indeed, there are some humans who have advanced precisely this argument [80-82]. If it is possible for at least some humans to advocate harm to their own civilization by drawing upon universalist ethical principles, then it is at a minimum plausible that ETI could advocate harm to humanity following similar principles.
+
+The possibility of harmful contact with ETI suggests that we may use some caution for METI. Given that we have already altered our environment in ways that may viewed as unethical by universalist ETI, it may be prudent to avoid sending any message that shows evidence of our negative environmental impact. The chemical composition of Earth’s atmosphere over recent time may be a poor choice for a message because it would show a rapid accumulation of carbon dioxide from human activity. Likewise, any message that indicates of widespread loss of biodiversity or rapid rates of expansion may be dangerous if received by such universalist ETI. On the other hand, advanced ETI may already know about our rapid environmental impact by listening to leaked electromagnetic signals or observing changes in Earth’s spectral signature. In this case, it might be prudent for any message we send to avoid denying our environmental impact so as to avoid the ETI catching us in a lie.
+
+
+
+CPR Colorado Matters Interview on In-State Tuition Reform
+
+
+Posted: Thu, 18 Aug 2011 17:00:00 +0000
+Colorado Matters on Colorado Public Radio has a lengthy and meaty interview with me on the subject of in-state tuition reform.  The interview concludes with me explaining how difficult it is for universities to consider change or entertain new ideas.  In related news, CPR reports:
+A spokesman for the Colorado Board of Regents says the regents have not discussed this idea and have no plans to do so.Have a listen and please return with any comments, criticisms or questions!
+
+
+
+Obituary: John Marburger
+
+
+Posted: Wed, 17 Aug 2011 18:16:00 +0000
+Nature asked me to write an obituary for John H. "Jack" Marburger, III who died in late July.  It was a challenging and humbling assignment.  It appears in this week's issue (also here in PDF).
+
+Marburger should remembered not only through what others write about him, but for what he himself wrote.  To that end, below I republish a wonderful speech of his that I came across in my research for the Nature piece. The speech was delivered in July, 1981 upon Marburger being announced as president of New York's Stony Brook University.  Enjoy.
+THE TRAP OF THINKING WE KNOW IT ALL
+
+John H. Marburger 3d made these remarks in a speech at his recent  inauguration as third president of the State University at Stony Brook in July, 1981.
+
+There are two kinds of ignorance: the kind removable by education,  and the other kind, which is defined by the limits of current knowledge.  It seems to me that in extolling the virtues of higher education we  have overemphasized the removable ignorance and encouraged the notion  that more is knowable than is actually the case. This has mischievous  consequences.		
+
+Living with ignorance is for an academic something like living in  sin. We are supposed to conquer ignorance through research, and urge our  students not to be satisfied until they understand what is happening  around them. Modern education consists of continual exposure to the  knowable domain of human experience. We profess humility and declare the  limitations of our knowledge, but spend all the time in our lectures  talking about what is known. That may be inevitable. The consequence,  however, is that our students and we ourselves, I am afraid, form the  habit of assuming that things can be explained.		
+
+Our conviction of knowability surely derives from the success of  the physical sciences, where nature allows herself to be mimicked  accurately by mathematical models. The predictive success of science has  been so great that efforts have been made in every other practical  field to introduce scientific methods. The results have been useful, but  reliable predictions can be achieved outside physical science only in  the simplest situations.		
+
+Even where we do not have a clear understanding of the relation  between means and ends, however, we use language patterned after the  more successful sciences to describe events. This encourages the  illusion, among the inexpert, that we know more than we do. Medicine has  employed this practice with success for millennia.		
+
+Even our admiration for directness and clarity of thought  reinforces the habit of the assumption of knowability. Events are  simplified by electronic journalism to ''problems'' expressed in  language that suggests both their origin and their solution. The  practices of encapsulation, of briefing and of interviewing encourage  oversimplification and enhance the illusion of comprehensibility.		
+
+What is wrong with glossing over this other ignorance? At the very least, it increases the impatience and frustration that we always feel  when things do not go smoothly. If we are supervisors or managers or  taxpayers, we tend to expect more from our organizations or our  employees or our governments than is reasonable.		
+
+When something goes wrong, our first impulse is to blame it on poor planning or on the ignorance of those responsible. If the ignorance is  of the removable kind, blame and censure are justified. But if it is the  other kind of ignorance, the inevitable kind, then censure is  inappropriate. Failure to appreciate the distinction between avoidable  and unavoidable ignorance leads to unrealistic management practices. It  is a hallmark of inexperienced managers.		
+
+In times of peace and prosperity, defects in our world view are of  little consequence. Adversity shows them up. When funds are scarce,  budget controllers attempt to match allocations as closely as possible  to estimated needs. If they believe that those needs can be estimated  exactly, they will have little patience with managers who protest  ignorance of how to do it. Each legislative act, each regulation, is a  hypothesis about the relation between a desired end and a means to  achieve it. To the extent that hypothesis is incorrect, the end cannot  justify the means.		
+
+Budget control, legislation and regulation are processes that  depend very sensitively on our understanding of cause and effect in  human affairs. For reasons that I have suggested, these processes tend  to assume greater understanding than we possess. They tend to mistrust  protestations of ignorance and to punish inability to control events  even when they are uncontrollable. In our democratic society, some of  the blame must rest with voters and taxpayers, who compare our successes  in scientific ventures with our failures in economic and social  affairs.
+
+The inevitablility of ignorance is not necessarily cause for  despair. We do have ways of managing our affairs that accommodate  uncertainty. As physical science has been the model for mechanistic  views of human affairs, engineering has provided models that admit  ignorance and chaos. Engineering thoughtfulness about the problem of  communicating in the presence of random disturbances and the problem of  unattended operation of devices in unpredictable environments suggests  ways of approaching administration, law and social reform.  Modern  trends in management theory do exploit these notions.		
+
+In the final analysis, decisions about how to act are made by  individual men and women. They may be central planners or local  managers. They may be aware or unaware of their ''immense'' ignorance.  But they all possess an instrument that has been found by experience to  be extremely powerful in dealing with ambiguity and surprise: the human  mind.		
+
+We do not know how the mind works, how it transforms information  into action. We do not understand intuition, or wisdom, or sound  judgment. But such qualities do exist, and they are universally admired.  However we choose to do our business in state or school or home, we  must not embrace a course that limits the application of these  qualities.		
+
+We do not understand human societies, or what motivates them to war  or work together. We do not understand precisely the relation between  acts of individuals and their consequences in the larger community.  We  do know that communal cooperation is normal and that individuals are  often enormously influential in organizing and focusing the efforts of  society.		
+
+Our best chance for coping with the reality of ignorance is to rely  upon the vast integrative power of the human mind. We must learn to  develop this power in ourselves and to recognize it in others, even if  we do not understand it. And we need to respect it and to organize our  affairs so that it may be brought to bear in all situations illdefined  and poorly understood. The kind of mental development I have in mind is  not simply instruction in various systems, theories or models of how  things and people work, but also exposure to the quandaries of the real  world and how real people have responded to them in the past.		
+
+In this respect, the part of university education whose content  (not whose presentation) is the least methodical seems to be of the  greatest value. The view that I am advocating is a humanistic one,  because it recognizes explicitly human capacities that cannot be  duplicated or replaced by systems, policies or machines. And it is  precisely the humanistic material in our curricula that seems best  suited for developing those capacities.		
+
+We have come to this point by a long argument, but I can find none  better for the value of the humanities in modern education. The  humanities are valuable because they deal openly with the inevitability  of ignorance and the consequences thereof. They show us how great men  and women faced incomprehensible situations. They tune the instrument by  which ultimately we all grapple with the question of how to act without  sufficient knowledge. And they urge us to free that instrument, the  educated human mind, from the restraints of ignorance, even ignorance of  ignorance itself.	
+
+
+
+Academic Exercises and Real World Commitments
+
+
+Posted: Wed, 17 Aug 2011 17:39:00 +0000
+My exchange last week with James Annan, a climate modeler, was interesting for several reasons, not least, for his suggestion that the projections of the IPCC could not be judged to be wrong because of their probabilistic nature. This view strains common sense, to put it mildly.
+
+Here I argue that our disagreement lies not in different views about the nuts and bolts of probabilistic forecasting, but rather our views on whether the IPCC is engaged in providing guidance to decision makers about the probable course of the future, or instead, is engaged in an academic exercise.  This would seem to be a natural point of disagreement between an academic involved in modeling and a policy scholar. James does the climate science community no favors by personalizing the debate, so here I'll stick to the issues, which are worth a discussion.
+
+Let’s start with an analogy to make this distinction more clear.  Please note that I reject James choice of a die roll as an analogy because it begins with a presumption that the probabilities for various future outcomes are in fact  known with certainty. While such an assumption is highly complementary to climate modelers, the fact is that the actual probability distributions for the future are unknown.  That is why evaluation of probabilistic statements is necessary. 
+
+Let’s say that I make the following statement:
+[A] It is very likely that a team from the AFC will win the 2012 Super Bowl.You, being a Green Bay Packer fan, take issue with my statement and ask me if I want to bet, but first you ask me what I mean by “very likely.”  I explain that by “very likely” I mean at least a 90% chance.  You then ask if I will give 9 to 1 odds on a $1 bet on the Super Bowl. Since I am confident in my statement (and I believe that the bet gives me good odds as I think that the chances could even be higher than 90%), I agree to bet and we shake hands.
+
+Consider the following way that events might play out -- Let’s flash forward to the Super Bowl in 2012.  Imagine that the Denver Broncos (hey, it is my example;-) beat the Packers.  In that case, I would win the bet and you would pay me $1.  We would both agree that the expectation expressed in my statement [A] was correct in a common sense understanding of the term.  Had the Packers won the game, I would part with $9 and we’d agree that my expectation was incorrect.
+
+Now let’s consider an alternative ending to this scenario.  Let’s assume that the Packers win the game.  I immediately protest to you that I actually did not lose the bet -- at least not yet, because my statement was probabilistic in the sense that it referred to the entire set of potential Super Bowl games in which I judged that the AFC would win 90% or more of them.  It just so happens that that this was one of those cases that happens to fall in the 10% of possible outcomes.  In order to judge the winner of the bet we would have to replay the Super Bowl many times, and I suggest that we do so on Madden 2012, a computer-game simulation.
+
+You would reply, “Huh? Whatever, you lost the bet, where’s my $9?”
+
+The difference between the two endings lies in whether one views a probabilistic statement as a basis for committing resources for a future that will play out in only one way or as an academic exercise to be explored using simulations of the real world.
+
+On the one hand, in the first case, a Packers’ victory would mean that the expressed judgment in [A] turned out to form the basis for a losing bet. It is important to understand that the judgment [A] may have been perfectly sound and defensible at the time that it was made – perhaps it was based on my expertise or perhaps I actually ran a Madden 2012 simulation 10,000 times under various scenarios to create an ensemble projection space as the basis for my judgment.  Perhaps then the outcome was just bad luck, meaning that the 10% is realized 10% of the time. Actually, we can never know the answer to whether the expectation was actually sound or not, only that a commitment based on the judgment lead to a loss of $9.
+
+On the other hand, if I actually meant statement [A] simply as an academic exercise, perhaps in relation to some simulation of the real world, I should not be betting in the real world. 
+
+Let’s continue with the analogy and say I was a sports handicapper and you wanted to get a sense of my skill in giving odds on outcomes.  One way that you might evaluate my performance is to look at all of my Super Bowl predictions over time.  But that doesn’t offer much of an experiential basis with which to judge probabilistic projections.  Another way that you might judge my performance is to look across my handicapping of many sports and see how the collective outcome compares with what I have projected.  For instance, if I make 100 projections that are judged to be “very likely” you will have a lot of confidence in my skill if 90 of those 100 projections actually realize, even if they are across 100 different, incommensurable events.  But even then there would be problems in assessing my skill (e.g., what if there are 10,000 sports handicappers and you come to me because my record is better than the others, is that because I am good or just lucky?  But I digress).
+
+Now let’s relate this back to climate science. As an example, the IPCC says the following:
+It is very likely that hot extremes, heat waves and heavy precipitation events will continue to become more frequent.If decision makers commit resources (let’s assume intelligently, fully recognizing and understanding a 90% probability) based on this projection, and it turns out that the actual future experienced on planet Earth is one of constant or declining hot extremes, heat waves and heavy precipitation events, then the common sense view will no doubt be that the IPCC got this one wrong.
+
+Climate modelers who protest such a common sense view based on what they describe as the impossibility of verification of probabilistic statements generated from ensemble projections from modeled simulations of the real world will be laughed off as out-of-touch academics, and rightly so. Infallibility doesn't even work for the Pope.
+
+
+
+In-State Tuition Reform Continued
+
+
+Posted: Tue, 16 Aug 2011 12:39:00 +0000
+[UPDATE: The AM760 interview is now online here.] 
+
+Today I'll be on AM 760 Colorado Progressive Talk Radio today at 9AM to discuss the issue of in-state tuition reform.  Later, I'll be on Colorado Matters on Colorado Public Radio (I will update with broadcast time when I know it).  Who knew that in-state tuition reform was such a hot topic?
+
+In the many reactions I received yesterday to the front page Camera article on my recent CHE piece-- ranging from emails to comments at the bus stop -- it is clear that most people fail to distinguish between (a) the sticker price of tuition and (b) the state subsidy of tuition. What this means is that people really have no idea that tuition for in-state residents is actually subsidized, but at a level that does not allow the books to balance. It also means that some Colorado residents, when they hear a call for a levelized tuition for in-state and out-of-state students, think that the cost to them will double.  This is not necessarily the case.
+Have a look at the graph above (source), which shows Colorado state funding per resident student.  In round numbers, the state provides about $3,000 per student.  If the state allows the university to charge about $8,000 per student in tuition, and the cost of running the university requires a break-even tuition of about $14,000, then you can see that the result is a loss of $3,000 per in-state student.  That adds up fast -- it is a  $60 million shortfall. 
+
+How does the university make up the difference?  Answer: Out-of-state students!  In 2010 the proportion of out-of-state students at CU was larger than at any time since 1975 (data, it was 34.5% in fall, 2010 and state law allows it to go to as much as 45%).  From 2005 to 2010 the number of CU in-state undergraduates shrunk by 1% while the number from out-of-state increased by 17%.
+
+If the state were to allow a levelized tuition, then it could still subsidize the costs of attending CU for state residents -- at whatever rate it deemed appropriate by subsidizing directly those residents accepted to the university. Imagine what would happen if the university charged the full cost of tuition ($14,000) and the state provided individual students with a check for its current subsidy per student ($2,800) -- Colorado residents would immediately see that the subsidy does not go very far, and it might lead to a different conversation about the state role in higher education. In addition, subsidizing the student rather than the institution would also allow for a greater focus on need-based support rather than simple geographic residency. Of course, there would be no requirement for each state university to follow the same tuition model, a diversity of approaches would probably make sense,
+It is worth saying something about cutting costs. Some might argue that the university should simply cut $60 million of fat from its budget in order to balance the books. There are two responses to this. One is that all the fat has been cut and the university is now actually deep into bone (see, e.g., graph above). The second is that while academia is far from a perfect market, at some level you do get what you pay for -- consider that Stanford charges about $38,000 per year in tuition. CU simply cannot compete with the Stanfords of the nation by charging one third as much in tuition. Now perhaps Colorado residents or its legislature do not want CU competing with the nation's top research schools for students, faculty, research, etc. -- an open debate about where the state schools (all 12 of them) ought to aspire to in a national context would be a valuable contribution to the discussion. 
+
+The bottom line is that the current model for state university support is badly broken in a number of ways.  University performance is disconnected from its market price. Admissions decisions are increasingly based on who can pay the most.  Budgets have been cut to the bone. Ultimately, something has to give, and in the end it will be the quality of education and research at the institution. For those wishing for a cheap university, be careful what you wish for, as you might just get it. 
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

@@ -1,0 +1,775 @@
+Leverage | SALT - powered by FeedBurner
+&
+
+
+
+Leverage | SALT
+
+syndicated content powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based news readers. Click your choice below:
+
+
+
+
+
+
+
+...with other readers:
+
+(Choose Your Reader)FeedDemonNetNewsWireNewsFireNewsGator Outlook EditionRSSOwlShrookUniversal Subscription Mechanism (USM)
+
+
+Get Leverage | SALT delivered by email
+
+
+ View Feed XML
+
+
+
+
+FeedBurner makes it easy to receive content updates in My Yahoo!, Newsgator, Bloglines, and other news readers.
+
+Learn more about syndication and FeedBurner...
+
+Current Feed Content
+
+
+
+Earthquake in Virginia????
+
+
+Posted: 2011-08-24 10:18:08 UTC-05:00
+Since I received so many contacts yesterday about the earthquake in Virginia, I thought I would write a post.
+
+Yes, my family and I survived.  The house shook, but no damage.  The epicenter of the earthquake was only 30 miles from our house.  
+
+When we moved to Virginia, no one mentioned earthquakes.  Now we might have a hurricane later this week . . . . . hmmmmmmmm . . . . . .20 below zero winters in Minnesota may not be so bad.  Who am I kidding, 6 months of winter, 60 inches of snow that doesn't melt until April, and 20 below zero temperatures.  I think Virginia still wins (for now).
+
+Although, I have had two people in Virginia tell us that it gets "bitterly cold" here in Virginia.  "Bitterly cold" was described as 20 or 30 degrees in January and February.  They can still play golf here in November, maybe December.  After living 7 years in Minnesota, that seems crazy.
+
+I hope you and your family are okay.
+
+Did you feel the quake?
+          
+
+
+
+
+
+
+What Are You Working On?
+
+
+Posted: 2011-08-17 12:11:31 UTC-05:00
+Update
+
+Hello, its me again! Yes, I am back after the big move from Minnesota to Virginia. It has been a whirlwind of change (physically, emotionally and mentally). Everything is different. I mean everything. 
+
+Overall, I would say my family and I are adapting and adjusting quite well. 
+
+Blog??
+
+With that said, as I settle into my new position and role, I have been thinking about what to do with this blog. How should I move forward? What should I write about? Should I continue to do what I have been doing or should I write about something else?
+
+Well, my focus from the beginning was to provide state and local tax updates on developments that had broad impact. However, my real purpose was and remains, to establish connections with CFOs, Controllers, Tax Directors, and other tax professionals. Over the last three years, I have established a number of new connections and relationships. I am really thankful for that.
+
+Now that I work for a larger firm with national resources, it doesn't feel right for me to spend my time writing about national developments. Maybe that's because right now, I don't have much free time to do so. I am trying to focus on my new role and responsibilities so I will be successful.
+
+For the time being (while I figure out what to write about), I thought I would tell you what I have been working on.
+
+I have been:
+helping companies figure out business vs. nonbusiness income positions across multiple states.  
+helping federal consolidated groups operating a unitary business determine how they should file state returns (combined, consolidated, etc.).  
+reviewing apportionment factors and workpapers to make sure companies are capturing the right information and achieving the most beneficial (legally possible) result
+helping companies resolve past filing omissions and other notices
+conducting research and preparing documentation related to combined reporting and sourcing of foreign income, effectively connected and noneffectively connected income
+What have you been working on?
+
+          
+
+
+
+
+
+
+Moving Forward!
+
+
+Posted: 2011-07-13 13:47:50 UTC-05:00
+Hello friends.  
+
+I just wanted to let you know that I am in the middle of moving to Richmond, Virginia to start a new position.  Therefore, I may not be writing any blog posts for a couple of weeks, but please don't give up hope.  I will return.
+
+In conjunction with my new position, I may change the focus of this blog.  Not sure yet.  As I settle into my new position, the continued purpose, focus and direction of this blog will become clearer.
+
+Please keep in mind, that this blog is, and will remain my personal blog.  All the viewpoints and opinions expressed on this blog are my own.  This blog is in no way connected to the firm at which I work.
+
+If you desire for me to provide state and local tax services or indirect tax services to you or your business, I will provide those services through the firm at which I work.
+
+Hopefully that makes sense.
+
+Thanks for reading.  I will be back soon!!!!
+          
+
+
+
+
+
+
+California, Amazon and the Elimination of Affiliates!
+
+
+Posted: 2011-07-01 02:00:08 UTC-05:00
+The Governor of California signed the "click-thru" nexus law or "Amazon law" as it is called, into law earlier this week.  It was part of the larger state budget package.  
+
+Prior to the Governor signing the law, Amazon notified its California affiliates that it would terminate its relationship with them if the bill became law.  Well, the Governor apparently didn't know that, or didn't care.
+
+EFFECTIVE DATE
+
+The bill takes effect immediately (so much for prior notice).
+
+DETAILS
+
+This bill includes in the definition of a retailer engaged in business in California as any retailer entering into agreements under which a person or persons in this state, for a commission or other consideration, directly or indirectly refer potential purchasers, whether by an Internet-based link or an Internet Web site, or otherwise, to the retailer, provided the total cumulative sales price from all sales by the retailer to purchasers in this state that are referred pursuant to these agreements is in excess of $10,000 within the preceding 12 months, and provided further that the retailer has cumulative sales of tangible personal property to purchasers in this state of over $500,000, within the preceding 12 months, except as specified. 
+
+For all of the details, go to the bill, ABX1 28. 
+
+Also, here is a link to the bill's general page., and a link to a recent article that you may find interesting.
+
+QUESTION?
+
+Are the enactment of these "click-thru" nexus laws creating more sales tax revenue for the states that enact them, or are they just eliminating affiliates?  In other words, instead of states forcing online, remote retailers to collect sales tax, they seem to be causing the extinction of affiliate programs.
+
+Is that the real goal?  What do you think?
+          
+
+
+
+
+
+
+Minimum Documentation Requirements
+
+
+Posted: 2011-06-30 02:00:09 UTC-05:00
+A recent Virginia ruling (P.D. 11-112) reinforced the state's long-standing policy that the sale of prewritten software delivered electronically to customers does not constitute the sale of tangible personal property and is generally not subject to sales and use taxation.  The ruling also emphasizes the burden to prove that the software was delivered solely electronically and no tangible property was transferred rests upon the taxpayer.  
+
+To fall within the exclusion from Virginia sales taxation, the taxpayer must meet minimum documentation requirements.  These minimum documentation requirements can be fulfilled in various ways, but the main position the documentation must support is that the software was solely delivered electronically.  The documentation cannot allow for other modes of delivery.
+
+Samples of documentation that should support that the software was solely delivered electronically are:
+Purchase requisition and/or Purchase Agreement
+Terms and Conditions of Sale (must not allow for ground transportation or tangible property to be transferred)
+E-mails
+Affidavits (if necessary)
+"Back-Up CD" = Tangible Personal Property
+
+According to the Virginia Ruling, transfer of a CD of the software for "back-up" purposes still constituted a transfer of tangible personal property that made the sale taxable.
+
+Virginia Based Companies
+
+If you are a Virginia based company, you should review your purchase agreements, contracts and terms and conditions for your purchases of prewritten software to ensure they meet the requirements stated above.
+
+Companies Based Outside Virginia
+
+Even though the ruling discussed in this post is specific to Virginia, companies based outside Virginia should be aware that other states in many cases (other than purchases of prewritten software) put the burden on the taxpayer to rebut the presumption of taxability.  Therefore, each company should take the necessary steps to ensure all documentation related to a transaction supports the tax result the company is expecting or trying to achieve.  
+
+Other states may not have the same requirements in regards to prewritten software, but they may have the same requirements regarding some other item.
+
+Form over substance?  Substance over form?  Form AND substance?  
+
+Minimum documentation requirements.
+          
+
+
+
+
+
+
+Ernst & Young, LLP / Richmond, VA:  The Next Chapter
+
+
+Posted: 2011-06-28 02:00:04 UTC-05:00
+"The enemy of great, is good."  
+
+I read that quote in a book somewhere, can't remember which one.  In any case, that quote was an inspiration or motivation for my family and I to decide to make a move across the country (from MN to VA) over the next couple of weeks (the weather was also a major motivator).
+
+Our move is a result of accepting a position with Ernst &Young, LLP to lead the Richmond, Virginia office State and Local Tax practice.  This is my last week at Baker Tilly Virchow Krause, LLP.  
+
+This was a very tough decision for my family and I, but we believe it will be a great move for us.  
+
+I would like to publicly thank everyone at Baker Tilly Virchow Krause, LLP for making my time at the firm a fulfilling and successful one.  I wish everyone the best!
+
+To those of you at Ernst & Young, LLP, I look forward to working with you.
+
+To those of you who follow my blog, I want to thank you for your continued support and comments.  I will continue to publish this blog and work to build relationships with you and others across the country.  The blog will most likely change from a Minnesota "slant" to a Virginia "slant."  However, I will continue to write about major national state and local tax developments that affect a variety of industries and states.
+
+I will publish my new contact information (e-mail and phone) once I have it (should be next week).
+
+Again, thank you for your support and I look forward to the next chapter.  
+
+May your next chapter be GREAT, not just good!
+          
+
+
+
+
+
+
+Accountant Humor:  Does it Really Exist?
+
+
+Posted: 2011-06-24 02:00:17 UTC-05:00
+I came across this blog post on Verasage and thought you might find it a little funny.  
+
+Check it out and let me know what you think!!
+          
+
+
+
+
+
+
+Practical Tips for Navigating the Sales Tax "Minefield" of "Cloud Computing"
+
+
+Posted: 2011-06-23 02:00:11 UTC-05:00
+If you are in business, then most likely, you are a buyer or seller of software/services that is considered "cloud computing." 
+
+If you are impacted by "cloud computing," you may be interested in learning what practical steps or strategy you can follow to help you navigate the sales tax "minefield" of "cloud computing." The following is a list of questions or items that you should take into consideration when buying or selling "cloud computing" services/software.
+What state is the buyer located? 
+What state is the seller located? 
+What state is the server located? 
+Does the seller have nexus in the state where the customer is located? Where the server is located? 
+Does the customer receive a copy or have access to the software? 
+Who is "using" the software? (i.e., is the seller using the software to provide a service OR is the seller licensing software to the purchaser for the purchaser's use?) 
+Pay careful attention to the language in the sales contract. This will help determine or control if the sale is a license of software or a service agreement. 
+Be careful how the product/service is marketed. 
+Are you selling/purchasing software or expertise? (i.e., what is the primary purpose or objective of the transaction?) 
+Is it possible to source the transaction to a nontaxable jurisdiction? 
+How is the service or software taxed in the states where the buyer, seller and server are located? 
+Does it help or hurt to bundle the service and software pieces of the sale?
+Most states still don't know how they are going to tax cloud computing.  But one thing is certain, they are going to definitely try.
+          
+
+
+
+
+
+
+Are You Happy with Your SALT Consultant?
+
+
+Posted: 2011-06-21 08:24:36 UTC-05:00
+Are you happy with your state and local tax (SALT) consultant?  
+
+Do you like the firm?  What would you change if you could?  
+
+Do they provide timely and responsive service?  
+
+Do they deliver what you need and what they promise?
+
+Do you like being served by a Big 4 firm, mid-sized firm or small firm?  
+
+Does your SALT consultant act like a "sales person" or a "trusted advisor"?
+
+Are they technically savvy, but not good at building a strong relationship with you (or vice versa)?
+
+Whether your company is a small business, middle market business or Fortune 500 business, I am interested in learning if you are getting what you need from your external SALT consultant and/or firm.
+
+Please leave a comment on this post.  Don't be afraid.
+
+Thank you.
+          
+
+
+
+
+
+
+Do You Need A State Tax "Playbook"?
+
+
+Posted: 2011-06-10 11:33:28 UTC-05:00
+I was reading the article about Plaxico Burress in the Wall Street Journal this morning.  Plaxico just recently got of prison and is wanting to play football for just about any NFL team that will give him a chance.  In the article, he says, "just give me a playbook."
+
+State Tax Playbook?
+
+Well, as a business (small, mid-sized or Fortune 500 company) operating in the United States, do you sometimes say, I wish I had a "playbook" to figure out how to get in compliance or stay in compliance with state and local tax laws?  How about a playbook to prepare for audits, manage audits, and know when to appeal, etc.?  How about a playbook of applicable state and local tax planning ideas or credits and incentives?
+
+No Uniformity Among States
+
+Unfortunately, in the state and local tax world where there isn't much uniformity, it is difficult to create such a playbook.  Each state is slightly similar, yet extremely different in its taxing scheme.  The truth is, the diversity of each state's economy and demographics can shape and mold a state's taxing policy, leading to the lack of uniformity among each state.  
+
+Most, if not all, states have encountered budget deficits over the past few years and have sought to plug the budget gaps in different ways, such as raising taxes, creating new credits and incentives, widening the tax base, and believe it or not, lowering taxes.  
+
+Each Business is Unique
+
+Now, on the business side, each business is different and obviously has different interests and desires when it comes to a state's taxing scheme or policy.  Hence, the desire of each business can create complexity and diversity in a state's taxing scheme.  
+
+Both Sides of "Tax Fence"
+
+Therefore, both sides of the "tax fence" (states and taxpayers) can take the blame for the difficulty in creating a uniform "playbook."  The Multistate Tax Commission and the Streamlined Sales Tax groups have tried to create uniformity.  Some uniformity has been obtained, but the ultimate goal appears to be out of reach.  The Federal government has also tried or atleast legislation has been proposed several times, but none of it has gained traction.
+
+So What Can You Do?
+
+Well, each business is different and each state is different, kind of like NFL teams.  Therefore, each business should create a "custom" playbook for their business or "team."  That playbook, like NFL playbooks, should contain multiple plays or strategies that can legally be used to comply and minimize state and local taxes at the same time.  Also, like NFL teams, the playbook would need to be continually updated and maintained.  
+
+I am not talking about tax shelters or tax avoidance transactions.  I am talking about "run of the mill" compliance and taking advantage of all applicable credits and incentives.  I am also talking about taking advantage of appropriate planning ideas and positions that coincide with the company's business purpose and goals.
+
+What is your "playbook"?  Do you have one?  
+          
+
+
+
+
+
+
+Colorado Enacts Tax Amnesty Program!
+
+
+Posted: 2011-06-07 10:30:52 UTC-05:00
+The Colorado Governor has signed legislation (SB 11-184) creating a Tax Amnesty Program to run from October 1, 2011 to November 15, 2011.
+
+The Amnesty program applies to the following types of taxes for which a return was required to be filed before December 31, 2010:
+Income taxes 
+Estate taxes 
+Inheritance taxes 
+Gift taxes 
+Sales and use taxes 
+Gasoline and special fuel taxes 
+Cigarette taxes 
+Taxes on tobacco products
+Severance taxes imposed
+Waste tire fees collected by the department
+County or municipal sales taxes collected by the executive director 
+Local marketing and promotion taxes collected by the department pursuant
+County lodging taxes collected by the department 
+County rental taxes collected by the department 
+Local improvement district sales taxes collected by the department 
+Regional transportation district sales and use taxes 
+Denver metropolitan scientific and cultural facilities district sales and use taxes 
+Denver metropolitan major league baseball stadium district sales and use taxes 
+Metropolitan football stadium district sales and use taxes
+Regional transportation authority sales and use taxes collected by the department
+For more information, go to COLORADO AMNESTY LEGISLATION.
+          
+
+
+
+
+
+
+Sales Tax:  Repair Labor or Installation Labor?  Why You Need to Know the Difference!
+
+
+Posted: 2011-06-03 15:51:01 UTC-05:00
+Do you know the difference between "installation labor" and "repair labor" for state sales and use tax purposes?  I know, I know, it depends on the state, right?
+
+Well, let's just talk about one state for now. 
+
+Minnesota Rules - Repair Labor
+
+According to Minnesota Revenue Notice #06-11, repair labor means labor to mend or restore an item that was broken, worn, damaged, defective, or malfunctioning, to working order or operating condition so that it can be used for its original purpose. Repair labor includes maintenance labor that sustains or supports safe, efficient, continuous operations; or to keep something in good working order by preventing decline, failure, lapse, or deterioration. 
+
+Repair labor is generally exempt from sales tax in Minnesota if the repair charges are separately stated from taxable repair parts or other taxable items on the bill to the customer.  A charge to replace a malfunctioning component part of an item with a comparable part is considered nontaxable repair labor.  However, when the new part is significantly different from the original component part, or is an upgrade, the replacement labor is considered taxable installation labor.
+
+Minnesota Rules - Installation Labor
+
+In Minnesota, installation labor is taxable. 
+
+Installation labor means labor to set an item into position or to connect, adjust or program it for use, or to add something new or different to an item. Installation labor is taxable whether provided by the seller of the item or by a third party, if the installation would be taxable if provided by the seller of the item. As stated earlier, installation labor includes replacement of a component part when the new part is an upgrade of the old part, or when the new part is significantly different from the original component part, regardless of whether the old part malfunctions or not. Installation labor does not include the removal or replacement of a defective part. Installation labor does not include labor resulting in an alteration, repair or improvement to real property.
+
+Repair Service with Transfer of Insignificant Property
+
+According to Minnesota Statutes 8130.0200.4, a transaction involving performance of a nontaxable repair service, and incident thereto, a transfer of tangible personal property to the purchaser is not considered a sale for sales and use tax purposes if the value of the property transferred is insignificant as compared to the total consideration; and no separate charge is made for such property. 
+
+In such cases, the repairman is regarded as rendering a nontaxable service. However, if a separate charge is made for the property transferred, a sale within the meaning of the Sales and Use Tax Law is deemed to have occurred.
+
+Example. A jeweler uses a spring costing him 25 cents to repair a watch. He bills the customer $6 for repair services. Since the cost of the spring is insignificant in relation to the charge for repair services, no sale of the spring is considered to have been made. 
+
+The jeweler is required to pay a use tax on the spring if he did not pay a sales tax at the time of purchase. However, if the jeweler bills separately for the spring, he must collect a sales tax from the customer.
+
+So What?
+
+Transactions that involve repair labor and repair parts could easily be mistreated for sales and use tax purposes.  Your repair labor may be considered installation labor or vice versa.  Therefore, if you are involved in any of these types of transactions, I would recommend reviewing your facts (contracts, invoices, etc.) and current tax treatment to see if it is accurate or if any changes should be made.  If you act now to determine your position, you may be better able to defend it when the auditor arrives.
+
+Questions to Consider
+
+Are you repairing real property or tangible personal property?
+
+Are you charging your customers a lump-sum for your repair services (labor and parts)? 
+
+Are you separately stating your charges for labor and parts on your invoices?  
+
+Is the part you are installing an upgrade or different part?  
+
+Is the cost of the part you are installing "insignificant" when compared to the total charge to your customer?
+
+Are you replacing a part that is malfunctioning or is the old part simply consumed in the production process and needs replaced on a regular basis?  
+
+Are your repairing property or simply installing new parts?
+
+Is your labor, repair labor or installation labor?
+
+          
+
+
+
+
+
+
+Don't Put the Cart Before the Horse (State Tax Planning vs. Business Purpose)
+
+
+Posted: 2011-05-31 16:52:02 UTC-05:00
+I published this post two years ago, but the idea still applies today; therefore, I thought I would re-post it as a reminder on how to, or how NOT to, implement state tax planning.
+
+CASE: HMN Financial, Inc. and Affiliates v. Commissioner of Revenue, Minnesota; docket No. 7911-R; May 27, 2009 (State of Minnesota County of Ramsey Tax Court)
+
+Summary of Case
+
+This case involved, as the Court stated:
+
+“a sophisticated tax avoidance plan involving a captive real estate investment trust (REIT), a holding company and the transfer of loans and loan proceeds in a circular pattern through the taxpayer’s entities.”
+
+The taxpayer argued that it met the requirements of a foreign operating company (FOC) under Minnesota statutes; therefore, it must be afforded the favorable tax treatment the statute allows. The taxpayer argued the state has no authority to set its transactions aside as a sham because the taxpayer met the definitions of an FOC.
+
+The state maintained that one cannot simply look to the status of a taxpayer to determine whether deductions will be allowed or disallowed; one must look at the transactions to determine whether deductions will be allowed. 
+
+The state argued, and the Tax Court agreed, the only true purpose of the taxpayer’s transactions was to avoid Minnesota taxes. Thus, because the state has the authority to disregard sham transactions, the transactions must be disallowed.
+
+Summary of Conclusions Stated in Support of Courts Finding:
+Accounting firm marketed same plan to other businesses.
+Accounting firm stressed state tax savings in its materials.
+Accountants knew the taxpayer needed a business purpose other than tax savings.
+Accountants provided taxpayer with several sample business purposes.
+Taxpayer did not follow through on achieving any non-tax business purpose.
+Non-tax business purposes did not have economic substance, risk, or effect.
+There was no increase in income, no lessening of expenses, no business, other than the avoidance of taxes.
+Only business purpose achieved was state tax savings.
+So What?
+
+This is not the first time a state and/or court has disallowed a transaction because it determined the transaction lacked economic substance or business purpose (and it won't be the last time). 
+
+Therefore, when conducting any type of state tax planning (especially complex restructuring), make sure the “horse is in front of the cart.” Meaning, figure out what your business goals and objectives are, and then figure out what state tax planning can be done to minimize the state tax ramifications of achieving those business goals.
+          
+
+
+
+
+
+
+It's Official:  Michigan Governor Signs Legislation Replacing the MBT!
+
+
+Posted: 2011-05-27 06:52:48 UTC-05:00
+I have discussed this legislation in earlier posts, but now it is official.
+
+On May 25, 2011, Michigan Governor Rick Snyder signed legislation (H.B. 4361, 4362, 4479-4484, Public Acts 38-45) replacing the Michigan Business Tax (MBT) with a corporate income tax and making major changes to the state's individual income tax law. Effective January 1, 2012, the state's MBT will be replaced by a corporate income tax (CIT) imposed on only on businesses organized as C corporations under federal law. Sole proprietorships and pass-through entities such as partnerships, S corporations and limited liability companies currently taxed at the entity level under the MBT would not be required to pay taxes or file returns under the CIT. The term “corporation” under the CIT would not include an insurance company or a financial institution.
+
+
+To access the bill, go to Michigan HB 4361.
+          
+
+
+
+
+
+
+State Tax Collections On the Rise!
+
+
+Posted: 2011-05-25 08:46:24 UTC-05:00
+The Wall Street Journal reported today that state tax collections are up!  
+
+According to the article, state tax collections are growing, but they are still below pre-recession levels.  
+
+As you may know, all or most states have large budget gaps and are in desperate need of more tax revenue.  
+
+This growth in state tax collections helps close the gap, but states are still being forced to decide between raising taxes or cutting services.  
+
+What will your state do?
+          
+
+
+
+
+
+
+No More Michigan Business Tax (MBT)??????
+
+
+Posted: 2011-05-23 13:11:10 UTC-05:00
+The Michigan Senate and House of Representatives have passed legislation to eliminate the infamous Michigan Business Tax (MBT) and create a new income tax on C corporations along with other changes.
+
+The bills are HB 4361 and HB 4362.
+
+The bills (or new tax) would take effect January 1, 2012.
+
+House Bill 4361 (H-1) would amend the Income Tax Act, eliminating numerous credits, deductions and exemptions, as well as changing future tax rates. House Bill 4361 (H-1) also would create a new Corporate Income Tax, levied on businesses organized as traditional corporations under Federal law. House Bill 4362 (H-1) would amend the Michigan Business Tax (MBT) Act to allow certain taxpayers that wished to claim select credits allowed under current law to continue claiming those credits if they continued to file returns under the MBT. House Bill 4479 would amend the Multistate Tax Compact to remove the option for certain out-of-state taxpayers to apportion their tax base (under either the MBT or the proposed Corporate Income Tax) using an equally weighted three-factor formula instead of the 100%-sales factor formula specified in the MBT and the proposed Corporate Income Tax.
+
+House Bill 4362 (H-1) would amend the MBT Act to provide for its eventual repeal and for certain taxpayers to continue to claim select credits. House Bill 4361 (H-1) contains complementary and duplicative provisions related to House Bill 4362 (H-1) and the option for certain taxpayers to continue to file a return under the MBT if they sought to claim certain credits. 
+
+Waiting for the Governor's Signature.
+          
+
+
+
+
+
+
+Where Should Your Company Relocate or Invest?
+
+
+Posted: 2011-05-16 10:13:42 UTC-05:00
+If your company is, or has been looking to relocate or invest in new operations and is not sure where to begin, then you may find the recent study put together by the Council On State Taxation (COST) and Ernst & Young, LLP extremely informative.
+
+The study provides a state-by-state comparison of the tax liabilities that new investments in selected industries or types of economic activities would incur in each state.  The analysis focuses on capital investments in industries that have location choices, such as factories or headquarters, rather than those that are tied to a specific geography, such as retailers or hotels.
+
+The study reflects a large difference in tax burdens among the states. Key findings include:
+
+Maine imposes the smallest burden on new investment due to factors such as a favorable corporate income apportionment formula that compensates for a relatively high tax rate, a property tax exemption for new equipment and low state and local sales tax rates. 
+Oregon ranks second due to an advantageous corporate income apportionment formula and the absence of a sales tax on business inputs and franchise taxes. 
+New Mexico’s state and local business tax system imposes the greatest burden of any state, resulting from factors such as a corporate income apportionment system that makes a large portion of the income from new investments taxable, an above average corporate tax rate and the imposition of a gross receipts tax on virtually all business activities. 
+You can review the study here.
+          
+
+
+
+
+
+
+The Michigan Business Tax:  Killed on Friday the 13th?
+
+
+Posted: 2011-05-13 13:44:37 UTC-05:00
+Well, its Friday the 13th; which makes me think (more than usual) that I can't believe everything I read.  
+
+With that said, according to recent activity in the Michigan legislature and the Michigan Chamber of Commerce website, the Michigan House and Senate have voted to repeal the Michigan Business Tax, otherwise known as the MBT.  The MBT replaced the ever-popular Single Business Tax or SBT a few years ago and has been under scrutiny ever since.
+
+The MBT currently consists of three parts - a gross receipts tax, an income tax, and a surcharge.  The Michigan House and Senate legislation changes the MBT to a flat rate corporate income tax.  Apparently the income tax would only apply to C corporations.  Partnerships and S corporations would be exempt.  
+
+It looks like 2011 is the last year for the MBT.
+
+Stay tuned for more details!
+          
+
+
+
+
+
+
+Michigan Amnesty or Voluntary Disclosure:  Don't Choose the Wrong One!
+
+
+Posted: 2011-05-05 08:36:41 UTC-05:00
+As I stated in an earlier post, Michigan has created an Amnesty program that runs from May 15 to June 30, 2011.  However, all taxpayers are NOT eligible to take advantage of this program.
+
+Please note that Michigan’s Amnesty program does NOT apply to taxpayers that are eligible to enter into Michigan’s Voluntary Disclosure Program. 
+
+In simple terms, a taxpayer is eligible to enter into the Voluntary Disclosure Program if:
+
+1. The taxpayer has not been contacted by Michigan, 
+2. The taxpayer has “nexus” or a taxable presence in Michigan, and
+3. The taxpayer has not filed a tax return.
+
+The Voluntary Disclosure Program has a four-year look-back period. The Amnesty program covers all tax periods prior to January 1, 2010. Therefore, the look-back period may be longer under the Amnesty program.
+
+The Voluntary Disclosure Program is available year-round. The Amnesty program is only available between May 15th and June 30, 2011.
+
+For more info on Michigan's Voluntary Disclosure Program, go to MI VDA.
+          
+
+
+
+
+
+
+Texas Franchise Tax:  Hot Topics for 2011 Filings Due May 15th!
+
+
+Posted: 2011-05-02 08:58:46 UTC-05:00
+The Texas Comptroller's Office published what it thinks are the Hot Topics for the 2011 franchise tax filings in its recent Tax Policy News.  
+
+The following items are addressed:
+Franchise Tax Web Service
+Passive Entity Reporting
+Apportionment (single-sales factor vs. MTC 3-factor)
+Temporary Credit Election
+Extensions and Mandatory EFT
+Combined Group Elections
+In addition to the above, I would say that with Texas, you need to do everything you can to properly file all of the correct forms to avoid receiving a notice later.  Remember to file your public information reports along with the franchise tax return.  Also, if you are filing a combined return, remember to attach the correct affiliate schedule to the combined return.  
+
+From a calculation standpoint, make sure to utilize the correct subtraction (wages, cost of goods sold or 30%) with the original return.   
+
+If you are looking for an easy way to estimate your company's franchise tax liability, check out Texas' online calculator.
+
+Texas also provides some additional guidance regarding what forms to file and how to E-file on its website. 
+          
+
+
+
+
+
+
+Multistate Tax Commission Holding Hearing on Model Notice and Reporting Statute
+
+
+Posted: 2011-04-29 09:38:08 UTC-05:00
+The Multistate Tax Commission is holding a public hearing on its draft "model" notice and reporting statute for remote retailers that do not collect sales tax on their sales.  The hearing is being held on May 18th, 2011 in Washington DC.  You can attend via phone.  You can also submit written comments prior to May 18th.  For all of the details, go to MTC public hearing.
+
+For a copy of the agenda and the draft "model" notice and reporting statute, go to MTC Agenda and Draft.
+
+As I discussed in earlier posts, the draft "model" statute appears to still be based on Colorado's enacted notice and reporting statute.  The "model" statute contains notification requirements for each transaction and also annual notification requirements.  On the positive side, it does contain an exclusion for companies with less than $100,000 in sales in the applicable state.  On the negative side, it contains penalties for non-compliance.
+
+There is currently an injunction against Colorado's notification requirements; and it is still to be debated or determined as to whether these requirements are constitutional.  Yet, the MTC is still moving forward????
+          
+
+
+
+
+
+
+Michigan Amnesty Program Details NOW Available!  (Begins May 15th)
+
+
+Posted: 2011-04-27 17:12:46 UTC-05:00
+As I reported in an earlier post, Michigan has enacted an Amnesty program that begins May 15th.  In addition, Michigan has just published some information on its website regarding the program.
+
+BACKGROUND 
+
+The Michigan Tax Amnesty program provides a 45-day window for taxpayers to settle tax liabilities with the State, for return periods ending on or before December 31, 2009 and avoid penalty payments. Qualifying taxpayers also avoid civil and criminal penalties and prosecution by the Michigan Department of Treasury.
+
+Tax Amnesty is available for individual or business taxpayers who have tax liabilities for eligible taxes for return periods ending on or before December 31, 2009. This includes: 
+Underreported tax liabilities 
+Non-reported tax liabilities 
+Overstated deductions, credits, or exemptions 
+Failure to file Michigan tax returns 
+Delinquent payment of past due taxes 
+Taxpayers who have received a final tax due notice 
+
+ELIGIBILITY
+
+Individuals and business taxpayers are not eligible for Tax Amnesty if they are: 
+The subject of a current tax-related Court of Claims case or criminal investigation 
+Eligible to enter into a Voluntary Disclosure agreement with the State 
+
+VOLUNTARY DISCLOSURE AGREEMENT (VDA) OR AMNESTY? Should a taxpayer file a Voluntary Disclosure Agreement or participate in the Amnesty program?   If a taxpayer is eligible to file a Voluntary Disclosure Agreement (VDA), then it cannot participate in the Amnesty program. This is actually good, because there is no limit to the look-back period under the Amnesty program. A VDA’s lookback period is 4 years. The Amnesty program covers all tax years prior to January 1, 2010, therefore, a  taxpayer would have to file all unfiled returns for years prior to January 1, 2010, and pay tax and interest. 
+Go to Michigan's website for more information on Michigan's Voluntary Disclosure program.
+
+          
+
+
+
+
+
+
+State Tax Notices:  A Game???
+
+
+Posted: 2011-04-25 02:00:08 UTC-05:00
+State tax notices, got to love them.
+
+I don't know about you, but I am seeing a lot more state tax notices being received by companies. Not only are they first time notices, but they are repeat notices, month after month. This is even after the taxpayer/company has responded to the first notice.
+
+It often feels like the state taxing authority never looked at the response sent by the company. Actually, I recently called a state taxing authority because a company received a repeat notice, and the state said they were probably six months behind on processing incoming responses/mail, etc. Therefore, the company would continue to receive a repeat notice every month until the company's initial response was processed.
+
+Disregarding repeat notices for the moment, even the first notice a company receives gives the perception that the state taxing authority did not even look at the documents that were attached to the originally filed return. The attachments often explain or provide the information that the notice is now requesting. This causes companies and taxpayers to devote additional time and resources to explain something again and again.
+
+Can't taxing authorities get better? Is it just a computer system gone awry? Lack of resources?
+
+What can taxpayers do to eliminate notices and repeat notices?
+
+I understand it isn't always the taxing authority's fault, some taxpayers don't provide adequate information. But for those that do, the notices keep coming.
+
+Sometimes it just feels like a game. A game in which the taxing authorities just want a company or taxpayer to give up and pay the additional tax, interest and/or penalties being imposed.
+          
+
+
+
+
+
+
+Nexus:  To File or Not to File?
+
+
+Posted: 2011-04-21 02:00:08 UTC-05:00
+This time of year, or any time of year, a company analyzes what activities it has across the country and in different states. Did the activity change from last year? If so, what activity is the company engaging in, in that particular state? Is it enough to give the company "nexus" or a taxable connection to the state?
+
+Different Types Of Nexus
+
+The answer to that question is not as easy as you might think. The technically correct answer, these days, is that just about any activity in a state gives you nexus. There are different types of nexus, such as: due process clause nexus, commerce clause nexus, substantial nexus, economic nexus, etc.
+
+P.L. 86-272
+
+The other question might be, is your activity protected by P.L. 86-272? To be protected by P.L. 86-272, the tax has to be an "income tax" or a "tax on income." That isn't always a clear cut answer either. After that, you have to be selling tangible personal property, and your only activity in the state can be solicitation of sales where the acceptance of the sale is done out of state. Lastly, the product should be mailed common carrier, not using your own trucks. Sounds easy?
+
+De Minimis?
+
+Now, if your activity isn't protected under P.L. 86-272, is your activity de minimis? Meaning, is your activity in the state not substantial enough to create nexus? Again, these days, everything seems to be substantial enough as states are looking for revenue from out-of-state companies.
+
+Technical vs. Practical?
+
+Okay, so that is the technically correct answer. But what do companies do on a practical level? What level of activity does a company say, okay, we will file a return. What if the apportionment factor is less than 1%? Is that the threshold that determines filing in state on a practical level? That probably isn't the sole factor, other factors might be the amount of tax at stake, the number of years of activity in the state, the future predicted activity in the state, etc. and the list goes on.
+
+What I am trying to say, is that determining if you have nexus or not is a difficult answer. The next question that follows is, "should we file?" Now, I know state tax department of revenues don't like that question, but in any occupation there is the technically correct answer and the practical answer. Sometimes it just depends on what day of the week it is that determines the answer to the question.
+
+Proactive vs. Reactive = Voluntary Disclosure
+
+Please note: I am in no way condoning the "practical approach" I have stated above. It's just throughout my career I have experienced companies that play the "wait and see" game when their activity in a state is minimal. On the other hand, companies can choose to be proactive and start filing; or when they have had a presence in a state for a number of years and haven't filed, they may choose to file a "voluntary disclosure." 
+
+A voluntary disclosure allows a company to come forward to a state, file a few back year returns, and obtain some penalty and/or interest relief in the process. Usually the taxpayer and the state agree to only require four back years' worth of tax returns in exchange for future compliance. 
+
+Remember, a voluntary disclosure is only able to utilized if the state has not already contacted you. If the state contacts you first, technically, the state can make the taxpayer file returns for all back years since the company started activity in the state. However, usually the state requires six or seven years of back tax returns. But unlike a voluntary disclosure, there is no relief for interest and penalties.
+          
+
+
+
+
+
+
+Unconstitutional State Taxes:  In Search of A Remedy
+
+
+Posted: 2011-04-18 02:00:10 UTC-05:00
+I wrote my thesis on this very topic several years ago. However, the issue remains alive and well today.
+
+When a state enacts legislation that later is found to be unconstitutional, what is the appropriate remedy? Prospective relief only? Retroactive refunds for all taxpayers for all years still open under statute? Retroactive refunds for only those taxpayers that have filed protective refund claims? 
+
+Or better yet, should states be allowed to change the unconstitutional legislation/statute in such a way as to make it constitutional? If yes, should states be allowed to make that change retroactive to limit the amount of refunds they will have to pay to taxpayers who paid the tax in prior years (or filed protective refund claims)?
+
+The answers to these questions were played out in California a few years ago, with the court cases that found the California LLC Fee to be unconstitutional. California changed the unconstitutional statute to make it constitutional in order to limit the amount of refunds it had to pay. However, should that be allowed?
+
+State Budget Problems = Unconstitutional Taxes and Fees?
+
+In regards to other states, I am concerned that as states continue to fight one of their worst financial budget crises, they will enact, knowingly or unknowingly, unconstitutional state taxes or fees. At this moment when states need new revenue (without "raising taxes” or political “fall-out") certain fees or taxes will become attractive alternatives. However, will those alternatives be constitutional?
+
+Unfortunately, if the past repeats itself, we may only recognize these statutes to be unconstitutional several years from now after the state has collected the taxes and fees. Again I ask, should this be allowed?
+
+It seems not only unfair, but perhaps “illegal,” for states to collect taxes by enacting laws later to be found unconstitutional, and then refuse to give the money back to taxpayers. How can a state profit from collecting taxes it should not have been allowed to collect in the first place?
+
+Remedy?
+          
+
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

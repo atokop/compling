@@ -1,0 +1,1 @@
+['area', 'blog', 'car', 'county', 'damage', 'event', 'fell', 'flash', 'flood', 'flooded', 'flooding', 'foot', 'go', 'home', 'hour', 'hurricane', 'image', 'inch', 'island', 'morning', 'new', 'news', 'ny', 'photo', 'rain', 'rainfall', 'record', 'report', 'road', 'service', 'state', 'storm', 'town', 'traffic', 'tv', 'twitter', 'video', 'water', 'weather', 'world']

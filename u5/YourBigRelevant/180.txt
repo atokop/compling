@@ -1,0 +1,700 @@
+Babbage | The Economist
+
+
+
+
+
+  
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+Log in
+Register
+My account
+Subscribe
+ 
+
+
+
+Digital & mobile
+Newsletters
+RSS
+Jobs
+Help
+
+
+
+
+        Tuesday September 6th 2011      
+
+
+
+
+
+Search this site:
+
+
+
+
+
+
+
+
+
+
+
+
+World politicsUnited States
+Britain
+Europe
+Asia
+Americas
+Middle East & Africa
+
+Business & financeAll Business & finance
+Business education
+Which MBA?
+
+EconomicsAll Economics
+Economics by invitation
+Markets & data
+
+Science & technologyAll Science & technology
+Technology Quarterly
+
+CultureAll Culture
+More Intelligent Life
+The Economist Quiz
+
+BlogsLatest blog posts
+Americas view
+Babbage
+Bagehot's notebook
+Banyan
+Baobab
+Blighty
+Buttonwood's notebook
+Charlemagne's notebook
+Clausewitz
+Daily chart
+Democracy in America
+Eastern approaches
+Free exchange
+Gulliver
+Johnson
+Leviathan
+Lexington's notebook
+Multimedia
+Newsbook
+Prospero
+Schumpeter
+
+Debate & discussEconomist debates
+Economics by invitation
+Ideas Arena
+Letters to the editor
+
+MultimediaAll audio
+All video
+The Economist audio edition
+
+Print editionCurrent issue
+Previous issues
+Special reports
+Politics this week
+Business this week
+
+ 
+ 
+
+
+
+
+
+ 
+Science and technology
+Babbage
+
+
+
+
+
+
+
+Internet traffic
+
+Will the internet burst into tiers? 
+
+    Sep 5th 2011, 15:40 by G.F. | SEATTLE  
+
+EACH year billions of billions of bytes of data flit across the internet. Ensuring that things do not get clogged up are transit providers, firms whose job it is to link up internet service providers which, in turn, offer internet access to individuals, businesses, government entities, or anyone else who wishes to tap into the web. As overall capacity increases, however, prices transit providers can charge drop precipitously. Yet they could be earning higher margins even as customers are priced at fairer rates. That, in any case, is the conclusion of a recent paper by Nick Feamster, of the Georgia Institute of Technology, and his colleagues. Dr Feamster notes that traffic is nearly always priced at blended rate. This resembles an indiscriminate road tax where all car owners pay the same lump sum regardless of how much they actually drive. The researchers therefore decided to compare the current pricing model with alternatives where the longer the distance a bit had to travel between two routing centres, the more cost they ascribed to its journey.In one version, with an unlimited number of tiers, every packet of data was priced individually based on the actual distance travelled, much like a metered cab fare. Another divvied up the packets into three or four discrete bands, such as local, regional and international, for instance, akin to public-transport where a price of a single ticket depends on how many zones one crosses to get to the destination.Such tiered strategies should, Dr Feamster reckons, plump up transit providers' margins. Higher demand in cheaper tiers should offset the cuts in fares there, while usage across the more expensive bands, which anyway make up a smaller proportion of traffic, tends to be less price sensitive. As for consumers, a content provider that mostly exchanges data within a single country, for instance, could make substantial savings if it were spared having to subsidise firms that use more expensive international link-ups. An infinite number of tiers would, of course, be the most economically efficient. However, it imposes its own costs, such as highly complicated billing. With three or four tiers, transit providers' margins would be only slightly lower (and, conversely, consumers would, on average, get a minimally better deal) than if they charged each packet for the precise distance travelled. But the tiered system would be much cheaper to manage. So far the researchers only looked at cost as a function of distance. Dr Feamster says the next step is to examine models in which price is tied to the time it took for a packet to be delivered, time of day or a slew of other parameters. Ultimately, dynamic pricing, which directly tracks demand as measured by network load, say, could be considered. All this may concern parts of the internet with which few people are familiar. Which is not to say it would not have palpable consequences for anyone cruising along the infobahn. 
+Recommend (35)
+Comment (3)
+ 
+
+
+Internet security
+
+Duly notarised 
+
+    Sep 4th 2011, 13:30 by G.F. | SEATTLE  
+
+FOR all its decentralised charm, the internet remains a top-down affair when it comes to security. Every time you connect to a secure website it is parties anointed with authority from on high that tell you whether or not the site should be trusted. Such dogma has been in place since the dawn of secured web communications. But heretics are becoming increasingly vocal. "It is insane to me that we can pick an organisation or set of organisations that we can trust not just now, but for ever, whether they continue to behave appropriately or not," laments Moxie Marlinspike, the man behind one of four related reformation movements which are beginning to challenge the old order. As Babbage discussed in an earlier post, part of the bedrock of internet security are digital documents called certificates. These are bundles of cryptographic information issued by third parties known as certificate authorities (CAs). A cryptographic watermark ensures that the certificate was in fact issued by the CA featuring on it. Certificates themselves do not guarantee that the website has been well set up and secured. (That falls to other parties like TRUSTe that perform certain forms of routine audits and offers seals of approval.) Rather, they are bound together cryptographically to particular internet domains to assure the user that he is in fact connected to the desired site, and not a malicious one pretending to be it. The point is to prevent so-called man-in-the-middle attacks, in which an interloper sneaks in between two parties and relays their mutual messages. Browsers and operating systems use built-in lists of trusted CAs. However, if a CA's reliability is called into question, the lists, which contain hundreds of names, cannot be easily updated. On August 29th news broke that a Dutch CA, DigiNotar, had improperly issued a certificate for all Google domains to a party other than the search giant. It ought not have issued such a certificate at all, and certainly not to a different firm. The company says its systems were subverted and independent security observers say as many as 250 certificates for an unknown number of domains were released. The Google document apparently remained valid for five weeks.When a purported Iranian user spotted the certificate in his country pundits noted that repressive governments like Iran's could use it to spy on their citizens. It would be especially useful to eavesdroppers capable of re-routing internet traffic and poisoning domain-name lookups, where a domain name typed in by a user is turned into an numeric machine address, but not the one the user intended. A user in such a subverted system might click on https://mail.google.com, the secure address for Gmail, say, only to be redirected to a computer operated by someone else. Normally, if the fake site then presented a certificate from an unknown or untrusted source, the browser would flag this up as a security threat. If, however, the fake certificate came with the imprimatur of a trusted CA, the user would be none the wiser. 
+Continue reading "Duly notarised"» 
+
+Recommend (67)
+Comment (4)
+ 
+
+
+Tablets
+
+Forking Android 
+
+    Sep 3rd 2011, 22:43 by G.F. | SEATTLE  
+
+AMAZON twice upset the book industry's apple cart in recent years. When it first burst onto the the scene in 1995, the virtual bookshop let readers order pretty much any book they wanted, without getting out of the house. Since it dispensed with the need for expensive brick-and-mortar outlets it could offer reads at heavily discounted prices. Then, even more disruptively, Amazon launched the Kindle, the first widely sold electronic-book reader, transforming a trade which has, since the invention of the printing press in the 15th century, relied on paper.Rumours have been rife for some time that Amazon is taking aim at another cart, this one dominated, rather fittingly, by Apple. The online retailer, which has over the years diversified away from books into just about every conceivable consumer product, was thought to be preparing to launch a general-purpose tablet running a form of Google's Android operating system. Now TechCrunch, a technology website, has offered a detailed overview of the next Amazon Kindle, a 7-inch tablet that it says is in final production testing and will hit the virtual shelves in October, just in time for Christmas, with a price tag of $250. TechCrunch, which is sometimes criticised for sketchy information, may have got some of the details wrong, but the gist of its apparently hands-on account rings true.So far alternatives to Apple's svelte tablet have failed to inspire. Apple still controls about two-thirds of the market for such devices. Some rivals, like HP, which announced it would stop making its underwhelming TouchPad, have thrown in the towel. Apple's strength stems from several factors. Since the firm uses the same operating system across all of its mobile devices, most of the existing library of hundreds of thousands of apps developed for the iPhone were available for the iPad, too. It also made it easy for developers to adapt existing apps to the iPad's larger screen. Some tens of thousands of apps now work exclusively on the iPad or in dual small- and large-screen versions. The company's cash hoard has apparently allowed it to purchase components, including 10-inch touchscreens, in such quantities that it obtains a higher margin, while locking down supplies. And its swanky Apple Stores let consumers easily try out and purchase the gadgets—or dispatch them for repair. Less frequently mentioned, though no less important, is Apple's vast catalogue of television programmes and films, and the infrastructure for delivering them. (Nearly all downloadable music stores offer only unprotected and standardised MP3 or AAC formatted audio, which can be played on any device.) Google, HP, RIM and other firms often stress how delightful watching video is on their assorted tablets. None, however, has offered seamless access to such content. Streaming was possible using an app from Netflix on a limited number of platforms and phone models, but streaming video, tolerable over Wi-Fi, is difficult and expensive over mobile networks. For travel, downloading remains a must.   
+Continue reading "Forking Android"» 
+
+Recommend (105)
+Comment (15)
+ 
+
+
+Mobile business
+
+Endless work 
+
+    Sep 3rd 2011, 15:57 by G.F. | SEATTLE  
+
+PERUSING the latest report on the habits of frequent business travellers, published by iPass, an outfit that sells roaming internet access to firms, Babbage could not help but feel for the modern white-collar worker. An earlier study by iPass found that majority of highly mobile workers around the world already toil for more than 50 hours in an average week, with 20% working 60 hours or more. According to the latest survey, three-quarters of the 3,100 businessmen and women interviewed say they work five to 20 hours a week more than their official working hours suggest. Downtime is becoming scarcer, with laptops and smartphones using ubiquitous wireless broadband connections, opening up the possibility to work anywhere and at any time. Expanding airborne internet access means that workers can be tapped even on traditionally tranquil flights.Human-resource managers would understandably rejoice at what amounts to more uncompensated overtime. More surprisingly, the respondents themselves seem remarkably cheery about the ever longer hours. They are also unfazed by the erosion of the divide between work and personal life. All but 6% believe that they are at least as productive with the flexibility to work nearly anywhere; over half say they are substantially more so. At the same time, nearly two-thirds said they found it easier to balance work and personal commitments, and about one in two were "marginally" or "substantially" more relaxed. This odd combination of more working hours and less down time with higher performance and greater satisfaction might be explained by another trend. In 2010, just 47% of respondents admitted to completely disconnecting from technology while awake. In 2011 that number soared to 68%. In other words, employees may have less and less time for personal life. But they are learning to take fuller advantage of the little they do have. 
+Recommend (95)
+Comment (13)
+ 
+
+
+Online forecasting
+
+And now, the gadget forecast 
+
+    Sep 3rd 2011, 12:17 by G.F. | SEATTLE  
+
+ASK any regular traveller who pays for his own tickets about fare pricing and you are likely to hear a string of obscenities. The variability from week to week—sometimes minute to minute—in the cost of a flight from point A to B can be maddening. Airlines use all the computational power at their disposal to maximise their returns by setting fares based on current and predicted demand. As a result, just poking around on airline and aggregator sites may alter the price. Naturally, it did not take long for a response to emerge. Sites like Farecast, Kayak and others use historical pricing information, among other things, to predict, with varying degrees of confidence, whether a rate currently on offer was likely to rise or fall. These data boost the buyer's confidence that he is not a sucker if he clicks the "pay" button now. Far less understood is how rapidly prices for consumer good change over both short and long periods, says Oren Etzioni, the co-founder of Farecast (since sold to Microsoft, and called Bing Travel). Eyeing an opportunity, Mr Etzioni launched Decide. The company, which is based in Seattle, estimates when a successor to a specific gadget will be rolled out and the odds that the lowest purchase price anywhere online will go up or down in the near future.  Dr Etzioni, a computer scientist at the University of Washington in Seattle who has founded four firms in all, says Decide relies on three main data sources: pricing data, news and rumours, and technical specifications. Pricing data comes from a variety of sources. Most are the company's trade secret, though they always include current prices of goods and sales data. The model also uses feedback about how its predictions fare over time to fine-tune their probability estimates. With news and chatter, Decide scores sites by how accurate their scoops are for particular categories of goods. The algorithm discounts rumour-mongers and gives a greater weight to reliable sources. So far, the firm has amassed a year's worth of data, many thousands of gigabytes in total.  
+Continue reading "And now, the gadget forecast"» 
+
+Recommend (138)
+Comment (10)
+ 
+
+
+Disaster prevention
+
+Difference Engine: Whole lot of shaking 
+
+    Sep 2nd 2011, 7:19 by N.V. | LOS ANGELES  
+
+DRENCHED and battered by Hurricane Irene, and facing a clean-up bill pushing $10 billion, residents on the east coast of America have understandably had more on their minds over the past week than the earthquake which struck the Piedmont region of Virginia a day before the tropical storm swept ashore. Yet, the shaking caused by so modest a tremor, at such distances from the epicentre, caught experts by surprise. In the long term, the Virginian earthquake could trigger a bigger shake-up in disaster precautions at nuclear-power stations in America than even the Japanese catastrophe at Fukushima.The magnitude 5.8 quake that struck 38 miles (61km) north-west of Richmond was felt as far west as Wisconsin, as far south as Atlanta, Georgia, and as far north as Montreal, Canada. Damage was reported over 300 miles away in Brooklyn, New York. The White House, the Capitol and other buildings in Washington, DC, had to be evacuated. Cracks were even detected in the Washington Monument—the tallest stone building in the world—which is now closed indefinitely. Washington National Cathedral lost capstones from three of its spires, and cracks were found in several of its flying buttresses. All this from a seismic event that would barely rate as an after-shock in California. Earthquakes on the West Coast are more frequent and can pack a much greater punch. Size for size, though, their rattlings are rarely felt at quite such distances.Put that down to the difference in the age of the rocks. As the relatively young Pacific plate dives beneath the continental land mass, sudden slippages along the grinding rock faces breed swarms of earthquakes, big and small. But the majority of shockwaves so created quickly dissipate as they run into fractures and hotter rocks deep beneath the surface. Subjected to stress, rocks above 300ºC or so tend to flow rather than rupture. And because fluids cannot handle shear forces anywhere near as well as solids, the potent S-waves from an earthquake (the secondary, or shear, waves that shake the ground from side to side and knock down buildings in the process) eventually fizzle out. An earthquake’s faster-moving P-waves (primary, or pressure, waves that push the ground longitudinally) get through, but they carry far less energy and do little damage.By contrast, the crustal rocks that created the Appalachian and Allegheny mountains in the east of the country, being hundreds of millions of years older, have had ample time to cool down. In the process, they have become denser and harder. Unlike in California, seismic activity on the East Coast is usually shallow and well away from the boundaries where tectonic plates collide. As a result, earthquakes in bedrock east of the Appalachians tend to ring the earth like a steel girder being struck with a hammer. West of the Rockies, the effect is more like a rubber tyre bouncing over a pothole. All told, eastern earthquakes can shake areas ten times greater than comparable western ones.  
+Continue reading "Difference Engine: Whole lot of shaking"» 
+
+Recommend (72)
+Comment (10)
+ 
+
+
+Innovation
+
+To boldly go where no start-up has gone before 
+
+    Sep 1st 2011, 8:59 by L.B. | SAN FRANCISCO  
+
+THE motto of the Starfleet Academy, the nursery of future leaders and humanitarians in the fictional universe of Star Trek, was "Ex astris, scientia". Peter Diamandis, an entrepreneur who set up the X-Prize Foundation to spur innovators into tackling grand technological challenges, has turned the credo around. He wants to use knowledge to reach for the stars—both literally, by promoting private human spaceflight, a cause particularly dear to Mr Diamandis, and figuratively. Together with fellow techno-utopian Ray Kurzweil, he created what he calls “a Starfleet Academy for the world's biggest challenges”. Founded in 2009, Singularity University is based at NASA's Ames Research Center in Silicon Valley and inspired by Mr Kurzweil's idea of technological singularity, an innovation (like artificial superintelligence) which will one day completely upend the way the world works. Its ten-week graduate program attracts serial entrepreneurs, engineers, fighter pilots, roboticists and political advisers. Their rather ambitious study goal is to get an inkling of the most rapidly-advancing technologies, and then to figure out how they can help change the world—or, more specifically, improve the lives of one billion people in the next decade.Star faculty members include Astro Teller, the head of innovation at Google, and Vint Cerf, one of the fathers of the internet. They are joined by a bevy of experts in what Mr Diamandis refers to as “exponentially growing technologies”: nanotechnology, artificial intelligence, brain-machine interfaces, synthetic biology and the like. Field trips take students to see the Valley's hottest new thing. Itineraries have included the headquarters of Tesla Motors, a maker of electric sports cars, Willow Garage, a lab which develops personal robotics, 3D printing centers, or the home of Google’s self-driving car. It is, in effect, a summer camp for geeks, albeit ones who will not blink when they tell you they intend to change the world.On August 25th the third graduating class presented ten business proposals to a crowd of their professors, angel investors and tech grandees, a couple of hundred in all. Each presentation lasted ten minutes, was long on ambition and excruciatingly short on detail—hardly surprising given that the teams had just five weeks to come up with their ideas.  
+Continue reading "To boldly go where no start-up has gone before"» 
+
+Recommend (77)
+Comment (7)
+ 
+
+
+Sport and technology
+
+Howzat! 
+
+    Aug 31st 2011, 18:06 by A.A.K. | MUMBAI  
+
+AS A fast bowler hurls the ball along the so-called "corridor of uncertainty" cricket fans hold their breath. When the orb lands in that area most batsmen struggle to tell whether to lean ahead, play back, or poke at it at all. A split-second of indecision is sometimes enough for the cherry to brush the outside edge of the bat on its way into the wicketkeeper’s gloves. However, faint nicks sometimes go unnoticed by the umpire. This, combined with the game's laws which stipulate that any doubt should be interpreted in the batsman's favour, leads many a bowler to feel put upon. Technology might offer them some solace.Unlike that other great British game, football, cricket has not shied away from technological novelties. On May 18th 1994, during a five day Test match (a format beloved of purists) between India and South Africa, Sachin Tendulkar, hailed by many as the greatest batsman of his generation, became the first cricketer to fall to an umpiring decision aided by slow-motion television replays. He was declared run out when he failed in time to ground his bat behind the crease, a white line in front of the stumps.Spotting run outs in this manner is relatively easy. Detecting nicks, by contrast, is tricky even in slow motion. So another newish technology, called the "Hot Spot", is also being deployed. It harnesses both slow-motion replays and infrared imaging. Heat-sensing cameras are pointed at the batsman from the boundary line. When the ball hits the bat, the batsman’s leg pad or the pitch, the resulting friction produces heat, which shows up in the cameras as a bright white mark. Hot Spot has become popular with umpires, as it makes it easier to deal with the huge number of appeals from the fielding side whenever the ball hurtles past the bat at speed. Warren Brennan, CEO of BBG Sports, the Australian company behind the Hot Spot, admits that the technology is imperfect. Where the afternoon sun is low, sunlight reflected off the bat may confuse the heat sensors. Here, using four, rather than the usual two cameras, helps, offering additional crosschecks. Renting four cameras cost around $10,000 a day, as opposed to $6,000 for just two, but that is not beyond the means of organisers or sponsors, especially of big international matches. Moreover, fielding players sometimes obstruct the camera's view of the batsman. By December, though, when India is sheduled to tour Australia, Mr Brennan hopes to mount the cameras on a trolley, so they could always shuffle to a favourable vantage point. 
+Continue reading "Howzat!"» 
+
+Recommend (98)
+Comment (10)
+ 
+
+
+Babbage: August 31st 2011
+
+Beyond the Kindle 
+
+    Aug 31st 2011, 15:19 by The Economist online  
+
+Linux celebrates its 20th anniversary, Amazon looks to the tablet market and Google gets caught in a scandal over pharmaceuticals 
+Recommend (82)
+Comment (6)
+ 
+
+
+Online anonymity
+
+Comments not disabled on this post 
+
+    Aug 31st 2011, 13:17 by G.F. | SEATTLE  
+
+IN THE recent debate over whether every internet user should be somehow required, possibly by law, to identify himself by a real name, the popular blog site BoingBoing would have been expected to adopt a firm stance. Its editors and guest contributors—of which this Babbage is one—tend to be fierce defenders of digital freedoms and online privacy. Surely, then, the Directory of Wonderful Things, as BoingBoing likes to call itself, embraced perfect anonymity when it recently migrated its commenting system to a new software platform? Not at all. The BoingBoingers may be idealistic, but they also are practical. The site still requires users wanting to post comments to confirm registration by e-mail. Editors and moderators briskly remove and bar posters violating rules of decorum, taste and other factors, according to Rob Beschizza, the managing editor. The migration to the Disqus system for comments on the site preserves all of this. It also makes life easier for prolific commenters, as it allows the option to use a single identity across many Disqus-using sites. As an added bonus, it dramatically reduces the load of spam and slashes the time required to delete any that does get through. Mr Beschizza distinguishes anonymity, where no user information is required, and pseudonymity, in which users adopt a nom de commentaire, but are still required to show a valid e-mail address. The address is not displayed, nor is it divulged by BoingBoing to third parties. Requiring users to disclose it does, however, provide the first line of defence against automated spamming systems. It also puts off lazier discussants. But then, as Mr Beschizza notes, "very little useful commentary came in from unregistered pseudo-anonymous postings." (In keeping with BoingBoing's consensus-seeking spirit, Mr Beschizza emphasises that like all other staff, he does not speak for the site as a whole, and can only present his own views.) Most commenting systems that promise anonymity fail to deliver it. Anonymous accounts are still tracked in web logs and leave traces of activity across a site. BoingBoing is perfectly happy to allow users to employ any name they choose. It is left to the users to register via an avowedly anonymous mail service, like Hushmail, or employ a system like Tor to prevent tracking individual page requests. "If someone wants to be anonymous, they have to consciously make themselves anonymous," Mr Beschizza says. BoingBoing's comment policy is not an unfettered, anarchic free-for-all, in which all parties coming to the site may espouse any views they see fit. In Mr Beschizza's words, "free speech isn't a right to be published by other people." What people want is not so much the ability to comment, but a venue where their speech is amplified, he explains.   
+Continue reading "Comments not disabled on this post"» 
+
+Recommend (73)
+Comment (24)
+ 
+
+
+Mid-air collisions
+
+Watch out, there's a plane about 
+
+    Aug 30th 2011, 12:09 by The Economist online  
+
+AIRLINERS and air-traffic-control centres are in the process of adopting a new navigation system, called Automatic Dependent Surveillance-Broadcast (ADS-B), which uses the satellite-based global positioning system to work out where an aircraft is. ADS-B is more accurate than the existing arrangement, which is based on radar and signals from radio beacons, and will supplement it. Among other things, this should make automatic collision-avoidance systems more reliable. The anti-collision equipment currently fitted to jets has already helped make mid-air encounters between airliners rare, but many light aircraft and helicopters are not fitted with such kit. On average there are 12 mid-air collisions between small aircraft in America every year, causing 19 deaths—and a lot more near misses.One reason is that existing automatic collision-avoidance systems are too expensive for most private pilots. The shift to ADS-B should change that. But the new arrangements also have to be reliable. If pilots keep getting unnecessary alerts, they will tend to ignore them. If an alert is not issued when it should be, however, the result can be a mid-air collision.John Hansman and his colleagues at the Massachusetts Institute of Technology (MIT) think they have a solution to that. Their proposal is to surround each light aircraft with two concentric, vertical cylinders of airspace that resemble virtual “hockey pucks”. The smaller, central cylinder is called the Collision Airspace Zone (CAZ). It envelops the aircraft tightly and always remains the same size. Anything entering this volume of air is likely to hit the aircraft. The larger cylinder, which surrounds the CAZ, is the Protected Airspace Zone (PAZ). It changes in size during the different phases of a flight, according to the risk of a collision. For instance, when a series of aircraft are coming into land their speeds are low and they are under constant radar surveillance, so the PAZ of each can be smaller than when the same planes are en route, perhaps across an ocean or desert where there is no ground-based radar coverage. The higher the closing speed of two aircraft heading towards each other, the bigger the PAZ required, because the pilot needs more time to react to a warning.The level of warning is determined by an algorithm the researchers are developing. This predicts where each aircraft in the vicinity will be 60 seconds or more into the future. The ability to do that is made possible by ADS-B, which transmits an aircraft’s position, altitude and speed once every second to anyone who cares to listen. A moderate alert would be given if the CAZ of one aircraft was on course to enter another’s PAZ. A high alert would happen if the two CAZs were on a collision course. The pilots would then follow set procedures to take evasive action.To calculate how this will work in practice, and the optimum sizes of the buffer zones, Dr Hansman’s team have been using historical flight data from the San Francisco area and computer models of air traffic developed at MIT. This allows them to feed in many different flight patterns and adjust the algorithm accordingly. The team are working with America’s Federal Aviation Administration (FAA) and Avidyne, a firm that makes flight instrumentation, to develop the system. Flight testing should begin early next year and once the bugs have been shaken out of it, it might be used to improve the accuracy of the anti-collision systems fitted on airliners as well as light aircraft. It will also be used to help set certification standards for 2020, when the FAA has decreed that all commercial planes, and also the tens of thousands of light aircraft and helicopters that fly around America, must be equipped with ADS-B if they want to pass through controlled airspace.Dr Hansman’s invisible pucks could help, too, with another problem that has been worrying the FAA: the growing use of unmanned aerial vehicles. Although such drones are, for the moment, confined mainly to military areas, civilian versions are being developed for tasks like border patrols, and search and rescue missions. This often means flying in remote areas with no radar coverage. Drones already use GPS data to know where they are, but if they were equipped with ADS-B and the necessary algorithms they would be better able to avoid both each other and those quaint aircraft that still have pilots sitting in the cockpits. 
+Recommend (83)
+Comment (4)
+ 
+
+
+Cosmic rays and CLOUD
+
+The world's cleanest tank 
+
+    Aug 26th 2011, 16:58 by The Economist online  
+
+Researchers at CERN are using the world's cleanest chamber and a beam of fake cosmic rays to see how real ones may help seed clouds Read the article here 
+Recommend (165)
+Comment (3)
+ 
+
+
+Tablet computers
+
+Difference Engine: Reality dawns 
+
+    Aug 26th 2011, 7:52 by N.V. | LOS ANGELES  
+
+LAST week’s bombshell announcement by Hewlett-Packard that it was hiving off its personal-computer business—and, in particular, would cease making tablet computers and mobile phones forthwith—was greeted with shock and horror, plus a 20% plunge in share price. Canny investors promptly snapped up the depressed stock, realising it was the smartest move HP has made in years. More than anything else, the announcement showed that the firm had finally seen the light about the tablet market—namely, that there is no such thing.What exists instead is a rip-roaring market for iPads. Tablets based on Google’s Android, Hewlett-Packard’s webOS, Microsoft’s Windows, and Research In Motion’s BlackBerry operating systems have failed dismally to capture consumers’ hearts and minds the way Apple has with its iconic iPad. You only have to look at the numbers. Apple’s share of the tablet market is over 61% and growing, while all the Android tablets together make up barely 30% and are being squeezed. According to Strategy Analytics of Newton, Massachusetts, Windows tablets account for 4.6% and Research in Motion’s 3.3%. Sooner or later, the rest of the iPad wannabes are going to realise that, just because Apple has a runaway success on its hands, they cannot charge Apple prices for their hastily developed me-too products and expect consumers to clamour for them. It is not that Android tablets are technically inferior. Many more than match the iPad’s specification—though none feels quite as slim and svelte to the touch or as pleasing to the eye. Nor do any of the pretenders work as instantly and instinctively when taken out of the box. Add the classy consumer experience offered by Apple Stores, and the iPad’s sales proposition becomes irresistible. But the ultimate killer feature that Android and other tablets have failed to replicate is the care Apple took from the start to ensure enough iPhone applications were available that took full advantage of the iPad’s 9.7-inch screen. Today, over 90,000 of the 475,000 applications available online from Apple’s App Store fully exploit the much larger screen size. By contrast, only a paltry 300 or so of the nearly 300,000 apps for Android phones have been fully optimised for the Honeycomb version of the Android operating system developed for tablets—though many of the rest scale up with varying degrees of success.Overall, the difference between Apple and the rest is that, with the iPad (as with the iPod and iPhone before it), Apple invented a whole new product category—one that seamlessly integrates the company’s own hardware with its own means of delivering applications and content. All that tablet-makers like Acer, Asustek, Lenovo, Hewlett-Packard, Research In Motion, Samsung and Toshiba did was to squeeze a netbook computer into a thinner case by dispensing with the cover, keyboard and hard-drive. That made them, at best, suppliers of niche hardware. And yet, such is the hubris, they expect customers to pay Apple prices for their half-baked offerings.Take Hewlett-Packard’s now defunct TouchPad. This was priced initially at $499 for the basic 16 gigabyte version—the same starting price as the iPad. When there were few takers for the TouchPad because it was over-weight, under-developed and lacked key features like a rear-facing camera, the price was lowered to $399. And still the TouchPad failed to kindle interest among consumers. But when, last week, HP slashed the price to $99 to liquidate its unsold stock as it quit the business, TouchPads flew off the shelves faster than iPads have ever done. By some reckoning, three months supply disappeared in a day. 
+Continue reading "Difference Engine: Reality dawns"» 
+
+Recommend (359)
+Comment (51)
+ 
+
+
+Prostheses in sport
+
+Running foul? 
+
+    Aug 25th 2011, 15:42 by C.S. | NEW YORK  
+
+THIS weekend South African double amputee Oscar Pistorius will set his carbon-fibre prostheses into the starting blocks alongside able-bodied sprinters at the World Athletics Championships which begin on August 27th in Daegu, South Korea. The 24-year-old Mr Pistorius holds the double-amputee world records for all the sprint distances (100, 200 and 400 metres) and has been competing against non-handicapped athletes in international races since 2008. Last month he ran the 400 metres in 45.07 seconds, quick enough to qualify for Daegu, as well as for the 2012 Olympics in London.Born without the fibula, one of two bones which support the calf muscle, Mr Pistorius’s legs were amputated below the knee before his first birthday, the age by which most toddlers have learned to stand and many are learning to topple forward into their first steps. Incredibly, the simple physics of this tipping motion combined with his carbon-fibre calves have converged to produce one of the most efficient runners in history. Mr Pistorius began sprinting in January 2004 after sustaining a knee injury while playing rugby. Eight months later, aged 17, he won gold in the 200 metres at the Athens Paralympics, setting a world record in the process. His remarkable running economy was recognised by the International Association of Athletics Federations (IAAF), the sport's governing body. In March 2007 it intervened to prevent Mr Pistorius from racing against able-bodied athletes, introducing a rule banning devices incorporating springs. He appealed, submitting to tests comparing his gait and physiology to those of other athletes, to no avail; the IAAF upheld its decision. A year later, however, the Court of Arbitration for Sport, a tribunal deal with all manner of sporting controversies, overturned the ban, rebuking the IAAF for its handling of the matter.Much of the debate has centred around whether an amputee, with less muscle mass, has a metabolic advantage over those with their limbs intact. The rub is that measurements of an individual's metabolic capacity vary over time and are only ever indicators of potential performance. The highest aerobic capacity in a field of athletes is no guarantee of victory. Pistorius was found to be exerting 25% less energy than able-bodied athletes (a discrepancy he has no doubt been training to remedy ever since). 
+Continue reading "Running foul?"» 
+
+Recommend (196)
+Comment (41)
+ 
+
+
+Babbage: August 24th 2011
+
+Brainier chips 
+
+    Aug 24th 2011, 14:18 by The Economist online  
+
+A TRIO of surprising announcements at HP, IBM's new brain-like chip, and Skype gets into group messaging. 
+Recommend (149)
+Comment (1)
+ 
+
+
+Touch-screen keyboards
+
+Tablets reverting to type 
+
+    Aug 24th 2011, 12:56 by P.M.  
+
+THE keyboards that appear on tablet computers using a touch screen,   such as the Apple iPad, can be a touch fiddly to use. They can be particularly frustrating for those who   have mastered the art of touch typing: resting your fingers on any part of the virtual keyboard,   as you would on a mechanical one, results in activating an unwanted key. And since the keypad is flat, there are no tactile hints as to where the keys are located.   As a result, typing can be slow and error prone. Now, though, Christian Sax and   Hannes Lau of the University of Technology in Sydney think they have   come up with an alternative. They call it the LiquidKeyboard and they unveiled its prototype on August 23rd at the Tech23 conference in Sydney.
+
+
+
+
+When the user puts his fingers on the surface of the screen a group of   keys morphs around each individual finger. The system senses the positions of the fingers and, by calculating the surface area of a   finger touching the screen, its relative pressure. The positions of   the surrounding keys are set in relation to each finger. The position of the groups of keys can be varied according to finger positions and a user's preferences. (See the video for a demonstration of how it works.) The system allows a typist to find keys and to touch type without tactile feedback, say the researchers, who are looking for partnerships to develop the technology. It might take a bit of getting used to, but for frustrated touch typists that might be worth the effort. 
+Recommend (173)
+Comment (22)
+ 
+
+
+Display technologies
+
+A multilayered solution 
+
+    Aug 24th 2011, 9:56 by The Economist online  
+
+E-READERS, such as Amazon’s Kindle, have been a commercial success. They have not, however, revolutionised the publishing industry in quite the way that many predicted they would. In part, that is because their displays are black and white, and they seem to many readers to be slow, grainy and—if truth be told—a little archaic. Better screens might make the difference between e-readers being intriguing gadgets and killer apps, and Shin-Hyun Kim and David Weitz, who work at the Experimental Soft Condensed Matter group at Harvard University, think they may have found a way to build those better screens.Unlike conventional display screens, which are lit from behind, e-readers use reflected light in a way similar to paper. Letters and other characters on the screen are formed out of ink that has a high optical contrast with the background, making them easy to read. The difference is that, rather than being printed into permanent shapes like normal ink, electronic ink is held in small capsules that can reveal it or hide it as required. The result is legible even in bright sunlight. But it often takes more than half a second to “turn” the page of an e-book (so displaying the 25 images a second needed for video is out of the question). And, although the size (roughly 100 microns across) of the elements, known as pixels, that make up the display is fine for monochrome reading, they would need to be a third of that or less to create sub-pixels of the three primaries (red, green and blue) that colour displays require. The answer proposed by Dr Kim and Dr Weitz, in a paper in Angewandte Chemie, is to change the way e-ink is manufactured.At the moment, such ink is composed of small, transparent spheres containing black and white particles suspended in a clear fluid. Half the particles are white and positively charged. The other half are black and negatively charged. When an electric field is applied, one lot is drawn towards it while the other is repelled. A negative charge attracts the positive particles, making the pixel appear black. A positive charge does the reverse.The problem, according to Dr Kim and Dr Weitz, is that the densities of the black and white particles are different, and therefore cannot both be made to match that of the fluid in which they are immersed. This slows down their movement, and thus the speed at which a screen can refresh its image. A better solution would be to immerse the black particles in one fluid and the white particles in another (so that in both cases their densities match that of the suspending liquid)—yet, at the same time, to continue to package both types of particle in a single sphere. To do so, the pair turned to a technology called microfluidics, which borrows from the techniques used to make computer chips to produce devices that mix small amounts of liquid in precise ways. Their own, particular device uses tiny channels to force two different liquids (one of which contains ink particles) in one direction down a channel, through a nozzle, thus bringing them into contact with two other streams travelling in the opposite direction. As the four streams collide they are forced into a third channel, forming layered droplets as they go. Normally, this sort of single-step mixing would not work, because of the difficulty of getting two liquids to flow stably through one channel. However, by using an oily liquid and an aqueous one, and by covering one side of the channel with a substance that repels water and the other side with one that attracts water, this can be avoided. The result is a “Russian-doll” droplet that, if the correct oily and aqueous liquids are chosen, can be made permanent by curing some of its layers into transparent polymers using ultraviolet light.To demonstrate, Dr Kim and Dr Weitz created what they call magnetic ink. This consists of an oily core containing magnetic particles mixed with carbon black, which is suspended within a watery layer that contains white polystyrene particles. That, in turn, is suspended in a transparent oily fluid. Like those in e-reader displays, the black and white particles can be drawn towards or away from the viewing surface (in this case using a magnetic field, rather than an electric one). They move much faster than those in traditional displays, though, because their densities are closer to those of the suspending media. If the new droplets can be incorporated into real screens, that will deal with the slow refresh rate.The next stage is to include all three primary colours in a single droplet. That is some way off. But if it proves possible, it will deal with the black-and-whiteness problem, too, by providing full-colour pixels that have the same number of droplets as monochrome ones.Turning this invention into a screen will take time. Indeed, it may never come to pass, for many other groups are approaching the e-reader problem from different directions. But whatever happens to this specific idea, Dr Kim’s and Dr Weitz’s invention is likely to have larger ramifications. It might, for example, be used to package together drugs in slow-release capsules of greater sophistication than is now possible. 
+Recommend (143)
+Comment (5)
+ 
+
+
+Online privacy
+
+Beware the cookie monster 
+
+    Aug 22nd 2011, 6:37 by G.F. | SEATTLE  
+
+NO FEELING makes chills run more feverishly up and down a spine than the sense that its owner is being watched. People whose spines tingle a bit too often are typically branded as paranoid. Go on the web, however, and your spine ought reasonably to go into crisis mode. Internet users are indeed being tracked all the time. And shaking off a virtual tail can be tough. The reason is a tiny chunk of text called a cookie. It is inserted by websites into a browser to help them identify a user as he loads pages in succession, or returns on subsequent visits. They come with an expiration date, which can be minutes or years ahead, after which the browser deletes them.Cookies are a staple on sites which require users to log in, allowing for a continuous session after a single authentication. They may also be used to store preferences without an account, such as text-viewing size. Millions of sites use cookies for analytics; they permit a user's page requests to be divided into sessions and then aggregated into visitor counts and other metrics that tell a site's owners what people are reading, where they come from and how they move about. Cookies have a more directly commercial purpose, too. They are used to track behaviour, and so target advertising. Cookies let marketers pinpoint the sorts of offers likely to attract a particular user. That lets sites demand higher fees for virtual hoardings. Last October Babbage described the evercookie, a practical experiment by a programmer to demonstrate how persistent tracking codes might be embedded in a browser to follow users around, even when they made every effort to delete such tracking elements. The evercookie, designed by Samy Kamkar, used a grab bag of techniques to tuck away a unique identifier in non-obvious spots in a browser's cache, and packaged them together into a single chunk of programming code. To get rid of the evercookie, a user would have to delete the tag from every nook it was hiding in. Leaving even a single one would lead to the tag being multiplied and restored, or respawned, in the browser's cookie jar. Recently, a group of researchers released a report describing commercial use of two previously unseen types of tracking components, and the persistent use of an older technique. All three approaches enable indelible tracking. Worse, one of the methods follows a user even through a privacy mode where all pages, actions and caches are ostensibly deleted at the end of a browser session. Privacy modes are used on shared computers in libraries or hotels to prevent divulging previous users' private information, as well as for more lurid online activity which users would rather others (like parents or spouses) did not find out about.In 2009 the same group revealed that Adobe's Flash multimedia plug-in could store identifiers independently of the browser and that many websites would reinsert—or, more colourfully, respawn—a deleted browser cookie by consulting the Flash cache. Their new report examines these techniques. More cheerily, it also notes a substantial reduction in privacy-invading behaviour by the 100 most frequently visited websites. Ashkan Soltani, one of its authors, has just posted more extensive technical details to back up the report's conclusions.  
+Continue reading "Beware the cookie monster"» 
+
+Recommend (217)
+Comment (20)
+ 
+
+
+High-definition television
+
+Difference Engine: Devil in the details 
+
+    Aug 19th 2011, 7:45 by N.V. | LOS ANGELES  
+
+IF YOU have not gone shopping for a new television set for quite a while, enough has changed to require some serious thought. Your correspondent has finally given in to family pressure to create a dedicated media lounge. Given the limited resources, this is unlikely to be some 24-seat viewing room with a silver screen, curtains and digital projectors to rival the home theatres created for the likes of Steven Spielberg or Larry Ellison. The good news is that, with modern television sets, it does not have to be. A spare room, with a couch and a couple of easy chairs, plus a large enough flat-panel television and a reasonable audio system, can more than meet most family’s viewing needs. Before splurging on a fancy new high-definition television (HDTV) set, though, it is worth considering what features make sense and what do not. Start with the viewing angle. THX, a technical standards-setter for the video and audio industries, requires the back row of seats in a home theatre to have at least a 26º viewing angle from one edge of the screen to the other. Seats nearest the screen should have a viewing angle of no more than 36º. These subtended angles correspond to a viewing distance of roughly 2.2 times the screen width at the back row of the seating down to 1.5 times the screen width at the front. Within these limits, viewers should be able to enjoy the most immersive experience. The question then is how to relate viewing distance to a person’s visual acuity. In other words, what is the maximum distance beyond which some picture detail is lost because of the eye’s limitations? Visual acuity indicates the angular size of the smallest detail a person’s visual system can resolve. This depends on the sharpness of the retinal focus within the eye, and the sensitivity of that part of the cortex that interprets visual stimuli. Someone with 20/20 vision (6/6 in metric terms) can resolve a spatial pattern (of, say, a letter in the alphabet) where each element within it subtends an angle of one minute of arc when viewed from a distance of 20 feet (six metres). In other words, a person with 20/20 sight should, in normal lighting conditions, be able to identify two points that are 0.07 of an inch (1.77mm) apart from a distance of 20 feet. Twenty feet is taken because, as far as the eye is concerned, it is effectively infinity. A person who can detect individual elements that make up, say, the letter “E” on the eighth line of an optometrist’s Snellen chart—and thereby recognise that the letter is an “E” and not a “D”—is said to have normal 20/20 eye sight. Someone with 20/40 sight can see objects at 20 feet that those with normal sight can see from 40 feet. In many countries, 20/200 is the legal definition of blindness. Meanwhile, 20/20 vision is not perfect vision; it is merely the lower limit of normal sight. The maximum acuity of the human eye is around 20/8. Some birds of prey are thought to have eye sight as sharp as 20/2.As far as watching television is concerned, visual acuity represents the point beyond which some of the detail in the picture can no longer be resolved by the conical receptor cells in the retina of the eye. It will simply blend into the background instead of being seen as a distinct feature. Thus, it is a waste to make individual pixels—the tiniest elements in a display—appear smaller than 0.07 of an inch when viewed from 20 feet.The problem with viewing images on a television screen—especially a high-definition one like the 1080p HDTV sets in use today—is that most people sit too far back. A survey made some years ago by Bernard Lechner, a television engineer at the former RCA Laboratories, near Princeton, New Jersey, showed that the median eye-to-screen distance in American homes was nine feet. At that distance, a 1080p HDTV set (with a screen 1,920 pixels wide and 1,080 pixels high) needs to be at least 69-inch across a diagonal if viewers are to see all the detail it offers. In practice, the most popular television size in America today is 32 inches. To see all the detail on a 1080p set of that size means dragging the chair forward from nine feet to a little over four feet from the screen. If it were an older 720p television set (1,280 pixels wide and 720 pixels high), sitting six feet from the screen would suffice to see the full quality of the image.Put another way, viewers cannot enjoy the full benefits of the higher pixel count of 1080p television if they sit any further back than 1.8 times the screen width. At 2.7 times the screen width, they might as well use a cheaper 720p set instead, as the eye cannot resolve the finer detail offered by a 1080p screen at that distance. Unfortunately, while 720p sets offer good value, they are becoming difficult to find. Manufacturers focus all their marketing efforts these days on higher-margin 1080p sets.As far as screen sizes and viewing distances are concerned, a room measuring ten feet by 12 feet is therefore more than adequate for watching a 50-inch television set, with viewers no further than six-and-a-half feet from the screen. The question, then, is what kind of 1080p set to use—plasma display, liquid-crystal display (LCD) or the latest light-emitting diode (LED) variety?  
+Continue reading "Difference Engine: Devil in the details"» 
+
+Recommend (226)
+Comment (18)
+ 
+
+
+African innovation
+
+Out of Africa 
+
+    Aug 18th 2011, 17:12 by J.O. | PARIS  
+
+J.O. appears courtesy of Global Voices Online, an international community of bloggersAFRICAN technology pundits cheered when a Congolese company announced in June that it would be launching a new Android tablet computer "designed in Congo" in September. Technological innovation is rare on the continent and advocates and consumers alike latch onto every new development, often regardless of quality or price. When I raised serious doubts about whether the new tablet could truthfully be called African, several Africans refused to consider the possibility, accusing me on Twitter (this and most other links in French) of being a traitor to the cause of African development or, hailing from Cameroon, envious of go-ahead Congo.More than two weeks since an article published on Global Voices raising questions about whether the tablet was not in fact Chinese, no official statement from the company or the device's claimed inventor, Verone Mankou, except for a message from Mr Mankou on Twitter promising to write something on his blog. Nothing has appeared so far.Mr Mankou is the 25-year-old CEO of VMK, a company that was until recently devoted to web design. He is also an IT advisor to Thierry Moungalla, the Congolese minister whose brief includes postal services, telecommunications and new communication technologies. Mr Moungalla is hosting the Africa Web Summit in Brazzaville where VMK plans to unveil the tablet on September 17th. According to the summit schedule Mr Moungalla will present the opening statement immediately before the VMK tablet is presented to the audience.The VMK tablet will sell for 200,000 Central African francs (around $400), or four times Congo's monthly minimum wage. Even so, many people may wish to purchase it solely to support African innovation. At first, most observers welcomed the news of VMK's product and praised the idea publicly as a revolution for the continent. This excitement soon faded, however, when it emerged that a device with very similar specifications can be purchased online from China for less than half the price. And, if you buy in bulk, the producer will, for a small fee, print a logo of your choice on each gadget.Mr Mankou does not deny that his VMK tablet will be manufactured in China, and even published photos from the factory in Shenzhen on his company blog. The question is, therefore, whether there is in fact anything African at all about this product. As Mr Mankou himself admits, he delegated the design of some important features to a friend in Canada and partners in Asia. No one has yet tested the tablet or seen anything other than photos of a prototype. His investors remain anonymous.None of this is untoward in its own right. Mr Mankou avers that the VMK tablet does not resemble anything already on the market. He also claims that VMK will provide after-sales services as part of the price, though he does not provide any details of how that might work. And some of his comments suggest that the tablet's software may well have needed tweaking for the Central African market. If true, this could go some way to explaining the price gap. Still, consumers deserve to know what in the VMK device makes it worth twice as much as the non-African version. So far, they have only Mr Mankou's word that "VMK would not invest $160,000 to put a logo on a gadget that already exists."Zimbabwe and Nigeria have previously seen high-profile cases of Africa-branded technology that turned out to be Chinese. There is nothing wrong with Chinese technology, of course. It is cheap and often perfectly decent, making it the ideal choice for many cash-strapped African consumers. In the short term, what matters is that Africans can get their hands on affordable high-tech goods; these needn't necessarily be African. But ultimately, these will not be a replacement for home-grown innovation. 
+Recommend (194)
+Comment (18)
+ 
+
+
+Mobile security
+
+Living on the EDGE 
+
+    Aug 18th 2011, 12:08 by G.F. | SEATTLE  
+
+MOBILE operators like to trumpet the speed of their fastest networks. Third-generation (3G) service is now old hat, and 4G networks—whether legitimately labeled as such or not—are the latest fad. Meanwhile, slow-and-steady 2G GSM-based service quietly remains the most widely used cell technology worldwide. That is a problem, according to Karsten Nohl, a member of a research team that has cracked the encryption protocol used for most of the data sent and received around the globe. (The researchers have a technical presentation available for download.) This decryption effort enables outsiders to eavesdrop on data connections or voice calls placed over a 2G network in a jiffy. Dr Nohl says that his team's test laptop, a reasonably powerful modern machine, may crack a call in 11 minutes using just €10 ($14) in radio components. The crack must be repeated for every connection, however; it does not allow unfettered and continuous access to all conversations and information sent on 2G networks. But it does make it possible for specific sessions to be intercepted, making the method useful in targeting particular activities, businesses or individuals. Dr Nohl stresses that the 11 minutes was just a first pass at writing the cracking software, and that his group used only modest equipment with no financial motive. Criminals, by contrast, could benefit mightily from accelerating the crack, he says, one reason his group has refrained from expounding the technique in detail. It has, however, pointed to some specific holes which ought to be plugged. The group found some networks disabled all security features, relying on the highly misguided notion that traffic could not be easily intercepted except by mobile operators. Having no security from the phone to a base station on a mast makes it easier to filter and monitor traffic. In 2009 Dr Nohl and colleagues pointed out significant weaknesses to the base GSM standard. Their new attack focuses on General Packet Radio Service, better known as GPRS—a modest improvement to GSM—introduced commercially in 2000. GPRS allows rates of tens of kilobits per second (Kbps), while a subsequent tweak known as EDGE allows downstream rates of 200 to 400 Kbps. GPRS and EDGE are commonly referred to as 2.5G, sitting in between 2G and 3G network speeds.  
+Continue reading "Living on the EDGE"» 
+
+Recommend (165)
+Comment (2)
+ 
+
+
+Babbage: August 17th 2011
+
+A gamble for Google 
+
+    Aug 17th 2011, 17:51 by The Economist online  
+
+Google buys Motorola Mobility, social networks face shutdowns and a new biography of Steve Jobs attracts speculation 
+Recommend (195)
+Comment (1)
+ 
+
+
+Valuing patents
+
+Doing the maths 
+
+    Aug 17th 2011, 12:47 by K.N.C. | TOKYO  
+
+GOOGLE'S $12.5 billion acquisition of Motorola Mobility seems pricey. The sum amounts to a 63% premium on the ailing device maker's share price before the deal. The purchase is widely regarded as being about Motorola's patents, which Google needs to defend itself from a spate of recent lawsuits. How might Google, a company famously fond of numbers and maths, have arrived at the amount? The eagle-eyed industry analysts at Frost & Sullivan offer a plausible answer. In a commentary issued on August 16th they note:"Motorola has a portfolio of 24,500 patents and patent applications that instantly bolsters Google’s strength in the IP war. Looking at some recent patent auctions and using some simple math can show why these patents were indeed the target of Google’s acquisition.Using one of the industries recent patent auctions as a baseline, in December of 2010, Novell sold off its portfolio of 882 patents for $450 Million. A simple division calculation leads us to a value of $510,204.08 per patent. Why not round that figure off you ask? Well, let’s look at the patent value of the Motorola acquisition.Forgetting that Motorola also makes mobile phones, let’s say the entire value of the acquisition was in their 24,500 patents and applications. At a $12.5 billion price tag, that equates to…drum roll please…$510,204.08 per patent. Can anyone guess what heuristic they used in the board room in valuing the deal?In the Motorola acquisition, Google bought a patent portfolio and got a mobile phone business thrown in for free."If Google's acquisition of Motorola was indeed priced solely on a cost-per-patent basis, as looks likely, it would set a benchmark for valuing an intellectual property portfolio. It would also brighten the prospects of other firms that are considering selling their patents. For instance, Kodak, which holds more than 1,000 related to digital imaging, is keen. And it would justify a higher share price for Research in Motion (RIM), the maker of the BlackBerry. The Canadian company has been losing market share for years—but it is sitting on around 2,000 patents, with 3,000 more applications in the pipeline.Still, valuing intellectual property remains more art than science. In July six IT firms including Microsoft, RIM and Apple paid $4.5 billion for 6,000 patents owned by Nortel, a bankrupt Canadian manufacturer of telecommunications gear. Using the same simple maths, the group paid a clean $750,000 per patent. If Google's latest acquisition was pricey, that one was downright exorbitant. 
+Recommend (249)
+Comment (29)
+ 
+
+
+Frugal robotics
+
+Sweeping change 
+
+    Aug 17th 2011, 11:33 by A.A.K. | MUMBAI  
+
+ON SEPTEMBER 18th, 2005, a week after the fourth anniversary of the deadly September 11th attacks on the World Trade Centre in New York, Fahad Azad, a 23-year-old from India, was detained at Dubai airport. His metal briefcase had set off a security alarm during a routine baggage inspection. Mr Azad, an automobile-engineering student, must have seen this coming. The briefcase, a potpourri of electronic items included a gadget which had an uncanny resemblance to PackBot, a military robot used by American ground troops in Iraq and Afghanistan. In reality, it was a harmless device designed to sneak into hard-to-reach air-conditioning ducts and clean them. An amused security team at the airport let him off but not before a thorough (verbal) demonstration of how the device works. “They couldn’t believe that the robot was an Indian creation,” recalls Mr Azad who later christened the contraption DuctBot. After countless revisions, the 2.5kg unit now resembles a miniature Buick Bug from 1910. Mr Azad chose to mount the DuctBot on wheels rather than mechanical limbs because they offer more energy-efficient locomotion and are easier to steer. This is done using a wireless Sony PlayStation 2 (PS2) joystick over the 2.45GHz radio-frequency band used in remote-controlled toys. The PS2 joystick is much easier to use than industrial devices, which are also five times more expensive. (The robot also responds to Nintendo Wii’s motion-control interface, but the Wii has not yet found any takers. “People here find it funny to move their arms and legs to drive the robot,” explains Mr Azad.) The robot is designed to snake through dark, narrow air conditioning ducts and spot obstacles along the way. A pair of light-emitting diodes (LEDs) fitted in the front and at the back light up the grubby scenery so it can be captured by a camera lens. The images are transmitted to a monitor or a digital video recorder. On noticing an obtrusion the controller sets in motion a soft-bristled brush, or blows compressed air through tentacles attached to it. The robot can flush out many sacks of dirt, as well as dead pigeons, rodents and insects. 
+Continue reading "Sweeping change"» 
+
+Recommend (224)
+Comment (10)
+ 
+
+
+Data caps
+
+Even unlimited access has its limits 
+
+    Aug 17th 2011, 7:37 by G.F. | SEATTLE  
+
+HUMPTY DUMPTY told Alice that "When I use a word, it means just what I choose it to mean—neither more nor less." American telecommunications companies seem to have adopted a similar semantic strategy when they use the word "unlimited". AT&T is the latest to join the bandwagon. It has just imposed a cap on unlimited mobile data plans for the heaviest users, soon to be followed by limits, and fees for exceeding them, on its wired broadband network. The deployment of zippy next-generation 4G networks, too, is hampered by outdated caps on usage many telecoms firms have and will put in place.Verizon Wireless engaged in doublespeak of its own several years ago with its first-generation 3G offering, which the operator plugged as "Unlimited Broadband Access". In a footnote of its terms, however, Verizon explained that although e-mail, web browsing and remote corporate activities were not subject to limits, streaming and downloading any media was forbidden altogether. As a result, any use beyond 5GB per month risked engendering potential early termination of the contract on the assumption that even unlimited legitimate use would not exceed that figure. In 2007 the company reached an agreement with the state of New York to stop using the term "unlimited" and compensate users terminated for exceeding the five-gigabyte limit. It also paid a modest fine. Since Verizon was slapped down, cable and telecoms firms have become more sparing in their use of universal adjectives. At the same time, they have become cagier about explicitly revealing in what ways they restrict service. Comcast, for instance, appears to have had a secret limit for its cable broadband beyond which customers were cut off. Use more than 250GB a month for two months in one year, and your service could be cut. Comcast was eventually shamed into confessing to this ruse, even though it had never promised customers could download or stream endlessly. Undisclosed caps might prove a problem in the courts or with regulators, but limits on use, so long as they are imposed across the board and do not target particular types of data like videos or music, do not violate network-neutrality rules adopted by the Federal Communications Commission (FCC). Nor do they fall foul of the broader principles that underpin the FCC's decision. What irritates many users, other than being shut out from the network for no apparent reason, is the network operators' putative justification for imposing such limits in the first place. All manner of networks have peak periods when capacity is stretched. This might occur at particular times of day, or while political or sporting events are on. Using dynamic pricing or peak-usage thresholds to reduce usage is a perfectly sound idea. By contrast, rationing data, which disconnecting a bandwidth-hogging user amounts to, is an inefficient way to manage a scarce resource.  
+Continue reading "Even unlimited access has its limits"» 
+
+Recommend (182)
+Comment (11)
+ 
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+
+ 
+ 
+
+
+
+Advertisement  
+
+
+  
+
+
+Economist blogsAmericas view | The Americas
+Babbage | Science and technology
+Bagehot's notebook | British politics
+Banyan | Asia
+Baobab | Africa
+Blighty | Britain
+Buttonwood's notebook | Financial markets
+Charlemagne's notebook | European politics
+Clausewitz | Defence, security and diplomacy
+Daily chart | Charts, maps and infographics
+Democracy in America | American politics
+Eastern approaches | Ex-communist Europe
+Free exchange | Economics
+Gulliver | Business travel
+Johnson | Language
+Leviathan | Public policy
+Lexington's notebook | American politics
+Multimedia | Audio, video and videographics
+Newsbook | News analysis
+Prospero | Books, arts and culture
+Schumpeter | Business and management
+ 
+
+
+
+
+Most commented
+
+Most recommended
+
+
+
+Most commented
+
+Charlemagne: Among the dinosaursLanguage learning: No, she's foreign!Banyan: Not as easy as ABCDSeptember 11th 2001: Ten years onChina's military power: Modernisation in sheep's clothingSchumpeter: Angst for the educatedAmerica's jobs report: Treading waterCharlemagne: The end of MonnetIndia and Bangladesh: Go east, old manGermany: Angst over the euro 
+Over the past five days
+Most recommended
+
+Martin Luther King: A blockheaded memorialSchumpeter: Angst for the educatedLiveability ranking: Melbourne stormLanguage learning: No, she's foreign!Wealth creation and macroeconomics: The parasite problemOur new defence blog: A warm welcome to ClausewitzAmerica's air-tanker order: Home-team advantage pays off for BoeingThe IDF's new chief of staff: Israel's feuding generalsTablet computers: Difference Engine: Reality dawnsIsrael's view of Egypt: Feeling understandably twitchy 
+Over the past seven days
+
+
+ 
+
+
+Advertisement  
+
+
+
+Latest blog posts  - All times are GMT
+
+
+
+The prestige of labour
+
+  From Democracy in America
+ - 1 hrs 31 mins ago
+
+
+
+Chirac escapes court
+
+  From Newsbook
+ - September 5th, 19:07
+
+
+
+A depressing downward direction
+
+  From Schumpeter
+ - September 5th, 17:40
+
+
+
+Caption competition 13
+
+  From Newsbook
+ - September 5th, 17:16
+
+
+
+The crisis we got
+
+  From Free exchange
+ - September 5th, 17:04
+
+
+
+Will the internet burst into tiers?
+
+  From Babbage
+ - September 5th, 15:40
+
+
+
+Ready for the fall
+
+  From Free exchange
+ - September 5th, 15:21
+
+
+
+More from our blogs »
+
+
+Products & events
+Stay informed today and every day
+
+    Subscribe to The Economist's free e-mail newsletters and alerts.
+  
+
+Get e-mail newsletters
+
+
+
+   Subscribe to The Economist's latest article postings on Twitter
+  
+
+Follow The Economist on Twitter
+
+
+
+   See a selection of The Economist's articles, events, topical videos and debates on Facebook.
+  
+
+Follow The Economist on Facebook
+
+
+
+Advertisement  
+  
+ 
+
+
+
+  
+
+
+Classified ads
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+ 
+
+
+
+About The Economist online
+About The Economist
+Media directory
+Staff books
+Career opportunities
+Contact us
+Subscribe
+
+
+
+
+
+
+Copyright © The Economist Newspaper Limited 2011. All rights reserved.
+Advertising info
+Legal disclaimer
+Accessibility
+Privacy policy
+Terms of use
+Help
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

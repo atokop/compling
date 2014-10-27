@@ -1,0 +1,1314 @@
+Complexity and Social Networks Blog
+
+
+
+
+Complexity and Social Networks Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 2011
+
+
+
+Sun
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+5
+
+
+
+
+
+
+6
+
+
+
+
+
+
+7
+
+
+
+
+
+
+8
+
+
+
+
+
+
+9
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+12
+
+
+
+
+
+
+13
+
+
+
+
+
+
+14
+
+
+
+
+
+
+15
+
+
+
+
+
+
+16
+
+
+
+
+
+
+17
+
+
+
+
+
+
+
+
+18
+
+
+
+
+
+
+19
+
+
+
+
+
+
+20
+
+
+
+
+
+
+21
+
+
+
+
+
+
+22
+
+
+
+
+
+
+23
+
+
+
+
+
+
+24
+
+
+
+
+
+
+
+
+25
+
+
+
+
+
+
+26
+
+
+
+
+
+
+27
+
+
+
+
+
+
+28
+
+
+
+
+
+
+29
+
+
+
+
+
+
+30
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Editor Login
+
+
+Convener in chief:
+
+
+
+ David Lazer 
+
+ (Methodology, Networked Governance)
+
+
+Editors:
+
+
+
+ Stanley Wasserman
+
+ (Current Trends, Methodology, Social Networks)
+
+
+
+ Guy Stuart
+
+ (Economic Sociology, Finance)
+
+
+
+ David Gibson
+
+ (Social Networks, Interaction, Theory)
+
+
+ Jason Greenberg>
+ (Networks, Econmic Sociology, Entrepreneurship)
+
+
+
+ Allan Friedman 
+
+ (Simulations)
+
+ Yu-Ru Lin (Networks, Visualization)
+
+
+ Sklyer Place (Networks, Decisionmaking)
+
+
+ Sune Lehmann (Complex Networks, Computational Social Science, Statistics)
+
+ Jukka-Pekka Onnela
+
+ (Methodology, Social Networks, Technology)
+
+
+
+ Nathan Eagle
+
+ (Technology, Social Computing, Powerlaws, Current Trends)
+
+
+
+ Ben Waber
+
+ (Technology, Social Computing)
+
+
+ Ines Mergel 
+
+ (Knowledge Sharing, Social Computing, Social Software, Government 20)
+
+
+
+ Maria Binz-Scharf 
+
+ (Qualitative Methodology, Knowledge Sharing, eGovernment) 
+
+
+ Sebastian Schorf
+
+(Social Interaction, Cultural Interaction)
+
+
+ Alexander Schellong 
+
+ (Admin, eGovernment, Government 20, Citizen Relationship Management) 
+
+
+Categories
+
+
+
+
+Business (
+6)
+
+
+
+
+Citizen Relationship Management (
+23)
+
+
+
+
+Commentary (
+24)
+
+
+
+
+Complexity (
+8)
+
+
+
+
+Congress (
+3)
+
+
+
+
+Current Trends (
+72)
+
+
+
+
+Events/Announcements (
+129)
+
+
+
+
+Government 20 (
+9)
+
+
+
+
+Innovation (
+17)
+
+
+
+
+International relations (
+1)
+
+
+
+
+Internet (
+35)
+
+
+
+
+Knowledge Sharing (
+25)
+
+
+
+
+Methodology (
+46)
+
+
+
+
+Networked Governance (
+24)
+
+
+
+
+Networks in political science (
+12)
+
+
+
+
+Open Government Initiative (
+1)
+
+
+
+
+PNG Working Paper Series (
+6)
+
+
+
+
+Politics (
+2)
+
+
+
+
+Powerlaws (
+5)
+
+
+
+
+Reviews (
+3)
+
+
+
+
+SN in the news (
+83)
+
+
+
+
+Simulations (
+1)
+
+
+
+
+Small Worlds (
+3)
+
+
+
+
+Small group networks (
+4)
+
+
+
+
+Social Capital (
+7)
+
+
+
+
+Social Computing (
+20)
+
+
+
+
+Social Finance (
+2)
+
+
+
+
+Social Networking Platforms (
+22)
+
+
+
+
+Social Psychology (
+5)
+
+
+
+
+Social Software (
+33)
+
+
+
+
+Social media (
+8)
+
+
+
+
+Societal Networks (
+42)
+
+
+
+
+Technology (
+59)
+
+
+
+
+Web 2.0 (
+10)
+
+
+
+
+eGovernment (
+35)
+
+
+
+Archives
+
+
+
+
+August 2011
+
+
+
+
+July 2011
+
+
+
+
+June 2011
+
+
+
+
+March 2011
+
+
+
+
+February 2011
+
+
+
+
+January 2011
+
+
+
+
+December 2010
+
+
+
+
+November 2010
+
+
+
+
+October 2010
+
+
+
+
+August 2010
+
+
+
+
+July 2010
+
+
+
+
+June 2010
+
+
+
+
+May 2010
+
+
+
+
+April 2010
+
+
+
+
+March 2010
+
+
+
+
+February 2010
+
+
+
+
+January 2010
+
+
+
+
+December 2009
+
+
+
+
+November 2009
+
+
+
+
+October 2009
+
+
+
+
+September 2009
+
+
+
+
+July 2009
+
+
+
+
+June 2009
+
+
+
+
+May 2009
+
+
+
+
+April 2009
+
+
+
+
+March 2009
+
+
+
+
+February 2009
+
+
+
+
+January 2009
+
+
+
+
+December 2008
+
+
+
+
+November 2008
+
+
+
+
+October 2008
+
+
+
+
+September 2008
+
+
+
+
+August 2008
+
+
+
+
+July 2008
+
+
+
+
+June 2008
+
+
+
+
+May 2008
+
+
+
+
+April 2008
+
+
+
+
+March 2008
+
+
+
+
+February 2008
+
+
+
+
+January 2008
+
+
+
+
+December 2007
+
+
+
+
+November 2007
+
+
+
+
+October 2007
+
+
+
+
+September 2007
+
+
+
+
+August 2007
+
+
+
+
+July 2007
+
+
+
+
+June 2007
+
+
+
+
+May 2007
+
+
+
+
+April 2007
+
+
+
+
+March 2007
+
+
+
+
+February 2007
+
+
+
+
+January 2007
+
+
+
+
+December 2006
+
+
+
+
+November 2006
+
+
+
+
+October 2006
+
+
+
+
+September 2006
+
+
+
+
+August 2006
+
+
+
+
+July 2006
+
+
+
+
+June 2006
+
+
+
+
+May 2006
+
+
+
+
+April 2006
+
+
+
+
+March 2006
+
+
+
+
+February 2006
+
+
+
+
+January 2006
+
+
+
+
+December 2005
+
+
+
+
+November 2005
+
+
+
+Recent Entries
+
+
+
+
+Half of the adults in the US use network platforms to interact with friends
+
+
+
+
+TweetQuake
+
+
+
+
+Highlights from the 5th International Conference on Weblogs and Social Media
+
+
+
+
+Hustle and Flow --- Life's Hard at the Top for Baboons
+
+
+
+
+HBO Actor Recycling Program
+
+
+
+
+A real neural network ..... amazing research
+
+
+
+
+Networks on display at the Annual Association for  Psychological Science Meeting
+
+
+
+Recent Comments
+
+
+Re: 
+
+Half of the adults in the US use network platforms to interact with friends
+
+By: 
+cade
+Date: 
+Sep  5, 2011  1:07 AM
+
+
+Re: 
+
+Half of the adults in the US use network platforms to interact with friends
+
+By: 
+PTB Support
+Date: 
+Sep  2, 2011  7:49 AM
+
+
+Re: 
+
+Hustle and Flow --- Life's Hard at the Top for Baboons
+
+By: 
+eforie
+Date: 
+Aug 23, 2011 10:43 AM
+
+
+
+
+
+
+Search this site:
+
+
+
+
+
+
+
+Notification
+
+Enter e-mail to subscribe:                
+
+
+
+
+
+
+
+Powered by
+
+Movable Type 
+4.24-en
+
+
+
+
+Syndicate this site (XML)
+
+
+
+
+
+
+
+
+
+
+
+
+View Blog Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complexity and Social Networks Blog of the Institute for Quantitative Social Science and the Program on Networked Governance, Harvard University
+
+Welcome!  The objective of this blog is to offer a forum for the discussion of the intertwined subjects of network analysis and complex systems theory.
+David Lazer, Director 
+
+
+
+30 August 2011
+Current Trends
+Internet
+SN in the news
+Social Networking Platforms
+Half of the adults in the US use network platforms to interact with friends
+Social networks have crossed another milestone.
+In case you didn't see this news last week ...... this press release is from The New York Times......
+
+For the first time, half of all adults in the United States said they used a social networking site, according to a survey released on Friday by the Pew Research Center.
+
+That is 50 percent of all Americans, not just those who say they are online. Six years ago, when Pew first conducted a similar survey, only 5 percent of all adults said they used social sites, like Facebook, LinkedIn or MySpace.
+It is a sign of how deeply and widely social networking companies have penetrated the lives of ordinary people and, in turn, transformed the ways in which people communicate, authorities govern and companies sell things.
+Parents use Facebook to vet nannies, carmakers to introduce new models, police to keep tabs on suspects. Federal government authorities are preparing this weekend to use social networking sites for hurricane preparation on the East Coast.
+The Pew survey found that among adults who are online, the rates of participation were higher: 65 percent, according to the survey, up slightly from 61 percent last year.
+Not surprising, the sites are more popular among younger people: 83 percent of people surveyed in the 18-29 age bracket said they used social networking sites, compared with 51 percent of those in the 50-64 bracket. The young are also twice as likely to use social sites every day.
+The survey by the center's Internet and American Life Project described women ages 18 to 29 as "the power users," with 89 percent of them using social networking sites and 69 percent using them every day. Such a stark finding has obvious implications for advertising on sites like Facebook.
+Neither income nor education seemed to have any statistically significant bearing on the use of the sites. A separate study published by the Pew Center in June found that black Americans continued to be more likely to be on Twitter than whites. One in four African-American users of the Internet said they used Twitter "occasionally," and 11 percent said they used it daily.
+Twitter penetration still trails considerably. Thirteen percent of those online describe themselves as Twitter users and the bulk of them use it on their smartphones.
+The Internet is still more commonly used everyday for e-mail and search, with 61 percent reporting that they went online every day to check e-mail, 59 percent for search and 43 percent for social networking.
+There are some signs that social networking is reaching its limit. Asked for one word to describe their social networking experience, the most common was "good."
+One in five respondents, however, sounded less upbeat. They used words including "boring," "time-consuming" and "overrated."
+
+By Stan Wasserman | 12:24 PM
+
+| Comments (2)
+
+24 August 2011
+Complexity
+Internet
+TweetQuake
+Note: This is a joint post with Alan Mislove, based on our work with Yong-Yeol Ahn and Chloe Kliman-Silver.
+On on August 23, 2011, at 1:51 PM EDT a magnitude 5.8 earthquake hit the Piedmont region of the U.S. state of Virginia. Orders of magnitude smaller than the recent earthquake in Japan, this quake was nonetheless the largest in the U.S. east of the Rocky Mountains in 114 years (according to  Wikipedia).
+But why are we talking about earthquakes? We should be talking about people talking about earthquakes. And people really did some talking. The official twitter account (@twitter) posted three back-to-back tweets on the subject:
+
+Are Tweets faster than seismic waves? We can't speak to speed of seismic waves, but a Tweet can reach your followers in less than a second. [link]
+
+Within a minute of today's #earthquake, there were more than 40,000 earthquake-related Tweets. [link]
+And, we hit about 5,500 Tweets per second (TPS). For context, this TPS is more than Osama Bin Laden's death & on par w/ the Japanese quake. [link]
+
+Now, as I am sure many people have already pointed out (e.g. on twitter), this situation was deftly analyzed and anticipated by Randall Munroe, author of the wonderful webcomic xkcd back in April 2010. Here's the strip:
+
+
+As Munroe points out, the speed of "damaging" seismic waves is around 3-5 km/second, which is much slower than the speed of information spreading on the internet. This simple fact means that if you're more than 100 km away from the epicenter you can read about the quake on twitter before it hits you.
+Now, combine idea from the xkcd strip with data from the  tweetquake and it's possible to observe this phenomenon in practice. In the visualization below, we've generated a video of the mentions of the work "earthquake" in tweets from the gardenhose in the 5 minutes immediately following the earthquake.  For simplicity, we have assumed a uniform 4 km/s wave and ignored deformations due to map projections, etc (we're not geologists, after all).
+
+The comic strip doesn't factor in the time it takes to actually write a tweet, and since seconds count, it takes more than 100 km before we see tweets posted outside the wavefront (validating the last frame of the comic strip). It is awe inspiring to see a truly real time news medium in action.
+
+Notes:
+PS The video looks a lot better in high definition on YouTube.
+PPS Follow @suneman on twitter: http://twitter.com/suneman/
+
+By Sune Lehmann |  3:50 PM
+
+| Comments (0)
+
+26 July 2011
+Highlights from the 5th International Conference on Weblogs and Social Media
+The International Conference on Weblogs and Social Media took place in Barcelona from July 17th through July 21st.  In attendance were hundreds of international researchers representing the social and computational sciences, physics, economics, media studies and the humanities, as well as key figures from industry and even the intelligence community.  
+Several key themes emerged during the course of the meeting, and they characterize in broad terms the challenges and opportunities facing the discipline.  Among them: inference of causality and influence from historical network data; the role of selective perception and homophily in shaping exposure to web-based information resources; the limitations of unipartite models for fundamentally multiplex, multimode networks; the professionalization of journalism in a the modern age; the struggle for balance between qualitative and quantitative treatments of large-scale datasets; and the role of web science in shaping our understanding of human behavior.  Here we record a few of the many highlights from the conference's presentations, poster sessions, and distinguished keynotes.  
+
+Keynote Talks
+Jimmy Lin
+Jimmy Lin, a University of Maryland professor on industrial sabbatical with Twitter, took several provocative positions in his morning keynote. Most contentiously, he argued that academics should not engage in research that industry 'can do better'.  According to Lin, work of this type encompasses incremental improvements in information retrieval tasks and descriptive analyses of technological systems.  Instead, he argues that researchers should focus on fundamental, transformative questions, such as how information spreads, the identification of influential individuals in social networks, and the qualities of a service that give it 'addictive' potential.  Whether these are meaningful distinctions, and whether industry actually is better suited to certain types of analyses, are questions open for debate.  Regardless, in the sense that goal of the talk was to catalyze this kind of discussion, Dr. Lin succeeded admirably.
+References
+Jimmy Lin's Homepage
+
+Sinan Aral
+In a wide-ranging talk addressing the factors underlying social influence and causality, Dr. Aral began by questioning the basic character of the definitions that have traditionally motivated measures of 'influence' in social networks.  One of the basic tenets of his argument is that influence is best understood as the ability of an individual to initiate change in a 'system of behaviors'. He proposes that the goal of research in this domain should be the development of models that can capture indirect causal dynamics, and offers as an example a scenario in which A changes his exercise regimen in response to a change in the diet of B.  Touching on the problem of distinguishing homophily from contagion, Aral acknowledges that 'most influence is really just observable homphily', but argues that with rigorously constructed statistical models we can begin to place bounds around the extent to which homophily is a driver of behavior in a system.  
+References
+Sinan Aral's Homepage
+
+Manuel Castells
+Prominent sociologist and communications scholar Manuel Castells gave the opening keynote and addressed many issues relating to role of social media in sociopolitical change.  Castells contends that the prevalence of social media leads to a 'culture of free communication,' fostering in individuals a sense of self-determination and autonomy often lacking in authoritarian societies.  He argues that this precipitates a cultural shift, in which people begin to see themselves as agents of change, a factor he asserts is critical to the revolutionary process. His thoughtful treatment of the subject serves as a welcome and well-reasoned counterpoint to the arguments put forth by Malcolm Gladwell in the controversial article, 'Small Change: Why The Revolution Will Not be Tweeted.'  Admittedly a biased audience, the consensus among scholars in the social media community seems to be that the true role of social media in political upheaval is complex and subtle, and Castells' treatment speaks to that directly. 
+References
+Manuel Castells' Homepage
+
+Article Highlights
+Analyzing Twitter for Public Health
+In a standout work, Michael Paul and Mark Dredze show that Twitter data can be used to track the timing and geospatial properties of communication relating to different health conditions throughout the United States.  This work departs from other research on the subject (such as Google Flu Trends) in that it does not rely on a pre-specified a set of ailments and keywords a priori, but instead leverages structured topic models to infer classes of tweets relating to different conditions, such as allergies, obesity and insomnia.  The authors show that these features are correlated with data from the Centers for Disease Control, and document the spread of allergy symptoms through different regions of the US over the course of the year.  
+Given the ability to tie this kind of public data to health conditions, one could envision privacy concerns were insurers to integrate a person's social media history into actuarial pricing structures.  During the Q&A, however, the authors emphasized that, in its current form, this model cannot be used to make such inferences at the individual level.  
+References
+Michael Paul, Mark Dredze.  You Are What You Tweet: Analyzing Twitter for Public Health. [link]
+
+Disaster Response & Situational Awareness
+As evidenced most recently by the response to the political violence in Norway, social media represent a rich channel for real-time information and communication relating to emergencies.  This point is emphasized with a quote from FEMA director Craig Fugate, in which he claims that tools like Twitter can provide better situational awareness than official sources were able to produce 4-5 years ago. One of the key challenges, however, is separating tactile, actionable information from other content, such as empathetic expressions of support, that provide little leverage in terms of emergency management.  In this work, the authors propose a machine learning apparatus that relies on various linguistic features, including those from natural language processing and part of speech annotation tools, to isolate tweets that provide this kind of critical information.  Promising though this work is, further challenges relating to generalizability and the extraction of specific units of actionable information still remain.  
+References
+Sudha Verma, Sarah Vieweg, William J. Corvey, Leysia Palen, James H. Martin, Martha Palmer, Aaron Schram, Kenneth M. Anderson.  Natural Language Processing to the Rescue? Extracting "Situational Awareness" Tweets during Mass Emergency.  [link]
+FEMA Director Craig Fugate, Statement on Social Media and Disaster Management
+
+Media Landscape and Heterogeneous Information Sources
+The problem of the 'filter bubble', whereby users selectively filter their information sources so as to consume only content that reflects their pre-existing interests and beliefs, was a recurrent theme across many presentations.  In this work, An et al. tackle the problem by examining the diversity of information sources to which an individual is exposed as a result of using the Twitter platform.  They conclude that while each individual explicitly subscribes to relatively few media outlets (through follower relationships), users are exposed to a much broader range of information sources as a result of diffusion processes operating on the underlying social network.  The result is that a user's exposure is limited by the extent to which homophily dominates their social linkages, rather than whether they subscribe to a narrow set of media sources.
+References
+Jisun An, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft.  Media landscape in Twitter: A world of new conventions and political diversity. [link]
+
+Hypergraph Analysis of Clandestine Networks
+In an increasing variety of situations we are confronted with the limitations of the traditional unipartite graph models used to represent complex social systems.  Motivated by the lossy nature of bipartite projections, the authors develop a set of hypergraph techniques that support the identification of networks of illicit 'gold farmers' in the online roleplaying game 'Everquest 2.'  In a particularly creative stroke, the authors supplement traditional descriptive network statistics, such as degree and centrality, with additional pattern-based features. Specifically, after identifying hypergraph motifs in the player and resource interaction network they use market basket analysis to compute measures of support and confidence for each motif.  Using this approach they are able to identify a set of network structures commonly associated with illicit activity on the platform.  Work like this underscores the range of interactions available to users of digital communication and interaction platforms, and highlights the importance of methodologies that preserve the information encoded in these relationships.  
+References
+Muhammad Aurangzeb Ahmad, Brian Keegan, Dmitri Williams, Jaideep Srivastava, Noshir Contractor. Trust Amongst Rogues? A Hypergraph Approach for Comparing Clandestine Trust Networks in MMOGs.  [link]
+Presentation Slides
+
+Tutorial Session
+Social Science Research with Amazon's Mechanical Turk
+A growing body of work demonstrates the usefulness of Mechnical Turk as an experimental platform for research in the social and behavioral sciences.  In a three-hour tutorial, Yahoo researcher Winter Mason covered several important features of the Mechanical Turk crowdsourcing platform.
+Key Takeaways
+
+The key benefits of the Turk platform relate primarily to the large subject pool size (> 100,000 workers), subject pool demographic diversity, low cost (effective wage of $4.80 / hour), and the speed of the experimental workflow.  
+
+The inability of workers to rate requesters creates an asymmetry in the official reputation mechanism.  Consequently it's important for researchers to be aware of, and ideally, involved with, the backchannels workers use to discuss jobs and requesters. (Turkopticon, Turker Nation)
+
+The barriers to entry are much lower than most people realize.  The slides outline the 'Anatomy of a HIT (Human Intelligence Task)', and the basic research workflow.  Amazon provides several templates for creating simple jobs very quickly using CSV data as variable input, and we created and solicited results for a simple task during the course of the tutorial.
+
+Synchronous experiments on network dynamics and contagion-like effects are possible using 'panels' of workers. By collecting contact information and then coordinating a time for the work Mason and colleagues were able to conduct network experiments in settings with more than 30 actors.
+
+
+Notably, there are no studies that deal with the ways Mechanical Turk fails to reproduce canonical results from traditional lab settings. This may be a result of a tendency towards confirmation bias among Turk researchers, and one could envision a useful discussion resulting from evidence identifying Turk's weaknesses as an experimental platform.
+References
+Mason, W., Suri, S.  A Guide to Behavioral Experiments on Mechanical Turk, Behavior Research Methods. [link]
+Tutorial Slides 
+
+By Michael Conover | 11:51 AM
+
+| Comments (1)
+
+15 July 2011
+Hustle and Flow --- Life's Hard at the Top for Baboons
+
+Male baboons get stressed when they are alpha .... much better to be a little less central and enjoy life a little more!   I love this research .... social neuroscience in action (at least, in baboons!).
+
+Here's the research from SCIENCE.     My buddy, Katie Faust, who knows about baboon networks, tells me that this is only true for male baboons .... the girls have more stable hierarchies and don't get as stressed when their centrality increases!
+By Stan Wasserman |  4:22 PM
+
+| Comments (3)
+
+ 8 July 2011
+SN in the news
+HBO Actor Recycling Program
+(Thanks to Rich Knepper, from IU, who told me about this ....)
+Check out:   this article on the actors who do so well in HBO's wonderful series
+Apparently HBO loves its actors so much, that many of them have roles on several of its series ..... for example, Wendell Pierce, who plans Antoine Baptiste, the ne-er-do-well womanizing trombone player on Treme (fantastic show) also had a lead role in The Wire.  
+
+
+This is a really cool two-mode network (or can be viewed as an affiliation network).   Do let me know if any of you do some analysis of it (correspondence analysis, for example).   I'm interested!
+By Stan Wasserman |  4:21 PM
+
+20 June 2011
+A real neural network ..... amazing research
+The roundworm has a simple brain, and the entire thing, neurons, synapses, and all, has now been mapped as a network.    The image shows neurons firing.   Check out this link for a representation of the roundworm brain, and see the  related story from The New York Times  .   
+Truly amazing stuff.   Real networks of the brain in action.   
+By Stan Wasserman |  4:07 PM
+
+15 June 2011
+Networks on display at the Annual Association for  Psychological Science Meeting
+Network Analysis --- a better (and more appropriate way) to represent data.   The many faces of network science .... social psychology, organizational behavior, clinical science, and neuroscience.
+By Stan Wasserman |  3:38 PM
+
+30 March 2011
+Prehistoric Social Networks
+(i think this is fascinating .....    from a group of anthropologists.  i sent it to SOCNET ....
+and am hoping that it generates some discussion)
+
+From SCIENCE:
+
+Prehistoric Social Networks 
+A hunter-gatherer life-style is thought to have been the predominant social structure for most of human history. The common assumption is that hunter-gatherer groups consisted largely of related individuals: parents, siblings, and offspring, possibly extending to include spousal relations. In a Research Article in the 11 Mar 2011 Science, Hill et al. analyzed the kin relationships of groups in 32 contemporary hunter-gatherer societies and found that these societies display a social structure different from any other primate or vertebrate (listen to the related podcast interview with lead author Kim Hill). Although adult brothers and sisters often co-reside, most individuals in residential groups are genetically unrelated. In addition, both sexes alike can choose to leave their group or to stay, and neither the maternal lineage nor the paternal lineage is dominant within a group. These patterns produce large interaction networks of unrelated adults and suggest that inclusive fitness cannot explain extensive cooperation in hunter-gatherer bands. However, large social networks may help to explain why humans evolved capacities for social learning that resulted in cumulative culture. An accompanying Perspective by B. Chapais considered how the unique multigroup structure of human societies may have originated.
+
+Here's the abstract:
+Science 11 March 2011: 
+Vol. 331 no. 6022 pp. 1286-1289 
+
+Co-Residence Patterns in Hunter-Gatherer Societies Show Unique Human Social Structure
+Kim R. Hill1,*,
+Robert S. Walker2,*,
+Miran Božičević1,
+James Eder1,
+Thomas Headland3,4,
+Barry Hewlett5,6,
+A. Magdalena Hurtado1,
+Frank Marlowe7,
+Polly Wiessner8, and
+Brian Wood9
+*To whom correspondence should be addressed. E-mail: kim.hill@asu.edu (K.R.H.); walkerro@missouri.edu (R.W.)
+Abstract
+Contemporary humans exhibit spectacular biological success derived from cumulative culture and cooperation. The origins of these traits may be related to our ancestral group structure. Because humans lived as foragers for 95% of our species' history, we analyzed co-residence patterns among 32 present-day foraging societies (total n = 5067 individuals, mean experienced band size = 28.2 adults). We found that hunter-gatherers display a unique social structure where (i) either sex may disperse or remain in their natal group, (ii) adult brothers and sisters often co-reside, and (iii) most individuals in residential groups are genetically unrelated. These patterns produce large interaction networks of unrelated adults and suggest that inclusive fitness cannot explain extensive cooperation in hunter-gatherer bands. However, large social networks may help to explain why humans evolved capacities for social learning that resulted in cumulative culture.                      
+By Stan Wasserman |  2:05 PM
+
+ 8 March 2011
+Report from ANN/SONIC/NICO conferences .... by Brian Keegan
+The Annenberg Network of Networks, Northwestern SONIC lab, and Northwestern Institute on Complex Systems (NICO) just concluded back-to-back conferences that assembled some truly intimidating intellectual wattage into a single room; Adamic, Amaral, Barabasi, Berners-Lee, Burt, Castells, Macy, Newman, Poole, Powell, Uzzi, Wasserman, and Watts were just some of the luminaries present and speaking.   See  here  and here for the conference websites.
+All of the talks were provocative, but Stan Wasserman best fulfilled the role of the Socratic gadfly by giving the most pointed talk with respect to both the issues he raised and the conversation that ensued. Stan reviewed the ways in which Jacob Moreno's 1934 treatise "Who Shall Survive?" anticipated much of the current work which consumes contemporary network scholars' interest.  Unbeknownst to me, Moreno's colleague H.H. Jennings provided not only the statistical counterbalance to his overt psychological interests, but the H. in fact refers to a "Helen" rather than a "Harrison", "Hector", or "Hubert". But for all the ways in which their work foreshadowed graph theoretical approaches to social structure, degree distributions, and multilevel statistical models, it appears they were to network scholarship what the Apple Newton was to the iPod. 
+Stan shared a visualization of a citation network gathered by Lin Freeman (2008, J. Social Structure, 9(2)) for papers referencing "small world".   It (see below) unfortunately evokes Adamic's political blog network or Krebs' political book network rather than an "interdisciplinary" field whose fundamental assumptions, theories, and metrics have been stable and integrated for decades. Moreover, the divide within the community has introduced a lag by which methods and metrics developed by statisticians, sociologists, and other early network researchers have been independently re-discovered and re-developed by physicists, mathematicians, and computer scientists years or decades later. This obviously is not the best use of their talent, time, or coin.
+
+
+
+In the discussion that followed Stan's talk, both Duncan Watts and Brian Uzzi raised the point that this inward facing orientation is endemic to all academic disciplines: psychologists independently replicating sociological findings are nevertheless cited by other psychologists, for example. Luis Amaral pointed out that although it is unreasonable to expect a physicist to acquaint himself with the entire history of sociological literature, perhaps it is incumbent upon the physicist to consult or recruit a trained sociologist before making sociological claims. Stan made the point that the nice thing about being a statistician is that you get to play in everyone else's backyards (a quote from John Tukey). In response to the "this happens everywhere" defense, Stan argued that assertions of methodological novelty or performance are claims which need to be, maybe even have to be evaluated against prevailing standards.
+However, I thought that Stan made far too narrow a point. Methodological congruity is certainly something all fields should aspire towards, but what is at stake is not only the inefficiencies of re-inventing methodological wheels, but also the coherence of an emerging field that revels in its interdisciplinary mantle while in practice appearing to shun any substantive literacy. To be clear, this argument should not be solely construed as the indictment of a social scientist against the mathematicians, physicists, and computer scientists. The papers I read on percolation, reaction diffusion, rewiring, and neural networks as a third year student in Dirk Brockmann's graduate survey seminar on dynamic networks put the absence of generative and confirmatory approaches in canonical social science methods in stark and unflattering relief. I also suspect that I may be the only Communication student Dirk teaches for several years, very much to the detriment of my field.
+Indeed, in the context of a conference explicitly organized to feature the interdisciplinary work of leading scholars in the "field" of network science, the retrenchment when openly challenged in Stan's discussion by both "sides" behind traditional disciplinary or methodological walls was unnerving to see as a young scholar like myself who's really drunk the Koolaid. If there is to be any praxis to the interdisciplinarianism we preach to funders, administrators, recruits, colleagues, and friends, its zeroth law should require forever eschewing the excuses of "but my tribe does it this way" or "this is the way it's always been done." On the other hand, if "interdisciplinary" is simply the label we attach to the instances when physicists use sociometric data to publish physics papers in physics journals, perhaps the paeans to interdisciplinarity we have spun are just tales full of sound and fury signifying nothing. Should we simply let physicists be physicists and sociologists be sociologists or should we demand more from each? On the other hand, if a sociologist learns about phase-coupled oscillators to model geospatial criminological dynamics is there a concomitant expectation for physicists and computer scientists to grok structuration before modeling human mobility networks?
+Bridging the aforementioned literacy gap requires building institutional memory about people, theories, and methods. Conferences like the ANN/SONIC and NICO events this weekend are an excellent start for starting these conversations. Moreover, whatever other conferences, centers, or symposia which emerge should similarly foster and revel in the Schumpeterian tension inherent to interdisciplinary work rather than rewarding conflict avoidance and retreat to friendly confines (allegedly) endemic to academic life. Having used both books for teaching, I agree with Stan that recently published undergraduate-oriented textbooks Easley & Kleinberg (2009) and Newman (2010) go a long way towards providing a foundation (in addition to his 1994 work with Katherine Faust) on which these shared meanings can be built moving ahead. 
+However, the foremost risk of building institutions and memory is clearly ossification. Ron Burt made the persuasive case that preoccupation with elucidating the work one's forebears across all fields may impose constraints on the progress of the field and multiple discoveries provide opportunities for recombination of resources. Indeed, were we to return Merton on exactly this topic, he states that "[multiple discoveries] become virtually inevitable when prerequisite kinds of knowledge and tools accumulate in man's cultural store and when the attention of an appreciable number of investigators becomes focused on a problem, by emerging social needs, by developments internal to the science, or by both." (1963, European J. of Sociology, 4: 237-282.)  Physicists, sociologists, and computer scientists have very different kinds of knowledge, tools, and problems. Should network science then be a field unto itself, a tradition manifesting itself within many distinct disciplines, an interface/hyperedge between disciplines, or something else altogether? Perhaps network scientists should look especially to the history of statistics for some lessons on how to best navigate the rapids of interdisciplinary.
+Brian Keegan is a fourth-year Ph.D. student in the Media, Technology, and Society program in Northwestern University's School of Communication. He received bachelors degrees in Mechanical Engineering and Science, Technology, and Society from MIT in 2006. His current research uses methods in statistical network analysis to understand the organizational co-evolution of deviant "gold farmers" in massively multiplayer online games as well as the processes of self-organization when Wikipedia editors collaborate to write about breaking news events.
+
+eds. note:   Brian was tweeting like crazy during and after the conference on Monday;   I suggested to him that he put his tweets into an essay, and send it to me for posting here.       SW
+
+
+By Stan Wasserman |  7:48 AM
+
+ 2 March 2011
+SN in the news
+structural balance in the real world ....
+from The NewYorker ....
+
+By Stan Wasserman |  4:45 PM
+
+
+
+
+
+
+

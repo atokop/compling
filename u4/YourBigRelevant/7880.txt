@@ -1,0 +1,322 @@
+adamparnes.com - powered by FeedBurner
+&
+
+
+
+
+adamparnes.com
+
+syndicated content powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based news readers. Click your choice below:
+
+
+
+...with other readers:
+
+(Choose Your Reader)FeedDemonNetNewsWireNewsFireNewsGator Outlook EditionRSSOwlShrookUniversal Subscription Mechanism (USM)
+
+
+Get adamparnes.com delivered by email
+
+
+ View Feed XML
+
+
+
+
+FeedBurner makes it easy to receive content updates in My Yahoo!, Newsgator, Bloglines, and other news readers.
+
+Learn more about syndication and FeedBurner...
+
+
+A message from this feed's publisher: enjoying life one byte at a time
+Current Feed Content
+
+
+
+We don’t give employees enough credit when it comes to understanding competing priorities
+
+
+Posted: Wed, 31 Aug 2011 19:13:01 +0000
+It’s hard work pushing communications for activities and programs that don’t have full management support. Some of our tasks are pretty routine, but some require a lot of heavy lifting.
+Many believe sending an email or an intranet posting will move employees to engage and participate. If what you’re asking and communicating lacks management support or context of why you’re doing it, you’re sunk. 
+I don’t think we give employees enough credit for understanding the organization’s priorities. Add competing department and work group priorities and breaking through is even more difficult. Unless what you’re asking employees to do is also important for them, you’re in trouble. 
+Real change, engagement and participation require more. More time, support and resources.
+Being a communicator you need to realize the cards you’re dealt. Being a seasoned communicator you’ll know what results to expect.
+
+      
+
+
+
+
+Guy Kawasaki’s social network decision tree infographic
+
+
+Posted: Tue, 30 Aug 2011 14:41:41 +0000
+Guy Kawasaki answers the question about whether you should join Google+.
+The big social-media question of 2011 is, Should I start using Google+? I can simplify the issues down to one question: Are your interests as important as your friends? If they are, Google+ provides at great way to interact with a range of people from pundits to photographers. You can see a categorization at RecommendedUsers. You’ll find that people on Google+ are much more interactive than on Twitter or Facebook. If this dichotomy is too simple, I’ve created a decision tree to help you through the selection process of using Twitter, Facebook, and Google+.
+
+(h/t @kanter via Infographic: The Social Network Decision Tree)
+
+      
+
+
+
+
+How I use Markdown to move text from Word to SharePoint while maintaining the formatting
+
+
+Posted: Mon, 29 Aug 2011 20:42:55 +0000
+John Gruber’s Markdown is a really simple way to format text and convert it to HTML.
+Here’s John’s definition of Markdown:
+
+Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
+I’ve been struggling with moving text from Word documents to the SharePoint intranet site I manage. The problem I’m facing is Word adds so much crap text formatting it takes more work stripping the code than it would coding in HTML to begin with. 
+I’m not a big fan of coding in HTML to write intranet news articles, so I began my search for an easier way to convert Word documents to simple HTML and decided to use Markdown. On the Mac, it’s really easy to find Markdown writing applications and converters. On the PC, not so much. Luckily I remembered there’s another option: a web based solution.
+I decided to test and use the Markdown: Dingus. The Dingus provides you with the space to write Markdown Source code, convert it to HTML and preview the HTML. Perfect!
+Here’s my workflow using the web converter:
+
+Cut my text from any application, but most likely Word
+Paste it into the Markdown Source box on the Markdown: Dingus page
+Format using the Markdown Syntax
+Hit the convert button
+Review the preview HTML output
+Cut and paste the HTML source code to SharePoint
+
+Markdown is allowing me to save a ton of time and focus on the the words, not the formatting. So far this solution is simple and easy.
+
+      
+
+
+
+
+Another great example of executive communication from Apple
+
+
+Posted: Thu, 25 Aug 2011 15:40:18 +0000
+Jacqui Cheng, arstechnica.com, shares an email from Apple’s new CEO Tim Cook to Apple employees. This is another great example of executive communications.
+
+Team:
+I am looking forward to the amazing opportunity of serving as CEO of the most innovative company in the world. Joining Apple was the best decision I’ve ever made and it’s been the privilege of a lifetime to work for Apple and Steve for over 13 years. I share Steve’s optimism for Apple’s bright future.
+Steve has been an incredible leader and mentor to me, as well as to the entire executive team and our amazing employees. We are really looking forward to Steve’s ongoing guidance and inspiration as our Chairman.
+I want you to be confident that Apple is not going to change. I cherish and celebrate Apple’s unique principles and values. Steve built a company and culture that is unlike any other in the world and we are going to stay true to that—it is in our DNA. We are going to continue to make the best products in the world that delight our customers and make our employees incredibly proud of what they do.
+I love Apple and I am looking forward to diving into my new role. All of the incredible support from the Board, the executive team and many of you has been inspiring. I am confident our best years lie ahead of us and that together we will continue to make Apple the magical place that it is.
+Tim
+
+via Exclusive: Tim Cook e-mails Apple employees: “Apple is not going to change”.
+
+      
+
+
+
+
+An excellent example of executive communications
+
+
+Posted: Thu, 25 Aug 2011 12:16:53 +0000
+Steve Jobs announces his resignation in a short and to the point memo.
+August 24, 2011 
+Letter from Steve Jobs
+To the Apple Board of Directors and the Apple Community:
+I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple’s CEO, I would be the first to let you know. Unfortunately, that day has come.
+I hereby resign as CEO of Apple. I would like to serve, if the Board sees fit, as Chairman of the Board, director and Apple employee.
+As far as my successor goes, I strongly recommend that we execute our succession plan and name Tim Cook as CEO of Apple.
+I believe Apple’s brightest and most innovative days are ahead of it. And I look forward to watching and contributing to its success in a new role. 
+I have made some of the best friends of my life at Apple, and I thank you all for the many years of being able to work alongside you.
+Steve 
+
+
+      
+
+
+
+
+I survived the Great Virginia Earthquake of 2011
+
+
+Posted: Wed, 24 Aug 2011 02:43:30 +0000
+This afternoon I was on a conference call while working from home when the house shook like it was hit by a falling tree. And then another. And then the house started to sway along with the bookcases and everything else.
+At that moment, I didn’t think an earthquake of this magnitude was possible. Then I started to freak out. It took a few seconds for the quake to reach my office. It took a few seconds for it to register with them as well.
+This is the second earthquake I’ve felt in the last year. This one was different. The earthquake in 2010 was a rumbler, like a low flying plane or a large tractor trailer driving by.
+Seth Godin wrote about two earthquake-related thoughts about human nature.
+
+
+The first thing that happens after we encounter an earthquake is to wonder if anyone else felt it. The need for group validation is widespread and happens for events that don’t involve earthquakes as well.
+If those in the tribe feel something, we’re likely to as well. That’s why people look around before they stand up to offer an ovation at the end of a concert. Why should it matter if any of these strangers felt the way you did about the event? Because it does. A lot. Social proof matters.
+
+
+Organizations are busy evacuating buildings, even national monuments. Even though experience indicates that the most dangerous thing you can do is have tens of thousands of people run down the stairs, cram into the elevators and stand in the streets, we do it anyway. Why? Because people like to do something. Action, even ineffective action, is something societies seek out during times of uncertainty.
+
+
+He’s totally right. Validation and then action are two powerful human needs. I can really relate. 
+What was your experience and how did you react?
+
+      
+
+
+
+
+Allowing employees to web-surf will increase their productivity
+
+
+Posted: Mon, 22 Aug 2011 12:00:08 +0000
+Rachel Emma Silverman, WSJ, reports browsing on the job can enhance productivity. 
+
+Don’t feel guilty about browsing the Internet at work—turns out it may actually improve your performance.
+According to a new study, Web browsing can actually refresh tired workers and enhance their productivity, compared to other activities such as making personal calls, texts or emails, let alone working straight through with no rest at all.
+The study, “Impact of Cyberloafing on Psychological Engagement,” by Don J.Q. Chen and Vivien K.G Lim of the National University of Singapore, was presented last week in San Antonio, Texas, at the annual meeting of the Academy of Management, an association of management scholars.
+
+The results of the study make sense. Browsing is more refreshing than a lot of tasks especially no breaks at all.
+
+The researchers found that the Web-surfers were significantly more productive and effective at the tasks than those in the other two groups and reported lower levels of mental exhaustion, boredom and higher levels of engagement.
+“Browsing the Internet serves an important restorative function,” the authors said. Personal emailing, by contrast, was particularly distracting for workers. The second study, which surveyed 191 adults, found similar results.
+Why is Web-surfing more restorative than, say, responding to a friend’s email? When browsing the Internet, people “usually choose to visit only the sites that they like—it’s like going for a coffee or snack break. Breaks of such nature are pleasurable, rejuvenating the Web surfer,” wrote Dr. Lim, in an email. By contrast, workers can’t control the kinds of email they receive, and reading and replying to each message is “cognitively more demanding, relative to Web surfing, as you need to pay attention to what is said on the email,” she added.
+Because Web-surfing can aid productivity, the researchers caution employers against over-restricting workers’ Web access. They recommend that managers allow time for limited personal Web browsing “since it has a salubrious impact on employees’ productivity,” while limiting access to personal emails.
+
+Here’s another reason not to block internet access: non of the top 100 companies to work for block social media access at the office.
+via Web Surfing Makes You Work Better, Study Says – WSJ.com.
+
+      
+
+
+
+
+I’m replacing a 2007 Mac mini with an Apple TV 2
+
+
+Posted: Sun, 21 Aug 2011 03:17:26 +0000
+I knew our Mac mini’s usefulness was running out. It took hours to rip a DVD, open .dmg files and it would beach ball any time multiple tasks started at the same time.
+Mac OS X Lion’s release moved up its demise. Our Mac mini has a Core Duo, not the required Core 2 Duo newer Macs have. I thought about upgrading its CPU, but after reading some posts, the upgrade still wouldn’t allow it to be upgradable.
+I decided to move all our movies, pictures and music and migrate the Mac mini’s files to an iMac. It’s taken most of the day to copy the files from the Mac mini and prepare the iMac. I’m looking at 33 minutes until I can fire up iTunes and make sure all our music, movies and apps are available.
+Our Mac mini has served us well as a media center. I’m hoping the Apple TV 2 will work just as well. It’ll allow us to stream our photos and ripped movies from iMac and as a bonus it has Netflix.
+I’m curious to see how this will all come together. I’m not one for change, but the time seemed right and I’d rather change when I wanted to and not when I was forced to.
+Anyone have a good idea of how to use a Mac mini 1.8 Core Duo with 2 gigs of RAM and 160 gbyte HD? 
+
+      
+
+
+
+
+Going all in with WordPress
+
+
+Posted: Fri, 19 Aug 2011 01:04:44 +0000
+Today I decided to take a little more control of how I’m perceived online. I decided to move my HR Corporate Communications Tumblr back to my personal domain powered by WordPress. 
+This was a tough decision. I enjoyed experimenting with Tumblr, but in the end, I wanted more control over the brand, my brand: adamparnes.com. 
+Now that I’m focusing more on my career as an experienced HR Corporate Communicator, I want to highlight what I’ve learned as well as the trends I’m seeing in the industry. I want to do this on my own blog, but also aggregate the content.
+I figured out a way to forward hrcorpcomm.com to a category on adamparnes.com/category/hrcorpcomm/. It was really easy and I was even able to create a RSS feed for the category.
+Moving forward, I’ll be blogging about HR Corporate Communication issues on adamparnes.com. These blog posts will be easy to find by using this url: hrcorpcomm.com.
+
+      
+
+
+
+
+How a blogger uses Markdown and Marked
+
+
+Posted: Thu, 18 Aug 2011 16:39:09 +0000
+Tessa Thornton, mac.appstorm.net, describes how she writes using Markdown and the Marked applicaiton.
+
+Discovering Markdown has saved me a lot of time and frustration while writing blog articles, and makes the overall experience much more pleasant. Marked makes my workflow that much smoother, allowing me to format as I type without dealing with dropdown menus and keyboard shortcuts, all while displaying what the final product will look like.
+Marked has a couple issues, likely related to its youth, which I hope will be addressed soon. Even with these issues, at $2.99, Marked is absolutely worth the price. I’d be interested to hear about other blogging workflows out there!
+
+Reading articles like this only makes me miss my Mac so much more while I’m at work.
+via Optimize Your Blogging Workflow with Markdown and Marked | Mac.AppStorm.
+
+      
+
+
+
+
+Links for 2010-12-07 [del.icio.us]
+
+
+Posted: Wed, 08 Dec 2010 00:00:00 PST
+
+Hog Bay Software
+
+
+
+
+Links for 2010-12-03 [del.icio.us]
+
+
+Posted: Sat, 04 Dec 2010 00:00:00 PST
+
+Welcome to BrettTerpstra.com, home of Brett Terpstra and his nerdery
+
+
+
+
+Links for 2010-12-01 [del.icio.us]
+
+
+Posted: Thu, 02 Dec 2010 00:00:00 PST
+
+Wiki for Rob Wilkerson's Add to Google Reader – Codaset
+
+
+
+
+Links for 2010-11-30 [del.icio.us]
+
+
+Posted: Wed, 01 Dec 2010 00:00:00 PST
+
+Targeted Following (Because Twitter Simply Doesn’t Work If You Follow Everybody Back)
+
+
+
+
+Links for 2010-11-29 [del.icio.us]
+
+
+Posted: Tue, 30 Nov 2010 00:00:00 PST
+
+Mike Knowles - Add Google Analytics to a SharePoint Publishing Site
+A Matter Of Degree: How to use Google Analytics with SharePoint (MOSS 2007)
+
+
+
+
+Links for 2010-11-16 [del.icio.us]
+
+
+Posted: Wed, 17 Nov 2010 00:00:00 PST
+
+How Deloitte's video competition engages internal and external audiences
+
+
+
+
+Links for 2010-11-06 [del.icio.us]
+
+
+Posted: Sun, 07 Nov 2010 00:00:00 PDT
+
+TOM BIHN Bags - Laptop Bags, Laptop Backpacks, Laptop Cases
+
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

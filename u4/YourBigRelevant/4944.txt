@@ -1,0 +1,442 @@
+Science and Health News - powered by FeedBurner
+&
+
+
+
+Science and Health News
+
+A podcast powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based podcatchers. Click your choice below:
+
+
+
+
+
+
+
+...with iTunes:
+
+Add to iTunes
+
+...with something else (copy this address):
+
+
+
+
+Get more info on other podcatchers:
+
+
+
+
+
+
+ View Feed XML
+
+
+
+
+A podcast is rich media, such as audio or video, distributed via RSS. Feeds like this one provide updates whenever there is new content. FeedBurner makes it easy to receive content updates in popular podcatchers.
+
+Learn more about syndication and FeedBurner...
+
+
+A message from the podcast publisher:
+
+Current Feed Content
+
+
+
+The atomic clock with the world's best long-term accuracy is revealed after evaluation
+
+
+Posted:  Sun, 28 Aug 2011 01:32:54 PDT
+
+A caesium fountain clock that keeps the United Kingdom's atomic time is now the most accurate long-term timekeeper in the world, according to a new evaluation of the clock that will be published in the October 2011 issue of the international scientific journal Metrologia by a team of physicists at the National Physical Laboratory (NPL) in the United Kingdom and Penn State University in the United States. The clock is one of an elite group of caesium fountain clocks that have been built by the timing labs in Europe, the United States, and Japan as their national "primary frequency standard" for the measurement of time. These national standards are averaged to produce International Atomic Time and Universal Coordinated Time, which are used as time scales worldwide for such critical processes as global communications, satellite navigation and surveying, and time stamping for the computerized transactions of financial and stock markets. The methods used to improve the U.K. clock also can be used to evaluate the caesium fountain clocks of other countries, substantially improving the world's most accurate methods of keeping time."The improvements that we report in our paper have reduced significantly the caesium fountain clock's two largest sources of measurement uncertainties -- Doppler shifts and the microwave-lensing frequency shift," said NPL Project Leader Krzysztof Szymaniec. Other authors of the paper are Ruoxin Li and Professor of Physics Kurt Gibble at Penn State. The physicists evaluated the recently upgraded caesium fountain clock with physical measurements at NPL and mathematical models developed at Penn State."Kurt Gibble, at Penn State, made major contributions to the field of primary frequency standards by developing models for the systematic effects within caesium fountain clocks," Szymaniec said. "The uncertainties of those effects, now reduced several fold with the new models and numerical calculations provided by Gibble's group, have been verified at the National Physical Laboratory and also by the fountain clock group in Paris. Together with other improvements of the caesium fountain, these models and numerical calculations have improved the accuracy of the UK's caesium fountain clock , NPL-CsF2, by reducing the uncertainty to 2.3 × 10-16 -- the lowest value for any primary national standard so far."Scientists estimate the accuracy of a caesium fountain clock by evaluating the uncertainties of all the physical effects known to cause frequency shifts in the clock's operation, including atomic interactions with external fields, collisions between atoms, and the construction of the atomic clock's subsystems, such as its microwave cavity. The two largest sources of these measurement uncertainties are frequency shifts caused by the Doppler effect and microwave-lensing. "One of the improvements that our model contributed is an improved understanding of the extremely small Doppler shifts that occur in caesium fountain clocks," Gibble said. While the acoustic Doppler shift of a car horn is well known in everyday lift, he explained that Doppler shifts for light are too small for people to notice. "If you are walking down the sidewalk while looking at a red traffic light, your eyes cannot perceive the small Doppler shifts resulting from your movement that shift the light toward the blue end of the spectrum," Gibble said. "This change in color is just 1/100 millionth of the difference between red and blue. In the NPL-CSF2 clock, our model now shows that these Doppler shifts are even 100 million times smaller than that."The other major source of measurement uncertainties -- microwave lensing -- results from the forces that microwaves in the clock exert on the atoms used to measure the length of a second. "An international agreement on the definition of the second is of fundamental importance in timekeeping," Szymaniec said. He explained that the length of a second, by international agreement, is the "transition frequency between two ground-state sublevels of a caesium 133 atom." To measure this frequency, caesium fountain clocks probe laser-cooled caesium atoms twice as they travel through the clock's microwave cavity -- once on their way up and again on their way down. To achieve an accurate assessment of the clock's frequency, the physicists had to include in their models an understanding of how microwaves push on the quantum-mechanical atoms. As a result, Gibble said, "We now know that the NPL clock is so precise that it has to be considered as an atom interferometer.""The first atomic clock was demonstrated at NPL and we have lead research into providing ever more accurate time keeping," Szymaniec said. "Combining our own measurement expertise with that of our colleagues at Penn State, we have shown that timekeeping at NPL continues to be some of the most advanced in the world."This research was supported by the National Science Foundation and Penn State University in the United States, and by the National Measurement Office in the United Kingdom.
+
+
+
+
+
+Rare immune cell is asset and liability in fighting infection
+
+
+Posted:  Sun, 28 Aug 2011 01:25:39 PDT
+
+The same trait that makes a rare immune cell invaluable in fighting some infections also can be exploited by other diseases to cause harm, two new studies show. In papers published online in Immunity, scientists at Washington University School of Medicine in St. Louis reveal that the cells, known as CD8 alpha+ dendritic cells (CD8a+ DCs), can help the body beat back infection by a common parasite, but the same cells can be hijacked by a bacterium to decimate the body's defenses.The trait that makes the cells both an asset and a liability is the way they alert other immune cells, causing them to attack invaders. CD8a+ DCs can sound the alarm in a manner that is particularly helpful for stripping away invaders' disguises. But this process takes time, and Listeria bacteria can take advantage of that delay to wreak havoc inside the spleen."As we've discovered how useful these cells can be in fighting different kinds of infections, researchers have wondered why they're so rare," says Kenneth Murphy, MD, PhD, the Eugene L. Opie First Centennial Professor of Pathology and Immunology. "This may be why -- overcommitting to any one defensive strategy opens up opportunities for counterstrategies that exploit it."CD8a+ DCs make up about 10 percent of all dendritic cells in the body. By studying the basic functions of these cells, scientists are laying the groundwork to use them to fight infections. The cells also appear to be essential for some cancer vaccines, which enlist the power of the immune system to help fight tumors.Murphy, who is a Howard Hughes Medical Institute Investigator, previously created genetically altered mice where CD8a+ DCs could be selectively eliminated. By comparing these mice with normal mice, Murphy and his collaborators have shown that CD8a+ DCs are essential to priming the body's defenses against viral infections.Viruses often try to disguise themselves to evade defenders, but CD8a+ DCs can extract characteristic parts of a virus and display them on their surface. Other cells also can make these displays, but CD8a+ DCs do it in a way that helps peel back disguises, causing other immune cells to seek out additional copies of the virus and kill them.In one of the new studies, doctoral student Mona Mashayekhi showed that CD8a+ DCs are early responders to infection with the Toxoplasma gondiiparasite, which causes serious disease in patients with weakened or suppressed immune systems. She found only CD8a+ DCs produce a signal that causes other immune cells to fight the parasite.In the second paper, Brian Edelson, MD, PhD, assistant professor of pathology and immunology, tested the cells against the bacteria Listeria, which can cause food poisoning. He discovered that CD8a+ DCs could make Listeria infection worse."Listeria likes to get into immune cells using a pathway that typically leads to the bacteria's death in garbage disposals inside the cell," Murphy explains. "But that pathway is slowed down in CD8a+ DCs to ensure that they can retain part of the invader to display to other immune cells."Researchers watched Listeria use this delay to ride inside CD8a+ DCs as they entered the spleen, where immune cells not yet activated for attacking invaders are kept. These cells are easy targets for the bacteria, and infection worsens.According to Murphy, CD8a+ DCs' specialized ability to initiate immune attacks makes them essential for efforts to create cancer vaccines based on DNA from tumors. He and collaborator William Gillanders, MD, professor of surgery, are working to use these vaccines to make immune cells attack cancers."What we're learning from basic studies, for example, has already enabled us to increase the number of CD8a+ DCs in mice until they're about 30 to 40 percent of dendritic cells," Murphy says. "Learning more about how this cell interacts with other immune cells will allow us to create effective cancer vaccines."
+
+
+
+
+
+Flying on Sunshine
+
+
+Posted:  Sun, 28 Aug 2011 01:21:30 PDT
+
+When it comes to futuristic space travel, few concepts are more romantic than sailing on sunlight. Soar above Earth, unfurl a jib and tack your way through the solar system all the way to interstellar space.
+Solar sails have been a mainstay of dreamers since Johannes Kepler, who speculated four centuries ago that ships would one day be powered by “heavenly air.” But sun sailing is no longer fanciful fodder for visionaries. Recent technological advances have moved solar sailing from science fiction to science fact.
+Last year, Japan’s space agency launched the world’s first solar sail into interplanetary space; its metal-coated membrane unfurled and caught the light to begin sunjamming. And with help from tiny “nanosatellites” that allow scientists to pack folded-up sails in spacecraft no bigger than a loaf of bread, NASA this year sent its first sail skipping through Earth orbit.
+Look overhead at the right time of night, and you can spot the gleaming streak of NASA’s NanoSail-D as it tumbles closer to Earth, mission accomplished. Within the next few months it will incinerate in the atmosphere in a bright flash.
+In addition to the Japanese and U.S. efforts, the privately funded Planetary Society expects to launch its own sail next year, as does a satellite design team based at the University of Surrey in England.
+Solar sail enthusiasts have waited decades to see such flights. And one day, they hope, solar sails will perform tasks other spacecraft cannot: hover above Earth’s poles to monitor climate change, flit near the sun to watch for solar storms, drag space junk out of orbit like a cosmic maid or even journey to a nearby star.
+“As far as solar sails go, we are on the cusp of history,” says Dean Alhorn, an engineer at NASA’s Marshall Space Flight Center in Huntsville, Ala., who leads the NanoSail-D mission. “We are ready now with the technology to make these happen.”In principle, solar sailing could not be easier. Scottish physicist James Clerk Maxwell described in 1873 how light can exert pressure: A particle of light transfers up to nearly twice its momentum to an object it bounces off of.
+Each individual transfer amounts to no more than a mosquito’s breath, but over time that breath accumulates to a steady wind that a spacecraft can ride just as a sailboat rides the wind on Earth. After 100 days, a solar sail could reach 14,000 kilometers per hour; after three years it could be zipping along at 240,000 kilometers per hour. At that rate it could get to Pluto in less than five years, rather than the nine years the plutonium-powered New Horizons spacecraft, now on its way, is taking. Solar sails are the tortoise to the hare of chemical rocketry.
+Scientists have long wanted such a tortoise. In the 1920s Konstantin Tsiolkovsky, the founder of Soviet astronautics, and colleague Fridrikh Tsander separately wrote of the idea of using solar radiation pressure to accelerate sails. After a few decades on the back burner, the idea took off in the ’50s and ’60s, with engineers drafting up grandiose designs and Arthur C. Clarke plotting a solar sail race in his short story “The Wind from the Sun.” By 1976 engineers at NASA’s Jet Propulsion Laboratory in Pasadena, Calif., were dreaming of sending a massive solar sail to fly alongside Comet Halley as it passed close to Earth the next decade.
+Without the need to carry fuel, solar sails promised to be a cheaper way to explore Earth and its environs. They could also make visits, such as hovering above the North Pole, that traditional spacecraft can’t because of the dictates of gravity. But solar sails lost the funding battle to other alternative propulsion systems — at least in the United States. By the early 1990s a few other sporadic attempts, including a plan for a solar sail race to Mars, also fell apart.
+
+Now, tiny satellites may be saving the big dreams of some would-be solar sailors. One of the hottest things in satellite technology today is the CubeSat, a box just 10 centimeters on a side that weighs about 1 kilogram. Such boxes can be mixed and matched in “nanosatellite” combinations of up to three cubes yet still be launched using a shared deployment system. CubeSats are thus relatively cheap and easy to work with, so researchers have used them to carry a variety of science experiments. A small solar sail, thinner than a trash bag and weighing just grams, turns out to be nearly the perfect payload to fly on a CubeSat.
+“When we first thought of solar sails back in the ’70s and ’80s, it was these huge structures, a mile or half a mile on a side,” says Louis Friedman, cofounder of the Planetary Society, headquartered in Pasadena. “That was kind of unimaginable. Now that we’re talking about things 5 meters or 10 meters on a side, you realize that a lot of people might be able to build them and use them a little more practically.”
+Two flights and failure
+Existing solar sail designs fall into two main categories: ones that deploy rigid booms to hold the sail taut, like a sailboat’s mast, and ones that spin to blossom sail blades outward using centrifugal force. The main challenges are to unfold the whisker-thin sail in space without ripping, and to direct the sail to move in the right direction.Thanks to hefty government funding, Japan’s space agency, JAXA, was the first to conquer both challenges. It built a large square sail, too big to fit in a CubeSat, and launched it on board a probe headed to Venus. In June of last year, the probe released the still-folded solar sail, named IKAROS after the mythological boy who flew too close to the sun and melted the wax anchoring his wings. In the great space acronym tradition, the name also stands for Interplanetary Kite-craft Accelerated by Radiation Of the Sun.
+On cue, IKAROS unfolded its sail, 20 meters across diagonally, and made its way toward Venus, flying past that planet in December. By turning on and off an innovative set of liquid crystals, project engineers showed they could change the sail’s reflectivity and thus direct its motion.
+JAXA has extended the mission to March 2012 so engineers can test some more risky flight maneuvers. “I’m just so in admiration of them,” says Friedman. The agency is also working on a much larger solar sail, 50 meters across, with hopes of launching it around 2020 to set sail for Jupiter and distant asteroids. Eventually, JAXA wants to develop novel hybrid propulsion systems, combining solar sails with ion drives to enable long trips through the solar system.
+With far less money to spend than Japan, the first U.S. solar sail is far smaller, cheaper and less ambitious. Like so many projects in the solar sail world, the currently orbiting NanoSail-D was born from the ashes of much grander ideas.NASA’s solar sail research program has waxed and waned over the years depending on funding. In the middle of the last decade, the agency conducted its biggest experiment to date, when it tested two 20-meter-by-20-meter solar sails at a research facility in Ohio. Then NASA began funneling most of its money into the Constellation program to return astronauts to the moon, and the big solar sail project foundered.
+“When that ended we had a lot of hardware and only a little budget,” says Les Johnson, deputy manager at the Advanced Concepts Office at the Marshall center. “And that’s where NanoSail-D was born.”
+A few people began working on a CubeSat-based design informally called LunchSat, “because the only time people had to work on it was during lunch,” Alhorn says. But suddenly a chance to launch arose, and the team hurriedly built two kite-shaped sails, 3 meters on a side, that could tuck inside a nanosatellite. The first NanoSail-D launched in 2008 on a Falcon 1 rocket provided by the private company SpaceX, but the rocket never made it into orbit. A second option arose the next year, and the spare NanoSail-D launched successfully in November 2010 aboard a Minotaur rocket.
+But then disaster struck. NanoSail-D didn’t emerge and unfurl when it was supposed to. Mission managers had given it up as lost when in January the sail apparently decided to deploy itself on its own schedule. “Somehow it freed itself,” says Alhorn. “We all have theories of what stuck it and why it came loose, but there’s no conclusive evidence.”
+NanoSail-D unfurled itself and since then has been orbiting Earth, the first solar sail NASA has deployed in space. The craft is drifting gradually lower in altitude, and Alhorn estimates it will burn up sometime before next January.
+Ordinarily, putting a solar sail into Earth orbit is harder than sending one to interplanetary space, simply because the sail has to keep readjusting its trajectory. Although NanoSail-D has succeeded in showing how a solar sail would deploy, it isn’t actually controlling its position. Because it may be tumbling along under atmospheric drag instead of solar radiation pressure, some purists insist it isn’t a true solar sail. Alhorn is now working on a concept for a larger sail with a novel kind of attitude control, which sets the sail’s orientation with panels feathered up to 90 degrees.
+Closest in concept to the original grand dreams about solar sailing, yet freighted with the memory of a recent failure, is the LightSail project of the Planetary Society. Friedman, its architect, has seen pretty much everything in the world of solar sailing; he worked on the original Halley proposal in the 1970s and spearheaded the society’s drive to fly a privately funded sail in the early 2000s. That effort, paid for mainly by an entertainment company led by Carl Sagan’s widow, ended with a splash in 2005 when the Russian rocket it was supposed to ride from a nuclear submarine failed to reach orbit.
+After licking his wounds, Friedman decided to work with NanoSail-D in its initial stages. That restored his enthusiasm and inspired LightSail. “We got so interested in the design that we said we’ll go further: We’ll instrument the craft and build in attitude control and a telemetry system,” says Friedman. Thanks to CubeSats, the sail could be built for less money than the society’s last, failed attempt.
+LightSail’s design calls for the main CubeSat bus to unfold four rectangles covered with solar panels, then unfurl blades of Mylar film to form a kite 5.6 meters on a side. It will have cameras to photograph itself, accelerometers to measure solar pressure and a motor to help keep it pointed on course. As it goes around the Earth, the sail will have to turn 90 degrees twice every 90 minutes.
+And this time, just in case, the society is building two copies: Twin LightSails are in the final stages of construction at Stellar Exploration in San Luis Obispo, Calif.
+Finding a ride is next. To get above 825 kilometers in altitude, where solar radiation pressure begins to dominate over atmospheric drag, LightSail needs a launch vehicle that goes higher than most CubeSat launches. The project is now waiting for that lift, Friedman says.
+Never one to give up dreaming, Friedman envisions two other LightSails to come. LightSail-2 would aim to do a longer flight in a higher Earth orbit, and LightSail-3 would fly to the gravitationally stable L1 Lagrangian point between the Earth and sun.
+Future seas
+Over the next few years, a handful of other solar sails under development may see the light of space, each proving in its own way that sailing on sunshine is possible. In England, a consortium from the University of Surrey and its industry partner Astrium is building two prototypes for yet another CubeSat-based solar sail 5 meters on a side, called CubeSail. Engineers have constructed one sail that relies on booms of metal tape that unroll like party poppers, and a second that uses rigid carbon fiber booms that unfold directly. The team will test both in the laboratory and by December decide which design to fly, says project leader Vaios Lappas of the University of Surrey. He expects CubeSail to launch in early 2012.
+Lappas’ team is also working on a larger European Union–funded project, called DEORBIT SAIL, for launch in 2014, and an inflatable sail for launch that year or the next. As its name suggests, DEORBIT SAIL’s main objective is to get decommissioned space junk out of orbit. Though garbage cleanup may sound like a pedestrian task for a glorious solar sail, such applications may be what gets sails built and flown in the years to come, Lappas says. Tens of thousands of large pieces of spent rockets and other trash drift dangerously in low-Earth orbit, threatening collisions with pricey working satellites. Some countries are beginning to require spacecraft designers to install a way to deorbit satellites after their useful life has ended.
+One cheap and lightweight way would be to stick a solar sail on board, which could unfurl at the end of the mission and gently guide the craft down to incineration. Or a sail could go pick up the trash directly: “We want to develop a system where we can take our deorbiting system to pieces of space debris, dock with them and bring them to the atmosphere and let them burn up,” Lappas says.
+Yet another approach to solar sails is taking shape in a clean room in an Illinois laboratory. Researchers there have designed a sail that would unfurl from bobbins into a giant space ribbon 250 meters long, says Victoria Coverstone, an aerospace engineer at the University of Illinois at Urbana-Champaign. This project, also dubbed Cube Sail, is basically ready to fly, she says, if the team can find money for a launch and to upgrade the Mylar film that makes up the sail. The Illinois group next aims to test a spinning deployment of sail blades, on the way to an ambitiously large spinning sail whose rotating blades could measure up to 5 or even 10 kilometers long.
+Meanwhile, the German space agency DLR and the European Space Agency are planning their own series of solar sails dubbed Gossamer. The first of these would launch a 25-square-meter sail into Earth orbit in 2014, followed by bigger ones over the next several years.
+How all these new projects come together may shape the future of solar sailing for decades. “I think there’s a lot that will happen in the next two to three years that could essentially define how solar sails take off from Earth and go into space,” Lappas says.
+In the longer term, solar sails will move forward only if the scientific community promotes them for missions where no other propulsion technology can do the job, says Colin McInnes, director of the Advanced Space Concepts Laboratory at the University of Strathclyde in Glasgow, Scotland. It may seem a practical end to a romantic concept, but “in the long term that’s how it’s going to advance,” he says. “The advocates of solar sailing have to identify what the really compelling science or operational missions are where solar sailing outcompetes other propulsion technologies. It’s not going to advance just because it’s such a neat idea.”
+
+
+
+
+
+
+
+Mutated DNA Causes No-Fingerprint Disease
+
+
+Posted:  Fri, 26 Aug 2011 06:44:14 PDT
+
+A genetic mutation causes people to be born without fingerprints, a new study says.Almost every person is born with fingerprints, and everyone's are unique. But people with a rare disease known as adermatoglyphia do not have fingerprints from birth. Affecting only four known extended families worldwide, the condition is also called immigration-delay disease, since a lack of fingerprints makes it difficult for people to cross international borders.In an effort to find the cause of the disease, dermatologist Eli Sprechers equenced the DNA of 16 members of one family with adermatoglyphia in Switzerland. Seven had normal fingerprints, and the other nine did not. After investigating a number of genes to find evidence of mutation, the researchers came up empty-handed—until a grad student finally found the culprit, a smaller version of a gene called SMARCAD1. (Get a genetics overview.)The larger SMARCAD1 is expressed throughout the body, but the smaller form acts only on the skin. Sure enough, the nine family members with no fingerprints had mutations in that gene.Being born without fingerprints doesn't occur simply because one gene has been turned on or off, Sprecher said. Rather, the mutation causes copies of the SMARCAD1 gene to be unstable.That mutation is also the first link in a long chain of events that ultimately affects fingerprint development in the womb. The rest of the links in the chain are still a mystery, said Sprecher, of the Tel Aviv Sourasky Medical Center.(See skin pictures.)No-Fingerprint Disease Not HarmfulOther inherited diseases that result in a lack of fingerprints—such as Naegeli syndrome and dermatopathia pigmentosa reticularis—are caused by problems with the protein keratin-14.(Related: "Born Without Fingerprints: Scientists Solve Mystery of Rare Disorder.")These conditions "manifest not only with lack of fingerprints, but also with a number of other critical features—a thickening of the skin, problems with nail formation," Sprecher said.By contrast, immigration-delay disease doesn't come with any side effects besides a minor reduction in the ability to sweat. In general, people with the disease "are otherwise completely healthy, like you and me."By further studying the Swiss family, Sprecher said, it might be possible to solve the mystery of fingerprints overall."You go from a rare disease to a biological insight of general importance," he said. "We would never have been able to get to this gene if not for the study of this family."The fingerprint research was published August 12 in the American Journal of Human Genetics.
+
+
+
+
+
+
+
+New Drug Cures Multiple Viruses in Human Cells
+
+
+Posted:  Fri, 26 Aug 2011 06:40:17 PDT
+
+There's no cure for the common cold—yet. A new drug can scout out and kill numerous types of viruses infecting human and animal cells, researchers have announced. It's the first time a single drug has been shown to work against a range of viruses, from those that cause seasonal sniffles to more fatal diseases."Several decades ago the discovery and production of antibiotics revolutionized the way bacterial infections were treated," said study co-author Todd Rider, a senior staff scientist at the Massachusetts Institute of Technology's Lincoln Laboratory and Division of Comparative Medicine."We hope that this will similarly revolutionize the way viral infections are treated. That covers everything from cold and flu viruses to more serious clinical pathogens like HIV and hepatitis viruses and ultimately even more deadly viruses like Ebola and smallpox."(Watch video: "How Flu Viruses Attack.")Alien-Like Viruses Tough to BeatThough there are plenty of drugs to treat bacterial infections, there are few that can battle viruses. The antiviral drugs that have been developed are highly specific, with each drug targeting just one strain of a virus, which can easily mutate and become resistant to the medication.So Rider and colleagues took a different approach—tailoring their new drug to work with the body's built-in defense mechanism.Viruses operate "sort of like the aliens in the Alien movies," Rider said. "They'll enter a cell, replicate inside the cell, and ultimately burst out of the cell," killing it.(Take a quiz on infectious diseases.)While taking over cells, viruses produce what's called long double-stranded RNA, a complex acid that controls the virus's chemical activities and is not produced in healthy human cells, according to the study, published July 27 in the journal PLoS ONE.Human bodies do have natural defenses against viruses: They produce proteins that latch onto double-stranded RNA and prevent the virus from replicating itself. But many viruses have evolved ways to shut down these proteins.New Drug Packs Double WhammyRider and his team developed a drug that combines the natural-defense protein with another protein that triggers a cell's suicide switch. All human cells have these suicide switches, which are usually activated when cells start to become cancerous, Rider said.The result is like the mythological centaur, said Marie Pizzorno, a molecular virologist at Pennsylvania's Bucknell University."The horse is one piece of a protein that normally we make and that can recognize the [long double-stranded RNA] made by the virus, and the man is something that triggers the cell-death pathway," she said.The new drug, called DRACO, works by searching for cells in the body that contain long double-stranded RNA—a surefire sign of a virus. If the drug finds a viral infection, it tells the cell to self-destruct.Since our body doesn't use these proteins together naturally, combining them in drug form may outsmart even the most adaptable of viruses, added Pizzorno, who was not involved in the new study."Viruses have figured out how to handle our normal defenses, [but] by activating these two pathways with one protein, they've hopefully prevented the viruses from getting around it."If the drug does not find double-stranded RNA in the body, it eventually flushes out with no side effects, study leader Rider added. (See a human-body interactive.)Common-Cold Drug Still a Decade AwaySo far, the drug has proven to be effective and nontoxic in killing 15 types of virus—including the ones that cause dengue hemorrhagic fever and H1N1 influenza, or swine flu—in 11 types of mammalian cells, including human.The drug also cured 100 percent of mice injected with a lethal dose of H1N1, and there are ongoing trials in mice with other viruses.The next step will be to see if the drug can kill viruses in bigger animals, such as rabbits, guinea pigs, and ultimately monkeys, Rider said.Then, if the drug is still safe and effective, the U.S. Food and Drug Administration may approve human clinical trials, Rider said. Still, it will be "at least a decade before you can buy this at the drugstore."Even with all these steps yet to go, the new drug has promise, Bucknell's Pizzorno added."It's a really innovative way to consider doing an antiviral," she said. "I don't think anyone has ever thought of this before."
+
+
+
+
+
+
+
+Steve Jobs Announces Resignation From Apple
+
+
+Posted:  Thu, 25 Aug 2011 02:56:42 PDT
+
+Apple’s founder Steve Jobs resigned as CEO on Wednesday after taking most the year off for medical reasons.The 55-year-old co-founder of the company is a pancreatic cancer survivor and has been on medical leave since January 17.Apple said Jobs has been elected chairman and Tim Cook has been elected CEO.“Steve’s extraordinary vision and leadership saved Apple and guided it to its position as the world’s most innovative and valuable technology company,” Art Levinson, Chairman of Genentech, on behalf of Apple’s Board said in a statement.“Steve has made countless contributions to Apple’s success, and he has attracted and inspired Apple’s immensely creative employees and world class executive team. In his new role as Chairman of the Board, Steve will continue to serve Apple with his unique insights, creativity and inspiration.”“The Board has complete confidence that Tim is the right person to be our next CEO,” added Levinson. “Tim’s 13 years of service to Apple have been marked by outstanding performance, and he has demonstrated remarkable talent and sound judgment in everything he does.”Cook has been acting as CEO since Jobs has been absent on medical leave. 
+
+
+
+
+
+First Genetic Evidence Of Long-Lived African Presence Within Britain
+
+
+Posted:  Thu, 25 Aug 2011 01:36:32 PDT
+New research has identified the first genetic evidence of Africans having lived amongst "indigenous" British people for centuries. Their descendants, living across the UK today, were unaware of their black ancestry.
+
+
+
+The University of Leicester study, funded by the Wellcome Trust and published today in the journal European Journal of Human Genetics, found that one third of men with a rare Yorkshire surname carry a rare Y chromosome type previously found only amongst people of West African origin.The researchers, led by Professor Mark Jobling, of the Department of Genetics at the University of Leicester, first spotted the rare Y chromosome type, known as hgA1, in one individual, Mr. X. This happened whilst PhD student Ms. Turi King was sampling a larger group in a study to explore the association between surnames and the Y chromosome, both inherited from father to son. Mr. X, a white Caucasian living in Leicester, was unaware of having any African ancestors."As you can imagine, we were pretty amazed to find this result in someone unaware of having any African roots," explains Professor Jobling, a Wellcome Trust Senior Research Fellow. "The Y chromosome is passed down from father to son, so this suggested that Mr. X must have had African ancestry somewhere down the line. Our study suggests that this must have happened some time ago."Although most of Britain's one million people who define themselves as "Black or Black British" owe their origins to immigration from the Caribbean and Africa from the mid-twentieth century onwards, in reality, there has been a long history of contact with Africa. Africans were first recorded in the north 1800 years ago, as Roman soldiers defending Hadrian's Wall.To investigate the origins of hgA1 in Britain, the team recruited and studied a further eighteen males with the same surname as Mr. X. All but one were from the UK, with paternal parents and grandparents also born in Britain. Six, including one male in the US whose ancestors had migrated from England in 1894, were found to have the hgA1 chromosome.Further genealogical research to identify a common ancestor for all seven X-surnamed males suggests that the hgA1 Y chromosome must have entered their lineage over 250 years ago. However, it is unclear whether the male ancestor was a first generation African immigrant or a European man carrying an African Y chromosome introduced into Britain some time earlier, or even whether the hgA1 Y chromosome goes back as far as the Roman occupation."This study shows that what it means to be British is complicated and always has been," says Professor Jobling. "Human migration history is clearly very complex, particularly for an island nation such as ours, and this study further debunks the idea that there are simple and distinct populations or 'races'."In addition, Professor Jobling believes that the research may have implications for DNA profiling in criminal investigations."Forensic scientists use DNA analysis to predict a person's ethnic origins, for example from hair or blood samples found at a crime scene. Whilst they are very likely to predict the correct ethnicity by using wider analysis of DNA other than the Y chromosome, finding this remarkable African chromosome would certainly have them scratching their heads for a while."
+
+
+
+
+
+Gene Study Sheds New Light On Origins of British Men
+
+
+Posted:  Thu, 25 Aug 2011 01:35:03 PDT
+
+
+New genetic evidence reveals that most British men are not descended from immigrant farmers who migrated east 5,000-10,000 years ago -- contrary to previous research.
+
+Instead, scientists from the Universities of Oxford and Edinburgh say that most European men can trace their lineage to people -- most likely hunter-gatherers -- who had settled in Europe long before that time.The latest study, based on the most common genetic lineage in European males, aims to correct an analysis of genetic data, published last year. It had reported that most British men came from people who migrated west, with the spread of agriculture, from the Near East.More than 100 million European men have a set of genes called R-M269, including about three-quarters of British men. A key question in understanding the peopling of Europe is when this group spread out across Europe.Researchers say their work shows that the set of genes chosen to estimate the age of this group of men vary the outcome enormously. They add that the previously reported east-west pattern is not found in their larger and more comprehensive dataset. This, the Oxford-Edinburgh team says, leaves little evidence for a farmer-led dispersal of this major group.According to Dr Cristian Capelli, the Oxford geneticist who led the research, the study "resets" the debate on the peopling of Europe. He says, "Our works overturns the recent claims of European Y chromosomes being brought into the continent by farmers."Co-author, Dr Jim Wilson of the University of Edinburgh's Centre for Population Health Sciences, adds that the paper shows for the first time that certain properties of the genes studied strongly influence the accuracy of the date estimate."Estimating a date at which an ancestral lineage originated is an interesting application of genetics, but unfortunately it is beset with difficulties and it is very difficult to provide good dates. Many people assume that the more genes the more accurate the dates, but this is not the case: some genetic markers are more suited to dating than others."The study also reports multiple subgroups of the R-M269 group that are very common in different parts of Europe, consistent with expansion of these different groups in each place.The study is published online in the Proceedings of the Royal Society B: Biological Sciences
+
+
+
+
+
+500 years ago, yeast's epic journey gave rise to lager beer
+
+
+Posted:  Wed, 24 Aug 2011 07:14:16 PDT
+
+In the 15th century, when Europeans first began moving people and goods across the Atlantic, a microscopic stowaway somehow made its way to the caves and monasteries of Bavaria. The stowaway, a yeast that may have been transported from a distant shore on a piece of wood or in the stomach of a fruit fly, was destined for great things. In the dank caves and monastery cellars where 15th century brewmeisters stored their product, the newly arrived yeast fused with a distant relative, the domesticated yeast used for millennia to make leavened bread and ferment wine and ale. The resulting hybrid -- representing a marriage of species as evolutionarily separated as humans and chickens -- would give us lager, the clear, cold-fermented beer first brewed by 15th century Bavarians and that today is among the most popular -- if not the most popular -- alcoholic beverage in the world.And while scientists and brewers have long known that the yeast that gives beer the capacity to ferment at cold temperatures was a hybrid, only one player was known: Saccharomyces cerevisiae, the yeast used to make leavened bread and ferment wine and ale. Its partner, which conferred on beer the ability to ferment in the cold, remained a puzzle, as scientists were unable to find it among the 1,000 or so species of yeast known to science.Now, an international team of researchers believes it has identified the wild yeast that, in the age of sail, apparently traveled more than 7,000 miles to those Bavarian caves to make a fortuitous microbial match that today underpins the $250 billion a year lager beer industry.Writing in the Proceedings of the National Academy of Sciences, researchers from Portugal, Argentina and the United States describe the discovery of a wild yeast in the beech forests of Patagonia, the alpine region at the tip of South America, that apparently solves the age-old mystery of the origin of the yeast that made cold-temperature fermentation and lager beer possible."People have been hunting for this thing for decades," explains Chris Todd Hittinger, a University of Wisconsin-Madison genetics professor and a co-author of the new study. "And now we've found it. It is clearly the missing species. The only thing we can't say is if it also exists elsewhere (in the wild) and hasn't been found."The newfound yeast, dubbed Saccharomyces eubayanus, was discovered as part of an exhaustive global search, led by the New University of Lisbon's José Paulo Sampaio and Paula Gonçalves. Aimed squarely at resolving the lager yeast mystery, the Portuguese team sorted through European yeast collections, combed the scientific literature and gathered new yeasts from European environments. Their efforts yielded no candidate species of European origin.Expanding the search to other parts of the world, however, finally paid dividends when collaborator Diego Libkind of the Institute for Biodiversity and Environment Research (CONICET) in Bariloche, Argentina, found in galls that infect beech trees a candidate species whose genetic material seemed to be a close match to the missing half of the lager yeast."Beech galls are very rich in simple sugars. It's a sugar rich habitat that yeast seem to love," notes Hittinger.The yeast is so active in the galls, according to Libkind, that they spontaneously ferment. "When overmature, they fall all together to the (forest) floor where they often form a thick carpet that has an intense ethanol odor, most probably due to the hard work of our new Saccharomyces eubayanus."The new yeast was hustled off to the University of Colorado School of Medicine, where a team that included Hittinger, Jim Dover and Mark Johnston sequenced its genome. "It proved to be distinct from every known wild species of yeast, but was 99.5 percent identical to the non-ale yeast portion of the lager genome," says Hittinger, now an assistant professor of genetics at UW-Madison.The Colorado team also identified genetic mutations in the lager yeast hybrid distinctive from the genome of the wild lager yeast. Those changes -- taking place in a brewing environment where evolution can be amped up by the abundance of yeast -- accumulated since those first immigrant yeasts melded with their ale cousins 500 years ago and have refined the lager yeast's ability to metabolize sugar and malt and to produce sulfites, transforming an organism that evolved on beech trees into a lean, mean beer-making machine."Our discovery suggests that hybridization instantaneously formed an imperfect 'proto-lager' yeast that was more cold-tolerant than ale yeast and ideal for the cool Bavarian lagering process," Hittinger avers. "After adding some new variation for brewers to exploit, its sugar metabolism probably became more like ale yeast and better at producing beer."
+
+
+
+
+
+Consuming cholesterol-lowering foods results in greater decrease in LDL than low-saturated-fat diet
+
+
+Posted:  Wed, 24 Aug 2011 07:12:37 PDT
+
+Persons with high cholesterol who received counseling regarding a diet that combined cholesterol-lowering foods such as soy protein, nuts and plant sterols over 6 months experienced a greater reduction in their low-density lipoprotein cholesterol (LDL-C) levels than individuals who received advice on a low-saturated fat diet, according to a study in the August 24/31 issue of JAMA. Efforts have been made to improve the ability of conventional dietary therapy to reduce serum cholesterol through the inclusion of specific foods or food components with known cholesterol-lowering properties, singly or in combination (dietary portfolio), according to background information in the article. The long-term effect of such diets compared with conventional dietary advice has not previously been assessed.David J. A. Jenkins, M.D., of St. Michael's Hospital and the University of Toronto, and colleagues conducted a multi-center trial to determine whether advice to eat a dietary portfolio consisting of foods recognized by the U.S. Food and Drug Administration as associated with lowering serum cholesterol achieved significantly greater percentage decreases in LDL-C levels compared with a control diet at 6-month follow-up. The control diet emphasized high fiber and whole grains but lacked components of the portfolio diet, which emphasized dietary incorporation of plant sterols, soy protein, viscous fibers, and nuts. The study included 351 participants with hyperlipidemia from 4 participating academic centers across Canada (Quebec City, Toronto, Winnipeg, and Vancouver) randomized between June 2007 and February 2009 to 1 of 3 treatments.Participants received dietary advice for 6 months on either the low-saturated fat therapeutic diet (control) or a routine or intensive dietary portfolio, for which counseling was delivered at different frequencies. Routine dietary portfolio involved 2 clinic visits over 6 months and intensive dietary portfolio involved 7 clinic visits over 6 months.In the modified intention-to-treat analysis of 345 participants, the overall attrition rate was not significantly different between treatments (18 percent for intensive dietary portfolio, 23 percent for routine dietary portfolio, and 26 percent for control).The researchers found that the change in LDL-C levels from the beginning of the study to week 24 in the control diet were -3.0 percent or -8 mg/dL. In the routine and intensive dietary portfolio interventions, the respective percentage changes were -13.1 percent or -24 mg/dL and -13.8 percent or -26 mg/dL for LDL-C levels."Percentage LDL-C reductions for each dietary portfolio were significantly more than the control diet. The 2 dietary portfolio interventions did not differ significantly. Among participants randomized to one of the dietary portfolio interventions, percentage reduction in LDL-C on the dietary portfolio was associated with dietary adherence," the authors write."In conclusion, this study indicated the potential value of using recognized cholesterol-lowering foods in combination. We believe this approach has clinical application. A meaningful 13 percent LDL-C reduction can be obtained after only 2 clinic visits of approximately 60-and 40-minute sessions. The limited 3 percent LDL-C reduction observed in the conventional diet is likely to reflect the adequacy of the baseline diet and therefore suggests that larger absolute reductions in LDL-C may be observed when the dietary portfolio is prescribed to patients with diets more reflective of the general population," the authors write.
+
+
+
+
+
+Ancient harvestmen revealed in 3-D models published today in Nature Communications
+
+
+Posted:  Wed, 24 Aug 2011 02:31:06 PDT
+
+Two ancient types of harvestmen, or 'daddy long legs,' which skittered around forests more than 300 million years ago, are revealed in new three-dimensional virtual fossil models published in the journal Nature Communications. An international team, led by researchers from Imperial College London, have created 3-D models of two fossilised species of harvestmen, from the Dyspnoi and Eupnoi suborders. The ancient creatures lived on Earth before the dinosaurs, in the Carboniferous period. The 3-D models are providing fresh insights into how these ancient eight-legged creatures, whose 1cm bodies were the size of small buttons, survived in Earth's ancient forests and how harvestmen as a group have evolved.
+Other scientists have previously suggested that harvestmen were among the first groups on land whose bodies evolved into their modern-day form at a time while other land animals such as spiders and scorpions were still at an early stage in their evolution. The researchers say comparing the 3-D fossils of the Dyspnoi and Eupnoi species to modern members of these harvestmen groups provides further proof that ancient and modern species were very similar in appearance, suggesting little change over millions of years.Dr Russell Garwood, who is currently based in the computed tomography lab at the Natural History Museum in London and who carried out his research while at the Department of Earth Science and Engineering at Imperial College London, says:"It is absolutely remarkable how little harvestmen have changed in appearance since before the dinosaurs. If you went out into the garden and found one of these creatures today it would be like holding a little bit of prehistory in your hands. We can't yet be sure why harvestmen appear so modern when most land animals, including their cousins such as scorpions, were in such a primitive form at the time. It may be because they evolved early to be good at what they do, and their bodies did not need to change any further."The 3-D virtual fossil models have also provided the researchers with further proof that the Dyspnoi and Eupnoi lineages had evolved from a common harvestmen ancestor around 305 million years ago. The researchers say their work supports earlier DNA-based studies and is important because it provides a clearer picture of the early evolution of these creatures.The researchers also found clues as to how both creatures may have lived hundreds of millions of years ago. The team believe that the Eupnoi probably lived in foliage just above the forest floor, which may have helped it to hide from predators lurking on the ground. The 3-D model of the Eupnoi revealed that it had long legs with a curvature at the end that are similar to the legs of its modern relatives who use the curved leg parts to grip onto vegetation while moving from leaf to leaf.The researchers also determined that the Eupnoi's body had a very thin and soft outer shell or exoskeleton by analysing a section of the 3-D fossil showing a part of its abdomen that had been crushed during the fossilisation process. This indicated to the team the fragility of the Eupnoi's exoskeleton.
+
+
+
+The Dyspnoi fossil had spikes on its back and the scientists believe this may have provided it with some protection from predators who would have found the creature a prickly meal to swallow, and that the Dyspnoi may have lived in moist, woody debris on the forest floor. Dyspnoi's modern American descendent Acuclavella cosmetoides also has spikes for protection and lives in similar environmental conditions.It is rare to find fossilised remains of Harvestmen because their soft, tiny, fragile bodies are difficult to preserve during the fossilisation process. Only around 33 fossilised species have been discovered so far.Currently, most palaeontologists analyse fossils by splitting open a rock and looking at the creatures encased inside. This means that they can often only see part of a three-dimensional fossil and cannot explore all of the fossil's features.The method used in today's study is called 'computed tomography' and it enables researchers to produce highly detailed virtual models using a CT scanning device, based at the Natural History Museum in London. In this study, scientists took 3142 x-rays of the fossils and compiled the images into accurate 3-D models, using specially designed computer software.This research follows on from previous modelling studies carried out by Imperial researchers on other prehistoric creatures including ancient spiders called Anthracomartus hindi and Eophrynus prestivicii, and an early ancestor of the cockroach called Archimylacris eggintoni.
+The research was funded by a Natural Environment Research Council studentship.
+
+
+
+
+
+
+Magnitude 5.8 earthquake hits Virginia
+
+
+Posted:  Wed, 24 Aug 2011 02:26:35 PDT
+
+The seismically sleepy mid-Atlantic states were struck by a magnitude 5.8 earthquake on August 23. At 1:51 p.m. EDT on Tuesday an earthquake struck Virginia, 135 kilometers southwest of Washington, D.C. It’s among the largest temblors to strike the state in recorded history.The quake’s epicenter was located in central Virginia about 61 kilometers northwest of Richmond, at a preliminary estimated depth of 6 kilometers. Reports of the quake were posted on the U.S. Geological Survey’s Did You Feel It? website from as far away as Ohio and New York. That’s not unusual for earthquakes on the East Coast, which are commonly felt over a wide area.
+“An event of the same size is felt over a much larger area in the East, compared to the West,” says Charles Ammon, an earthquake seismologist at Pennsylvania State University in University Park.
+Vibrations from an 1897 temblor centered on Virginia’s Giles County, magnitude 5.9, reached Georgia and Pennsylvania and as far westward as Kentucky and Indiana. Chimneys crumbled and visible fissures appeared during this event.
+On Tuesday, buildings rattled and lights flickered as people took to the streets in the nation’s capital. Both the U.S. Capitol Building and the Pentagon were evacuated, the Associated Press reported — as was the building that houses the USGS Earthquake Hazards Program in Reston, Va. While it’s unclear if the city’s buildings suffered much structural damage from the quake, three pinnacles did snap off the central tower of the Washington National Cathedral, says Richard Weinberg, media spokesperson. Stone masons and engineers are assessing the full extent of the damage.
+Earthquakes in the mid-Atlantic tend to be small — like last year’s magnitude 3.6 temblor beneath Germantown, Md. The East Coast lacks the active fault systems created by colliding continental plates characteristic of California and the West Coast. The crust that underlies the mid-Atlantic region tends to be older, cooler and more stable. The recent quake likely started on a previously unknown fault that has been dormant for a long time in the middle of the Central Virginia Seismic Zone.
+The East Coast isn’t entirely immune to big ones, though. In 1886 an earthquake registering between magnitude 6.6 and 7.3 hit Charleston, S.C., damaging an estimated 2,000 buildings and killing dozens of people.
+A small magnitude 2.8 aftershock gently rocked Virginia again at 2:46 p.m. Rumors, spread in some initial news reports about the event, that this latest earthquake is a foreshock coming before a larger event are just speculation.
+“There’s no scientific method that could identify a foreshock,” says Ammon.
+
+
+
+
+
+
+Permafrost Could Release Vast Amounts of Carbon and Accelerate Climate Change by End of Century
+
+
+Posted:  Wed, 24 Aug 2011 02:24:47 PDT
+
+
+
+Billions of tons of carbon trapped in high-latitude permafrost may be released into the atmosphere by the end of this century as Earth's climate changes, further accelerating global warming, a new computer modeling study indicates.
+The study also found that soil in high-latitude regions could shift from being a sink to a source of carbon dioxide by the end of the 21st century as the soil warms in response to climate change.The research was led by Charles Koven of the U.S. Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab). He conducted the research with a team of scientists from France, Canada, and the United Kingdom while he was a postdoctoral researcher at France's Laboratoire des Sciences du Climat et de l'Environnement. The modeling was conducted at a supercomputing facility run by France's Alternative Energies and Atomic Energy Commission.
+
+
+
+Their study was published online in the Proceedings of the National Academy of Sciences.Their findings counter results from a comparison of models that was included in the Intergovernmental Panel on Climate Change's 2007 fourth assessment report. The comparison found that climate change will spark a growth in high-latitude vegetation, which will pull in more carbon from the atmosphere than thawing permafrost will release.But unlike earlier models, the new model includes detailed processes of how carbon accumulates in high-latitude soil over millennia, and how it's released as permafrost thaws. Because it includes these processes, the model begins with much more carbon in the soil than previous models. It also better represents the carbon's vulnerability to decomposition as the soil warms.As a result, the new model found that the increase in carbon uptake by more vegetation will be overshadowed by a much larger amount of carbon released into the atmosphere."Including permafrost processes turns out to be very important," says Koven, who joined Berkeley Lab's Earth Sciences Division as a staff scientist earlier this year. "Previous models tended to dramatically underestimate the amount of soil carbon at high latitudes because they lacked the processes of how carbon builds up in soil. Our model starts off with more carbon in the soil, so there is much more to lose with global warming."Koven and colleagues set out to estimate how much carbon dioxide and methane (which contains carbon) could be released by boreal and Arctic land ecosystems as a result of climate change. These regions are crucial to the global carbon cycle because they are rich in soil organic carbon, which has built up in frozen soils and peat layers over thousands of years.Much of this carbon is presently trapped and not cycling. But scientists believe that some of it could be released in response to warming and become a positive feedback to global climate change. At stake is an estimated 2,167 petagrams of carbon in all layers of high-latitude soil, which is more than two trillion U.S. tons.The scientists modified a land surface ecosystem model called ORCHIDEE to account for how carbon behaves at different layers, such as at the surface versus 30 centimeters below ground. They also accounted for the rate of soil carbon decomposition as a function of temperature at the freeze-thaw boundary, which sinks deeper and deeper as soil warms. Other improvements include soil physics that more realistically capture the effects of organic matter on carbon. Most other models do not have all of these phenomena.To determine how these processes affect the balance of carbon dioxide and methane in high-latitude soils, the scientists ran four simulations from 1860 to 2100, each with a different assortment of processes. They added in a middle-of-the-road climate change scenario that caused high-latitude surface soil to rise 8 degrees Celsius by 2100, which is much greater than the global average.The simulations revealed a climate-induced loss of between 25 and 85 petagrams of carbon, depending on the processes included. The best estimate is from a simulation that includes all of the permafrost soil processes. It found that 62 petagrams of soil carbon will be released into the atmosphere by 2100, or about 68 billion U.S. tons. This release of carbon is equivalent to an additional 7.5 years of global anthropogenic emissions at today's rate.The simulation also found only a slight increase in methane release, which is contrary to previous predictions."People have this idea that permafrost thaw will release methane," says Koven. "But whether carbon comes out as carbon dioxide or methane is dependent on hydrology and other fine-scale processes that models have a poor ability to resolve. It's possible that warming at high latitudes leads to drying in many regions, and thus less methane emissions, and in fact this is what we found."Koven adds that there are large uncertainties in the model that need to be addressed, such as the role of nitrogen feedbacks, which affect plant growth. And he says that more research is needed to better understand the processes that cause carbon to be released in permanently frozen, seasonally frozen, and thawed soil layers. Researchers in Berkeley Lab's Earth Sciences Division are focusing on improving global climate model representations of these processes under two Department of Energy-funded projects.The research was supported by the Department of Energy's Office of Science and project Impact-Boreal, which is funded by France's Agence Nationale pour la Recherche and the European Union project COMBINE.
+
+
+
+
+
+Diet May Be Enough For Cholesterol Problems; Avoid Statin Side Effects
+
+
+Posted:  Wed, 24 Aug 2011 02:21:59 PDT
+New research demonstrates that a diet based around plants, nuts and high-fiber grains lowered "bad"cholesterol more than a low-saturated-fat diet that was also vegetarian, meaning that one's dietary changes could be an alternative to statin medications for many people saving persons from some devastating side effects of the medications.
+
+The most common statin side effect is muscle pain. A patient may feel this pain as a soreness, tiredness or weakness in your muscles. The pain can be a mild discomfort, or it can be severe enough to make daily activities difficult.
+
+For this study, researchers wanted to see how big an effect a diet based on the pillars of lower cholesterol could have on LDL numbers without statins. They randomly split 351 Canadians with high cholesterol into three groups. One group gotnutrition counseling promoting a low-saturated-fat diet for six months.
+
+In the other two groups, dietitians helped participants fit more cholesterol-lowering foods, including soy milk, tofu, nuts, oats, peas and beans, into a healthy diet, meeting with some of them twice during the study, and with others seven times. All the diets were vegetarian.
+
+After six months, people on the low-saturated-fat diet saw a drop in LDL cholesterol of 8 milligrams per deciliter (mg/dL), on average, according to findings in the Journal of the American Medical Association.
+That compared to 24 mg/dL and 26 mg/dL decreases in participants on the cholesterol-lowering diets. (The average starting LDL was about 170 mg/dL. A number 160 mg/dL and above is considered high.)
+
+One in four adults age 45 and older in the U.S. takes the cholesterol-lowering drugs.
+
+Jenkins said:
+
+"There's no question that statins have made a major difference in terms of cardiovascular disease control, but we can only get so far with statins. If you want to sit on the couch with the six pack and the wings and watch other people exercise and you're quite determined not to do anything other than that, then we've got a medication for you."
+
+
+
+
+
+Volunteers in the cholesterol-lowering group were encouraged to consume about a gram of plant sterols in an enriched margarine per 1,000 calories of food they ate, as well as about 10 grams of fiber in the form of oats, barley and psyllium, 22.5 grams of soy protein and 22.5 grams of nuts, per 1,000 calories.
+
+One in five of the participants dropped out before the full six months, and even those that didn't had a hard time sticking closely to the diet plans, but many still saw cholesterol benefits.
+
+The researchers had everyone in the study who was taking statins go off the medication for the diet intervention. Jenkins said the question of how diet and statins could lower LDL in tandem is for future research.
+
+Dr. Joan Sabate, head of nutrition at Loma Linda University in California added in an associated comment:
+
+"The diet only is enough for the majority of the people that have a not-so-good lifestyle. By changing the diet and their lifestyle they can establish good control of their cholesterol."
+
+For other people, genetics or very high cholesterol may mean that diet isn't enough to get LDL down to a healthy level without statins. Doctors should encourage their patients with high cholesterol to try diet changes, if they're interested. A couple of visits to a nutritionist might be enough for motivated patients to make the switch to a plant-based, higher-fiber diet.
+
+
+
+
+
+Call to measure duration of obesity
+
+
+Posted:  Tue, 23 Aug 2011 02:33:11 PDT
+
+Experts say the health hazards of obesity may have been grossly underestimated because we are not measuring the condition adequately.Risk calculations have focused on severity of weight gain alone and not how long it persists.Latest research suggests every additional decade of being obese more than doubles death risk.The researchers told the International Journal of Epidemiology a new measure is needed - the "obese-year".Similar to the "pack-year" used for smoking, it gives a further quantification that can be used to help estimate the associated health risks.Growing problem
+A quarter of UK adults are overweight.And one in 10 children younger than 11 in England are obese.The government says that if the current rate of growth continues, three quarters of the population could suffer the ill effects of excess weight within 10 to 15 years.But Dr Asnawi Abdullah, from Monash University in Australia, and colleagues believe the toll is larger than this because estimates have failed to factor in duration of obesity.Their work shows that duration of obesity or "obese-year" has a direct effect on death risk, independent of other factors like age or how severely overweight a person is.Continue reading the main story
+“Start QuoteObesity is starting to become a problem at supremely young ages. We could see people dying before their parents because of obesity”Tam FryNational Obesity ForumThey looked at the health of 5,036 people living in the US who enrolled in a large study - the Framingham Cohort Study - that tracked their health every two years over decades.Among the participants, death risk went up by 7% for every additional two years of being obese (with a body mass index of 30 or more).Being obese for between 15 and 25 years more than doubled death risk compared with those who were never obese.And death risk was tripled for those who were obese for even longer than this.The researchers say this needs to be taken into consideration when assessing overweight patients."Our study demonstrates that for every additional 10 years lived with obesity, the risks of all-cause mortality, cardiovascular disease and cancer mortality more than doubled, implying that the risk of mortality associated with current obesity in adults might be significantly higher than in previous decades."They warn that obesity is occurring at younger and younger ages which will mean today's children can expect a shorter life expectancy compared to past generations.
+
+
+
+
+
+'Scare tactic'"Today the average age of onset of obesity is likely to be more than 10 years earlier than in previous decades."Tam Fry, of the National Obesity Forum, agreed: "Obesity is starting to become a problem at supremely young ages. We could see people dying before their parents because of obesity."He said the findings could be a much needed wake up call for some."If the GP can say 'You have got to do something about your weight otherwise you will die at 65 rather than 75' that could be a useful scare tactic."But he doubted if that would be enough to motivate all."Many people struggle to lose weight no matter how many times they are told to or how many times they try."
+A Department of Health spokesman said tackling obesity was a priority for government. He said doctors follow the current guidelines that say body mass index (weight in relation to height) and waist measurement are the best ways to assess obesity and health risks.
+
+
+
+
+
+
+Most Naturally Variable Protein In Dental Plaque Bacterium Discovered By Chemists
+
+
+Posted:  Tue, 23 Aug 2011 02:19:33 PDT
+Two UC San Diego chemists have discovered the most naturally variable protein known to date in a bacterium that is a key player in the formation of dental plaque. 
+
+The chemists, who announced their discovery in this week's early online edition of the journal Proceedings of the National Academy of Sciences, say they believe the extreme variability of the protein they discovered in the bacterium Treponema denticola evolved to adhere to the hundreds of different kinds of other bacteria that inhabit people's mouths. They call the protein they discovered "Treponema variable protein," or TvpA for short, and estimate that it is a million to a billion times more variable than the proteins that play a primary role in vertebrate immune systems - the only other known natural system for massive protein variation. 
+
+
+
+
+
+
+
+"In Treponema denticola, we found a protein we call TvpA, that varies considerably more than proteins of the immune system and, to our knowledge, this protein is the most variable natural protein described to date," said Partho Ghosh, a professor of chemistry and biochemistry at UC San Diego who headed the research effort. "We don't know what it does in this bacterium, but our hypothesis is that it enables it to adhere to the biofilm, commonly known as dental plaque, that exists in people's mouths." 
+
+Ghosh explained that dental plaque varies from person-to-person in the kinds of bacteria that adhere to the teeth to form this biofilm. Because plaque grows in a sequential way and because T. denticola is one of the last key players in the formation of plaque, Ghosh said the bacterium has no idea what kinds of other bacteria will be present to adhere to. 
+
+"We suspect that by varying TvpA, T. denticola is able to find a TvpA variant that is able to adhere to whichever bacterium is already present in the biofilm," Ghosh said. 
+
+
+Ghosh and Johanne Le Coq, a postdoctoral fellow in his laboratory now working at the Spanish National Cancer Center in Madrid, determined the structure of their newly discovered protein and its extreme variability using a powerful X-ray "microscope" at the Advanced Photon Source at the Argonne National Laboratory near Chicago. Their research project was supported by the U.S. Department of Energy, National Cancer Institute, National Institute of General Medical Science and National Institute of Allergy and Infectious Diseases. 
+
+
+
+
+
+Mold Exposure During Infancy Increases Asthma Risk, Study Finds
+
+
+Posted:  Tue, 23 Aug 2011 02:12:42 PDT
+
+
+
+Infants who live in "moldy" homes are three times more likely to develop asthma by age 7 -- an age that children can be accurately diagnosed with the condition.
+
+Study results are published in the August issue of Annals of Allergy, Asthma & Immunology, the scientific journal of the American College of Allergy, Asthma and  Immunology (ACAAI).
+"Early life exposure to mold seems to play a critical role in childhood asthma development," says Tiina Reponen, PhD, lead study author and University of Cincinnati (UC) professor of environmental health. "Genetic factors are also important to consider in asthma risk, since infants whose parents have an allergy or asthma are at the greatest risk of developing asthma."UC and Cincinnati Children's Hospital Medical Center researchers analyzed seven years of comprehensive data for 176 children to evaluate the effects of mold exposure in early life.The children were part of the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS), a long-term population-based study that included more than 700 children from the Greater Cincinnati area. CCAAPS looked at the effects of environmental particles on childhood respiratory health and allergy development. Participants were identified during infancy as at high risk to develop allergies based on family medical history.Mold exposure levels were measured using a DNA-based analysis tool developed by the U.S. Environmental Protection Agency (EPA) -- the environmental relative moldiness index (ERMI). The tool combines results of the analysis of 36 different types of mold into one index, which describes the mold burden in the homes. This index was used to determine the impact of mold exposure on the respiratory health of study participants.Eighteen percent of children enrolled in CCAAPS were found to be asthmatic at age 7.It is estimated that about 9 percent of school-age children in the United States will develop asthma; however, studies have shown that rates are often higher in children from poor, urban families. The disease cannot be accurately diagnosed until age 7 and the causes are not completely known."The symptoms of pediatric asthma range from a nagging cough that lingers for days or weeks to sudden episodes of shortness of breath and wheezing that require emergency treatment," says allergist David Bernstein, MD, study co-author, UC professor of internal medicine and ACAAI fellow. "If a young child's symptoms persist and keep coming back, that's a clue that it could be asthma."According to the ACAAI, common symptoms of asthma include:Coughing, especially at night
+
+Wheezing or whistling sound, especially when breathing out
+Trouble breathing or fast breathing that causes the skin around the ribs or neck to pull in tightly
+Frequent colds that settle in the chest
+
+
+
+
+"This study should motivate expectant parents -- especially if they have a family history of allergy or asthma -- to correct water damage and reduce the mold burden in their homes to protect the respiratory health of their children," adds Reponen.Funding for the current mold study was provided by the U.S. Department of Housing and Urban Development. Initial funding for CCAAPS came from the National Institute of Environmental Health Sciences. Grace LeMasters, PhD, of UC's environmental health department, serves as the principal investigator of CCAAPS.Coauthors of the AAAI study include Stephen Vesper, PhD, of EPA; Linda Levin, PhD, Elisabet Johansson, PhD, Patrick Ryan, PhD, Jeffrey Burke, Sergey Grinshpun, PhD, Shu Zheng, Drs.Bernstein and LeMasters, of the UC College of Medicine; and Gurjit Khurana Hershey, MD, PhD, of Cincinnati Children's.
+
+
+
+
+
+Black holes and pulsars could reveal extra dimensions
+
+
+Posted:  Tue, 23 Aug 2011 01:07:12 PDT
+
+MAKING a black hole let go of anything is a tall order. But their grip may slowly weaken if the universe has extra dimensions, something that pulsars could help us to test.
+String theory, which attempts to unify all the known forces, calls for extra spatial dimensions beyond the three we experience. Testing the theory has proved difficult, however.
+
+
+
+
+Now John Simonetti of Virginia Tech in Blacksburg and colleagues say black holes orbited by neutron stars called pulsars could do just that - if cosmic surveys can locate such pairings. "The universe contains 'experimental' setups we cannot produce on Earth," he says.Black holes are predicted to fritter away their mass over time by emitting particles, a phenomenon called Hawking radiation. Without extra dimensions, this process is predicted to be agonisingly slow for run-of-the-mill black holes weighing a few times as much as the sun, making it impossible to measure.Extra dimensions would give the particles more ways to escape, speeding up the process. This rapid weight loss would loosen a black hole's gravitational grip on any orbiting objects, causing them to spiral outwards by a few metres per year, the team calculates.A pulsar orbiting a black hole could reveal this distancing. That's because the lighthouse-like pulses of radiation they emit would vary slightly depending on the size of the star's orbit.
+
+
+
+
+
+Four Things to Live Longer,Healthier Life
+
+
+Posted:  Tue, 23 Aug 2011 01:07:42 PDT
+
+Eat your healthy foods,eat vegetables,you have to eat vegetables if you want to live longer.Don't smoke and don't use alcohol,but also to live longer , according to a new study from the US Centers for Disease Control and Prevention (CDC) that concludes neglecting to follow these four healthy behaviors is responsible for much of the illness and death linked to chronic diseases. 
+
+
+7 out of 10 deaths in the US every year is as a result of a chronic disease like heart attack, cancer, or stroke: just these three account for more than 50% of annual deaths among Americans.
+
+
+ CDC researchers used data on 16,958 people who took part in the National Health and Nutrition Examination Survey III Mortality Study from 1988 to 2006. All of them were aged 17 years and above and were considered to be a representative sample of people living in the United States.
+
+
+
+
+
+
+
+Four Ways to a Healthier LifeThe CDC suggests you:
+Avoid Cigarette: you have to quit smoking for a good life
+
+Reduce Alcohol: men should have no more than two drinks a day, women no more than one.
+Make Your Diet: eat more fruits, vegetables, whole grains, switch to fat-free and low-fat dairy and seafoods. Cut down on salt and foods high in sodium, saturated fats, trans fats, cholesterol, added sugar, and refined grains.
+Exercise: on five days a week or more do at least 150 minutes total of moderate exercise such as brisk walking, or on three days a week or more, do a total of 75 minutes of vigorous exercise such as jogging or race walking (this raises heart rate more than brisk walking).
+
+
+
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

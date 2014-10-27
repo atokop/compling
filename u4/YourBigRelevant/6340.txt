@@ -1,0 +1,662 @@
+Discover Top Stories - powered by FeedBurner
+&
+
+
+
+Discover Top Stories
+
+syndicated content powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based news readers. Click your choice below:
+
+
+
+
+
+
+
+...with other readers:
+
+(Choose Your Reader)FeedDemonNetNewsWireNewsFireNewsGator Outlook EditionRSSOwlShrookUniversal Subscription Mechanism (USM)
+
+
+ View Feed XML
+
+
+
+
+FeedBurner makes it easy to receive content updates in My Yahoo!, Newsgator, Bloglines, and other news readers.
+
+Learn more about syndication and FeedBurner...
+
+Current Feed Content
+
+
+
+Bacteria use electric wires to shock uranium out of groundwater | Not Exactly Rocket Science
+
+
+Posted: Mon, 05 Sep 2011 12:00:10 -0700
+Even today, the legacy of the Cold War leaches into the waters of Colorado. Uranium, freed from the earth and destined for nuclear weapons, now contaminates the groundwater beneath several Colorado mines. But at some of these mines, a most unusual clean-up crew is at work. Lashing about with long electric cables connected to their own bodies, they remove dissolved uranium from the water. Each one of these janitors is just a thousandth of a millimetre across. They’re called Geobacter. They’re bacteria.
+The handful of Geobacter species are recent discoveries. The first one, G.metallireducens, was discovered in the Potomac River in 1987. Another, G.sulfurreducens, was later found in oil-soaked Oklahoman soils. The group has the remarkable and useful ability to break down a range of contaminating chemicals, such as petroleum compounds. While humans use oxygen to rend carbon compounds into carbon dioxide and water, Geobacter can use iron oxides and other metals for the same purpose. Roughly speaking, it breathes metal and rock.
+This ability has made Geobacter into an obvious candidate for cleaning up environmental mess – a process known as bioremediation. For the last decade, for example, scientists ...
+
+
+
+Hi-Tech Eye Exam Shows Jaw-Dropping Accuracy of Webb Telescope's Optics | DISCOVER Magazine
+
+
+Posted: Sat, 03 Sep 2011 08:05:00 -0700
+
+THE MOMENT   NASA engineer Ernie Wright examines 6 of the 18 segments of the James Webb Space Telescope’s primary mirror in preparation for a final round of testing at Marshall Space Flight Center in Huntsville, Alabama. A laser system called an interferometer measures how the mirrors warp as they cool from room temperature to –415 degrees Fahrenheit, slightly below their normal operating range in space. The mirrors must hold their shape to within 25 billionths of a meter to perform properly...
+
+
+
+Impatient Futurist: The Bright, Hi-Tech Future of Food Preservation | DISCOVER Magazine
+
+
+Posted: Fri, 02 Sep 2011 10:55:00 -0700
+
+ The average American kitchen is lousy with innovation. Science has bombarded us with convection microwave ovens, induction cooktops, and countless other curiosities aimed at making food preparation tidier and more efficient. Yet for all the patents crowding our counters, every time I put together a meal I find myself facing some tediously antique trade-offs: Would I prefer wholesome, quick, or safe? Maybe I can figure out how to achieve two, or even  all three? Haven’t cracked that one yet.
+The truth is that nutritious, delicious food is quite difficult to obtain quickly. “Quickly” has traditionally meant either cooking food beyond recognition (safe but disgusting) or barely cooking it at all (also disgusting, if you ask me). Raw or rare food may be popular among health nuts, but it is also an attractive dining option among the world’s largest constituency, bacteria, a population riding high on its recent success in contaminating produce in Germany and killing 48 people as of July. Foodborne diseases in this country aren’t much friendlier, striking one-sixth of the entire U.S. population every year, according to the Centers for Disease Control and Prevention.
+The clear way around the problem is to kill bacteria through means other than heat prior to preparation, so you can then cook food or not, to your liking, without having to worry about contamination. Chemical preservatives raise health concerns of their own, and at any rate they are not applicable to many foods. Blasting food with beams of high-energy electrons, X-rays, or gamma rays also fits the bill, but the CDC reports that at least half of all Americans say they will not eat irradiated foods if given a choice. As a result food-zapping techniques in the United States are limited to just a few fruits and spices.
+So now engineers are working on more effective (and cooler) techniques like super-high pressure, chemical coatings, and, yes, laser ovens...
+
+
+
+Ten Things Everyone Should Know About Time | Cosmic Variance
+
+
+Posted: Thu, 01 Sep 2011 10:58:16 -0700
+“Time” is the most used noun in the English language, yet it remains a mystery.  We’ve just completed an amazingly intense and rewarding multidisciplinary conference on the nature of time, and my brain is swimming with ideas and new questions.  Rather than trying a summary (the talks will be online soon), here’s my stab at a top ten list partly inspired by our discussions: the things everyone should know about time.  [Update: all of these are things I think are true, after quite a bit of deliberation.  Not everyone agrees, although of course they should.]
+1. Time exists.  Might as well get this common question out of the way.  Of course time exists — otherwise how would we set our alarm clocks? Time organizes the universe into an ordered series of moments, and thank goodness; what a mess it would be if reality were complete different from moment to moment.  The real question is whether or not time is fundamental, or perhaps emergent.  We used to think that “temperature” was a basic category of nature, but now we know it emerges from the motion of atoms.  When it comes to whether time is fundamental, the answer is: nobody knows.  My bet is “yes,” but we’ll need to understand quantum gravity much better before we can say for sure.
+2. The past and future are equally real. This isn’t completely accepted, but it should be. Intuitively we think that the “now” is real, while the past is fixed and in the books, and the future hasn’t yet occurred.  But physics teaches us something remarkable: every event in the past and future is implicit in the current moment.  This is hard to see in our everyday lives, since we’re nowhere close to knowing everything about the universe at any moment, nor will we ever be — but the equations don’t lie.  As Einstein put it, “It appears therefore more natural to think of physical reality as a four dimensional existence, instead of, as hitherto, the evolution of a three dimensional existence.”
+3. Everyone experiences time differently.  This is true at the level of both physics and biology.  Within physics, we used to have Sir Isaac Newton’s view of time, which was universal and shared by everyone.  But then Einstein came along and explained that how much time elapses for a person depends on how they travel through space (especially near the speed of light) as well as the gravitational field (especially if its near a black hole).  From a biological or psychological perspective, the time measured by atomic clocks isn’t as important as the time measured by our internal rhythms and the accumulation of memories.  That happens differently depending on who we are and what we are experiencing; there’s a real sense in which time moves more quickly when we’re older.
+4. You live in the past. About 80 milliseconds in the past, to be precise.  Use one hand to touch your nose, and the other to touch one of your feet, at exactly the same time. You will experience them as simultaneous acts.  But that’s mysterious — clearly it takes more time for the signal to travel up your nerves from your feet to your brain than from your nose. The reconciliation is simple: our conscious experience takes time to assemble, and your brain waits for all the relevant input before it experiences the “now.”  Experiments have shown that the lag between things happening and us experiencing them is about 80 milliseconds.  (Via conference participant David Eagleman.)
+5. Your memory isn’t as good as you think.  When you remember an event in the past, your brain uses a very similar technique to imagining the future.  The process is less like “replaying a video” than “putting on a play from a script.”  If the script is wrong for whatever reason, you can have a false memory that is just as vivid as a true one.  Eyewitness testimony, it turns out, is one of the least reliable forms of evidence allowed into courtrooms.  (Via conference participants Kathleen McDermott and Henry Roediger.)
+6. Consciousness depends on manipulating time. Many cognitive abilities are important for consciousness, and we don’t yet have a complete picture.  But it’s clear that the ability to manipulate time and possibility is a crucial feature.  In contrast to aquatic life, land-based animals, whose vision-based sensory field extends for hundreds of meters, have time to contemplate a variety of actions and pick the best one.   The origin of grammar allowed us to talk about such hypothetical futures with each other.  Consciousness wouldn’t be possible without the ability to imagine other times.  (Via conference participant Malcolm MacIver.)
+7. Disorder increases as time passes.  At the heart of every difference between the past and future — memory, aging, causality, free will — is the fact that the universe is evolving from order to disorder.  Entropy is increasing, as we physicists say.  There are more ways to be disorderly (high entropy) than orderly (low entropy), so the increase of entropy seems natural.  But to explain the lower entropy of past times we need to go all the way back to the Big Bang.  We still haven’t answered the hard questions: why was entropy low near the Big Bang, and how does increasing entropy account for memory and causality and all the rest? (We heard great talks by David Albert and David Wallace, among others.)
+8. Complexity comes and goes.  Other than creationists, most people have no trouble appreciating the difference between “orderly” (low entropy) and “complex.”  Entropy increases, but complexity is ephemeral; it increases and decreases in complex ways, unsurprisingly enough.  Part of the “job” of complex structures is to increase entropy, e.g. in the origin of life.  But we’re far from having a complete understanding of this crucial phenomenon.  (Talks by Mike Russell, Richard Lenski, Raissa D’Souza.) 
+9. Aging can be reversed.  We all grow old, part of the general trend toward growing disorder.  But it’s only the universe as a whole that must increase in entropy, not every individual piece of it.  (Otherwise it would be impossible to build a refrigerator.)  Reversing the arrow of time for living organisms is a technological challenge, not a physical impossibility.  And we’re making progress on a few fronts:  stem cells, yeast, and even (with caveats) mice and human muscle tissue. As one biologist told me: “You and I won’t live forever. But as for our grandkids, I’m not placing any bets.”  
+10. A lifespan is a billion heartbeats.  Complex organisms die.  Sad though it is in individual cases, it’s a necessary part of the bigger picture; life pushes out the old to make way for the new.  Remarkably, there exist simple scaling laws relating animal metabolism to body mass.  Larger animals live longer; but they also metabolize slower, as manifested in slower heart rates.  These effects cancel out, so that animals from shrews to blue whales have lifespans with just about equal number of heartbeats — about one and a half billion, if you simply must be precise.  In that very real sense, all animal species experience “the same amount of time.”  At least, until we master #9 and become immortal.  (Amazing talk by Geoffrey West.)
+
+
+
+Bacteria: resisting antibiotics since at least 30,000 BC | Not Exactly Rocket Science
+
+
+Posted: Wed, 31 Aug 2011 10:00:54 -0700
+The rise of drug-resistant bacteria is one of the most important threats facing modern medicine. One by one, our arsenal of antibiotics is coming up short against microbes that can pump them out, slip under their notice, deactivate them, or even eat them. But these tricks aren’t new. Bacteria have been defeating antibiotics for millennia, long before Alexander Fleming noticed a piece of mould killing off bacteria in a Petri dish. And the best proof of that longstanding struggle has just emerged from the ice-fields of Alaska.
+In 30,000-year-old samples of frozen soil, Vanessa D’Costa and Christine King from McMaster University have found a wide variety of antibiotic-resistant genes. They would have allowed ancient bacteria to shrug off many modern drugs such as tetracyclines, beta-lactams and vancomycin.
+Vancomycin resistance is especially interesting. This drug has traditionally been used as weapon of last resort, a drug to use when all others have failed. When vancomycin-resistant bacteria first emerged in 1987, it was a surprising blow. Since then, resistant versions of more common bacteria, such as staph (VRSA) have reared their heads.
+These superbugs neutralise vancomycin using a trio of genes ...
+
+
+
+5 Questions for the Galaxy Finder | DISCOVER Magazine
+
+
+Posted: Wed, 31 Aug 2011 09:15:00 -0700
+
+in fifth grade, Jeff Cooke devised an original theory of how the solar system formed. Bold as it was, his report did little to impress his Catholic-school teacher, whom he suspects frowned upon secular explanations for the heavens. Today, as an astronomer at the Swinburne University of Technology in Australia, Cooke continues to chart his own course. Last year he used a novel image-stacking method to discover a supernova more than twice as old as Earth. This technique has also allowed him to observe extremely ancient galaxies, charting the early evolution of the universe...
+
+
+
+For Authoritarian Regimes, Turning Off the Internet is a Fatal Mistake, Study Says | 80beats
+
+
+Posted: Tue, 30 Aug 2011 10:16:35 -0700
+
+Once the Egyptian government cut the Internet, the protests in Tahrir Square were joined by protests across the country.
+What’s the News: Social networking has been a star of the Arab Spring revolutions. People can’t stop talking about how Twitter and Facebook helped protestors organize, and when Egyptian president Hosni Mubarak suddenly cut access to the Internet and cell phone service on January 28th, many wondered how the protestors would share information and keep momentum. But as it turned out, depriving people of information had an explosive effect—far from the epicenter at Tahrir Square in Cairo, so many grassroots protests sprung up that the military was brought in. Two weeks later, Mubarak resigned.
+Using the Egyptian revolution as a case study, a new paper makes the case that theories of group dynamics explain why access to information can actually have a quenching effect on revolutions, and argues that regimes that shut information sources down are signing their own death warrants.
+
+How the Heck:
+
+The paper’s author, political science graduate student Navid Hassanpour, describes various other revolutions in which information kept people content, but he focused on the Egyptian revolution because the information shut-off was sudden and ...
+
+
+
+Big Idea: Darpa Challenge Inspires 4 Plans to Make Computers 40x More Efficient | DISCOVER Magazine
+
+
+Posted: Tue, 30 Aug 2011 09:50:00 -0700
+
+Last October China’s Tianhe-1A took  the title of the world’s most powerful supercomputer, capable of 2.5 petaflops, meaning it can perform 2.5 quadrillion operations per second. It may not hold the top spot for long, as IBM says that its 20- petaflop giant Sequoia will come online next year.
+Looking ahead, engineers have set their sights even higher, on computers a thousand times as fast as Tianhe-1A that could model the global climate with unprecedented accuracy, simulate molecular interactions, and track terrorist activity.
+The biggest hurdle to super-supercomputing is energy. Today’s supercomputers consume more than 5 megawatts of power. Exascale computers built on the same principles would devour 100 to 500 megawatts—about the same as a small city. At current prices, the electric bill alone for just one machine could top $500 million per year, says Richard Murphy, computer architect at Sandia National Laboratories.
+To avoid that undesirable future, Murphy is leading one of four teams developing energy-efficient supercomputers for the Ubiquitous High-Performance Computing program organized by the military’s experimental research division, the Defense Advanced Research Projects Agency, or Darpa. Ultimately the agency hopes to bring serious computing power out of giant facilities and into field operations, perhaps tucked into fighter jets or even in Special Forces soldiers’ backpacks...
+Image: Built-in cooling pipes will keep IMB's new Blue Waters super-computer running smoothly. Courtesy of NCSA
+
+
+
+From guts to brains – eating probiotic bacteria changes behaviour in mice | Not Exactly Rocket Science
+
+
+Posted: Mon, 29 Aug 2011 12:00:11 -0700
+From “gut feelings” to “having some guts”, English is full of phrases where our bowels exert an influence upon our behaviour. But these are more than metaphors. There are open lines of communication between brains and bowels and, in mice at least, these channels allow an individual’s gut bacteria to steer their behaviour.
+The latest evidence for this “gut-brain axis” comes from Javier Bravo at University College Cork. He fed mice with a probiotic bacterium called Lactobacillus rhamnosus, often found in yoghurts and dairy products. The bacterial menu changed the levels of signalling chemicals in the rodents’ brains, and reduced behaviours associated with stress, anxiety and depression. 
+Probiotic bacteria – those that benefit their host – are the subject of sweeping, hand-waving health claims. But beneath the breathless marketing hype, there is some intriguing underlying science. For example, some trials have found that probiotics can help to alleviate the mood symptoms that accompany irritable bowel or chronic fatigue syndrome. To that end, Bravo wanted to see if L.rhamnosus could influence the brains of normal, healthy animals.
+Bravo found that his mice, after regularly eating Lactobacillus, were more likely ...
+
+
+
+Discover Interview: Anton Zeilinger Dangled From Windows, Teleported Photons, and Taught the Dalai Lama | DISCOVER Magazine
+
+
+Posted: Mon, 29 Aug 2011 10:20:00 -0700
+In Anton Zeilinger’s dream world, superfast quantum computers will process data using single atoms instead of silicon chips. Such devices will have fantastic powers, including the ability to transpose matter into packets of information and teleport it through space. But to Zeilinger, even that dream is not exotic enough. When science is truly new, he says, the technology that results from it “cannot be imagined” in advance.
+He speaks from experience: The Austrian physicist has spent his career on the outer boundaries of understanding, studying some of the greatest mysteries of quantum physics. While classic Newtonian physics does a fine job of describing the world we see around us, it breaks down utterly when confronted with the unpredictable behavior of the quantum world, the realm of atoms and quarks. Quantum physics addresses that breakdown, but it also leads to ideas so bizarre that Albert Einstein said they had to be in error. He particularly objected to “entanglement” —the notion that twin particles could become intertwined across space and time—and predicted it would never be proved.
+Yet Zeilinger is doing just that through an elaborate series of experiments, each one cleverer than the last. In his hands, entanglement is not just a scientific oddity but an essential tool. Using photons, the basic unit of light, he demonstrated that multiple particles could be entangled, a key step toward practical quantum computers. He also was the first to accomplish teleportation (pdf), in which the characteristics of one particle are transferred to another, a breakthrough that could lead to the creation of unbreakable codes. A professor of physics at the University of Vienna and scientific director of the Institute of Quantum Optics and Quantum Information of the Austrian Academy of Sciences, Zeilinger was awarded the first Newton Medal, given by the British Institute of Physics, and the 2010 Wolf Prize in Physics. DISCOVER senior editor Eric Powell caught up with him during a visit to New York City...
+
+
+
+NASA's Inspiring, Enlightening, and Successful Search for New Earths | DISCOVER Magazine
+
+
+Posted: Mon, 29 Aug 2011 07:15:00 -0700
+
+﻿A journey that began four decades before Columbus sailed for the New World finally ended when the Kepler space telescope snared a few errant photons as they shot past Earth’s orbit en route to infinity. The light had sped through space for 560 years, traveling more than three quadrillion miles from a star much like our sun. Captured by Kepler’s digital sensors, transformed into bytes of data, and downloaded to computers at NASA’s Ames Research Center near San Francisco, the processed starlight slowly revealed a remarkable story: A planet not much bigger than Earth was whipping around its native star at a blistering pace, completing an orbit—its version of a “year”—in just over 20 hours.
+Aside from its size, the planet bears little resemblance to Earth. It circles so close to its star that its surface temperature probably exceeds 2,500 degrees Fahrenheit, hot enough to melt iron. Nevertheless, the planet’s detection was a technical and intellectual coup, a rite of passage for Kepler. The planet, dubbed Kepler-10 b when NASA announced its existence this past January, was the smallest world yet found beyond our solar system. Its discovery proved that the Kepler spacecraft, which was launched in March 2009, could indeed do what its designers had boldly promised: find small, Earth-size planets around distant stars, a task that once seemed so difficult as to border on the absurd.
+Kepler-10 b was merely a preview. A month after the January announcement, NASA released its first full data set from the Kepler mission, and the results left astronomers straining for superlatives. “Frankly, we’re overwhelmed,” says Geoff Marcy, an astronomer at the University of California, Berkeley, and a member of the Kepler team. “What NASA is doing is akin to the transoceanic voyages of the 15th century—the voyages that opened up the whole world. With the Kepler telescope, we’re learning about the properties of planets across the cosmic ocean. This is history. It’s Armstrong stepping off the bottom rung.”
+Kepler monitors 156,000 stars, less than 0.0001 percent of the galaxy’s population. Like some cosmic wildcat drilling operation, Kepler has struck a gusher, discovering 1,235 possible new worlds in its first four months of operation. That number doubles the previous total of just over 500, painstakingly gathered over the last 16 years. Prior to 1995, keeping track of all the known planets around other stars like the sun was easy—the tally stood at an even zero.
+The bulk of Kepler’s data have not yet been studied, and the mission will keep going for at least two and a half more years. But it is already shredding the textbooks, showing that our galaxy (at least the fraction of it seen by the spacecraft) contains a far more exotic assortment of planets than astronomers expected to find. “We’re learning about a diversity of worlds in our universe that we had no clue about beforehand,” Marcy says. “Rocky planets, yeah, we thought there might be some of those. By the way, we’re finding some rocky planets that are even denser than Earth. But we’re also finding these mini-Neptunes, a class of planet for which we have no examples in our solar system. They’re like small Neptunes but with huge amounts of liquid water around a rocky core.”
+Also on the list are 67 planets roughly the size of Earth, give or take a thousand miles or so in radius﻿; 288 “super-Earths” up to twice Earth’s diameter; 662 Neptune-size planets; and 184 giants rivaling or exceeding Jupiter in size. The simple statistics from Kepler say that Earth-size planets are widespread.
+Just two years into its mission, Kepler is well on its way toward determining whether planets like Earth are rare or common. But that is just the first domino as scientists try to topple the much bigger questions, the kinds that make the hairs stand up on the back of your neck. Does life exist on other planets? Are planets with life common? Are any other intelligent beings out there?
+For the first time, we have a handle on the odds, and the numbers beaming in from Kepler are not only encouraging but staggering. “Our galaxy contains 200 billion stars,” Marcy says. “I would guess that at least 30 percent of them have an Earth-size planet. So 30 percent of 200 billion, that’s at least 60 billion Earth-size planets just in our galaxy alone”...
+Image: Two newly discovered planets (foreground) orbit the double star NN Serpentis. Courtesy of Stuart Littlefair/Univ. of Sheffield.
+
+
+
+The genetic sergeants that keep stem cells stemmy | Not Exactly Rocket Science
+
+
+Posted: Sun, 28 Aug 2011 10:00:27 -0700
+Stem cells are bursting with potential. They can produce every type of cell in the human body. Small clumps of them can generate entire individuals. But this ability, known as pluripotency, is hard won. So stem cells must constantly repress genetic programmes that threaten to send them down specific routes, and rob them of their limitless potential. “Imagine you’re a stem cell,” says Mitchell Guttman from the Broad Institute of MIT and Harvard. “The worst thing that could happen is that you accidentally turn on, say, neural genes and become a brain cell.”
+Now, Guttman has found that stem cells keep themselves ‘stemmy’ with a group of genes called lincRNAs. His discovery not only assigns an important role to these mysterious genes, it opens up a new potential way of precisely controlling what goes on inside a cell.
+The “central dogma of biology” says that DNA stores information, which is copied into a related molecule called RNA. That information is used to build proteins, which go about the cell doing important jobs. But this description only applies to a minority of our genome. At least 98 percent of our DNA ...
+
+
+
+Vital Signs: And Down She Goes | DISCOVER Magazine
+
+
+Posted: Sun, 28 Aug 2011 08:20:00 -0700
+
+One morning as I looked out at the busy waiting room of my internal medicine practice, I watched a new patient, a trim, healthy-looking young woman, check in. Neatly dressed and in no obvious distress, she turned from the reception counter—and without warning collapsed onto the carpeted floor. No cry. No clutching of her chest or head. No weak-kneed stagger as she tried to make it to an empty chair. She just went down on the spot.
+I ran around the counter out to the waiting room, unwrapping my stethoscope from my neck as I went. “A-B-C,” I thought to myself: airway, breathing, and circulation, the first three things you check when someone collapses like this. Within seconds I was kneeling next to the woman. My fingers found a regular pulse alongside her windpipe, and I saw that she was breathing without difficulty. Relieved this was not a cardiac or  respiratory arrest, I released my own breath and watched as she opened her eyes. “Are you all right?” I asked.
+She focused on me and said yes. But her wispy voice suggested otherwise, so I observed her closely in case she started to pass out again. We were both oblivious to the audience of other patients glued to their seats watching us, each one silently deciding that his or her cough or rash could wait.
+A few moments later, the young woman sat up, alert. The whole event lasted no more than a minute. Her abrupt loss of consciousness followed by rapid recovery led me to the tentative conclusion that she had just experienced an episode of syncope, popularly known as a faint. My nurse and I helped our young fainter to her feet and walked her to an exam room...
+One-third of all people will experience syncope, or fainting, in their lifetime. Credit: Corbis.
+
+
+
+How Pig Guts Became the Next Bright Hope for Regenerating Human Limbs | DISCOVER Magazine
+
+
+Posted: Sat, 27 Aug 2011 11:30:00 -0700
+
+The strange sensation in his right thigh muscle began as a faint pulse. slowly, surely, it was becoming more pronounced. Some people would have thought it impossible. But Corporal Isaias Hernandez could feel his quadriceps getting stronger. The muscle was growing back.
+When he first arrived in the trauma unit of San Antonio’s Brooke Army Medical Center in December 2004, Hernandez’s leg looked to him like something from KFC. “You know, like when you take a bite out of the drumstick down to the bone?” Hernandez recalls. The 19-year-old Marine, deployed in Iraq, had been trying to outfit his convoy truck with a makeshift entertainment system for a long road trip when the bomb exploded. The 12-inch TV he was clutching to his chest shielded his vital organs; his buddy carrying the DVDs wasn’t so lucky. 
+Generally people never recovered from wounds like his. Flying debris had ripped off nearly 70 percent of Hernandez’s right thigh muscle, and he had lost half his leg strength. Remove enough of any muscle and you might as well lose the whole limb, the chances of regeneration are so remote. The body kicks into survival mode, pastes the wound over with scar tissue, and leaves you to limp along for life.
+For Hernandez, it had been three years and there was no mistaking it: He had hit a plateau. Lately the talk of amputation had cropped up again. The pain was constant, and he was losing hope. Then his life took another radical turn. He saw a science documentary on the Discovery Channel (no relation to this magazine) that told the story of a war veteran in Cincinnati named Lee Spievack whose fingertip had been severed by the propeller of a model airplane. Spievack’s brother, a surgeon in Boston, had sent him a vial of magic powder—the narrator called it “pixie dust”—and told him to sprinkle it onto the wound. Lee was to cover his hand with a plastic bag and reapply the powder every other day until his supply ran out. After four months, Lee’s fingertip had regenerated itself, nail, bone, and all...
+The full text of this article is available only to DISCOVER subscribers. Click through to the article to subscribe, log in, or buy a digital version of this issue.
+Image: Corporal Isais Hernandez shows off his healing thigh muscles. Courtesy of Scott Lewis.
+
+
+
+Brain Malfunction Prevents Rats From Remembering Deliciousness of Spicy Food | DISCOVER Magazine
+
+
+Posted: Sat, 27 Aug 2011 09:00:00 -0700
+
+Just one encounter with an aroma can sear the scent into your memory for years. The same thing happens in rats, and researchers from the University of Bordeaux in France have exploited this to gain important insight into memory formation.
+When the brain encounters an odor, it temporarily saves the data in the banana-shaped hippocampus. But it is the frontal cortex that eventually encodes the memory into long-term storage. To decipher how that process unfolds, neurobiologist Bruno Bontempi and colleagues took advantage of a rather rude behavior in rats: The rodents often smell the breath of their fellow creatures to determine whether a new food is safe to eat. A single encounter can generate a lasting memory of the agreeable meal.
+Image: iStockphoto
+
+
+
+The Toxinator: EPA Robot Tests Chemicals to See if They're Poison | DISCOVER Magazine
+
+
+Posted: Fri, 26 Aug 2011 09:00:00 -0700
+
+More than 83,000 chemicals go into solvents, cosmetics, and other American products, but no one knows how the vast majority of them affect our health. For the Environmental Protection Agency, screening a single chemical can take years and cost millions. The agency has ordered testing on just 200 compounds and restricted or banned only five since it gained the authority to regulate new chemicals in 1976 under the Toxic Substances Control Act. (Among the banned substances are polychlorinated biphenyls, or PCBs, which can cause cancer and liver dysfunction)...
+Now, after 35 years of criticism for lax oversight, the EPA is adopting a new technology that promises to put some teeth into the 1976 law. In March the agency introduced a $4 million, six-ton screening robot called Tox21 that is on track to test 10,000 chemicals over the next two years for just a few hundred dollars each, says EPA biologist Bob Kavlock.
+Image courtesy of U.S. Environmental Protection Agency
+
+
+
+Time Is Out of Joint | Cosmic Variance
+
+
+Posted: Fri, 26 Aug 2011 08:34:26 -0700
+Greetings from Norway, where we’re about to embark on what is surely the most logistically elaborate conference I’ve ever attended.  Setting Time Aright starts here in Norway, where we hop on a boat and cross the North Sea to Copenhagen.  The get-together is sponsored by the Foundational Questions Institute, although it came together in an unusual way; I was part of a group that was organizing a conference, and we applied to FQXi for funding, at which point they mentioned they were planning almost exactly the same conference at the same time.  So we joined forces, and here we are.  Unity ’11!
+The topic, if you haven’t guessed, is time.  That’s a big subject, one that can hardly be done justice by sprawling books with hundreds of (admittedly quite charming) footnotes. You can see why the conference has to spread over two countries.  We’re trying an experiment in interdisciplinarity: while the conference is a serious event meant for researchers, we have a wide variety of specialties represented, including biologists, computer scientists, philosophers, and neuroscientists, as well as the inevitable physicists and cosmologists.  (There is also a public event, for those of you who find yourselves in Copenhagen next week.)  I can’t wait to hear some of these talks, it should be a blast.
+My job is to open the conference with an introductory talk that hits on some of the big questions.  Here are the slides, at least as they are right now; last-minute editing is always a possibility.  I think I put enough in there to provoke almost everyone at the conference one way or another.
+Setting Time Aright
+View more presentations from Sean Carroll.
+
+
+
+
+Star eaten by a black hole: still blasting away | Bad Astronomy
+
+
+Posted: Fri, 26 Aug 2011 05:30:58 -0700
+In late March of 2011, an extraordinary event occurred: a black hole in a distant galaxy tore apart and ate a whole star (I wrote about this twice at the time; here’s the original post, and a followup article including a Hubble image of the event).
+Now, there’s more info: the black hole, lying at the center of a galaxy nearly 4 billion light years away, has about 8 million times the mass of the Sun. When it tore the star apart, about half the mass of the star swirled around the black hole, forming twin beams of matter and energy that blasted outward at a large fraction of the speed of light. The folks at NASA’s Goddard Space Flight Center made a great animation to show this:
+
+The star was ripped apart by tides. The thing about black holes is, they’re small: this one was probably about 15 million kilometers across. A typical star is about a million km across (the Sun is 1.4 million kilometers in diameter, for comparison). This means the star could get really close to the black hole, and that’s why it was doomed. The force of ...
+
+
+
+A Ten-Year Check-Up Shows Gene Therapy Patients are Alive and Well | 80beats
+
+
+Posted: Thu, 25 Aug 2011 11:29:08 -0700
+
+What’s the News: Medicine in the age of genes overflows with daring new techniques and treatments, from personalized chemotherapy to prenatal genetic testing, each heralded as a game-changer. But rarely do we get an assessment of a treatment’s long-term good, which is why recent papers following up on one of the most controversial genetic treatments, gene therapy, are making waves: though one patient developed leukemia from the treatment, 13 of 16 kids treated with gene therapy for a severe immune disorder at least 9 years ago have been cured, adding to the sense that the field is on its way to recovery from early setbacks.
+The Backstory:
+Gene therapy involves correcting errors in cells’ genetic code. In the case of some of these children, who had no functioning immune system due to X-linked SCID—severe combined immunodeficiency, or “bubble boy” syndrome—bone marrow transplants had been the only way to effectively treat the disease (for kids with ADA-SCID, caused by a missing enzyme, weekly enzyme injections are also possible, but bone marrow transplants are the only way to eliminate it). But marrow transplants require a matching donor, like a sibling, and when one isn’t available, the odds of ...
+
+
+
+Did sex with Neanderthals and Denisovans shape our immune systems? The jury’s still out | Not Exactly Rocket Science
+
+
+Posted: Thu, 25 Aug 2011 11:00:58 -0700
+The Neanderthals may be extinct, but they live on inside us. Last year, two landmark studies from Svante Paabo and David Reich showed that everyone outside of Africa can trace 1-4 percent of their genomes to Neanderthal ancestors. On top of that, people from the Pacific Islands of Melanesia owe 5-7 percent of their genomes to another group of extinct humans – the Denisovans, known only from a finger bone and a tooth. These ancient groups stand among our ancestors, their legacy embedded in our DNA.
+Paabo and Reich’s studies clearly showed that early modern humans must have bred with other ancient groups as they left Africa and swept around the world. But while they proved that Neanderthal and Denisovan genes are still around, they said little about what these genes are doing. Are they random stowaways or did they bestow important adaptations?
+When I spoke to Reich about this earlier this year, he was starting to sift through the data. “To a first approximation, they are random,” he said. “It’s possible that modern humans could have used the Neanderthal or Denisovan material to adapt to their environment, but we ...
+
+
+
+Big Idea: A Shock to the Heartland | DISCOVER Magazine
+
+
+Posted: Thu, 25 Aug 2011 08:30:00 -0700
+
+The magnitude 5.8 quake that struck central Virginia yesterday was felt from Florida, to Maine to Missouri. “This is probably the most widely felt quake in American history, even though it was less than a 6.0,” says Michael Blanpied, a USGS seismologist DISCOVER contacted today.
+The reason for this intensity is that the East Coast, like the controversial New Madrid Seismic Zone in the central U.S., is located in amidst old faults and cold rocks in the middle of the North American tectonic plate. This is very different than far more common quakes plaguing coastal zones like California, caused by the constantly shifting outskirts of the continent’s plate. “Earthquake hazard is particularly high in the eastern and central U.S. because seismic waves travel so efficiently through the old, cold rocks in the middle of the plate, and that shaking carries very far,” says Blanpied. “Earthquakes in these zones are infrequent, but when they do occur, they shake such a large area, and so many people, it raises their importance.”
+We would do well to take a hint from Tuesday's expansive shake-up. It's lucky that it struck in rural America. But a similar tremblor in the crowded cities of the central U.S. is a matter of when, not if. And the region is woefully unprepared to mitigate the damage...
+Image: A map of the New Madrid Seismic Zone shows quakes greater than magnitude 2.5. Red circles represent quakes since 1973; blue shows those recorded earlier. Yellow denotes towns with populations greater than 10,00. Courtesy of U.S. Geological Survey.
+
+
+
+Ostriches sleep like platypuses (and look wide awake when they do) | Not Exactly Rocket Science
+
+
+Posted: Thu, 25 Aug 2011 05:42:35 -0700
+
+How does an ostrich sleep? Almost imperceptibly, it seems. Even though an ostrich might be sound asleep, it can look wide awake or, at most, a little drowsy. John Lesku from the Max Planck Institute of Ornithology discovered this by fitting six ostrichers with “Neurologgers”, electrode-laden helmets that measures their temperature, brain activity, eye movements and neck muscle contractions.
+The video above shows three of the birds cycling through two different types of sleep. The first is called ‘slow wave sleep’ or SWS, where the ostriches’ brain waves are slow and strong. Even though this is typically known as deep sleep, the birds look alert. They stay still, but their eyes are open and their necks upright. Nonetheless, the readings from the Neurologgers clearly showed that they were asleep.
+In the second phase, known as ‘rapid eye movement’ or REM sleep, the ostriches’ brain waves are fast and weaker. Now, the birds shut their eyes, which move rapidly behind closed eyelids. They necks also start to droop and sway, righting themselves with awkward jerks like people falling asleep at a talk. Biologists have previously interpreted this as a sign of a tired ostrich. That’s partly right, although the animal ...
+
+
+
+What’s with all these earthquakes? | Bad Astronomy
+
+
+Posted: Thu, 25 Aug 2011 05:27:38 -0700
+The Earth is trembling. 
+A magnitude 5.9 earthquake hit Virginia on August 23 at 17:51 UTC. Twelve hours earlier, a magnitude 5.3 quake shook southern Colorado (I slept through it; it was 360 km away). On August 20, a magnitude 7.0 hit off the coast of eastern Australia, and another magnitude 7.0 earthquake took place in northern Peru on August 24 at 17:46 UTC, just a few hours ago as I write this.
+What gives? Are we seeing a swarm of related events? Is the Earth shaking itself apart?
+It’s easy enough to think so. But our brains are wired in a way that makes them easily fooled (proof). What we need to do is not panic — always a good start — and think this through. Happily, we have an exceptionally good tool for this sort of problem: science. Well, science and a tiny touch of math. 
+
+Get me some stats, stat!
+You need to look at the statistics, and not by coincidence the United States Geological Survey provides them. When you look at the chart, you see that ...
+
+
+
+Could Power-Scavenging Shoes Recharge Your Phone? | 80beats
+
+
+Posted: Wed, 24 Aug 2011 11:56:46 -0700
+
+What’s the News: We’ve all fantasized about a cell phone battery that won’t quit. Now scientists hoping to harness the power generated when you walk are developing a device that might eventually use your footfalls to power small electronics. But will it overcome the hurdles of efficiency and cost?
+How the Heck:
+
+When your heel hits the ground, as much as 20 watts of power (that’s 20 joules of energy per second) are generated as heat. To capture some of that energy, researchers developed a system that involves pressing droplets of liquid metal against an electrode.
+Here’s how it works: The team’s device resembles an electrostatic capacitor, which consists of two flat electrodes wired together with a small space between. When a voltage is applied to the electrodes, their opposing charges freeze them in place, but pushing on them changes the circuit’s capacitance, increases the voltage, and causes a current to run through the circuit, which can then be harvested.
+But getting the electrodes close enough to each other to generate meaningful power is difficult because of the roughness of metals (see ScienceNOW’s great explanation of this process for more). To address that problem, the ...
+
+
+
+Defeating dengue by releasing mosquitoes with virus-blocking bacteria | Not Exactly Rocket Science
+
+
+Posted: Wed, 24 Aug 2011 10:00:21 -0700
+Over the last three years, a group of scientists have been going round two suburbs of Cairns, Australia, and asking local people if they could release mosquitoes on their properties. Ninety percent said yes. These were no ordinary mosquitoes. They had been loaded with bacteria that stop them from passing on the virus that causes dengue fever.
+Dengue fever affects thousands of Queenslanders every year. It is caused by an alliance of two parasites – the dengue virus, and the Aedes aegypti mosquito that spreads it. In an ambitious plan to break this partnership, Scott O’Neill from the University of Queensland turned to yet another parasite – a bacterium called Wolbachia. It infects a wide variety of insects and other arthropods, making it possibly the most successful parasite of all. And it has a habit of spreading with great speed.
+Wolbachia is transmitted in the eggs of infected females, so it has evolved many strategies for reaching new hosts by screwing over dead-end males. Sometimes it kills them. Sometimes it turns them into females. It also uses a subtler trick called “cytoplasmic incompatibility“, where uninfected females cannot mate successfully ...
+
+
+
+3 Spacecraft That Refuse to Quit | DISCOVER Magazine
+
+
+Posted: Wed, 24 Aug 2011 09:30:00 -0700
+
+﻿Engineers design probes with a certain lifespan in mind, but some hardy robots just keep going. The tradition begun by the Voyager twins, which outlasted their missions to Jupiter and Saturn by decades and are now reporting from the edges of the solar system, continues today: In March a combination of luck and solid engineering allowed the Stardust probe to complete its second comet-chasing mission. Here is how it and two other plucky space explorers have defied retirement...
+Deep Impact  Original Mission:  The $333 million probe,  launched in 2005 to  shoot a copper slug  into the heart of comet  Tempel 1, revealed  organic molecules and water ice.  Secrets to Survival:  A surplus of fuel onboard and a flawless debut performance. Second Life: Scientists at NASA’s Jet Propulsion Laboratory restarted the probe’s thrusters in November 2007, sending it on a new mission to survey comet Hartley 2.  Current Status: After a successful comet flyby last November, Deep Impact awaits orders for yet another mission...
+Image courtesy of Courtesy NASA.
+
+
+
+Case closed: “Climategate” was manufactured | Bad Astronomy
+
+
+Posted: Wed, 24 Aug 2011 09:04:44 -0700
+It’s not often you can actually say "case closed", but in this case it’s literally true: climatologist Michael Mann has been cleared of all wrongdoing by the Inspector General of the National Science Foundation.
+Did I say "has been cleared"? I meant has been cleared once again, since there have been several investigations into his research and Dr. Mann has been cleared of all charges every single time (like here and here). All of this stemmed from the "ClimateGate" nonsense of the past couple of years, where leaked emails were taken hugely out of context by the press and climate change deniers, and used to smear scientists. Dr. Mann was at the center of the whole manufactured controversy, being the biggest target of the people who want to deny the Earth is warming up.
+This latest, and hopefully last,  investigation into Dr. Mann’s research (PDF) again shows he is not guilty of misconduct. A couple of the report conclusions are worth pointing out:
+We found no basis to conclude that the [Climategate] emails were evidence of research misconduct or that they pointed ...
+
+
+
+How many species are there? My latest for the New York Times | The Loom
+
+
+Posted: Tue, 23 Aug 2011 16:41:16 -0700
+In 1833, John Obadiah Westwood, a British entomologist, tried to guess how many species of insects there are on Earth. He extrapolated from England to Earth as a whole. “If we say 400,000, we shall, perhaps, not be very wide of the truth,” he wrote. Today, scientists have found over a million species of insects and keep finding more every year.
+The question of how many species there are on Earth has been a tricky one ever since Westwood’s day. I’ve written a story for the New York Times about a new estimate that was published today: 8.7 million.
+What makes the paper particularly interesting is that it introduces a new method for estimating biodiversity. The method is based on Linnean taxonomy. While we have lots of new species left to find, we may have found most of the classes, orders, and phyla. It turns out that for a number of groups–mammals, birds, and so on–the numbers of each of these rankings rise as you descend the hierarchy.
+Here’s a diagram that summarizes this striking pattern (courtesy of the Census of Marine Life). I couldn’t fit it into the story, so I thought I’d show it here:
+
+
+
+
+Virginia earthquake waves ripple across the US! | Bad Astronomy
+
+
+Posted: Tue, 23 Aug 2011 16:10:35 -0700
+This is very cool: seismometers deployed across the United States detected the seismic waves from the magnitude 5.9 earthquake that hit Virginia on August 23, 2011. In this animation showing the data you can actually see the wave rippling across the country!
+
+What you’re seeing here are vertical displacement measurements from an array of detectors that are part of the USArray/EarthScope facility (you can read more about the array and the animation on the IRIS website). These are very sensitive instruments; note the scale on the lower graph showing the motion is only about 40 microns top-to-bottom! That’s less than the thickness of a human hair. 
+Red dots represent upward motion, and blue downward. The intensity of the color represents the amplitude (height) of the wave. Animations like this make it very easy to see the waves moving across the country; the arc even gives you a rough idea of where the epicenter was.
+I grew up in Virginia, and went to UVa not far from the quake’s epicenter of Mineral, Virginia. I felt several earthquakes when I lived in California, and ironically there was a moderate quake about 360 ...
+
+
+
+Another jaw-dropping time lapse video: Tempest | Bad Astronomy
+
+
+Posted: Tue, 23 Aug 2011 13:37:42 -0700
+Randy Halverson is a photographer who makes incredibly stunning time lapse videos of the sky. And he’s done it again: "Tempest Milky Way", an aptly-named video showing the serene depths of the night sky as a background for furious activity much closer to home:
+
+[Make sure it's set to HD, and make it full screen. You're welcome.]
+Holy wow! It’s beautiful enough just showing the stars, but then at 2:20 things really get interesting as storms blow in. There’s lots to see, but keep your eyes open at 1:57 for the silhouette of a whitetail deer on the horizon, and at 3:24 for a meteor that pops into view… and is reflected in the lake!
+
+It’s a breath-taking shot, isn’t it? And it’s a testament to Halverson’s talent, which you can see more of at his website DakotaLapse. I love how the motion of the camera (especially moving up through the corn field) adds a magical sensation to the video. And while time lapse photography like this shows us a dimension we can’t see easily with our own eyes, it’s real nonetheless. Never forget ...
+
+
+
+Is the Flu Behind China’s Burst of Narcolepsy? | 80beats
+
+
+Posted: Tue, 23 Aug 2011 12:41:08 -0700
+
+What’s the News: Things got very drowsy in China after the swine flu pandemic of 2009: narcolepsy, a neurological disease that involves sudden sleepiness, tripled in the months afterwards. Scientists have wondered whether additives in flu vaccines could be behind the spike of snooziness there and in other countries, but a new report says that even people who weren’t vaccinated came down with it. Could narcolepsy be caused by the flu virus itself?
+How the Heck:
+
+Scientists had noticed the spike in narcolepsy cases in European countries after the flu pandemic before. But they had thought that it  was due to substances in the vaccines that kick the immune system into  over-drive.
+In China, however, the vaccines didn’t include those substances, and few people were vaccinated. Yet the surge in narcolepsy cases still occurred. To learn more, the team obtained hospital data on about 906 people who had been diagnosed with narcolepsy between 1998 and 2011 and further questioned a subset of them who had developed it after the flu pandemic, only 5.6% of whom had been vaccinated.
+They found that even before the pandemic, narcolepsy cases were seasonal, almost never occurring in ...
+
+
+
+Zooming In On the Cholera Tree of Life (And Death) | The Loom
+
+
+Posted: Tue, 23 Aug 2011 10:10:05 -0700
+In the wake of last year’s earthquake in Haiti, cholera arrived on the island for the first time in 60 years. According to the World Health Organization, 419, 511 Haitians got sick with cholera as of July 31, of which 5,968 died. The infection rate is dropping right now, but the arrival of Hurricane Irene could change that.
+As I wrote in December, scientists applied evolutionary biology to find clues to how cholera–or, more precisely, the bacteria Vibrio cholerae– came to Haiti. They compared the DNA in the strain in Haiti to ones that have been found in other parts of the world. From this analysis, they drew a tree, which I’ve reprinted below.
+
+The bacteria in Haiti was more closely related to strains in South Asia than ones from South America. So it was unlikely that cholera came to Haiti floating by water from a nearby country. The evolutionary tree led credence to idea that U.N. peacekeeping troops, some of whom came from Nepal, brought it with them by plane. An outbreak of cholera hit Nepal in September 2010, shortly before a battalion of Nepalese peacekeepers left for Haiti.
+This analysis was a bit like a ...
+
+
+
+A New Suspect in the Obesity Epidemic: Our Brains | DISCOVER Magazine
+
+
+Posted: Tue, 23 Aug 2011 09:50:00 -0700
+
+10:19 p.m. on a Monday evening in October, I sat in a booth at Chevys Fresh Mex in Clifton, New Jersey, reviewing the latest research into the neurobiology of hunger and obesity. While I read I ate a shrimp and crab enchilada, consuming two-thirds of it, maybe less. With all this information in front of me, I thought, I had an edge over my brain’s wily efforts to thwart my months-long campaign to get under 190 pounds. But even as I was taking in a study about the powerful lure of guacamole and other salty, fatty foods, I experienced something extraordinary. That bowl of chips and salsa at the edge of the table? It was whispering to me: Just one more. You know you want us. Aren’t we delicious? In 10 minutes, all that was left of the chips, and my willpower, were crumbs.
+I am not alone. An overabundance of chips, Baconator Double burgers, and Venti White Chocolate Mochas have aided a widespread epidemic of obesity in this country. Our waists are laying waste to our health and to our health-care economy: According to a study published by the Centers for Disease Control and Prevention in 2010, nine states had an obesity rate of at least 30 percent—compared with zero states some 10 years earlier—and the cost of treatment for obesity-related conditions had reached nearly 10 percent of total U.S. medical expenditure. So-called normal weight is no longer normal, with two-thirds of adults and one third of children and adolescents now classified as overweight or obese. Dubbed the “Age of Obesity and Inactivity” by the Journal of the American Medical Association, this runaway weight gain threatens to decrease average U.S. life span, reversing gains made over the past century by lowering risk factors from smoking, hypertension, and cholesterol. We all know what we should do—eat less, exercise more—but to no avail. An estimated 25 percent of American men and 43 percent of women attempt to lose weight each year; of those who succeed in their diets, between 5 and 20 percent (and it is closer to 5 percent) manage to keep it off for the long haul.
+The urgent question is, why do our bodies seem to be fighting against our own good health? According to a growing number of neurobiologists, the fault lies not in our stomachs but in our heads. No matter how convincing our conscious plans and resolutions, they pale beside the brain’s power to goad us into noshing and hanging on to as much fat as we can. With that in mind, some scientists were hopeful that careful studies of the brain might uncover an all-powerful hormone that regulates food consumption or a single spot where the cortical equivalent of a neon sign blinks “Eat Heavy,” all the better to shut it off.
+After extensive research, the idea of a single, simple cure has been replaced by a much more nuanced view. The latest studies show that a multitude of systems in the brain act in concert to encourage eating. Targeting a single neuronal system is probably doomed to the same ill fate as the failed diets themselves. Because the brain has so many backup systems all geared toward the same thing—maximizing the body’s intake of calories—no single silver bullet will ever work.
+“I call it the ‘hungry brain syndrome,’ ” says Hans-Rudolf Berthoud, an expert in the neurobiology of nutrition at the Pennington Biomedical Research Center in Baton Rouge, Louisiana. The brain’s prime directive to eat and defend against the loss of fat emerged early in evolution, because just about every creature that ever trotted, crawled, swam, or floated was beset by the uncertainty of that next meal. “The system has evolved to defend against the slightest threat of weight loss, so you have to attack it from different directions at once.”
+With the obesity epidemic raging, the race for countermeasures has kicked into high gear. Neuroscientists are still seeking hormones that inhibit hunger, but they have other tactics as well. One fruitful new avenue comes from the revelation that hunger, blood sugar, and weight gained per calorie consumed all ratchet up when our sleep is disrupted and our circadian rhythms—the 24-hour cycle responding to light and dark—thrown into disarray. All this is compounded by stress, which decreases metabolism while increasing the yen for high-calorie food. We might feel in sync with our high-tech world, but the obesity epidemic is a somber sign that our biology and lifestyles have diverged.
+Image courtesy of iStockphoto.
+
+
+
+Hubble’s successor: doomed or saved? | Bad Astronomy
+
+
+Posted: Tue, 23 Aug 2011 09:17:13 -0700
+The James Webb Space Telescope is planned to be the successor to the Hubble Space Telescope. It will have a 6.5 meter (21 foot) mirror (Hubble’s is 2.4 meters, or 8 feet), and will look at the Universe in the near- to mid-infrared, where cooler objects like planets, dust clouds, and ancient galaxies glow brightly.
+Its fate also hangs by a thread.
+Originally planned to cost under a billion dollars and already be launched by now —  NASA has currently spent about $3.5B on the mission with a launch date no sooner than 2018 — delays and cost overruns have hit the project hard, prompting the US House of Representatives to axe the budget for JWST, essentially killing the entire project in their proposed 2012 Federal budget. I wrote about this when the news broke, basically saying this was a dumb idea. The JWST cost overruns have been widely claimed to be from administrative mismanagement. Even if true, as Julianne Dalcanton at Cosmic Variance has eloquently argued, those errors are behind us. The components of the telescope are mostly built, being tested now, and ...
+
+
+
+Astro Coffee Briefs from Ohio State | Cosmic Variance
+
+
+Posted: Tue, 23 Aug 2011 07:48:32 -0700
+Kris Stanek alerted me to this fun idea from the astronomers at Ohio State:  when they submit a paper to arxiv, they accompany it by a simple YouTube video that explains the basic idea.  Called “Coffee Briefs,” there is only one such video so far, for a paper by Jennifer van Saders and Mark Pinsonneault.  But they hope to make it regular series.
+The Sensitivity of Convection Zone Depth to Stellar Abundances: An Absolute Stellar Abundance Scale from Asteroseismology
+Jennifer L. van Saders, Marc H. Pinsonneault
+The base of the convection zone is a source of acoustic glitches in the asteroseismic frequency spectra of solar-like oscillators, allowing one to precisely measure the acoustic depth to the feature. We examine the sensitivity of the depth of the convection zone to mass, stellar abundances, and input physics, and in particular, the use of a measurement of the acoustic depth to the CZ as an atmosphere-independent, absolute measure of stellar metallicities. We find that for low mass stars on the main sequence with $0.4 M_{\odot} \le M \le 1.6 M_{\odot}$, the acoustic depth to the base of the convection zone, normalized by the acoustic depth to the center of the star, $\tau_{cz,n}$, is both a strong function of mass, and varies at the 0.5-1% per 0.1 dex level in [Z/X], and is therefore also a sensitive probe of the composition. We estimate the theoretical uncertainties in the stellar models, and show that combined with reasonable observational uncertainties, we can expect measure the the metallicity to within 0.15 – 0.3 dex for solar-like stars. We discuss the applications of this work to rotational mixing, particularly in the context of the observed mid F star Li dip, and to distguishing between different mixtures of heavy elements.
+
+This example might not be immediately accessible to non-experts, but I think the idea is to pitch the video at the level of astronomy grad students. Certainly the participants deserve a lot of credit for trying out an innovative way to talk about their research.
+The key to the ambition of making this a regular even is keeping it simple and easy.  If it takes a couple of hours to put it together, no problem; if it takes a couple of days, enthusiasm will flag.  I’m not sure what software was used to make the video and the simple graphics — iMovie, maybe?  For the DNA computer video we showed some time back, it was quite an elaborate job, and you would worry that it would be onerous to do something like that for every paper one writes.
+
+
+
+Disease from human sewage is killing Caribbean corals | Not Exactly Rocket Science
+
+
+Posted: Tue, 23 Aug 2011 06:00:59 -0700
+Forty years ago, the elkhorn coral was one of the most common species in the Caribbean. Five years ago, it was listed as critically endangered. The coral’s woes are many but, aside from the warming temperatures, predators and storms that affect all corals, the elkhorn is also plagued by a highly contagious malady called white pox disease. White lesions erupt all over the coral’s branches, representing areas where its animal tissue has wasted away to leave the white skeleton.
+Now, Kathryn Patterson Sutherland from Rollins College in Florida has discovered the cause of white pox disease, and it’s an unexpected one – us. We have literally landed the elkhorn in s**t.
+The white pox is caused by a bacterium called Serratia marcescens which we donated to corals via a gift of sewage. S.marcescens is a gut bacterium found in human faeces. It’s also an opportunist. It grows where the atmosphere is moist, such as sinks and showers, and where immune systems are weak, such as catheters, wounds and hospital equipment. But how dd it end up infecting coral reefs?
+In 2003, Sutherland found a clue. During an outbreak of white ...
+
+
+
+Raise your pints to the Patagonian fungus that helped us to brew lager | Not Exactly Rocket Science
+
+
+Posted: Mon, 22 Aug 2011 12:00:47 -0700
+Every time you drink a pint of lager, you owe a debt to a small fungus that lives in the beech forests of Patagonia. This previously undescribed species – Saccharomyces eubayanus – merged with a close relative to create a hybrid, whose fermenting abilities produce all of today’s lagers. Without it, our pints would have a much darker complexion.
+Ask someone to think of a domesticated species and they’ll probably think of something like a dog, cat, cow or horse. But domesticated fungi are just as close to our hearts or, at least, our livers.  The yeast, Saccharomyces cerevisiase, has been used to bake bread and ferment wine or ales for centuries. But it’s only partially involved in lagers.
+Lager is fermented at a lower temperature than either ale or wine, and the fungus for the job is a cold-tolerant species called S.pastorianus. It has never been found in the wild, and its genes tell us why. It has four of each chromosome, and appears to be a fusion of two different yeast species. One of these is S.cerevisiae but the identity of the second partner has been a long-running mystery. Until ...
+
+
+
+Impatient Futurist: The Internet May Soon Include All of the Things Around You | DISCOVER Magazine
+
+
+Posted: Mon, 22 Aug 2011 09:45:00 -0700
+
+A few months ago, I was hanging out at a cool-sounding conference in a gullible part of the country, tweeting to other attendees about how the session on “How Twitter Is Changing Your Life” was changing my life, when a thought occurred to me. I can effortlessly keep 24/7 tabs on every atomic-scale movement of my Facebook friends, but I still cannot go online to track down the things I really want to find—like my car keys, my iPod, and my long-missing Lord of the Rings embroidered-denim jacket.
+It turns out I soon will be able to do exactly that, owing to the coming of something called the Internet of Things. Instead of connecting online with other people—who very likely are zombie spambots peddling pregnancy hormones as diet aids, or zombie humans insisting that the president of the United States is an alien—we will link up with the objects we  own and love. Compared with our current “Internet of Whatever,” this could be a real step up.
+It certainly will be for me. I want all my possessions to be networked so I can get in touch with them via a website or my phone. Please, network my pants so I can go to my pants’ website and find out if they’re in my closet or at the cleaners, or if they need to be brought to the cleaners. Network my bike, my leaf rake, my beer, and everything else so I can get up-to-the-minute reports on their location and status.
+Then enable all my networked items to communicate among themselves so that, for example, my clothes will self-color-coordinate, my favorite foods will self-meal-plan and self-create a shopping list, and my umbrella and sunglasses will stop getting the weather wrong. Plus, everything from my toaster oven to my running shoes will coordinate with my credit card to replace themselves when their “check engine” light comes on...
+Image courtesy of David Plunkert.
+
+
+
+5 Things That Internet Porn Reveals About Our Brains | DISCOVER Magazine
+
+
+Posted: Sun, 21 Aug 2011 15:15:00 -0700
+With its expansive range and unprecedented potential for anonymity,  the Internet gives voice to our deepest urges and most uninhibited thoughts. Inspired by the wealth of unfettered expression available online, neuroscientists Ogi Ogas and Sai Gaddam, who met as Ph.D. candidates at Boston University, began plumbing a few chosen search engines (including Dogpile and AOL) to create the world’s largest experiment in sexuality in 2009. Quietly tapping into a billion Web searches, they explored the private activities of more than 100 million men and women around the world. The result is the first large-scale scientific examination of human sexuality in more than half a century, since biologist Alfred Kinsey famously interviewed more than 18,000 middle-class Caucasians about their sexual behavior and published the Kinsey reports in 1948 and 1953.
+ Building on the work of Kinsey, neuroscientists have long made the case that male and female sexuality exist on different planes. But like Kinsey himself, they have been hampered by the dubious reliability of self-reports of sexual behavior and preferences as well as by small sample sizes. That is where the Internet comes in. By accessing raw data from Web searches and employing the help of Alexa—a company that measures Web traffic and publishes a list of the million most popular sites in the world—Ogas and Gaddam shine a light on hidden desire, a quirky realm of lust, fetish, and kink that, like the far side of the moon, has barely been glimpsed. Here is a sampling of their fascinating results, selected from their book, A Billion Wicked Thoughts.
+LESSON ONE: Age is important, but youth is not the only attractor 
+The most influential male cue of all is chronological. Age dominates sexual searches, adult Web site content, and pornographic videos. On Dogpile, terms describing age are the most frequent type of adjective in sexual searches, appearing in one out of every six of them. When a man’s desire software evaluates a woman’s appearance, one of the most prominent criteria is age—and not just youth, either. Many sexual searches on Dogpile contain specific ages, such as “naked 25-year-olds” or “sexy 40-year-olds.” Though the popularity of adult women doesn’t quite reach that of teens, it is worth observing that more men search for 50-year-olds than search for 19-year-olds. There is a rather shocking number of searches for underage women, but you may be equally surprised to discover there is significant erotic interest in 60- and 70-year-olds. At one high-traffic porn site, the single most popular term users enter into the search engine is mom. On AOL, one out of four people who searched for sexually attractive mothers (MILFs) also searched for teens. Though the total number of granny searches amounts to less than 8 percent of the total youth searches, there are more sexual searches for grannies than for some common fetishes like spanking...
+The full text of this article is available only to DISCOVER subscribers. Click through to the article to subscribe, log in, or buy a digital version of this issue.
+
+
+
+Solar storm tracked all the way from the Sun to Earth | Bad Astronomy
+
+
+Posted: Sat, 20 Aug 2011 06:00:24 -0700
+Yesterday I wrote about scientists being able to see sunspots as they form deep inside the Sun, well before they rise to the surface. 
+Around the same time, more news about the Sun was released as well. And I was ready to write up a fancy schmancy post talking all about it, I really was. It would be about how my old friend Craig DeForest used data from NASA’s Solar TErrestrial RElations Observatory (aka STEREO) to track a coronal mass ejection (CME) — a huge blast of subatomic particles chock full o’ magnetic energy — all the way from the solar surface to the Earth… but then those folks at NASA’s Goddard Space Flight Center put together this terrific video explaining it really well, saving me the effort!
+
+
+Very very cool. Here is a still from the actual animation of the blast:
+
+[Click to embiggen.]
+In this graphic, the Sun is on the right and the Earth on the left. The horizontal scale is logarithmic, which means it’s highly compressed; as you get farther away from the Sun (that is, looking more ...
+
+
+
+The Amazon rainforest from the air | Not Exactly Rocket Science
+
+
+Posted: Sat, 20 Aug 2011 05:46:33 -0700
+Click here to view gallery
+
+
+
+A Brainy New Chip Could Make Computers More Like Humans | 80beats
+
+
+Posted: Fri, 19 Aug 2011 09:50:34 -0700
+
+One of IBM’s prototype cognitive computing chips
+What’s the News: Researchers at IBM have developed a new “cognitive computing” microchip inspired by the brain’s computational tricks. These new chips, the researchers say, could make processors that are more powerful and more efficient than today’s computers—and better at the flexible learning and responses that are a struggle for current AI systems but a breeze for the human brain.
+How the Heck:
+
+IBM has made two prototypes of the new chip, which it calls a “neurosynaptic core.” Both are built on a standard semiconductor platform with 256 “neurons,” the chip’s computational components. RAM units on the chip act as synapses; one of the chips has 262,144 synapses, while the other has 65,536.
+These networks take after the brain in two key ways, says Dharmendra Modha, the project leader at IBM. The hardware for memory and computation are quite close together (as they are in the brain, where neurons are responsible for both) and the connections between them form, strengthen, and weaken based on learning and experience, just like synapses between neurons.
+Other than that, the researchers haven’t yet shared many specifics on how the ...
+
+
+
+Scientists see sunspots forming 60,000 km below the Sun’s surface! | Bad Astronomy
+
+
+Posted: Fri, 19 Aug 2011 05:00:36 -0700
+Sometimes I hear astronomy news that is cool, and sometimes I hear news that’s very cool… and sometimes I hear news where my reaction is, "That’s freaking insane!"
+The latest news: scientists have used data tracking sound waves inside the Sun to see sunspots forming 60,000 kilometers (36,000 miles) deep in the Sun’s interior, fully two days before the spots erupt onto the surface!
+That’s freaking insane.
+OK, first, the video, then, the explanation.
+
+[Make sure to set the resolution to 720p or 1080p to get the full effect.]
+I love the last few seconds of that video; the rotation of the Sun sweeping the towering loops of magnetically-influenced plasma around to the limb is simply stunning. 
+So how does this all work? Sound waves.
+Basically, inside the Sun, hot plasma (gas stripped of one or more electrons) rises and cooler plasma sinks. As it moves, it generates turbulence. This in turn creates acoustic waves — sounds — that travel through the Sun. As these waves move through the solar interior, regions with different densities make them speed up or slow down. The physics of this is pretty well understood, so by mapping how long it takes a ...
+
+
+
+By Aligning Databases, Scientists Match Old Drugs with New Diseases | 80beats
+
+
+Posted: Thu, 18 Aug 2011 13:33:46 -0700
+
+What’s the News: For all the testing we do, drugs are still mysterious things—they can activate pathways we never connected with them or twiddle the dials in some far-off part of the body. To see if drugs already FDA-approved for certain diseases could be used to treat other conditions, scientists lined up two online databases and discovered two drugs that, when tested in mice, worked against diseases they’d never been meant for, suggesting that mining of such information could be a fertile strategy for finding new treatments.
+How the Heck: 
+
+The two databases the team used were collections of information about how genes were activated or deactivated in human cells both when drugs were taken (the Connectivity Map) and when certain diseases were present (Gene Expression Omnibus).
+The researchers fed the data into software that connected a disease with a high level of activity from one gene with a drug that tamped that gene’s activity down. In this way, they identified candidates for follow up in the lab: epilepsy drug topiramate was paired with inflammatory bowel disease, and heartburn drug cimetidine with a kind of lung cancer.
+The team treated mouse models of these ...
+
+
+
+Fatal Attraction: Sex, Death, Parasites, and Cats | The Loom
+
+
+Posted: Wed, 17 Aug 2011 20:17:16 -0700
+It’s time to revisit that grand old parasite, the brain-infecting Toxoplasma. The more we learn about it, the more marvelously creepy it gets.
+Toxoplasma is a single-celled relative of the parasites that cause malaria. It poses a serious risk to people with compromised immune systems (for example, people with AIDS) and fetuses (which is why pregnant women need to avoid getting Toxoplasma infections). If you’ve got a healthy immune system,  it doesn’t cause any immediate harm. (Ed Yong has explained why a purported link to brain cancer is very weak.) All told, perhaps a quarter or a third of all people on Earth carry thousands of Toxoplasma cysts in their heads. Most never become aware of their living cargo.
+The Toxoplasma life cycle normally takes the parasite from cats to the prey of cats and back again. In the guts of cats, the parasites have sex and produce egg-like offspring which are shed with cat droppings. They can survive in soil for weeks or months. Rats and other mammals ingest the eggs, which produce cysts mainly in the brain. When the cats eat infected prey, they get infected.
+For a little over ten years, scientists have been ...
+
+
+
+Why Do Coffee Rings Form? Because the Grounds are Round | 80beats
+
+
+Posted: Wed, 17 Aug 2011 10:00:31 -0700
+
+Those dark rings in the bottom of your cup arise from fundamental physics.
+What’s the News: Some of the most mundane things in life—drinking through a straw, for instance, or washing your hands with soap—are the results of some really neat physics. Today, scientists are adding another item to that list: The ring that forms around a drying drop of coffee. A team at University of Pennsylvania has discovered that that brown ring is a result of the shape of the particles floating in your coffee—and if you squash them out a little, the coffee ring disappears.
+How the Heck:
+
+The ring forms from particles moving towards the edge of the drop as it dries. The drop’s edge is firmly stuck to the surface of, say, your desk, and as the water evaporates, the fluid that’s left moves outwards from the center, flattening the drop and taking the particles with it.
+Now, zoom in on the surface of the drop. The particles of bean in your coffee, like many particles in nature, are  spherical. This means they don’t bend the drop’s surface very much, so, drawn by capillary action, they can easily flee down the drop ...
+
+
+
+Before Leviathan | The Loom
+
+
+Posted: Tue, 16 Aug 2011 16:00:50 -0700
+The biggest animals on Earth–the biggest animals to have ever lived, in fact–are baleen whales. They can grow to over 100 feet long thanks in part to their ability to snarf colossal amounts of food. To do so, they swing open their toothless lower jaws, which inflate like a parachute with water. Then they haul their lower jaw shut again and then use a titanic tongue to push out a school bus worth of water through a filter. The filter is baleen: a set of fronds that hangs from their upper jaws. They trap shrimp and other tiny creatures in the baleen, which the whales then swallow before preparing for the next gulp. Each one of these operations can snag a blue whale up to half a million calories.
+The baleen whale is a mammal. It rears its young in the womb, complete with a placenta. It makes milk to feed its newborn calves. Yet the baleen whale is obviously a far cry from any mammal on land. This 30-million-year transformation is pretty irresistible, because it’s so radical and because it comes into sharper focus as the years go by. ...
+
+
+
+Eyes on the Radioactive Wind, Scientists in California Study the Fukushima Meltdown | 80beats
+
+
+Posted: Tue, 16 Aug 2011 09:37:33 -0700
+Clean-up teams at Fukushima struggled to control the melting fuel rods.
+What’s the News: After the disastrous March 11 earthquake and tsunami in Japan, the world waited, mostly in vain, for details about the events that led to meltdown at the Fukushima Daiichi nuclear plant. Since then, scientists across the Pacific in California have been watching the dials of instruments that detect radioactive molecules, to see what might come across on the winds.
+This week, scientists at Scripps published their readings of radioactive sulfur collected in the atmosphere in San Diego after the meltdown. These allowed them to extrapolate backwards to learn roughly how many neutrons were shed by the melting cores as workers desperately doused them in sea water, helping scientists understand the damage undergone by the cores and demonstrating the kind of remote science that may be required to help understand the events that led to meltdown.
+How the Heck:
+
+The scientists were looking for sulfur-35, a form of sulfur that’s created when chloride ions, plentiful in sea water, are hit by neutrons produced during radioactive decay. One of the researchers told ScienceNOW that she’d read that after underwater nuclear tests ...
+
+
+
+Big Picture Science: climate change denial on Fox News | Bad Astronomy
+
+
+Posted: Mon, 15 Aug 2011 11:41:36 -0700
+Every month or so I do a skeptical segment with astronomer Seth Shostak called "Brains on Vacation" for the SETI radio show/podcast "Big Picture Science" (what used to be called "Are We Alone?"). This month’s episode,  Plotting Along, is about conspiracy theories and is now online. You can listen to it there, or download the file directly.
+This time, I talked about the climate change denier Joe Bastardi’s bizarre take on global warming that recently aired on Fox News — you can read all about what he said on sites like Scientific American and Media Matters. Basically, Bastardi denies humans have anything to do with climate change, and has a history of saying things that, um, turn out not to be entirely accurate when it comes to basic science.
+In this case, Bastardi tried to invoke the First Law of Thermodynamics to show humans don’t cause global warming, a truly weird thing to do since the First Law actually supports the idea that pumping CO2 into the air makes it heat up. Without carbon dioxide, the energy from the Sun would hit ...
+MEDIA ENCLOSURE: http://traffic.libsyn.com/arewealone/BiPiSci11-08-15.mp3
+
+
+
+
+What a falling star looks like… from space! | Bad Astronomy
+
+
+Posted: Mon, 15 Aug 2011 05:30:29 -0700
+Astronaut Ron Garan, currently on board the International Space Station, was taking pictures of our home world out the window — and how cool is it to be able to say that? — when he took this amazing picture of a meteor burning up in our atmosphere:
+
+Wow! [Click to bolidenate.] How cool would it be to look down to see a falling star?
+He took this shot (according to the header info in the picture) on August 13 at 7:17 p.m. UT, when the ISS was above the Mongolia/China border. This was during the annual Perseid meteor shower, but that doesn’t guarantee this meteor Ron saw was a Perseid. It probably was, though. For an observer on Earth, the Perseids rain down at a rate of about 60 per hour or so. You can usually see about 5 meteors per hour that are just random bits of cosmic detritus. So only 1 meteor in 12 is not a real Perseid, making it likely this one was.
+But that got me thinking… [WARNING: math ahead. Cool, tasty, refreshing math that will lead to insight, wonder, potential ...
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

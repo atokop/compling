@@ -1,0 +1,754 @@
+
+AGU Blogosphere | Mountain Beltway
+
+
+
+
+
+
+
+
+Home
+Blogs
+Discussion
+About
+
+
+
+
+
+
+
+
+
+
+This blog
+
+Site
+
+
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About Callan
+Blog history
+Why “Mountain Beltway”?
+ 
+
+
+
+
+
+
+          2 September 2011        
+
+          Friday fold: duplex structure in the gastropod limestone          
+The Friday fold is a duplex structure, seen this last summer at Sandy Hollow, a classic field mapping locale west of Block Mountain (north of Dillon and west of Twin Bridges), in Montana. A duplex structure is a bunch of shingled-up folded and faulted strata (here’s an example from Scotland), usually bounded above and below by less-deformed layers. This particular duplex appears on the east limb of the Sandy Hollow Anticline, in the limestone layer known as “the gastropod limestone,” so called because of its rich concentration of snail fossils. You can enlarge this stitched panorama by clicking on it for a 4000-pixel-wide version:
+
+You’ll probably need to enlarge it to see the details of the duplex, since it’s very wide but not especially tall.
+Here’s a zoomed-in look at the most intriguing portion of the outcrop, with my annotations following:
+
+
+You can make the annotated one bigger by clicking on it.
+You can see a bunch of asymmetric and overturned antiforms and synforms, often broken on the overturned limb and transformed into small-scale thrust faults with a few meters of displacement. Them’s some seriously messed up rocks! Note that the deformation only goes so deep – and that there is a relatively undeformed stratum below all this chaos – small scale folds between the “duplexified” strata and the undeformed “floor” of the duplex suggest some sort of less competent layer in there that accommodated the strain with a “lubrication” effect.
+As a bonus, here’s a single fold in the gastropod limestone, a little further along strike to the south, with my trusty Swiss Army knife for scale:
+
+Happy Friday, and Happy Labor Day weekend for my American readers. The Mrs. and I are off for our traditional pilgrimage to Dolly Sods. Enjoy your holiday!
+
+ Comments/Trackbacks (1)>> 
+
+
+
+
+
+          31 August 2011        
+
+          Columns form perpendicular to cooling fronts          
+This morning, Dana asks about the pattern of columns in this image:
+
+She muses:
+If I had a time machine and surviving-fresh-lava gear, I’d head back to  see what this bugger was up to. Why did some of its columns form  ramrod-straight whilst others are practically horizontal, or curved? I’d  imagine it was contending with some ice round the edges, maybe some  water, that caused it to cool all funny.
+The key thing to recognize with cooling columns is that they form perpendicular to the cooling front. What’s a “cooling front?” It’s a plane of equal temperature that propagates through the chilling lava/igneous rock. The part of the cooling front we pay attention to is the isothermal plane that is at the critical temperature where the rock goes from being (a) warm enough to resist breaking (because it’s still thermally inflated – voluminous to take up the space in which it finds itself) to (b) cold enough that it’s contracted into a small enough volume that it must fail in brittle fashion to separate from neighboring rock. The way to get a sense of the shape of the old cooling front is to draw lines perpendicular to the columns that you observe in outcrop:
+
+These lines represent the successive stages of the cooling front as it propagates through the lava deposit. If it cooled from the top down (typical but not required), then perhaps it reflects a sequence of cooling front positions like this:
+
+Okay, great: so now we’ve mapped out the shape of the cooling front as the lava crystallized into cold andesite. But why does it have that non-planar shape?
+A couple of possibilities occur to me.
+One is that there was a big heat sink next door – perhaps some glacial ice, which caused the edge of the lava flow to cool more rapidly that the center of the flow (further to the right):
+
+Another possibility is that an extra heat source from below perturbed the cooling front upwards, perhaps by funneling steam through a vent (a fumarole) to the surface, keeping the rocks warmer than they might otherwise have been:
+
+Here’s an example of the latter, a fumarole-related column complex from the Bishop Tuff of eastern California’s volcanic tableland:
+
+The red arrow represents the steam flow pathway; the yellow lines are traces of the isothermic cooling front over time.
+Now, consider another well known example of columnar jointing, Devils Tower of Wyoming:
+
+Notice how the columns flare out at the base?
+That implies a cooling front with a shape that is concave-up:
+
+A lot of people look at the shape of Devils Tower and infer it to be a volcanic neck (akin to Shiprock, in New Mexico). However, the pattern of columnar jointing is totally wrong for a volcanic neck. Think about it: a cylindrical mass of warm rock in the throat of a volcano would look something like this:
+
+Which would produce a cooling front that looks something like this:
+
+Which would result in columns that radiated outward, like so:
+
+That’s the opposite of what we see at Devils Tower – the larger context of that intrusion must be something like this:
+
+Of course, then subsequent weathering would have removed the outermost parts of the upper portion of the intrusion, to result in the iconic landmark we see today.
+So where does that leave us in interpreting Dana’s photo?
+It occurs to me that perhaps what we have is a lava flow with a shape that loses heat more rapidly in thin parts, and loses heat more slowly in the thickest bits. Perhaps the lava flow filled an ancient valley, and so has a semi-circular shape in cross-section, which results in faster cooling on the thin edge, and slower cooling in the middle. The resulting fracture pattern could yield the columnar array that Dana photographed, like so:
+
+If I were at the outcrop in person, I’d check around for other exposures, and get a sense of the three-dimensional range of column orientations as a way of testing this hypothesis.
+Anyone else have other ideas?
+
+ Comments/Trackbacks (12) >> 
+
+
+
+
+
+          30 August 2011        
+
+          Updated aftershock plot          
+The USGS reports more aftershocks, so your humble graphing servant has responded with a plot that updates the images I showed you last week. Here you go:
+
+Embiggable, via a simple click.
+Again, the “decay” pattern jumps out at us. One thing that I’m also noticing is how there are no events below 2.0 magnitude. What’s up with that? Simply not detectable? …or not worth bothering with?
+By the way, there’s a USGS aftershock map, but the talented geophysicist and graphic artist Kelsey Jordahl (who made this) pointed out that the USGS map doesn’t match the available USGS data. When plotted anew, you get a different distribution. Not sure what’s going on with that, either. Any ideas out there?
+
+ Comments/Trackbacks (8) >> 
+
+
+
+
+
+          28 August 2011        
+
+          Damage to the Ecuadorian Embassy          
+My wife Lily is an Ecuadorian citizen. She was born in Quito, and we have traveled there together. (She’s also a U.S. citizen.)
+After the big earthquake on Tuesday, significant structural damage was reported at several Washington landmarks including the Washington Monument and the Smithsonian Castle. Another one, less recognizable to most folks, but key in our personal geography, is the Embassy of Ecuador. Not only is it an outpost of my wife’s dual citizenship, but it also happens to be located adjacent to Meridian Hill Park (a.k.a. “Malcolm X Park”), a few blocks from where we live in Columbia Heights.
+Yesterday morning, after a pre-hurricane run through the Zoo (visiting those putative quake-predictors, the gorillas and lemurs), we detoured past the Ecuadorian Embassy to see if any of the damage was visible from the outside. Indeed it was. After a shower and some breakfast, we walked back armed with our cameras to document what we saw.
+Here’s a view of the north side of the building, from the intersection of 15th and Euclid. Perspective is facing the southeast:
+
+You can see that several of the gables near the roof have sustained severe damage, and that apparently they were clobbered by loose bricks launched off a disintegrating chimney above. Zooming in, we can see areas where the bricks apparently bounced down the slate tiles and damaged them on the way down.
+
+As I indicated at the end of Wednesday’s post about damage to my condo, chimneys are a huge risk in earthquakes because they are (a) often constructed from unreinforced masonry which has very low shear strength, and (b) relatively massive, which gives them a lot of inertia. As the ground accelerates out from underneath the building, the chimney’s inertia keeps it where it was. Then, as it finally gets moving, trying to catch up to the rest of the structure, the building beneath it has switched direction, moving back in the opposite direction. Without some internal or external reinforcement like rebar, this is a sure recipe from breaking your chimney into chunks. If your chimney is four storeys above street level, that can present problems for anyone on the sidewalk below.
+Down the block a bit, looking back at the same scene, but from a different perspective – view is now towards the southwest:
+
+
+And a zoom-in on the stub of the chimney itself:
+
+Pre-crumbled structures like this are a big reason that we should still be vigilant during aftershocks, even if they are lesser in magnitude than the original quake (a point also made by the “5 myths about earthquakes” article in yesterday’s Post that you should definitely read).
+Using Google Map’s “streetview” feature, I was able to get a look at what this particular chimney looked like before the earthquake last Tuesday:
+
+We walked a bit further down, and saw that on the alley to the east of the embassy, another chimney had partially collapsed. They had already wrapped the top of this one in plastic, a procedure motivated in part by impending arrival of Hurricane Irene.
+
+Note the guy cleaning up below, and also notice the chimney brace, wrought iron and with a decorative filigree added on:
+
+Notice how only the chimney above this strut snapped off – the brace helped keep the lower portion of the chimney mechanically bound to the rest of the building so that they moved together during the earthquake. Shear was thus minimized for the lower portion of the chimney, and accordingly it did not fail.
+Screenshot from Google Maps “streetview,” with former position of chimney highlighted by arrow:
+
+Scenes like this should remind us city folk that during an earthquake, it’s better to shelter in place (indoors, under a desk or in a doorway) than to run outside onto the street. Total building collapse is rare; flying debris is common. If you are outside, move the heck away from buildings – and keep in mind that unreinforced masonry may be on its way down to meet you.
+
+ Comments/Trackbacks (10) >> 
+
+
+
+
+
+          27 August 2011        
+
+          Animated GIF of Virginia quake aftershocks          
+So last Tuesday we had an earthquake, and we expected some aftershocks as the crust in the Mineral, Virginia, area adjusted to the new stress regime. We expected those aftershocks to be lesser in magnitude, and to take place after the main shock. In other words, we would predict the following:
+
+And, indeed, over the past several days, that’s actually what happened:
+
+
+ Comments/Trackbacks (2) >> 
+
+
+
+
+
+
+
+          Friday fold addendum          
+Lee Allison, State Geologist of Arizona and exemplar of public outreach via blogging, sent me an e-mail yesterday regarding that awesome coastal Greenland shot by Alistair Knock that I featured as the Friday fold.
+Lee, like many of you, found the image entrancing and intriguing, and as he explored the unannotated version, he made some discoveries. In this e-mail, Lee pointed out a few more faults that I hadn’t noticed. Here’s his annotation (red = bedding; green=faults):
+
+By golly, I think he’s on to something there!
+With such a beautiful, information-rich image, I had missed that particular detail. The middle of this antiform shows a nice little pop-up structure – like a horst, but inverted, bound by thrust faults rather than normal faults:
+
+‘Tis the season for pop-ups, apparently. On Twitter the other day, Lockwood found one and called it a “splort” which I found to be an onomatopoetically apt moniker. I anno-tatted it up and sent it back at him, decreeing it a pop-up.
+Anyhow, just wanted to share that with you. Did you see anything else in there that I might have missed?
+
+Comments/Trackbacks (0)>> 
+
+
+
+
+
+
+
+          Why those curves, Rock Creek?          
+On Tuesday morning, before the earthquake hit, I answered an e-mail about DC faults.
+I get unsolicited e-mails all the time (and occasionally phone calls, too). The contact comes from people who have a geological question, find my blog, and figure that I might be willing to answer it for them, or to direct them to someone more knowledgeable. Sometimes they ask me to identify a rock. I see answering these notes and calls as part of my job as an educator and a geological enthusiast.  The query I was responding to on Tuesday morning came from a local historian who is writing a mystery novel about D.C.
+He wanted to know about two curves in the course of Rock Creek:
+There are two sharp bends in Rock Creek: a hairpin turn at the Zoo and a beak-shaped bend near the P Street Bridge.  Were these caused by separate earth movements along two adjacent fault lines?  Are the bends related to the fall line winding down the Eastern seaboard?
+My reply to him, of course, had to be illustrated, and if I make up an illustration for one person, I may as well share it with all. So here’s the map I sent him, and what I said:
+
+That’s a detail from the Geologic map of the Washington West quadrangle, by Tony Fleming, Avery Drake, and Lucy McCartan. It’s USGS Geologic Quadrangle Map GQ-1748, published in 1994.
+One thing that will jump out at you immediately about the map is that the boundary between the metamorphic and igneous rocks of the Piedmont province and the sedimentary strata of the Coastal Plain province winds generally northeast to southwest across the map.
+
+The Coastal Plain sediments are draped atop an eroded surface cut down into the Piedmont. So this contact isn’t a vertical one; it’s closer to horizontal, and dips shallowly to the southeast. The Coastal Plain is wedge-shaped in three dimensions, and this boundary with the Piedmont is its thinnest tip. On a regional scale, this boundary is dubbed the “Fall Line” or the “Fall Zone,” as water flowing in streams over the boundary produces waterfalls where it moves from hard Piedmont into soft, easily-eroded Coastal Plain.
+Now the creek bends that my historian correspondent was wondering about are two particular twists on an overall pretty curvy course:
+
+Look at the map for known faults, and you can see that one (or two, really) line up with the upstream end of the upstream creek bend (the one at the Zoo, where the Beach Drive tunnel cuts through the ridge). There is a fault on the northwest of that straight section of creek (near the spectacled bears’ cage in the Zoo), and another (the Darton Fault) exposed on Adams Mill Road at its intersection with Clydesdale Place.
+It seems quite plausible to me, the way they all line up in the same orientation and along strike of one another, that they are different expressions of a single fault (between the white arrows here):
+
+But the downstream side of the Zoo “hairpin” turn in Rock Creek shows no evidence of fault control, and neither does the “beak” shaped bend near the P Street Bridge.
+The answer to the historian’s other question (about the Fall Line) would be “no” – the faults are small, absent, and/or in the wrong orientation to match the Fall “Line.”
+It sounded to me as if he might be conflating these two “f” words into a common model. The Fall Zone has only to do with the difference in erodability between the harder metamorphic and igneous rocks of the Piedmont province as compared to the softer, weak sediments of the Coastal Plain. It does not have anything to do with faults.
+Any questions?
+
+ Comments/Trackbacks (1)>> 
+
+
+
+
+
+          26 August 2011        
+
+          Friday fold: epic Greenland coast          
+Alistair Knock, who gave us another Friday fold, returns this week with an epic shot from his recent trip (with many epic shots) to the Arctic. Check this* out:
+
+Click through to see the original, big version on Alistair’s Flickr page.
+Here’s an annotated version, also enlarge-able by clicking on it:
+
+Pretty sweet, right? I want to go on that Arctic cruise!
+This image is now my desktop wallpaper.
+And so the Friday fold begins another year… Happy Friday!
+___________________________________
+* Posted with Alistair’s  permission, of course.
+
+ Comments/Trackbacks (4) >> 
+
+
+
+
+
+          25 August 2011        
+
+          Aftershocks          
+Since Tuesday’s big earthquake, we’ve had 5* aftershocks in the same area (and possibly on the same fault). The most recent one popped off last night at 1am. Here’s a plot showing the size of the events (moment magnitude) relative to the passing of time:
+
+Note that the quakes that came after “the big one” are smaller in their size (the amount of energy that they release into the surrounding rock). We call these “aftershocks” – they are smaller-scale readjustments in the rocks immediately adjacent to the main rupture (including further along on the same fault, potentially) as those rocks shift to come to equilibrium under the newly-modified stress regime.
+
+Notice that the aftershocks are smaller, and they get to be less and less common. Chris Rowan explained this lucidly on Highly Allochthonous in the aftermath of the big Sendai (Tohoku) earthquake in Japan earlier this year. A key point is that while we cannot predict the exact timing or place of any earthquake, including aftershocks, we can make broad, general statements about the way a population of aftershocks looks, given the vantage provided by the passage of time. They decrease in severity and in frequency as time goes by.
+Okay, but what if that wasn’t how things had actually played out? What if we had a slightly different outcome?
+What if, at 1am this morning, we didn’t have a 4.5 quake, but instead had a 7.6?
+
+How does this hypothetical scenario change things? In terms of our language, our descriptors for these same events needs to change, given the new information about which quake is really the biggest in the series. We must re-evaluate them in the new context that is provided by this huge event (7.6) that is way bigger than the one (5.8) that started things off on Tuesday. Now Tuesday’s quake and its “aftershocks” are all in the shadow of this much larger event. Their relative position has changed. Though they are the same events, they have been demoted in relative rank.
+
+If my hypothetical scenario were to have played out, the events of Tuesday and Wednesday would now be seen as precursors which loaded additional stress on a more-critically-stressed section of the fault (or an adjacent fault), and so they should be called “foreshocks” instead. Again, there is no way of knowing whether this could be the case until enough time has passed that we can look back and see the pattern of the quakes in aggregate.
+Compare these two graphs (one real, one totally fake) to the Japanese quake data that Chris graphed back in March. You’ll see the patterns are broadly similar.
+Whether Virginia’s earthquakes this week represent a 5.8 and aftershocks or a series of foreshocks (including a 5.8) leading up to something bigger is impossible to know at this time, while it’s all still playing out. Come back in a year, and it will be more obvious which they were. That being said, Virginia’s tectonic situation is far from any plate boundary, in particular from a subduction zone (where the largest magnitude earthquakes typically occur). So I’m not losing sleep worrying about whether this week’s activity presages some big one, only acknowledging that it is a rational possibility (remember Charleston in 1886, a 7.3 rupture), and that the relevant terminology would change if such a thing were to happen here in Virginia.
+________________________________________
+* Drat! They just posted another one. Oh, well, I’m not going back to these graphs to update them. Deal with it.
+
+ Comments/Trackbacks (10) >> 
+
+
+
+
+
+          24 August 2011        
+
+          Cracking up          
+So here’s a brief discourse on some of the damage we incurred at my condominium yesterday…
+
+Fracture in plaster wall, Iban figures, marathon medallions, and a cm-demarcated pencil for scale.
+
+Fractures along wall/ceiling join, cm-demarcated pencil for scale.
+
+Fractures along wall/ceiling join, cm-demarcated pencil for scale.
+Any of those previous three images are enlarge-able by clicking on them. 
+These cracks are, of course, damage we sustained due to the magnitude 5.8 Mineral, Virginia earthquake.
+This last one in particular catches my attention, because of the common orientation of all the small fractures, oriented at a ~30° angle to the seam between the wall and the ceiling. This pattern, called en echelon, forms when rocks (or homes) are sheared, and then fail in a brittle fashion. In the case of my condo, the ceiling was moving to the right at the moment of failure (west) and the wall was either standing still or was moving to the left (east). Either way, the stress on the painted seam between them was greater than the strength of the paint layer, and it fractured.
+
+The fractures are oriented perpendicular to the maximum stretching direction (shown by the blue arrows). All are on the same order of magnitude in size, and all are roughly oriented in the same direction, as roughly the same stress field produced all of them. I’ve shown you this same sort of thing before in large areas like the Volcanic Tableland of California:
+
+…Or when the fractures have been sealed with quartz veins, as in this example from the Antietam Formation sandstone of the Virginia Blue Ridge.
+photo18
+Another example, about the same size as the cracks in my ceiling, was featured in the “Geology of San Francisco” series I posted after AGU last year (with the same sense of scale!):
+
+And then, of course, we mustn’t neglect the same feature forming in limestone:
+
+En echelon tension fractures! Hopefully NOT coming soon to a home near you!
+Okay, I’m done geeking out on the geological analogue that formed in my home yesterday afternoon.
+Lastly, let me share an image of someone else’s damage. This is a photo from the home of the family of a colleague of mine, taken yesterday afternoon:
+
+That’s a close call – unreinforced masonry is one of the biggest risks when it comes to quakes in areas where building codes leave people unprepared for events the size of yesterday’s.
+
+ Comments/Trackbacks (3) >> 
+
+
+
+
+
+← Previous Entries 
+
+
+
+
+
+
+
+
+
+
+
+Connect with Callan:
+
+
+
+
+
+
+
+
+About Callan  Callan Bentley is an assistant professor of geology at Northern Virginia Community College in Annandale, Virginia. He is particularly interested in structural geology and the evolution of the Appalachian mountain belt. Callan draws cartoons and writes for EARTH magazine. He lives in Washington, D.C.
+Other AGU Blogs 
+
+
+Dan's Wild Wild Science Journal >>
+
+
+
+The Landslide Blog >>
+
+
+
+GeoSpace >>
+
+
+
+Magma Cum Laude >>
+
+
+
+Martian Chronicles >>
+
+
+
+Georneys >>
+
+
+
+Mountain Beltway >>
+
+
+
+Outdoor Science >>
+
+
+
+The Plainspoken Scientist >>
+
+
+
+terra central >>
+
+
+Quick Links 
+
+Latest
+Most Popular
+Recent Comments
+
+
+ Latest 
+Friday fold: duplex structure in the gastropod limestone
+Columns form perpendicular to cooling fronts
+Updated aftershock plot
+Damage to the Ecuadorian Embassy
+Animated GIF of Virginia quake aftershocks
+
+ 
+
+
+Most Popular Posts
+ The Mineral, VA earthquake of August 23, 2011 - UPDATED (155)
+Japan M8.9 quake + tsunami (57)
+Drilling: what, why, and how (45)
+Mystery rock with radiating crystals (39)
+Geological heroes: call for posts (31)
+
+
+
+
+Recent CommentsKaren Phaup on The Mineral, VA earthquake of August 23, 2011 – UPDATEDCallan on The Mineral, VA earthquake of August 23, 2011 – UPDATEDKinky Columns | life as a geologist on Columns form perpendicular to cooling frontsMelanie on The Mineral, VA earthquake of August 23, 2011 – UPDATEDHow Did So Many People Feel a 5.8 Earthquake in Richmond, Virginia? | Environmental, Health and Safety News on The Mineral, VA earthquake of August 23, 2011 – UPDATED 
+
+
+Categories
+Select Category
+africa  (3)
+alabama  (1)
+alaska  (1)
+amphibians  (1)
+analogies  (21)
+appalachian plateaus  (1)
+arachnids  (4)
+archaeology  (5)
+archean  (4)
+arizona  (2)
+art  (28)
+arthropods  (12)
+asia  (8)
+astronomy  (1)
+atmosphere  (3)
+award  (2)
+basalt  (21)
+basin and range  (4)
+BIF  (1)
+biodiversity  (5)
+biology  (1)
+birds  (2)
+blogs  (26)
+blue ridge  (40)
+books  (21)
+boudinage  (9)
+building stone  (15)
+california  (34)
+cambrian  (15)
+canada  (10)
+caves  (2)
+central america  (1)
+chemistry  (4)
+chile  (1)
+cleavage  (11)
+climate change  (11)
+CO2  (7)
+coal  (3)
+coastal geomorphology  (2)
+coastal plain  (7)
+colorado  (1)
+concretions  (4)
+conferences  (23)
+contest  (11)
+corals  (2)
+cretaceous  (10)
+culpeper basin  (5)
+dc  (22)
+delaware  (1)
+deltas  (3)
+denmark  (1)
+devonian  (11)
+dinosaurs  (3)
+dunes  (1)
+earthquake  (13)
+echinoderms  (1)
+ecuador  (1)
+energy resources  (1)
+environmental  (6)
+eocene  (3)
+erosion  (1)
+europe  (4)
+euxinia  (1)
+evolution  (4)
+faults  (43)
+floods  (1)
+folds  (92)
+foliation  (7)
+food  (9)
+fossils  (23)
+Friday Fold  (54)
+fungi  (1)
+gear  (5)
+geoengineering  (1)
+geologic time  (1)
+geology  (125)
+geomorphology  (9)
+germany  (1)
+gigapan  (18)
+glacial landforms  (13)
+glaciers  (9)
+google earth  (7)
+GPS  (1)
+grand canyon  (2)
+granite  (23)
+graphs  (4)
+graves  (4)
+greece  (1)
+greenland  (1)
+greenstone belts  (1)
+gsa  (17)
+gsw  (3)
+guatemala  (1)
+himalayas  (2)
+history  (24)
+holocene  (2)
+hurricane  (1)
+ice  (4)
+iceland  (2)
+igneous  (32)
+illinois  (1)
+indigenous cultures  (1)
+information design  (1)
+insects  (17)
+iowa  (1)
+ireland  (1)
+isotopes  (3)
+japan  (6)
+joints  (38)
+jurassic  (9)
+lakes  (6)
+limestone  (26)
+lineation  (4)
+lola  (10)
+mammals  (5)
+maps  (7)
+marble  (3)
+mars  (1)
+maryland  (19)
+mass wasting  (3)
+math  (7)
+mesoproterozoic  (16)
+mesozoic  (11)
+metamorphism  (43)
+meteorite impacts  (1)
+meteorites  (1)
+microbes  (1)
+microscopy  (7)
+minerals  (20)
+minnesota  (1)
+miocene  (1)
+mississippian (carboniferous)  (15)
+mollusks  (3)
+mongolia  (1)
+montana  (39)
+moon  (1)
+mountains  (6)
+movies  (2)
+museums  (9)
+national parks  (19)
+neoproterozoic  (13)
+new hampshire  (11)
+new york  (13)
+new zealand  (1)
+north america  (14)
+north carolina  (3)
+norway  (1)
+nova  (19)
+nyc  (13)
+ocean acidification  (1)
+oceans  (2)
+oil  (3)
+oman  (1)
+ontario  (1)
+ophiolites  (4)
+ordovician  (10)
+pakistan  (2)
+paleogene  (5)
+paleomagnetism  (4)
+paleoproterozoic  (1)
+paleozoic  (12)
+partial melting  (2)
+pennsylvania  (6)
+pennsylvanian (carboniferous)  (7)
+permian  (4)
+piedmont  (31)
+plankton  (2)
+plants  (7)
+plate tectonics  (11)
+pleistocene  (10)
+plutons  (1)
+policies & politics  (4)
+primary structures  (61)
+proterozoic  (19)
+pseudoscience  (4)
+quartz  (20)
+religion  (11)
+reptiles  (7)
+rhode island  (1)
+rivers  (13)
+rockies  (11)
+russia  (1)
+sandstone  (14)
+satellite imagery  (2)
+science & society  (10)
+scotland  (3)
+seasons  (1)
+sediment  (93)
+sequestration  (2)
+shale  (7)
+shear zones  (11)
+sierras  (4)
+silurian  (6)
+skepticism  (6)
+snow  (5)
+snowball earth  (6)
+soil  (2)
+south africa  (2)
+south america  (1)
+south dakota  (1)
+stratigraphy  (6)
+stromatolites  (5)
+structure  (149)
+stylolites  (1)
+surveys  (1)
+tafoni  (1)
+talks  (2)
+teaching  (22)
+tech  (5)
+television  (3)
+trace fossils  (5)
+transect trip  (8)
+travel  (54)
+triassic  (7)
+tsunami  (2)
+turkey  (43)
+Uncategorized  (1)
+unconformities  (7)
+uniramia  (1)
+united kingdom  (2)
+urbanite  (1)
+usgs  (3)
+utah  (1)
+valley and ridge  (33)
+vermont  (2)
+virginia  (76)
+volcano  (22)
+water  (2)
+weathering  (33)
+web resources  (2)
+west virginia  (25)
+wind  (1)
+words  (8)
+wyoming  (18)
+xenoliths  (8)
+yellowstone  (1)
+
+
+Archives  Select Month  September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+
+The “Callander”
+September 2011
+
+
+M
+T
+W
+T
+F
+S
+S
+
+
+
+
+« Aug
+ 
+ 
+
+
+
+
+ 1234
+
+
+567891011
+
+
+12131415161718
+
+
+19202122232425
+
+
+2627282930
+ 
+
+
+My Twitter feed
+
+
+60 mins ago
+@GeoEvelyn data ARE.
+
+
+2 hours ago
+RT @drjerque: Thanks forever to @callanbentley for the geology tour today. Migmatite rocks! The Potomac is pretty cool too. http://t.co/ ...
+
+
+14 hours ago
+Looking forward to showing @drjerque around the Billy Goat Trail today. Turbidites, migmatites, lamprophyre, straths, potholes, and more!
+
+
+4 September 2011
+RT @aboutgeology: Flood geologists have refuted Flood geology: http://t.co/N3Dr89o
+
+
+4 September 2011
+Curiously kinky columns http://t.co/WdBasfT
+
+
+ Other geobloggers are writing aboutMIMARSE Lo que viene a ser, hacerse pajas (I) 5 September 2011Los fósiles de luz de Darren Pearson 5 September 2011Vintage Dinosaur Art: Carl Dahlgren 5 September 2011Out of Control Texas Wildfire from Space 5 September 2011Tehuelchesaurus 5 September 2011
+
+
+
+
+
+
+©2011 American Geophysical Union. All rights reserved. Powered by MT.
+
+
+
+Terms of Use
+Privacy Policy
+Contact Us
+
+
+
+
+
+
+
+
+
+

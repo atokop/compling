@@ -1,0 +1,1231 @@
+atomic power review: More Virginia Earthquake information
+
+
+
+
+
+
+skip to main  |
+      skip to sidebar
+
+
+
+
+
+
+atomic power review
+
+
+
+Will Davis - Atomic Power Research Associates - Copyright 2010.  Nuclear energy news, insight and analysis.  Coverage of events world wide, including new plant construction, operation of plants now in service, and shutdown and decommissioning of plants.  Your #1 source for nuclear energy news and historical perspective.
+
+
+
+
+
+
+
+
+APR: your source for nuclear news and analysis since April 16, 2010 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuesday, August 23, 2011
+
+
+
+
+
+More Virginia Earthquake information
+
+
+
+
+
+At this moment, we do not have any actual operational details from the North Anna Power Station other than that which we have reported. Briefly, those details can be consolidated as the following:
+ -Both reactors are shut down safely.
+-Both reactors shut down when offsite power was lost.
+-Offsite power was apparently lost as a result of an on-site switchyard fault.
+-North Anna station is presently on diesel power.
+-All four site diesels started normally. One stopped later on at some point.
+ We will likely have some better details from press releases and from reporting to the NRC tomorrow. For the moment, all we can do is speculate. Several further things are fairly clear;
+ -There will be a report to the NRC of an unusual event; the quake, and LOOP. The stoppage of one diesel may be a further event.
+-Although not reported, hinted at, or speculated anywhere else, it should be noted in a prophylactic mode only that there may have been a lifting of either a primary or a secondary relief valve if the plants tripped from at or near full rated power. This is a common occurrence -- and by that we might just go ahead and say that we mean BOTH full reactor scrams and turbine trips from full rated power, and very brief lifting and reseating of relief valves when this happens on pressurized water plants. Many plants each year suffer turbine trips (a full load reject) from 100% power when inclement weather takes out the electrical network; for example, Surry had this exact thing happen this year and so did a number of others. 
+ We report these two things here only because either or both would / will get press coverage and we want our readers to EXPECT them to be reported. 
+ We might also at this point note that we're already aware of the declaration of an Unusual Event at at least six other nuclear plant sites. This is required to be declared as a result of the earthquake; this declaration is an acknowledgement of the earthquake being detected at the site or in the vicinity, and is NOT a declaration that anything unusual or problematic has occurred at the site. With the sole exception of North Anna, all of the plants that today declared UE's as a result of this earthquake have, as we understand it, cleared the conditional declaration. In point of fact none of the plants altered operation one bit, again except for North Anna.
+ One of the plant sites we understand declared, and then cleared, Unusual Event status is the Three Mile Island (Unit 1.) Do not be surprised when these UE reports hit the press tomorrow after appearing at the NRC site or in owner-operator press releases and then get legs.
+ Now, getting back to North Anna; I have some preliminary findings here, and some good solid data from the ANS Social Media List, on just what kind of quake the plants at North Anna are designed against and as soon as the USGS puts out some data in some form that people can understand (in other words, accelerations by location and not effects in Modified Mercalli scale, which is practically useless in comparing plant design data that's given in both accelerations in fractions or multiples of "g" or else in the old Richter scale) I will report on the comparison of those data here. For now, I might say it is too early to determine just what the acutal accelerations experienced on site were although it does appear that the plant was within seven to nine miles of the epicenter of a fairly shallow 5.9 Richter / VII Modified Mercalli quake. (Note that the VII region of damage as indicated graphically by the USGS for this quake is quite small, and on the latest USGS "Cities affected" list there is only one city/township in the VII range at all, the rest being less... but which oddly enough is the city North Anna Station is located in.)
+ Once some hard data comes in from the site's owner-operator we can make some further commentary on plant actions and conditions, but at this moment no news is good news and considering the plant capabilities (Westinghouse PWR) heat removal should be no problem. I will report again with any news, or any NRC posts, or owner-operator releases for the press as soon as I'm aware of them.
+ 10:25 PM Eastern Tuesday August 23, 2011
+ATOMIC POWER REVIEW
+
+
+
+
+Posted by
+Will Davis
+
+
+at
+10:01 PM
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reactions: 
+
+
+
+
+Labels:
+"earthquake",
+"north anna",
+"virginia"
+
+
+
+
+
+
+
+
+0
+comments:
+        
+
+
+
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+ATOMIC POWER REVIEW search
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atomic Power Review is proud to be listed at...
+
+American Nuclear Society's "Nuclear Cafe" blog
+ Nuclear Engineering Institute's "NEI Nuclear Notes" blog
+ Canadian Nuclear Association's "Talk Nuclear" blog   
+
+
+
+
+
+
+
+
+
+
+
+
+Atomic Power Review on YouTube  
+
+
+
+
+
+
+
+
+
+
+
+
+Atomic Power Research Associates - Facebook page 
+
+
+
+
+
+
+
+
+
+
+
+pages on this site
+
+
+Accolades for Atomic Power Review
+Fukushima Accident Sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow APR by e-mail!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Atom
+              
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Atom
+              
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Will Davis
+
+
+Former US Navy Reactor Operator; qualified RO on S8G and S5W submarine reactor plants.  Performed volunteer work on nuclear ship NS Savannah. Member, American Nuclear Society (June 2011.)  Lifetime of technical and engineering pursuits including everything from fast cars to flying lessons.  Typewriter collector since August 1999; published author 2001-2009 (ETCetera, magazine of Early Typewriter Collectors' Association which is read worldwide.)  Still writing occasional pieces for that magazine.  Startup of company Atomic Power Research Associates underway.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+ATOMICPOWER@WILLDAVIS.ORG    
+
+
+
+
+
+
+
+
+
+
+
+atomic links
+
+
+Babcock & Wilcox Nuclear
+Bechtel Marine Propulsion
+Bechtel Nuclear
+Canadian Nuclear Association
+DOE Office of Nuclear Energy
+Exelon Nuclear
+General Atomics Energy Group
+General Electric - Nuclear
+Nuclear Energy Institute (USA)
+Nuclear Industry Association (UK)
+Nuclear Information Center (Duke)
+Nuclear Suppliers Association (USA)
+Westinghouse Nuclear
+NRC site
+NS Savannah (DOT home)
+NS Savannah (MARAD)
+ANS Nuclear Cafe
+Atomic Insights Blog
+Deregulate the Atom blog
+Idaho Samizdat- Nuke Notes
+Michele Kearney's Nuclear Wire
+NEI Nuclear Notes Blog
+NFF Nuclear Friends Foundation
+Nuclear Street
+Nuke Power Talk
+Nukeworker.com Forum
+Talk Nuclear (Canada)
+Thorium-MSR Blog
+U.S. NRC Blog
+Yes Vermont Yankee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Followers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Pageviews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+peak page views
+
+2583 / April 12, 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+▼ 
+
+2011
+(420)
+
+
+
+▼ 
+
+August
+(17)
+
+Fort Calhoun - Event Clear
+ANS Nuclear Cafe - Hurricane Irene update
+Hurricane Irene approaching Eastern U.S.
+Visible progress at Fukushima Daiichi
+ALERT at North Anna ended
+US Nuclear Plant SITREP
+US Earthquake Update:  4:40 AM Wednesday
+TEPCO to modifiy cooling at No. 3 reactor
+More Virginia Earthquake information
+US Earthquake information
+New TEPCO video at APR YouTube Channel
+Nuclear Energy in Japan:  August 17, 2011
+The effect of big media:  A real conversation
+Nuclear Energy in Japan:  August 10, 2011
+Carnival of Nuclear Bloggers at APR
+Fukushima Daiichi update on high rad levels
+Nuclear Energy in Japan:  August 2, 2011
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(23)
+
+Nuclear Energy in Japan:  The Scandal Widens
+Nuclear Energy in Japan:  July 27, 2011
+Nuclear Energy in Japan:  Genkai pressure vessel e...
+Nuclear Energy in Japan:  July 25, 2011
+Site update for regular readers
+Nuclear Energy in Japan:  Tuesday July 19, 2011
+NRC Chairman Jaczko - Speech at NPC
+Carnival @ ANS Nuclear Cafe
+TEPCO replaces dry well pressure gauges
+New video:  No. 2 reactor building at Fukushima Da...
+TEPCO, Japanese Gov't:  "Reactors Stabilized"
+Nuclear in Japan / USA / Around the world: July 15...
+Nuclear Energy in Japan:  July 15 brief update
+Nuclear Energy in Japan:  July 13, 2011
+Fukushima Daiichi:  Almost at a milestone
+Fukushima Daiichi Bulletins
+Carnival of Nuclear Bloggers comes to APR
+Kyushu Electric Power, and public trust
+Fukushima Daiichi / Japan Update:  Wednesday July ...
+Carnival at "Yes Vermont Yankee"
+Fukushima Daiichi update:  Sunday July 3, 2011
+Fukushima Daiichi Update:  Saturday July 2, 2011
+New video on APR YouTube
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(24)
+
+Nuclear in Japan:  Brief update
+Flooding:  Ft. Calhoun and Cooper
+Brief Fukushima Update:  June 28, 2011
+Generation mPower and TVA
+Fukushima Daiichi Update: Friday, June 24, 2011
+Two interviews.
+Fukushima Daiichi update:  Wednesday, June 22, 201...
+Public Opinion in Japan
+Associated Press "hack job" article draws response...
+Atomic History:  Dresden-1
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(44)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(81)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(223)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(2)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(6)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2010
+(135)
+
+
+
+
+
+          ► 
+        
+
+
+October
+(11)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(11)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(14)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(31)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(53)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(6)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nuclear Blog Newswire:
+
+
+
+
+
+
+
+
+
+
+Yes Vermont Yankee
+
+
+
+
+The Broken Window Fallacy, the Hurricane, and Decomissioning Nuclear Plants
+
+
+11 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Atomic Insights
+
+
+
+
+Shoreham Chapter 8 – Revealing portrait of antinuclear tribe
+
+
+15 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Idaho Samizdat: Nuke Notes
+
+
+
+
+China restarts progress on its nuclear energy program
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+Michele Kearney's  Nuclear Wire
+
+
+
+
+68th Carnival of Nuclear Energy Blogs
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+ANS Nuclear Cafe
+
+
+
+
+68th Carnival of Nuclear Energy Blogs
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. NRC Blog
+
+
+
+
+Post-Flood Recovery Begins At Fort Calhoun Nuclear Plant
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+NEI Nuclear Notes
+
+
+
+
+Savings in Georgia; AP Investigates, Finds Nothing
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+OPPD Storm and Flood Updates
+
+
+
+
+Flood Update, August 31, 2011
+
+
+5 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+TalkNuclear
+
+
+
+
+Size Matters: Small Nuclear Reactors and Alberta’s Oil Sands Development
+
+
+5 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+Nuke Power Talk
+
+
+
+
+The Japanese Government and Transparency:
+
+
+6 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+ThoriumMSR
+
+
+
+
+Does “small” have a better chance of making it to market?
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+
+
+
+Deregulate the Atom
+
+
+
+
+It’s unanimous about Nuclear Energy, Aspartame, Climate Change
+
+
+2 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will Davis is a proud graduate of NNPS Orlando
+
+
+
+
+
+
+
+
+
+
+
+translate atomic power review with babelfish!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This blog © WILL DAVIS. Reproduction permitted only with credit. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

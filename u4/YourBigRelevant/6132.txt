@@ -1,0 +1,980 @@
+Mashable » Mobile - powered by FeedBurner
+&
+
+
+
+Mashable » Mobile
+
+syndicated content powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based news readers. Click your choice below:
+
+
+
+
+
+
+
+...with other readers:
+
+(Choose Your Reader)FeedDemonNetNewsWireNewsFireNewsGator Outlook EditionRSSOwlShrookUniversal Subscription Mechanism (USM)
+
+
+Get Mashable » Mobile delivered by email
+
+
+ View Feed XML
+
+
+
+
+FeedBurner makes it easy to receive content updates in My Yahoo!, Newsgator, Bloglines, and other news readers.
+
+Learn more about syndication and FeedBurner...
+
+Current Feed Content
+
+
+
+Leaked Best Buy Document Reveals Sprint iPhone 5, October Launch
+
+
+Posted: Sun, 04 Sep 2011 18:14:57 +0000
+
+
+
+
+
+
+Best Buy, you’re going to need to plug those leaks, lest you incur the wrath of Apple. Case in point: This Best Buy internal document uncovered by BGR, clearly indicating a Sprint iPhone 5 in the works, as well as pre-sales beginning for the iPhone 5 in the first week of October.
+In case you’re having trouble reading this blurry photo, here’s a clearer version of the exact wording on this document dated “Week 9/4″:
+BBYM: iPhone 5 product introduction expected, pre-sales begin for expected October week 1 launch/Sprint launches iPhone 5
+(Apple product introduction/launch dates subject to change)
+Perhaps this is deliberately written in a vague way, but it’s not exactly clear whether the iPhone 5 product introduction is expected this week (as in, now?) with an “October week 1 launch,” or if the product introduction and pre-sales will both begin in the first week of October. 
+SEE ALSO: iPhone 5 Clue | iPhone 5 Rumor Roundup 
+
+If this is indeed a document from Best Buy (and BGR‘s sources have been credible in the past), it looks like that widely rumored October release date for the iPhone 5 just got a little more likely. 
+[via BGR]
+More About: iPhone 5, leaks, sprintFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+New iPhone 5 Clue: Will It Have a 4-Inch Screen?
+
+
+Posted: Sat, 03 Sep 2011 18:17:30 +0000
+
+
+
+
+
+
+As we get closer to the rumored release date of the iPhone 5, yet another clue about its true nature has surfaced today. 
+Here’s a new set of extrapolations, taken to a speculative conclusion by our friends at MacRumors. When they snagged a couple of publicly available third-party cases that purport to fit the iPhone 5, they noticed that the case is so much wider that it strongly suggests a 4-inch screen on the new iPhone, larger than the iPhone 4′s 3.5″ display.
+This is a different case from the iPhone 5 case we showed you yesterday, which was a soft case with closed ends that also suggested that the iPhone 5 will be significantly wider and thinner than its predecessor, also pointing to the possibility of a 4-inch screen.
+MacRumors did more precise measurements with this particular case, noting that while the iPhone 4 is 2.31 inches wide, with its 3.5″ screen measuring 1.95 inches wide, an iPhone fitting into this case would have a display measuring a significantly wider 2.24 inches. So if this indeed is the final case design, the iPhone will have a 4-inch screen. 
+However, given the secretive nature of Apple and the possibility of fake case specifications passed around to various manufacturers accused of leaks in the past, we can’t be sure of the dimensions of the iPhone 5 just yet. This is just one piece of info, but add this to all the other iPhone 5 clues, and most are pointing to the same thing: As the evidence mounts, it points to a wider, thinner iPhone 5 with a larger screen and tapered bottom. 
+I think the current iPhone’s 3.5″ screen is way too small, and I would like to see a display that’s even larger than 4 inches. I think Apple will be enlarging the iPhone’s screen, to get closer to the even-larger screen sizes of many of its competitors. What do you think? To be sure, we’ll have to wait till later this month for the alleged introduction of the iPhone 5, with the rumored release in October.
+[via MacRumors]
+More About: iPhone 5, rumors, Screen SizeFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+5 Android Apps to Turn Your Phone Into a Mobile Document Scanner
+
+
+Posted: Sat, 03 Sep 2011 14:37:41 +0000
+
+
+
+This post originally appeared on the American Express OPEN Forum, where Mashable regularly contributes articles about leveraging social media and technology in small business.
+Even if you’ve done everything you can to  banish paper from your office, those little white sheets can still creep up on you.
+You’ll want to digitize those crinkly analog fugitives post haste, but you may not be keen on splurging for a scanner — especially when you’re only taming the occasional receipt or intake form.
+The solution — wait for it — could be in the palm of your hand. Your Android smartphone has all the photographic and processing power you’ll need to snap up those docs and get them into the cloud where they belong.
+Here are a few mobile document scanning solutions we put through their paces.
+
+1. CamScanner
+
+
+CamScanner is a breeze to use, and you can test out the free version via the Market link above. Snap a photo of your document and pull up the cropping tool. The app will auto-detect the edges of the paper, but the slick drag-and-snap guides will help you fine tune the dimensions.
+
+The processing enhancements are smart, and will compensate for low light and bad focus reasonably well. Though the app generates a cropped and toned image, it will also hang onto the original photo -- handy, in case you accidentally cropped your boss' name off the letterhead.
+
+The app has built-in integration with Google Docs, Box.net and Dropbox, but for the less fancy among you, it's easy to pipe scanned docs straight into email.
+
+The main issue we encountered was with PDF creation. The original image is stored as a JPEG, but the option to convert it to a PDF simply opened the phone's default PDF viewer. The file is viewable, but we found no apparent way to save or share.
+The paid version promises to make things easier in this department, but you should see how the free version performs on your device before purchasing.
+Price: Free / $4.99 for full license and features 
+2. Document Scanner
+
+
+This app scans directly to PDF with ease. The interface couldn't be cleaner, and while the cropping tools aren't as snazzy as CamScanner's, they get the job done.
+There are image enhancement features, but in our testing, they weren't as precise as CamScanner's.
+Document Scanner also lets you upload directly to Google Docs, DropBox, and Box.net. It even has Evernote integration -- a nice touch. Scan multiple pages in succession and email them to your heart's content.
+The trial version will only last you seven days, but that should give you the time to decide if you're ready to throw down four bucks on the real deal.
+Price: Free / $3.98 for full version 
+3. Droid Scan Pro PDF
+
+
+Droid Scan works similarly to the aforementioned apps with one exception -- it'll send you out to the system camera to grab the image. No big deal -- in reality, the other apps are simply wrapping the native camera with their interface.
+Once you're done shooting, Droid Scan picks right back up where you left off and gets down to image processing quickly.
+The app has smart edge detection, intuitive (if small) color and contrast controls, and a final menu that lets you select the docs you want to save down as either JPEGs or PDFs (though PDF functionality is only available in the paid version).
+Price: Free / $4.99 for PDF functionality 
+4. Scan to PDF
+
+
+Scan to PDF scores big on interface simplicity. It's easy to start scanning or adjust the settings right from the first screen.
+The app jumps over to the system camera by default (though you can adjust this setting), and offers great image processing and enhancement, even in low light.
+The cropping function is intuitive but can be awkward -- rather than dragging and snapping at the corners, you'll have to pull the edges. Occasionally, your fingers will run out of screen or they'll accidentally drag the entire frame away from the edge. However, This quirk is far from a deal breaker, and the excellent gallery viewer more than makes up for it.
+The free version of Scan to PDF does it all, but if you like it and use it regularly, you can show the devs a little love with a $.99 upgrade.
+Price: Free / $.99 optional purchase for a job well done 
+5. PDF Scanner
+
+
+For those looking for the dead-simple option, PDF Scanner is the way to go. This no-frills app cuts right to the quick.
+Add pages by hitting scan. The camera viewfinder that appears has no buttons, so you'll have to just tap the screen to focus and snap.
+The camera makes use of your phone's flash, which is helpful when scanning in low light. But be sure to frame and focus your image carefully because there's no crop or image enhancement here. Snap away until your document is complete, then email the PDF to its destination.
+Regrettably, there's not trial version of this app, but if you're looking for a way to generate PDF scans quickly and easily, have no qualms dropping your coin here. 
+Price: $1.99
+
+More Small Business Resources From OPEN Forum:
+
+
+- 15 Keyboard Shortcuts To Enhance Your PC Productivity
+- 5 Services For Building Websites On A Budget
+- 10 Accessories To Boost Office Morale
+- Top 5 Foursquare Mistakes Committed By Small Businesses
+- How To Use Social Media For Recruiting
+
+More About: android, business, Mobile 2.0For more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Google +1 Buttons Arrive on the Mobile Web
+
+
+Posted: Fri, 02 Sep 2011 19:48:28 +0000
+
+
+
+Google +1 buttons are becoming more ubiquitous thanks to an update that carries them over to the mobile web.
+The mobile-optimized +1 button made its debut on select Android and iPhone browsers Thursday.
+“The button will automatically be visible to anyone on Android 2.1+ and iOS 4.0+ browsers,” Punit Soni, lead product manager for Google+ Games and Mobile, wrote in a post on Google+. “When you +1 something, it will be displayed publicly across the Web as an annotation on the content you +1’d.”
+The +1 button mobile upgrade follows recent feature rollouts, including friend annotations, +1 sharing with Google+ circles and +snippets. 
+As of late August, the +1 button had been embedded on more than 1 million websites. Still, every improvement matters. The +1 button ties directly into Google’s social network, and a recent Experian Hitwise report suggests that the time users spend on Google+ peaked in mid-July. 
+More About: Google +1 Button, Google PlusFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Dear Diary: 5 Journal Apps for iPhone
+
+
+Posted: Fri, 02 Sep 2011 19:22:37 +0000
+Many of us remember how fun (not to mention therapeutic) it was to pour our innermost thoughts into a pen-and-paper diary, but how many of us take the time to keep a personal journal today?
+As you no doubt take your mobile everywhere you go, a diary app for your iPhone means you can get scribbling whenever you have a spare five minutes, be that waiting in line, on your commute or before bed.
+SEE ALSO: Back to School: 15 Essential iOS Apps for Students
+
+We’ve found five fantastic iPhone journals that will give you a digital outlet for your thoughts, but with some diary-themed twists. Let us know in the comments if these apps inspire you to start a fresh chronicle of your life.
+
+1. Day One
+
+
+
+
+
+One of the more contemporary-looking options on this list, Day One gives you an easy way to jot down your thoughts and even easier options to sync them with Dropbox.
+You can passcode protect your "entries," which appear as a date-based list within the app. Features include reminders, rich text and the ability to star entries.
+Day One offers no customization as far as appearance goes, but we'd imagine most people will be more than happy with the default black, white and turquoise color-scheme, the simple layout and clean font.
+Cost:  $1.99
+
+2. iJournal - Notebook and Journal for iPhone
+
+
+Simple to use, with a clean design, iJournal is recommended for anyone looking for a no-nonsense, date-based diary app. 
+Password-protected, the app lets you create diary entries with a title, optional sub-title and space for text.
+Customization options include the ability to change the background of the homepage, the background of the entries and to select one of four fonts. 
+Cost:  $1.99 
+3. Memory Book - Diary & Journal
+
+
+Although the cheapest app on this list, Memory Book has a few neat features. In addition to creating text-based "memories" (i.e., entries), you can add people, places, keywords and photos to a memory.
+The beauty of this system is that you can then review your entries via those tags -- that is, everything you've written about a particular trip, person or event.
+We like the app's looks, modern yet with a touch of a classic journal. Syncing is possible between the iPhone and iPad app, as well as the Mac OS X version of Memory Book.  
+Cost:  $0.99
+
+4. My Daily Journal - The Personalized Journal/Diary
+
+
+An app that emulates the paper diary as far as looks go, My Daily Journal nevertheless offers some good digital features.
+These include that all-important password protection, auto-saving, search, PDF export and Dropbox backup.
+You can personalize your journal by changing the background (although the parchment-style option above is the only one we liked) as well as by selecting the color of the leather trim. The best bit as far as customization goes is the number of fonts available -- a very healthy selection indeed.
+Keeping with the real-life diary theme, you can swipe through entries with a flick of your finger, which is just as well, since the calendar-based index system is not so easy to browse. 
+Cost:  $1.99 
+5. Momento
+
+
+The priciest app in our roundup, Momento does at least boast a feature set to justify the extra expense -- especially if you're the social type. 
+This is because you can hook up feeds from Twitter, Facebook, Instagram, Foursquare and more to integrate items into your diary, giving you a truly digital, content-rich journal.
+In addition, you can add photos to each "moment," and there's the ability to both rate and keyword tag your content in order to categorize it for future reference. Good-looking, with stylish faux-wood background and orange highlights, Momemto comes recommended as the journal app for social networking afficianados. 
+Cost:  $2.99
+Thumbnail image courtesy of Madzia Bryll
+More About: apps, iphone, iphone apps, ListsFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Samsung CEO Says His Company Will “Never” Buy WebOS
+
+
+Posted: Fri, 02 Sep 2011 18:09:32 +0000
+
+
+
+What will happen to webOS, the mobile operating system HP purchased from Palm Inc. for $1.2 billion last year? That’s still up in the air. But we know one thing that’s not going to happen: Samsung has no interest in buying it from HP, according to its CEO Choi Gee Sung.
+As he took the stage at the IFA consumer electronics fair in Berlin Friday, Sung emphatically denied his company’s interest in buying webOS. He insisted Samsung will “never” pursue such a deal. 
+Why not? For one thing, Samsung is showing off its own mobile operating system, Bada 2.0, ensconced in three new smartphones.
+So who is interested in buying the currently orphaned webOS? Research firm Ovum Ltd. told Bloomberg that HTC and Facebook might be in the running for the operating system. Neither companies responded to Bloomberg‘s queries. 
+More About: HP, IFA, samsung, webOSFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+HTC Titan & Radar: A Huge Windows Smartphone And Its Little Brother
+
+
+Posted: Fri, 02 Sep 2011 09:08:12 +0000
+
+
+
+HTC has announced two new Windows Phone 7 smartphones: HTC Titan and HTC Radar. 
+The Titan is an enormous device: With a 4.7-inch, WVGA (800 x 480 pixel) screen, it’s still a smartphone but it’s dangerously close to tablet territory. Given its huge screen size, however, its measurements are reasonable: 130.6 x 70.6 x 9.9 mm still falls under the pocket-size label. 
+It comes with a 1.5 GHz single-core Snapdragon CPU, 512 MB of RAM, 16 GB of storage, an 8-megapixel camera and HSPA+ connectivity, which doesn’t quite make it the top smartphone around but it’s definitely in the upper echelon as far as specifications are concerned. 
+The Radar is a mid-range WP7 smartphone, with a far more reasonable 3.8-inch Super LCD screen, a 1 GHz Snapdragon CPU, 512 MB of RAM, and a 5-megapixel camera on the back. 
+Both devices should become widely available in Europe in October. 
+
+
+More About: htc, HTC Radar, HTC Titan, IFA, smartphone, trendingFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Samsung Galaxy Note Bridges Gap Between Smartphone & Tablet
+
+
+Posted: Thu, 01 Sep 2011 08:11:19 +0000
+
+
+
+Besides its new tablet, the Galaxy Tab 7.7, Samsung used the podium at the IFA trade show in Berlin to officially announce another interesting gadget: the Galaxy Note. 
+The Note is a 5.3-inch, Android 2.3 (Gingerbread) smartphone which in many ways doubles as a tablet — for example, it comes with a pen for drawing and note-taking, for those who still prefer it over the good old fingers. 
+It also has an impressive array of features: a 1.4 GHz CPU, a WXGA Super Amoled display, 1 GB of RAM, 16/32 GB of storage memory and an 8-megapixel camera as well as a 2-megapixel one for video calls. 
+All of this is stuffed into a 9.65 mm thin and 0.39 pounds heavy case, which seems reasonable for a 5.3-inch device and actually makes us want to consider using this behemoth as a phone. 
+Samsung plans to release two versions of the device: one supporting HSPA+ and the other with LTE. Price is pending and the release date is “in the coming months.”
+[via This Is My Next]
+More About: Galaxy Note, IFA, samsung, smartphone, TabletFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Vail Resorts Upgrades RunKeeper-Like Ski & Snowboard App With Photos
+
+
+Posted: Wed, 31 Aug 2011 18:18:18 +0000
+
+
+Vail Resorts is preparing to release the second version of EpicMix, a highly innovative social gaming app that enables visitors to track their activities and share them with their friends and family using radio frequency-enabled chips embedded in their access cards.
+The app, slated to launch mid-December, is a cross between Nike+, which allows users to track their physical activities with chips embedded in Nike shoes and watches, and Gowalla, which rewards users for exploring new areas via its Trips feature. Like Gowalla, EpicMix rewards users with vital pins for various accomplishments, such as being on the first chairlift of the day or skiing a certain number of vertical feet over a designated period of time.
+What’s different — and especially impressive — about EpicMix is that it doesn’t require a smartphone or GPS-enabled device to participate, nor does it require familiarity with geolocation apps and the concept of “checking in.” Everything visitors need is already in their access card.
+Employees are stationed at the resorts’ various lifts (there are 89 across its five mountain resorts in Colorado and California) to scan the chips, which allows the application to automatically calculate the number of vertical feet skied, days on the mountain, routes taken and other feats. Guests can seamlessly and effortlessly keep track of their activities without having to fumble for their smartphones to check in at various locations — in other words, they can continue skiing and snowboarding the way they always have.
+
+
+
+
+
+All of their data and achievements are stored in a web-based application that can be accessed via the desktop or one of Vail’s free mobile applications for iPhone [iTunes link] and Android devices. A third hybrid application is also available for other smartphones, including BlackBerrys.
+From the applications, users can also keep track of where their Facebook friends are at each of the resorts, create leaderboards to compare accomplishments, send private messages to organize meetups and share their activity with their social networks on Facebook, Facebook Places and Twitter. 
+Vail Resorts has also created a version of the app designed especially for kids under age 14. It boasts a separate set of pins and other content, as well as the ability to connect to their parents’ accounts and additional privacy restrictions.
+Nearly 100,000 — approximately 15% — of guests activated their EpicMix accounts last season, resulting in 270,000 cross-posts to Facebook and Twitter.
+
+What’s New in Version 2.0
+
+
+
+Version 2.0 is all about integrating photos into the EpicMix experience. Now, when guests agree to have their photos taken by one of the professional photographers stationed at Vail’s six mountain resorts, said photographers will scan guests’ access cards so that the photos will be delivered directly to the their EpicMix accounts. Photos of guests’ children — say, at ski school for the day — will also be uploaded directly to their accounts.
+SEE ALSO: Skiing and Snowboarding: 6 Apps For Conquering the Slopes
+From their EpicMix accounts, guests will then be able to share these photos on Facebook and Twitter for free, with the option to purchase high-resolution versions for printing and storage. They can also easily upload the free versions to photo-sharing sites such as Flickr, Snapfish and Shutterfly.
+In addition, guests will be able to store their own photos taken with their mobile phones or any other camera device in the EpicMix app for a comprehensive overview of their vacation experience.
+Undoubtedly the new app will improve the vacation experience of many a resort guest. The days of heading to the photo center and searching through hundreds of photos of strangers and their kids is over — at least at Vail. But it also promises to prove a powerful marketing tool for Vail.
+CEO Rob Katz believes that “the anticipation of a vacation and the memory of a vacation are more important than the vacation itself,” of which photos are a critical part. Making photos easily available for guests to re-experience should, in theory, improve their return visit rate. Making those photos, which will feature a Vail Resorts logo in the bottom right corner, shareable on Facebook and Twitter will function as word-of-mouth marketing.
+“When thinking about social media, there are three things companies are focused on: sending messages to their consumers, responding to issues and questions and — and here is the holy grail of social media — getting people to be advocates for your brand by sharing with their friends,” says Katz. “It’s hard to create this in an authentic way. Sharing your photos and experiences is about authentic as you can get.”
+Katz also believes that photos will bolster the percentage of visitors who activate EpicMix. “If a parent hears that we took a photo of their kid in ski school, the parent is going to go look at that photo,” he says.
+EpicMix was originally designed in conjunction with ad agency Crispin, Porter + Bogusky. Vail worked with SapientNitro on the creative design for version 2.0 and handled the development process internally.
+
+
+More About: epicmix, skiing, sports, vail resortsFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+The Nokia XPhone? Exec Crowdsources Names For U.S. Windows Phones
+
+
+Posted: Wed, 31 Aug 2011 14:42:26 +0000
+
+
+
+
+
+Your next Windows Phone could be named “Jedi” or “Force” if an unofficial poll from a Nokia exec carries any weight.
+Chanse Arrington, Nokia’s head of developer marketing in North America, first tweeted a Polldaddy poll — to help name the brand’s series of U.S. Windows Phones — last week. So far, about 9,000 people have chosen from the poll’s 46 names or suggested their own.
+The “Nokia Phoenix” is the crowd favorite with 14% of the vote. “Share,” “Deckard” and “Fearless” have turned out to be among the least popular, with less than 1% of the vote. All of the choices are a departure from Nokia’s current non-word naming scheme.
+Blogger Eduardo Umana suggested that Nokia name its phones according to the periodic table of elements. Nokia employee John Loughney mentioned another less serious suggestion in a tweet at Arrington:
+“I can see it, someone walks into the store. ‘No, I don’t want an iPhone, I want that Other phone by Nokia.’”
+More About: Mobile 2.0, NokiaFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Samsung Galaxy S II Coming to U.S. in September
+
+
+Posted: Wed, 31 Aug 2011 10:02:59 +0000
+
+
+
+Samsung’s flagship Android smartphone, the Galaxy S II, will soon be available in the U.S. from AT&T, Sprint, and T-Mobile. 
+You won’t be getting the exact same phone from all three vendors, however. Most of the basics are identical: a 1.2 GHz Exynos CPU, Android 2.3 Gingerbread and 16 GB of storage. 
+AT&T and T-Mobile will call the device Galaxy S II, while Sprint will call it Epic 4G Touch. AT&T’s model will have a 4.3-inch Super AMOLED screen and a 1650 mAh battery (and an 8.89 mm thin profile). The T-Mobile and Sprint versions will feature a 1800 mAh battery better suited to power a 4.52-inch screen. 
+Finally, Sprint’s version of the device will have WiMax, while the T-Mobile and AT&T versions will sport HSPA+, which means all three devices are 4G — depending on your definition of the term. 
+Sprint will sell the device for $199.99 beginning Sept. 16. AT&T says their version will hit shelves in the coming weeks. T-Mobile’s variant will become available this fall.
+
+
+[via Engadget]
+More About: att, Galaxy S II, samsung, sprint, T-Mobile, trendingFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Android & iPhone Dominate Smartphone Market at BlackBerry’s Expense [STATS]
+
+
+Posted: Wed, 31 Aug 2011 00:51:15 +0000
+
+
+
+Google and Apple continue to eat up more of the smartphone market, while RIM and Microsoft continue to lose ground.
+According to new data from comScore, 82.2 million people in the U.S. owned a smartphone as of July 2011, a full 10% increase from April 2011. Google is the market leader with 41.8% market share (up from 36.4% in April), while Apple is number 2 with 27% market share (up from 26%).
+The news isn’t as bright for RIM, Microsoft or Nokia though. RIM’s BlackBerry was the big loser, as its piece of the smartphone market dropped from 25.7% to 21.7% in just three months. Microsoft also experienced a drop from 6.7% to 5.7%. Nokia’s Symbian OS, which is on its way to retirement, dropped from 2.3% to 1.9%.
+comScore also reports that 234 million Americans 13 and older use some type of mobile device, whether it’s a smartphone or not. Among the entire smartphone market, Samsung is the leader with a 25.5% share of U.S. mobile subscribers. LG and Motorola are next with 20.9% and 14.1% respectively. Apple is forth with 9.5% of the total market, an increase of 1.2% since April. RIM rounds out the top five at 7.6%.
+Among these 234 million mobile Americans, more of them are using their phones for a variety of tasks. A full 70% of U.S. mobile subscribers are texting, up 1.2% from April. About 40% use their phones for web browsing (up 2%) and 40.6% have used a downloaded app (up 2.8%). Social networking (30.1%), playing mobile games (27.8%) and listening to music (20.3%) are all up as well.
+It’s tough to predict what will happen to the mobile market in the next few years. One report asserts that Windows Phone will overtake iOS by 2015, though we highly doubt that possibility, even with Nokia switching to WP7. For now though, Apple and Google are in a comfortable position, and it doesn’t look like there are any challengers ready to knock them off their perches.
+More About: android, apple, ComScore, Google, iOS, iphone, microsoft, mobile phones, RIM, windows phone 7For more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+App.net Gives Mobile App Makers an Instant Web Presence
+
+
+Posted: Tue, 30 Aug 2011 22:01:23 +0000
+
+
+
+“There’s a huge mismatch between apps and the web,” says Dalton Caldwell, co-founder of Mixed Media Labs. Caldwell’s current project, App.net, seeks to bridge this gap and is expanding to support three additional mobile platforms Tuesday.
+App.net consists of a suite of tools mobile developers can use to create an attractive, social media-optimized and SEO-friendly web presence — including landing pages, third-party integrations and download widgets — for their applications.
+First released for iOS and Android developers, App.net has updated to support developers with Windows Phone 7, BlackBerry and HTML5 apps. Developers can use App.net free of a charge for a single application or pay a monthly fee for additional apps and features.
+“Our WP7 and BlackBerry support works in the same way as iOS and Android,” a blog post on the update details. 
+As for HTML5, App.net should come in handy for developers who optimize for mobile. “Marketing a link that launches directly into full screen mode from a tweet or email link may not the best user experience,” the post says. “You still need a marketing/landing page to explain to people why they would want it.”
+App.net is like an About.me for apps, Caldwell explains. “You don’t have to know how to program,” he adds. “Now, you can just take for granted that there’s a web page for your app … App.net provides a way to canonically refer to applications on the web.” 
+App.net, Mixed Media Lab’s second product, became the top priority for the Andreessen-Horowitz-backed startup after Caldwell realized that the mobile application tools his company had built for internal usage could turn into a more lucrative business than mobile photo-sharing. As a result, Picplz was spun out as a standalone company and Mixed Media Labs turned its attention to App.net.
+“I know the mobile app space pretty well,” explains Caldwell on the switch in focus. “I’m just trying to leverage all the knowledge I have and solve the biggest challenges people face — specifically distribution and awareness.”
+Caldwell is a proponent of the two week dev cycle and says that Mixed Media Labs will continue to push out regular updates for the App.net platform. “We’re just going down the list of all the things that should work,” he says.
+
+
+More About: App.net, dalton caldwell, Mixed Media Labs, picplzFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Are Your Mobile Apps Data Hogs? This Android App Tells You
+
+
+Posted: Tue, 30 Aug 2011 19:25:29 +0000
+
+
+
+Onavo has released an Android app for managing data plans and avoiding overage charges.
+The startup aims to help smartphone users reduce and manage their data usage. Onavo Lite for Android tracks data consumption and provides users with tips based on their monthly data usage patterns. 
+App users can opt to receive alerts whenever apps are hogging data, get notifications as they approach monthly data caps and even block certain apps over 3G once they’ve passed their monthly limits.
+“We are all addicted to data, but like junkies we don’t stop and count the cost — we just want our hit,” Onavo cofounder and CEO Guy Rosen says. “With capped plans now the norm, we’re here to remove the confusion and baffling small print to make it clear and simple.”
+The Android app, however, lacks the iPhone app’s “magical shrinking machine” for compressing mobile data and automatically maximizing performance. That feature is said to be coming soon to Android.
+Onavo is a venture-backed startup with $3 million in funding from Sequoia Capital and Magma Venture Partners.
+
+Overview
+
+
+  
+App Watch
+
+
+  
+Data Plan Advice
+
+
+  
+App Profile
+
+
+  
+Usage Profile
+
+
+  
+App Scanning
+
+
+  
+Data Alert
+
+
+ 
+More About: Android App, Mobile 2.0, Onavo, startupFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Samsung Announces Three New Bada 2.0 Smartphones
+
+
+Posted: Tue, 30 Aug 2011 08:39:46 +0000
+
+
+
+It seems that Samsung has decided to let us in on all its secrets ahead of the IFA trade show, held in Berlin September 2-7. After LTE versions of Galaxy S II and Galaxy Tab 8.9, the company announced a trio of Bada-powered handsets: Wave 3, Wave M and Wave Y. 
+All three smartphones are powered by Bada 2.0. The most powerful device in the bunch is Wave 3, which resides in a 9.9 mm metal case and sports a 1.4 GHz CPU, a 4-inch VGA Super AMOLED screen, a 5-megapixel camera, 3 GB of memory and a 32 GB microSD slot. 
+Samsung Wave M also has a metallic body, but its specifications are far less impressive: a 832 MHz CPU, a 3.65-inch HVGA screen, 150 MB of storage memory (again, with a 32 GB microSD slot).
+Finally, there’s the entry-level Wave Y, sporting a 3.2-inch HVGA screen, an 832 MHz CPU and a 2-megapixel camera. 
+All three devices support Samsung’s new free messaging service ChatON. Price and availability are unknown at this point, but all three smartphones will be on display at Samsung’s stand at IFA in Berlin.
+
+
+[via Samsung Tomorrow]
+More About: Bada, samsung, Samsung Wave, Wave 3, Wave M, Wave YFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Samsung Announces LTE Versions of Galaxy S II & Galaxy Tab 8.9
+
+
+Posted: Mon, 29 Aug 2011 08:53:09 +0000
+
+
+
+Ahead of the IFA trade show in Berlin on September 2-7, Samsung has announced LTE variants of Galaxy S II and Galaxy Tab 8.9. The new versions of these devices will have fast wireless data transfer capability, with download speeds as fast as 100 Mbps. 
+The Android 2.3-based Galaxy S II LTE will have a humongous 4.5-inch Super AMOLED screen and an 8 megapixel camera. 
+The Galaxy Tab 8.9 LTE will be one of the most portable tablets around, being 8.6 mm thin and weighing only 455 g. Both devices will feature a 1.5GHz dual core processor.
+The price and availability for both devices is still unknown, but we reckon we’ll know more when the IFA kicks off. 
+
+
+[via Engadget]
+More About: Galaxy S II, Galaxy Tab 8.9, IFA, samsung, smartphone, TabletFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+App Showcase: 10 Inspiring iPhone Panoramas [PICS]
+
+
+Posted: Sun, 28 Aug 2011 21:15:44 +0000
+One of the best things about the many iPhotography apps available is that they increase the capabilities of the iPhone’s camera. One great example is panoramic photography. Pano is one such app featured in the App Store’s Hall of Fame. It is available for both iPhone and Android devices and helps create stunning panoramic images. 
+We got in touch with Debacle Software, the developer of Pano, to find out more about the app’s history and showcase 10 extraordinary panoramas created with the app.
+“When we created Pano in 2008, our aim was to develop a photography tool that would allow users to capture things that they wouldn’t otherwise be able to capture with their cameras,” says Julian Lepinski, Pano’s co-creator.
+Take a look through the photo gallery for examples of flawless skies, amazing scenery and more. And let us know in the comments if you’ve created your own iPhone or Android panoramas.
+
+1. Eric Akaoka
+
+
+
+
+
+"Taken by Debacle Software's own Eric Akaoka, this pano really captures that hot, dusty summer feeling. I love the big blue sky and the golden grass stretching from edge-to-edge through the photo," says Lepinski. 
+2. Julian Lepinski
+
+
+"I was in China this spring, and shot this [panoramic photo] looking out from the great wall (a portion of which is visible in the right region of the photo). The great wall was breathtaking, and the views from the wall are one of those things that are hard to capture with a normal photograph." 
+3. PhotoPoinky
+
+
+"This photo of Bow Lake in Banff, Alberta, is wonderful not only for the beautiful scenery and colors but for the incredible reflection of the mountains captured in the lake." 
+4. Julian Lepinski
+
+
+"South of Korea there's an island called Jeju which has a peak at its easternmost point called Sunrise Peak. I shot this pano immediately after sunrise, looking west over the island. This shot made the 5 a.m. hike to the top worthwhile!" 
+5. Lassi Kurkijarvi
+
+
+"Shot at Lake Geneva ... this photo does a great job of capturing a person as well as their surroundings. With such a wide angle, the photographer has managed to capture a beautiful sunset, the glassy lake and their subject all at once." 
+6. Julian Lepinski
+
+
+"I shot this myself looking out over Stanford University, in Palo Alto, California. Stanford's campus has these wonderful red-tiled roofs (as you can see) and is ringed by foothills, which was a perfect opportunity for a beautiful [panoramic]." 
+7. Uvbirke
+
+
+"I can't look at this picture without catching my breath. Taken in the Swiss Alps, this photo takes in such a wide expanse that you can see the light and dark of the cloud cover playing across the mountains. The small cabin in the foreground adds something amazing to this photo." 
+8. Shengamillo
+
+
+"This is a really unconventional shot and I love it. I don't know [how] the photographer got this shot and had everything turn out so perfectly, but this really feels like a bug's-eye-view of this field ... I love this one because it takes you somewhere that is new and familiar at the same time." 
+9. Brandon Beers
+
+
+"Add another bias to our list: sunrises and sunsets! This is the type of photo that a single frame simply doesn't capture. This one was shot in Miami with the sun going down, and the city looks absolutely gorgeous!" 
+10. Taiyo Fujii
+
+
+"When we developed Pano ... we never even thought about taking vertical panos. That was not an issue, however, as our users quickly adapted it to take innumerable [panoramic photos] that we would have never imagined. This gorgeous vertical pano captures the sunset in a way that no normal photo could do justice to."
+More About: gallery, iphone, iphone apps, iphotography, Lists, photography, photography appsFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Why QR Codes Are Here to Stay [OPINION]
+
+
+Posted: Sat, 27 Aug 2011 00:49:19 +0000
+
+
+
+This post reflects the opinions of the author and not necessarily those of Mashable as a publication.
+Hamilton Chan is CEO and founder of Paperlinks. With the free Paperlinks iPhone app, featured previously by Apple as the #1 New & Noteworthy app, consumers can scan and view QR code content with a native app experience. Paperlinks also provides a powerful platform for generating QR codes, hosting content and tracking their performance.
+If you raise the subject of QR codes among tech early adopters, you are likely to elicit a passionate response. Some people think QR codes, those scanable black and white squares on everything from billboards to product packaging, are on an unstoppable growth trajectory, while skeptics are quick to dismiss them as a fad.
+This reaction is common whenever new technology formats or standards are being decided upon. Pundits want to exhibit their knack for predicting the future and stakeholders (of which I am undeniably one) want to make sure their format wins out. The general public, meanwhile, tends to lay in wait for a particular format to show dominance.
+QR codes, in particular, make great fodder for debate because the codes are inherently big and ugly. So far, they have not experienced the same popularity in North America as they have enjoyed abroad, in part because many consumers are still getting used to seeing these codes and figuring out what to do with them.
+In my opinion, there is little question that these real-world hyperlinks are increasingly going to be part of our reality and everyday life. Although QR codes won’t be the only technological option for hyperlinking in the real world, I believe they’ll soon be recognized as one of the best-suited options to connect items in the physical world to the Internet.
+
+
+Why Real World Hyperlinking Is on the Rise
+
+
+If there is one thing that can be counted on in our technological future, it’s that information will continue to become more widespread, available and relevant. The Internet will expand from a network of computers to a network of everything, with interactivity pre-programmed into nearly every object we use.
+There’s no doubt that QR code traction in the U.S. is on the rise. Evidence has been shown in a number of recent market reports, including a study by Mobio Technologies Inc., which reported a 9,840% increase in QR code use for the second quarter of 2011 (compared to the same time last year).
+Even a recent annual report from Gartner, a market research firm, puts QR codes on the “slope of enlightenment” when it comes to mainstream adoption of the technology. Further adding to the evidence, comScore reported that in June of this year, more than 14 million Americans scanned a QR code, representing more than 6% of the U.S. mobile population.
+It may take some time before we switch to scanning objects for information, but this direct relationship between an object’s online persona and the consumer will ultimately make life easier. Run out of razor blades for your shaver? Scan a real world hyperlink on your can of shaving cream and order more blades. 
+
+
+What Skeptics are Saying
+
+
+Despite the mounting evidence that QR codes are here to stay, many skeptics still believe this technology is no more than a shiny new marketing tool with no future. These are the three arguments I’ve seen repeatedly:
+
+QR Codes are just a transient technology: It’s true that there are many alternatives to QR codes and, as our world increasingly becomes interconnected, there will be a variety of technology options for businesses to choose from. This assumes that one technology will take over the market. It’s more likely that a suite of options will be available to businesses and marketers seeking to leverage the mobile web.  Different applications will demand different technologies, and no single hyperlinking technology will be suitable for every marketing application. The main advantages of the QR code are cost, simplicity and ease of implementation. QR codes provide no incremental cost to an agency already printing or selling ads. QR codes, however, deliver greater engagement, quantifiability and potential mobile commerce opportunities. Alternate technology options (such as Near Field Communication chips) are still a ways off from being as widespread and accessible as QR codes.
+More work with little to no payback: Yes, in order to read a QR code, consumers first need to be able to identify what a QR code is and how it works. They then need to download a QR reader app, if they do not already have one, in order to read the code. Once the code is scanned, however, the potential payback for consumers is vast and limited only by one’s imagination. Whether it’s access to exclusive content, deals, promotions or discounts, companies have a number of options to reward their consumers for scanning.
+It doesn’t solve consumer problems: There are two types of technological innovations: Those that solve consumer pain points in an existing market and those that provide an entirely new approach toward everyday life. QR codes are a new approach that ultimately simplifies the way mobile users can get information. While it’s just as simple to look up information on the mobile web, savvy businesses are realizing that one of the main benefits of a QR code campaign is to provide their mobile customers with instantaneous access to something that is unique and can’t be accessed in another way.
+
+
+
+Conclusion
+
+
+Whether you are a fan or critic of QR codes, one thing is certain: Real world hyperlinks are here to stay. QR codes are just one of the many linking possibilities, but they are popping up everywhere – across all verticals and businesses of all sizes. The popularity of QR codes will continue to gain momentum. Moving forward, the catalyst for their success will ultimately lie in the creative ways they are implemented.
+Marketers have the ability to reach their mobile customer base in a way that wasn’t possible before. They need to reward consumers for helping blaze this new trail.  The results will be captivating.
+Image courtesy of iStockphoto, youngvet
+More About: business, Mobile 2.0, Opinion, qr, qr code, TechFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Hurricane Irene: How Mobile Carriers Are Preparing Themselves — and You
+
+
+Posted: Fri, 26 Aug 2011 21:22:55 +0000
+
+
+
+As the East Coast prepares for a battering from Hurricane Irene, mobile carriers are staying on their toes to keep their networks operating. 
+As of Friday afternoon, there have been no reports of systems affected by the storm on the East Coast. However, Wednesday’s earthquake in Virginia showed how networks can go down due to an influx of calls, even when systems are not damaged. 
+The carriers all offer tips to minimize your disconnection during the storm: Be sure to fully charge your phone before the storm hits. Store your phone and other electronics in a dry place. Text messages are more likely to go through than voice calls. Call through an internet supported service like Skype when possible. Email and social networks may be an easier way to stay connected.
+While you’re following that advice, here’s how the four main providers are gearing up for the storm themselves:
+AT&T:
+
+AT&T FamilyMap and AT&T Navigator can be used to provide evacuation routes and track family members’ mobile devices in case of separation.
+Capacity is added to wireless networks to accommodate increased volume.
+Backup generators are stored in safe locations for immediate use following the storm.
+
+Sprint:
+
+Portable generators are prepared near network towers and switches.
+Resources are waiting outside of Washington, D.C. to aid first responders and public safety officials.
+25,000 fully charged Sprint and Nextel Direct Connect phones are available for rent during disaster events.
+
+T-Mobile:
+
+Portable, fueled backup generators are ready to be deployed.
+Engineers are on-call with repair equipment along the seaboard.
+Cells-On-Wheels are prepared to provide wireless connections in the worst hit areas.
+
+Verizon:
+
+Central network offices have backup generators to ensure land lines operate when power goes out.
+Trucks and emergency equipment is being removed from low lying areas.
+Emergency relief kits are prepared to ease power restoration.
+
+Image courtesy of iStockphoto, HelleM
+More About: cell carriers, Hurricane Irene, Mobile 2.0, verizonFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Forkly App Matches Your Tastes To Nearby Restaurants & Bars
+
+
+Posted: Fri, 26 Aug 2011 04:57:06 +0000
+
+
+
+Where should I go to eat? What should I order? Those two basic yet complex questions plague diners the world over. Forkly, a startup from veteran entrepreneurs Martin May and Brady Becker, may have the answers.
+Forkly for iPhone [iTunes link], released on the App Store Tuesday, seeks to understand your taste buds and the taste graph — how your tastes match up against the tastes of others — of the world in aggregate. 
+“We want to give you personalized recommendations — to customize menus,” Becker says. 
+The taste graph, as Forkly defines it, is comprised of the collection of food and beverage reviews — the app refers to reviews as “tastes” — from users, and how those reviews are connected. Substitute tastes for relationships in Facebook’s social graph equation, and you’ll begin to see how the startup hopes to map out taste buds and help its users better discover new places and dishes.
+
+
+On Forkly, add a “taste” to say what you’re eating or drinking and what you think about it. The app presents you with simple “Loved It,” “Liked It,” “It’s OK” and “Not for  Me” emoticon options. You can choose to add a photo or note, and share the bite-sized review with friends on Facebook and Twitter.
+Your tastes are posted to the activity feed. Other users can follow along and indicate that they want to try your tastes. The action will trigger reminders when they’re near the place in question, and also net you influence points in the process.
+You can use the Discover tab in the application to find out what’s popular at nearby places, as determined by other Forkly users’ tastes. “The discover tab,” says Becker, “will make recommendations based on the general consensus until it starts understand who you are. As [the app] gets familiar with your tastes, it will show you things that are more tailored to you.”
+Forkly is Becker’s and May’s second attempt at solving location-specific problems. With Brightkite — a marginally successful location-based application that gave rise to the place checkin — the pair aimed to connect people around location. With Forkly, the co-founders hope to solve a more pressing problem: matching your specific tastes with the food and restaurants around you.
+Where Forkly succeeds is in making location secondary to discovery. You share food and drinks you love (or hate), you happen upon dishes you might want to try and you become aware of the hidden palatable gems in your immediate vicinity. Location is merely a means to end in Forkly — it’s the stitching that pieces together users’ taste profiles for personalized menu recommendations.
+The future of Forkly, says Becker, will be to push its API as a Facebook Connect for tastes. Restaurant and review sites could then “Forkly-enable” a site and show you the dishes and drinks you’re most inclined to like. 
+Restaurants can already partner with the startup to learn about their most influential customers. Menu items, dish images and official descriptions can also be integrated into the Forkly application experience. Plus, restaurants can embed Forkly reviews into their online menus.
+In the end, though, Forkly is all about turning tastes into place discovery, and to do so in a way that delights application users. “We want to make a compelling product that people will want to use,” Becker says.
+
+Taste Feed
+
+
+  
+Discover
+
+
+  
+Add a Taste
+
+
+  
+User Taste Profile
+
+
+  
+Want It
+
+
+ 
+More About: brightkite, Forkly, startup, Taste GraphFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+BlackBerry Adds Social Music Service to BBM
+
+
+Posted: Thu, 25 Aug 2011 17:05:43 +0000
+
+
+
+Research in Motion is looking to take on competitors Google, Amazon and Apple with its new BBM Music service that will let BlackBerry users share and discover new tunes with their friends through BlackBerry Messenger.
+Here’s how the service will work:
+
+Each BBM user can build a personal music profile with 50 of his or her favorites songs. Twenty-five songs can be swapped out and refreshed each month.
+Your music profile is then accessible with all of your friends on BBM that join BBM Music.
+Users can access all the music from their friends’ profiles too. That means that if someone has 30 friends on BBM Music and each of those friends is sharing 50 tracks, the user’s total BBM Music library will have 1,550 tracks.
+Users can create playlists based on the music they have as well as the music in their friends’ profiles.
+Users have access to full tracks and can listen to music offline.
+
+
+
+Major music labels Universal Music Group, Sony Music Entertainment, Warner Brothers Music Group and EMI are all supporting BBM Music.
+The service goes into private beta today in Canada, the U.S. and the UK. BBM Music will be available to customers across the globe later this year for $4.99 a month.
+We’re intrigued by the idea behind BBM Music. This is a viral, community building way to share tracks with friends and discover music from others. Plus, it builds on an idea of offering users more music just by opening up and enhancing their music community.
+It it succeeds, BBM Music could be one of the first services to really address mobile music discovery in a global way. We’re not sure if this is enough to compete with all-you-can-eat music services like Spotify, MOG and Rdio, but from a mobile and connected network perspective, we’re intrigued.
+Let us know your thoughts about BBM Music in the comments.
+More About: bbm music, blackberry, blackberry messenger, music subscription services, social musicFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Qik Premium for Android Now Live
+
+
+Posted: Thu, 25 Aug 2011 14:38:16 +0000
+
+
+
+ Qik has rolled out its premium live video-streaming product to all Android users.
+Qik Premium builds on the free Qik video service by adding a few extra features: unlimited video downloads and storage, sending and receiving video mail anytime, automatic video syncing with your computer through Qik Desktop, HD as well as 3D video recording on devices that support it, and priority customer support via a dedicated email. 
+Qik Premium is free for the first 30 days and $4.99 per month thereafter. The new app is available in the Android Market, and it’s also available for the iPhone [iTunes link]. 
+Qik was acquired in January 2011 by Skype for north of $100 million. 
+More About: Mobile 2.0, qik, Qik Premium, video, video streamingFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Droid Bionic “Rules All Machines” In New Ad [VIDEO]
+
+
+Posted: Thu, 25 Aug 2011 08:27:20 +0000
+
+
+
+Motorola has put up a new teaser video for its upcoming smartphone, Droid Bionic, featuring a sci-fi setting, evil robot, and a scantily clad, sword-adorning lady. 
+The actual phone, unfortunately, is nowhere to be seen, but we’re lead to believe it will “rule all machines” when it finally hits the market. 
+The Droid Bionic has been in the news since the beginning of the year (with the originally planned release date moving from Q2 2011 to September 2011). The device has these specs: a 4.3-inch 960×540 pixel screen, an 8-megapixel camera as well as a 2-megapixel front cam for video chats, a 1 GHz dual-core CPU and 1 GB of RAM. 
+Check out the video below and tell us if you like it in the comments. 
+
+
+More About: droid, droid bionic, Motorola, videoFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+StubHub Launches Mobile Ticketing System With San Francisco Giants
+
+
+Posted: Thu, 25 Aug 2011 04:50:36 +0000
+
+
+
+Attending a Giants game? Skip printing tickets at home and use a StubHub mobile ticket for admittance instead. The new service from eBay-owned ticket marketplace StubHub will update its mobile applications for iPhone and Android with support for mobile ticketing Thursday. 
+Major League Baseball’s San Francisco Giants is the first organization to partner with StubHub. The Giants will begin accepting mobile tickets at its Thursday, August 25 game against the Houston Astros. Additional markets are said to follow in the months ahead.
+With the update, fans who purchase tickets from StubHub — on the web or via mobile app — can access mobile equivalents in the “My Account” section of StubHub’s iPhone and Android apps. App users can then show a bar code on their phones in lieu of a printed ticket for admittance into AT&T Park. 
+StubHub, explains director of product Mats Nilsson, is the first ticketing company to introduce a fully-functional large-scale mobile ticketing system. The reason, he says, is because the company has the technological know-how and industry relationships required to bring something like this to market.
+Nilsson says that beyond giving customers a more convenient way to access and use tickets, StubHub hopes to use the mobile ticketing system as a means to learn more about its buyers.
+The release also marks an ongoing war of innovation between ticketing companies. Tuesday, Ticketmaster introduced interactive seat maps with Facebook integration.
+StubHub invited Mashable to preview the technology at Tuesday’s Giants game against the San Diego Padres at AT&T Park in San Francisco. 
+The system, designed to add a new layer of convenience to the ticket buying and admittance process, has its quirks. Regulations require StubHub to show the legalese on each mobile ticket, which means app users will need to zoom in and enlarge the barcode on a phone’s screen before presenting it at check in. 
+Guests who opt to redeem mobile tickets will also receive small paper printouts after their tickets are scanned. The printout is meant to ensure that guests can access seats and gain reentry without having to again show a phone to stadium staffers.
+Altogether, the new mobile ticketing features should appeal to StubHub ticket buyers. StubHub customers, says Nilsson, have clamored for mobile tickets ever since the company debuted its first mobile application for iPhone.
+More About: ebay, mobile tickets, san francisco giants, StubHubFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Facebook Wanted to Buy Instagram, Will Release Photo Filters Instead [REPORT]
+
+
+Posted: Wed, 24 Aug 2011 23:58:05 +0000
+
+
+
+Following a failed attempt to acquire Instagram, Facebook will roll out up to a dozen photo filters in a mobile application release, according to a report from The New York Times Bits Blog.
+Several Instagram-like photo filters are ready for release, two unnamed Facebook engineers cited in the report say, but the release date is unknown at this time.
+Facebook founder and CEO Mark Zuckerberg is pushing engineers and artists “to create more filters before releasing the new product,” Bits reports. “Facebook will also try to introduce new styles of filters with the hopes of drawing users away from other photo apps.” 
+This isn’t the first we’ve heard of Facebook photo filters. TechCrunch reported in June that Facebook was working on a spin-off photo-sharing application for iPhone. Screenshots obtained by the blog indicated the app would have “location elements, likes and comments, multi-picture mode, filters, multi-user albums, face-tagging, and more.” 
+Instagram co-founder Kevin Systrom declined to comment on whether Facebook attempted to acquire his startup over the summer. Representatives at Facebook could not be reached for comment Wednesday.
+More About: facebook, filters, instagram, trendingFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Samsung Reveals New Android Smartphones and Naming Scheme
+
+
+Posted: Wed, 24 Aug 2011 09:01:33 +0000
+
+
+
+
+
+Samsung has revealed a slew of new Android Gingerbread smartphones, all named under anew naming scheme that should make it easier to tell which phone does what by just looking at the name alone. 
+Now, when you hear about a Samsung Galaxy phone, this is what the letters in the name mean: S means “Super Smart” and denotes a flagship device, while R stands for “Royal” or “Refined,” and denotes a premium model, just below the S class. W stands for “Wonder”, which translates to a high quality, mid-level device; M means “Magical” and denotes a mid-to-low-level smartphone, while Y stands for “Young,” meaning an entry-level device. 
+Additionally, Pro indicates the device includes a physical QWERTY keyboard, Plus means the device is an upgrade from an existing model, while LTE means that the device supports LTE (Long-Term Evolution) standard, which enables very fast data transfer. 
+This makes our job easier: If we tell you that Samsung has released four new Android smartphones: Galaxy W, Galaxy M Pro, Galaxy Y and Galaxy Y Pro, you already know what that means, right?
+We’ll add some details, though: The Galaxy W sports a respectable 1.4 GHz Processor, HSDPA connectivity and a 3.7-inch touch screen. Samsung hasn’t revealed the precise specs of the other three devices, except a couple of tidbits here and there. The Galaxy Y is powered by a 832MHz CPU, while the Galaxy M Pro is very thin at only 9.97 mm. 
+All the devices will be officially unveiled at the IFA trade show in Berlin Sept. 2 to 7. 
+More About: android, samsung, samsung galaxy, trendingFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+8 Best Practices for Deploying a Top-Ranked Mobile App
+
+
+Posted: Wed, 24 Aug 2011 01:28:02 +0000
+
+
+
+Krishna Subramanian is the co-founder of Velti Mobclix Exchange. You can follow him on Twitter @ksub15 and read the company blog at blog.mobclix.com.
+Developing a mobile app is the easy part. Getting that app noticed is difficult. And getting the app to go viral is like winning the lottery. Yet many developers get millions of downloads time after time. How?
+It’s all about app store SEO, and some developers have mastered it. Here are a few tips and tricks of the trade to help get your app to the top of heap.
+
+
+Time Is of the Essence
+
+
+The first two weeks of an app’s life are critical and will likely determine its future visibility in the app store. Top applications develop popularity within two weeks of release, and most applications have a tendency to drop in chart position over time. Remember, whatever you do — marketing campaigns, cross distribution and so on — the quicker you do it, the bigger the impact.
+
+
+Note: A time series analysis provided findings around top application behavior and their statistical differentiation from other applications over time. Rank represents a normalized score to gauge application success on the same scale across different categories. App rank data was leveraged from the top 100 App Store (iOS) apps.
+
+
+
+Pricing: Free, Paid or In-App Purchasing?
+
+
+With the various pricing models available across app stores, picking the sweet spot for your app’s price becomes even more critical. In the early days of the app store, developers had to create two versions of a single app: One paid and one free. Today, in-app purchasing allows developers to manage one audience across a single free app and receive incremental revenue from loyal customers by having them purchase additional content from within the app. 
+The majority of top paid apps have cut prices at least once during their life cycle, including those that have dramatically changed their chart position. Usually the first price cut (or shift from paid to free) has the most significant effect on chart position.
+The majority of top paid apps have cut prices at least once during their life cycle and 10 percent of top apps that have had the most dramatic chart position change have cut prices. The first price cut (or paid to free) has the most significant effect on chart position. Advanced Software Development launched their app FlipANickel at a $1.99 price point, and after seven days, they dropped the price to $0.99. This significantly increased its category rank, which jumped from 2,200 to 229.
+
+
+
+
+Earning Downloads
+
+
+The ideal scenario for gaining downloads is working with Apple or other app stores to get featured placement. This, however, is reserved for the elite. Many developers do not have the luxury of cross-promoting a new app to users via their existing apps, which is the easiest way to get new downloads. Also gone are Apple’s incentivized downloads, meaning developers can no longer guarantee placement in the top of the app store. Less than six months ago, developers could gain 100,000+ incentivized downloads within 24 hours, giving them instant, Top 25 status. But ad networks can still help your app’s performance.
+Mobile ad networks typically allow you to buy traffic on a CPC or CPM, basis but many will still allow you to buy on a non-incentivized CPI (cost per install or performance) basis. Tracking conversions and downloads is a pretty complicated process that requires you to work closely with your ad network partner. But there are still some gross inadequacies.
+Tracking downloads or app opens consists of cross-checking the device IDs of users that clicked on an ad against the device IDs of apps that were downloaded. This is still extremely clunky, and often results in double counting the same downloads. It is also difficult to accurately track this information across mobile apps.
+Don’t even look at other mediums such as Facebook, Twitter or online advertising until you have a successful track record for buying across mobile.
+
+
+More Quick Tips
+
+
+Still burning with questions? Here are some quick tips and best practices for success:
+
+Android app rankings differ from app store to app store and are based on a multitude of factors surrounding downloads, including location, devices and engagement levels.
+
+
+Size matters! If your iOS app file size is over 20MB, which we usually see in the Adventure & Role Playing Game, Health, and Travel categories, it will require a Wi-Fi connection to download. This immediately cuts you off from a large portion of potential users.
+Speak to your audience. Take a look at where your highest concentration of users exists. If the users are from South Korea, for example, it might be beneficial to create a localized version of your app.
+Listen to your audience. Real-time optimization, creating dynamic content, getting in-app feedback, leveraging analytics and adapting your architecture will all help increase virality. Build the app that your users want to use.
+Distribution platforms such as Mobage from ngmoco/DeNA, openfeint from Gree, and Game Center from Apple are all ways to tap into existing users and the social features of mobile apps. Third-party app stores are also a good way to boost downloads.
+
+App store ranking algorithms are an ever-changing art that platforms and app stores will constantly improve as developers strive for visibility at the top. These tips will help make your app more discoverable on a consistent basis. 
+Image courtesy of iStockphoto, izusek
+More About: App, dev, Mobile 2.0, mobile appFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Earthquake Call Fail: BlackBerry Messenger Beats the Phone Carriers
+
+
+Posted: Wed, 24 Aug 2011 00:12:09 +0000
+
+
+
+The 5.9 magnitude earthquake that hit Virginia and rolled through much of the East Coast Tuesday caused more inconvenience than damage. Case in point: Although no cellphone towers were knocked out, high call volume meant massive service interruptions for users of AT&T, Verizon, Sprint and T-Mobile. 
+But one cellphone-based service managed to work as normal, according to Bloomberg: RIM’s BlackBerry Messenger. 
+BBM, which can run on either a phone’s data connection or local Wi-Fi and uses unique wireless protocols, has gained a reputation for reliability and security. In the Chilean earthquake of 2010, and in the immediate aftermath of 9/11 in New York, it was the only service left standing. 
+In London earlier this month, BBM was deemed a little too reliable and secure: It was the primary method for rioters to communicate and coordinate. RIM’s unwitting role in the riots has come under scrutiny from the UK government.  
+But on a day when the carriers have all experienced what one Sprint spokesman called “an intermittent mass calling event” and the Department of Homeland Security advised that we not try to call family members on the East Coast, RIM has added a much-needed sheen to its reputation. 
+Its stock closed a dollar higher in late New York trading — not a huge bump, but considering RIM’s share price is off 53% this year overall, not to mention the fact that BlackBerry has slipped to third place in the smartphone market, the company will take what it can get. 
+More About: bbm, blackberry, smartphonesFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Sprint To Sell the iPhone 5 [REPORT]
+
+
+Posted: Tue, 23 Aug 2011 20:40:29 +0000
+
+
+
+Here’s some potential good news for the ailing Sprint Nextel: The carrier is expected to get Apple’s iPhone 5 and begin selling it in mid-October, according to a report.
+Sprint will join Verizon and AT&T in selling the hotly-anticipated Apple device The Wall Street Journal reported Tuesday. The move comes after Sprint lost $847 million in its most recent quarter. Like T-Mobile, Sprint has suffered from its lack of access to the iPhone, the best-selling phone on the market. 
+Apple’s move isn’t completely unexpected, however. Back in May, Peter Misek, an analyst with Jeffries & Co., predicted that Apple would announce distribution deals not only with Sprint, but with T-Mobile as well. 
+Still, investors greeted the news warmly, propelling Sprint’s stock price up 10%. 
+More About: att, iphone, Sprint Nextel, T-Mobile, verizonFor more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+Conde Nast Brings iPad Presentation App to the Enterprise
+
+
+Posted: Tue, 23 Aug 2011 14:49:02 +0000
+
+
+Magazine publisher Conde Nast has launched an enterprise edition of Idea Flight, its app for group presentations on the iPad, as well as several notable upgrades to the original version.
+
+
+How It Works
+
+Idea Flight [iTunes link], which has been downloaded 85,000 times since its launch in June, lets one person (“the pilot”) control up to 15 users’ (“the passengers”) iPad screens remotely while running through a presentation, keeping slides in sync. Presentations can be unlocked to let passengers revisit the slides at a later time.
+Users need a Wi-Fi or Bluetooth connection to participate. Only PDF presentations, which easily be pulled up from email, iTunes or Dropbox, are supported at this time.
+The app is free for passengers; pilots will need to make a $7.99 in-app purchase.
+
+New Features
+
+In the updated version (Idea Flight 1.1), pilots and passengers can jot down and save notes during a presentation, a feature that’s not only highly useful, but provides an opportunity for the audience be further engaged with the material in front of them.
+Pilots can also now manually adjust the size, scale and orientation of their presentation, as well as set a boarding passcode to prevent unwanted access.
+
+Idea Flight for the Enterprise
+
+Conde Nast also released an Enterprise edition [iTunes link] of Idea Flight in public beta.
+A Conde Nast spokesperson said the company received “tremendous interest” from education professionals and decided to make a $9.99 version available to them via the iTunes Stores’s Volume Purchase Program.
+The $9.99 price covers the in-app upgrade fees and waives any potential upgrade fees in the future. The company has also pledged to work with educators to further optimize the product for them.
+
+Conde Nast’s Broader Mobile Strategy
+
+In an email interview, Conde Nast President Bob Sauerberg said Idea Flight arose out of an initiative late last year to develop digital products independent of the company’s existing brands, several of which — including Vogue, Wired, Conde Nast Traveler and Glamour — have launched one-off smartphone apps and/or iPad versions of their print publications.
+“Idea Flight is the result of a small group of incredibly talented individuals who personally desired a way to view content natively on their iPad, as well as present it in a controlled manner. We knew that if they wanted and would use this app, there was a good chance there would be a market for it,” Sauerberg said.
+The company will continue to develop independent apps as part of a broader strategy to position the company as a digital innovator and create new revenues streams, he added — a strategy not dissimilar to Hearst’s, which launched a “think tank” for app development and advertising across the company’s many brands earlier this summer.
+Time Inc., meanwhile, is working to bring all 21 of its titles to multiple tablet devices by the end of the year.
+For more Mobile coverage:Follow Mashable Mobile on TwitterBecome a Fan on FacebookSubscribe to the Mobile channelDownload our free apps for Android, Mac, iPhone and iPad
+     
+
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

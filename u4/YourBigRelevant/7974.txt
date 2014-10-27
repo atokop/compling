@@ -1,0 +1,609 @@
+Disaster prevention: Difference Engine: Whole lot of shaking | The Economist
+
+
+
+
+
+  
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+Log in
+Register
+My account
+Subscribe
+ 
+
+
+
+Digital & mobile
+Newsletters
+RSS
+Jobs
+Help
+
+
+
+
+        Tuesday September 6th 2011      
+
+
+
+
+
+Search this site:
+
+
+
+
+
+
+
+
+
+
+
+
+World politicsUnited States
+Britain
+Europe
+Asia
+Americas
+Middle East & Africa
+
+Business & financeAll Business & finance
+Business education
+Which MBA?
+
+EconomicsAll Economics
+Economics by invitation
+Markets & data
+
+Science & technologyAll Science & technology
+Technology Quarterly
+
+CultureAll Culture
+More Intelligent Life
+The Economist Quiz
+
+BlogsLatest blog posts
+Americas view
+Babbage
+Bagehot's notebook
+Banyan
+Baobab
+Blighty
+Buttonwood's notebook
+Charlemagne's notebook
+Clausewitz
+Daily chart
+Democracy in America
+Eastern approaches
+Free exchange
+Gulliver
+Johnson
+Leviathan
+Lexington's notebook
+Multimedia
+Newsbook
+Prospero
+Schumpeter
+
+Debate & discussEconomist debates
+Economics by invitation
+Ideas Arena
+Letters to the editor
+
+MultimediaAll audio
+All video
+The Economist audio edition
+
+Print editionCurrent issue
+Previous issues
+Special reports
+Politics this week
+Business this week
+
+ 
+ 
+
+
+
+
+
+ 
+Science and technology
+Babbage
+
+
+Disaster prevention
+
+    Difference Engine: Whole lot of shaking  
+
+    Sep 2nd 2011, 7:19 by N.V. | LOS ANGELES  
+
+
+
+Tweet
+ 
+
+
+DRENCHED and battered by Hurricane Irene, and facing a clean-up bill pushing $10 billion, residents on the east coast of America have understandably had more on their minds over the past week than the earthquake which struck the Piedmont region of Virginia a day before the tropical storm swept ashore. Yet, the shaking caused by so modest a tremor, at such distances from the epicentre, caught experts by surprise. In the long term, the Virginian earthquake could trigger a bigger shake-up in disaster precautions at nuclear-power stations in America than even the Japanese catastrophe at Fukushima.The magnitude 5.8 quake that struck 38 miles (61km) north-west of Richmond was felt as far west as Wisconsin, as far south as Atlanta, Georgia, and as far north as Montreal, Canada. Damage was reported over 300 miles away in Brooklyn, New York. The White House, the Capitol and other buildings in Washington, DC, had to be evacuated. Cracks were even detected in the Washington Monument—the tallest stone building in the world—which is now closed indefinitely. Washington National Cathedral lost capstones from three of its spires, and cracks were found in several of its flying buttresses. All this from a seismic event that would barely rate as an after-shock in California. Earthquakes on the West Coast are more frequent and can pack a much greater punch. Size for size, though, their rattlings are rarely felt at quite such distances.Put that down to the difference in the age of the rocks. As the relatively young Pacific plate dives beneath the continental land mass, sudden slippages along the grinding rock faces breed swarms of earthquakes, big and small. But the majority of shockwaves so created quickly dissipate as they run into fractures and hotter rocks deep beneath the surface. Subjected to stress, rocks above 300ºC or so tend to flow rather than rupture. And because fluids cannot handle shear forces anywhere near as well as solids, the potent S-waves from an earthquake (the secondary, or shear, waves that shake the ground from side to side and knock down buildings in the process) eventually fizzle out. An earthquake’s faster-moving P-waves (primary, or pressure, waves that push the ground longitudinally) get through, but they carry far less energy and do little damage.By contrast, the crustal rocks that created the Appalachian and Allegheny mountains in the east of the country, being hundreds of millions of years older, have had ample time to cool down. In the process, they have become denser and harder. Unlike in California, seismic activity on the East Coast is usually shallow and well away from the boundaries where tectonic plates collide. As a result, earthquakes in bedrock east of the Appalachians tend to ring the earth like a steel girder being struck with a hammer. West of the Rockies, the effect is more like a rubber tyre bouncing over a pothole. All told, eastern earthquakes can shake areas ten times greater than comparable western ones. And they do so at much higher frequencies. That makes a big difference to the kind of damage done. The lower-frequency vibrations in California cause greater damage to large, rigid structures such as office blocks, bridges and elevated highways. They might even rent a nuclear reactor’s containment vessel were a major seismic thrust to occur on a nearby fault. One of the two nuclear power stations in California, at Diablo Canyon, near San Luis Obispo, is only a few hundred yards from an active fault which, coupled with an even bigger one three miles away, has the potential to produce a magnitude 7.3 earthquake. Recall that the quake which jolted Japan’s (and the world’s) largest nuclear-power station, at Kashiwazaki-Kariwa on the Japan Sea coast, in 2007, was a more modest magnitude 6.8 (see “Shaken, but not stirred”, August 10th 2007). The damage there was such that three of the station’s reactors remain shut to this day. Until the Fukushima disaster, Kashiwazaki-Kariwa was Japan's biggest nuclear accident.By contrast, the higher-frequency shaking that takes place east of the Appalachians implies longer-traveling shockwaves of shorter wavelength. While such shocks are unlikely to topple multistory parking structures, flatten apartment blocks or toss freeways in the air (as happened in Los Angeles during the magnitude 6.7 Northridge earthquake in 1994), they can play unexpected havoc with delicate instruments and electronic devices.This explains why the pair of reactors at the North Anna nuclear-power station, ten or so miles from the epicentre of last week’s earthquake in Virginia, were knocked offline. Sensitive relay switches, used to protect the plant’s transformers, seem to have interpreted the earthquake’s high-frequency shaking as an electrical spike coming down the line, and switched off the power supplied from the grid for running the plant. As a result, the reactors had to be immediately “scrammed” (ie, shut down rapidly by ramming neutron-absorbing control rods into the core to kill the nuclear reaction) and emergency generators fired up to provide electricity for cooling pumps and other safety equipment. One of the diesel generators malfunctioned—a disturbingly common problem, apparently, at nuclear power stations, and one of the key underlying reasons for the disaster at Fukushima. Fortunately, the remaining three standby generators functioned properly. No damage to the plant was reported, other than cracks in ceramic insulators on one of the transformers. Even so, the Virginia incident has triggered calls for fresh scrutiny of the dozens of ageing nuclear reactors in the United States. The majority were constructed to standards designed to survive conditions more common in the west of the country—despite the fact that only eight of the 104 remaining reactors in America are west of the Rockies. Most were also built before the oil industry’s modern 3D seismic techniques started discovering active faults no-one previously knew existed. The day after the Virginian earthquake, Edward Markey, a Democratic congressman whose district includes the Massachusetts Institute of Technology and Harvard University, as well as a big chunk of the East Coast’s high-tech industry, wrote to ask the Nuclear Regulatory Commission (NRC) whether the earthquake had exceeded the seismic safety specification the North Anna plant had been built to. Mr Markey also urged the NRC to embrace the recommendations of its own “Near-Term Task Force" on Fukushima, which the NRC has continued to drag its feet on. In a recent report (“Fukushima Fallout”) produced by his own office, Mr Markey noted that the NRC had failed to incorporate its technical staff’s recommendations, despite the fact that new information indicates a much higher probability of core damage caused by earthquakes than previously thought. Based on seismic data from 1989, the NRC expects the number of events causing damage to a reactor’s core to be an incredibly minuscule 0.0000038 per year—equivalent to a reactor failing, on average, once every 260,000 years. However, reworking the numbers using seismic data from 2008, and computing the risk for the whole fleet of reactors in America being operated for the further 20-year extension being sought for their current licences, Mr Markey’s staff expect the risk to increase 7,000-fold to a probability of 0.026 per year—ie, one nuclear disaster somewhere in the country every 38 years. In short, another Three-Mile Island some time between now and 2049. If that is indeed the case, it is surely time for the NRC to embrace, rather than resist, the lessons of Fukushima in general, and North Anna in particular. Rightly or wrongly, NRC’s foot-dragging on regulatory reform has given the impression of favouring industry interests over public safety. That is neither in the best interest of the nuclear industry itself, nor the public’s need for cheap, carbon-free power. 
+
+
+Recommend72
+
+Tweet
+Submit to reddit
+
+
+ 
+
+
+Related itemsTOPIC: Japan »Japan's new prime minister: More pizzazz than cold pizza?
+International financial flows: Around the crisis carousel
+Financial markets: Battle of the vigilantes
+TOPIC: Nuclear power »Japan's industrial giants: Critical mass
+Japan's nuclear crisis: A question of trust
+Power in Japan: The troubles of TEPCO
+TOPIC: Electric power generation »German energy: Shock to the system
+Natural gas and the environment: So much nicer than coal
+Natural resources in Peru: The trials of miners
+TOPIC: Electricity companies »Electricity market: The next generation
+Solar power: The living is easy
+Tokyo's luxury retailers: Cold-hearted door policy
+More related topics:Industries
+Utilities
+Earth science
+ 
+
+
+
+Readers' comments
+The Economist welcomes your views. Please stay on topic and be respectful of other readers. Review our comments policy.
+
+
+
+You must be logged in to post a comment. Log in to your account.Don't have an account? Register  
+
+
+
+Sort: Oldest first
+Newest first
+Readers' most recommended
+ 
+
+
+1-10 of 10 
+
+
+
+
+teacup775 wrote:
+              
+
+        Sep 2nd 2011 2:03 GMT      
+
+
+"That is neither in the best interest of the nuclear industry itself, nor the public’s need for cheap, carbon-free power."
+Ask Japan what the cost of Fukushima is. How cheap is nuclear power once waste disposal is factored in? Is uranium the only option, or is the inertia of the industry preventing innovation?
+
+
+Recommend (19) Permalink Report abuse 
+
+
+
+
+
+khmTzic3YT wrote:
+              
+
+        Sep 2nd 2011 5:49 GMT      
+
+
+Virginia had an earthquake of 5.8 and NO ONE DIED.
+Christchurch, NZ had an earthquake of 6.0 and 1 person died.
+Bam, Iran had an earthquake of 6.3 and over 26,000 died.
+Haiti had an earthquake of 7.4 and over 300,000 died.
+In Japan, probably under 100 died of the 9.0 Fukishima earthquake.  By far most died from the effects of the subsequent tsunami.
+Earthquakes are survivable with modern enforced building codes.
+
+
+Recommend (15) Permalink Report abuse 
+
+
+
+
+
+GX4QWvXbWR wrote:
+              
+
+        Sep 2nd 2011 5:56 GMT      
+
+
+Sir, this comment is incorrect:
+Mr Markey’s staff expect the risk to increase 7,000-fold to a probability of 0.026 per year—ie, one nuclear disaster somewhere in the country every 38 years. In short, another Three-Mile Island some time between now and 2049.
+In particular,
+`In short, another Three-Mile Island some time between now and 2049.' Since we are talking about averages, it is every 38 years, so the probability of an least one incident akin to the Three-Mile Island before 2049 is only 0.5
+
+
+Recommend (13) Permalink Report abuse 
+
+
+
+
+
+jouris wrote:
+              
+
+        Sep 2nd 2011 9:46 GMT      
+
+
+The other major difference between quakes in California and quakes on the East Coast is this: California building codes are written with earthquakes in mind.  Building codes in the East are not.  So in California, you do not see unreinforced brick buildings, nor bricks of any kind on multi-story buildings.  In the East, I seem to recall seeing lots of them.
+(Note, it isn't just the East Coast, of course.  The Midwest has the same lack of earthquake-based building codes.  You'd think that nobody remembers that the biggest earthquake in the history of the United States occurred in New Madrid, Missouri.  Fortunately, in the early 1800s, the area was not particularly built up.  But if we get a reprise now, it will be ugly.)
+
+
+Recommend (6) Permalink Report abuse 
+
+
+
+
+
+D. Sherman wrote:
+              
+
+        Sep 2nd 2011 11:08 GMT      
+
+
+Before everyone starts demanding tougher building codes, let's keep in mind that building codes are a classic risk/benefit tradeoff. Stronger buildings cost more (not just in dollars but in environmental damage as well, since more concrete and steel go into them). Money is a zero-sum game. If more money is spent (by government, by home buyers, by tenants, by shoppers) on one thing then less is available for something else. In an area with low seismic risk, there is greater benefit to more people if building costs are kept down and the money is spent on other things. 
+A magnitude 7 earthquake might kill thousands of people on the East Coast and only a dozen in California. However, if a quake of such size only happens every 1000 years or so, wouldn't more lives be saved by spending the money, say, on more snow plows to deal with regular blizzards and make the roads less hazardous, or better public health programs, or even simply allowing people to keep more of their own money and perhaps work a little less hard, thus being more relaxed and living a more enjoyable and longer life? 
+In Japan it's worth planning for magnitude 8 earthquakes because every generation will experience at least one, but requiring the Eastern US to withstand such quakes would be like requiring Alaskans to build tornado shelters or Floridians to be prepared for blizzards.
+
+
+Recommend (9) Permalink Report abuse 
+
+
+
+
+
+CA2LA7PmEs wrote:
+              
+
+        Sep 3rd 2011 12:07 GMT      
+
+
+Nice article, but the numbers at the end need revision.  If you look at Mr Markey's actual report, you'll see that they calculate the expected number of failures over the entire 20 year period, given that all plants currently up and running remain so, is 0.026.  This is not a probability, so you can't calculate an average return period using 1/0.026 = 38.  
+The report also cites that the expected number of cores damaged each year across the entire country is 0.0013 (which, multiplied over 20 years, gives us the 0.026 expected failures) using updated seismicity.  This is failures per year, which can be inverted to a core damage return period of ~770 years.  Using a binomial distribution (and associated assumptions) this translates to a roughly 2.6% probability of at least one failure in the next 20 years.
+This assumes all current plants stay up and running (not just the 19 approved extensions and 16 pending) and that all incidences are independent.  These numbers are much less worrisome, but still not great.
+
+
+Recommend (11) Permalink Report abuse 
+
+
+
+
+
+NorthStreet wrote:
+              
+
+        Sep 3rd 2011 10:00 GMT      
+
+
+Earthquakes are getting more frequent.
+There were more earthquake­s at the end of the last ice-age as the Earth responded to the weight of the ice being removed. Now climate change is possibly taking 300 billion tonnes of ice off Greenland and 200 billion tonnes off Antarctica each year:
+http://www­.indianexp­ress.com/n­ews/antarc­tica-risin­g-by-5-mil­limetres-a­-year/8256­17/
+Look at the graph of increasing earthquake­s since the 1970s:
+http://www­.earth.web­ecs.co.uk/
+Perhaps some earthquake­s are climate related.
+
+
+Recommend (7) Permalink Report abuse 
+
+
+
+
+
+Nirvana-bound wrote:
+              
+
+        Sep 4th 2011 2:39 GMT      
+
+
+In the old days, the religious-minded would attribute this string of natural disasters to the wrath of Providence, Divine intervention, fire & brimstone, the scourge from the heavens.. on decadent, dissipated & sinful America.  Images of Sodom & Gomorah spring to mind.
+Your article leaves me shaken & stirred.
+
+
+Recommend (6) Permalink Report abuse 
+
+
+
+
+
+Terence_I_Hale@hotmail.com wrote:
+              
+
+        Sep 5th 2011 6:52 GMT      
+
+
+Hi,
+When the earths ABCC1 give Parkinsons. Disaster prevention: earthquakes.
+At the moment the best prediction of an earthquake is when it happens. We are doing something wrong. Nature can do it better. Especially birds seem to know before such happens. This something in there beak that humans do not have in there nose is the reason it has also been observed in bacteria, fungi, insects (who have no nose) . Evolution initial made the brain as a simple navigation tool to find food. As things developed this function in birds was taken over by the beck as the brain had other things to do. Electromatic signaling seems to be key, that the beak contains magnetic particles to act as a kind of compass. Faraday's law has not given humans the same possibilities. Why can not we do it ?
+Regards Dr. Terence Hale
+
+
+Recommend (2) Permalink Report abuse 
+
+
+1-10 of 10 
+ 
+
+ 
+ 
+
+
+
+Comment (10)
+Print
+E-mail
+Permalink
+
+ 
+
+
+
+  About Babbage
+In this blog, our correspondents report on the intersections between science, technology, culture and policy. The blog takes its name from Charles Babbage, a Victorian mathematician and engineer who designed a mechanical computer.  Follow Babbage on Twitter »
+
+
+RSS feed
+
+
+
+Advertisement  
+
+
+
+
+      Trending topics
+  
+Read comments on the site's most popular topics
+
+
+Period: 1 day1 week2 weeks30 days
+
+
+
+
+
+
+View full-sized opinion cloud »
+
+
+Sponsored by
+ 
+
+
+
+  
+
+
+Economist blogsAmericas view | The Americas
+Babbage | Science and technology
+Bagehot's notebook | British politics
+Banyan | Asia
+Baobab | Africa
+Blighty | Britain
+Buttonwood's notebook | Financial markets
+Charlemagne's notebook | European politics
+Clausewitz | Defence, security and diplomacy
+Daily chart | Charts, maps and infographics
+Democracy in America | American politics
+Eastern approaches | Ex-communist Europe
+Free exchange | Economics
+Gulliver | Business travel
+Johnson | Language
+Leviathan | Public policy
+Lexington's notebook | American politics
+Multimedia | Audio, video and videographics
+Newsbook | News analysis
+Prospero | Books, arts and culture
+Schumpeter | Business and management
+ 
+
+
+
+
+Most commented
+
+Most recommended
+
+
+
+Most commented
+
+Charlemagne: Among the dinosaursLanguage learning: No, she's foreign!Banyan: Not as easy as ABCDSeptember 11th 2001: Ten years onChina's military power: Modernisation in sheep's clothingSchumpeter: Angst for the educatedAmerica's jobs report: Treading waterCharlemagne: The end of MonnetIndia and Bangladesh: Go east, old manGermany: Angst over the euro 
+Over the past five days
+Most recommended
+
+Martin Luther King: A blockheaded memorialSchumpeter: Angst for the educatedLiveability ranking: Melbourne stormLanguage learning: No, she's foreign!Wealth creation and macroeconomics: The parasite problemOur new defence blog: A warm welcome to ClausewitzAmerica's air-tanker order: Home-team advantage pays off for BoeingThe IDF's new chief of staff: Israel's feuding generalsTablet computers: Difference Engine: Reality dawnsIsrael's view of Egypt: Feeling understandably twitchy 
+Over the past seven days
+
+
+ 
+
+
+Advertisement  
+
+
+
+Latest blog posts  - All times are GMT
+
+
+
+The prestige of labour
+
+  From Democracy in America
+ - 1 hrs 31 mins ago
+
+
+
+Chirac escapes court
+
+  From Newsbook
+ - September 5th, 19:07
+
+
+
+A depressing downward direction
+
+  From Schumpeter
+ - September 5th, 17:40
+
+
+
+Caption competition 13
+
+  From Newsbook
+ - September 5th, 17:16
+
+
+
+The crisis we got
+
+  From Free exchange
+ - September 5th, 17:04
+
+
+
+Will the internet burst into tiers?
+
+  From Babbage
+ - September 5th, 15:40
+
+
+
+Ready for the fall
+
+  From Free exchange
+ - September 5th, 15:21
+
+
+
+More from our blogs »
+
+
+Products & events
+Stay informed today and every day
+
+    Subscribe to The Economist's free e-mail newsletters and alerts.
+  
+
+Get e-mail newsletters
+
+
+
+   Subscribe to The Economist's latest article postings on Twitter
+  
+
+Follow The Economist on Twitter
+
+
+
+   See a selection of The Economist's articles, events, topical videos and debates on Facebook.
+  
+
+Follow The Economist on Facebook
+
+
+
+Advertisement  
+  
+ 
+
+
+
+  
+
+
+Classified ads
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+ 
+
+
+
+About The Economist online
+About The Economist
+Media directory
+Staff books
+Career opportunities
+Contact us
+Subscribe
+
+
+
+
+
+
+Copyright © The Economist Newspaper Limited 2011. All rights reserved.
+Advertising info
+Legal disclaimer
+Accessibility
+Privacy policy
+Terms of use
+Help
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

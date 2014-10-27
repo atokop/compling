@@ -1,0 +1,942 @@
+Geek 101: Why Canadians Felt an Earthquake in Virginia | PCWorld
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+News
+Reviews
+How-To's
+Downloads
+Shop & Compare
+Apps
+Business Center
+
+
+ 
+ 
+
+
+
+Trending:
+Phones
+|
+Tablets
+|
+Gaming
+|
+Laptops
+|
+Music and Audio
+|
+Internet
+|
+Browsers
+|
+Operating Systems
+|
+Home Theater
+|
+HDTV
+|
+MORE
+
+
+
+
+
+
+
+
+MAGAZINE
+Subscribe & Get a Bonus CD 
+Digital Edition
+Customer Service
+
+
+
+
+ 
+
+
+
+Show More
+  Hi     My Account
+
+
+Minimize
+  Hi     My Account | Newsletters | Add Connections
+
+
+Sign in with   or Create a New Account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+PCWorld
+» Blogs
+» Geek Tech
+
+
+
+
+ 
+
+
+
+
+Recommend:
+
+
+
+
+0 Comments
+Print
+ 
+
+
+ 
+Geek 101: Why Canadians Felt an Earthquake in Virginia
+By Elizabeth Fish, PCWorld
+		  
+		Aug 24, 2011 2:38 PM
+		
+ 
+
+
+
+
+On Tuesday, an earthquake measuring 5.8 on the Moment magnitude scale struck near Mineral, Virginia--around 38 miles away from the state’s capital city of Richmond.
+
+
+The most interesting aspect of this earthquake was not only its location--earthquakes on the East Coast of the United States are far less common than they are along the West Coast--but how people hundreds of miles from the epicenter could readily feel the quake. New York City residents could clearly feel the tremors, 316 miles away from the epicenter. The quake could even be felt in parts of Canada.
+
+
+So, why is it that a fairly moderate earthquake that's incapable of causing significant amounts of serious damage was felt from such a distance away? While some websites have pinpointed perhaps one reason why the Virginia quakes could travel so far, there are actually a few factors at play that could explain why earthquakes of varying magnitudes can go the distance. First, let’s take a look at some earthquake basics.
+
+Basics
+
+As you probably already know, earthquakes are caused by a sudden release of energy from tectonic plates that make up the Earth’s Crust. These plates are constantly shifting as part of continental drift, and the boundaries between them consist of a series of fault lines.
+
+
+Not all faults (or portions of faults) can cause earthquakes--some exhibit aseismic creep, where the land masses on both sides of the fault slowly slip by each other without causing a quake. But if the two plates can't slip by each other, stress builds up along a fault, and it can result in an earthquake when that stress is relieved.
+
+
+To match the energy of a 5.8 earthquake, you would need between 6000 and 7000 tons o fTNT--imagine the amount of destruction that amount of TNT could do in a confined space.
+
+
+Although quakes are very common overall, they are often too small to notice. The shaking from an earthquake is caused from vibrations called seismic waves; these waves are capable of travelling either across the surface and through the Earth's mantle and core--this is why sometimes earthquakes that happen on one side of the Earth can be picked up by seismographs on the other side of the world.
+
+
+We usually think of faults as being around the edge of tectonic plates--after all, the vast majority of earthquakes occur at these plate boundaries--,but as Tuesday's quake shows, earthquakes can occur in the middle of a tectonic plate. A paper published to UC Berkeley's website gives some more detail on why these interplate quakes occur, but the basic idea is that they may be caused by ancient earthquake faults that spring back to life.
+
+Virginia is part a fault zone
+
+A &quot;shake map&quot; of the Virginia quake. [Image: USGS]
+
+
+While Virginia is not near a plate boundary like California, there is still a fault area (bear in mind faults are different to fault lines) through the state: the Virginia Seismic Zone. Generally, although the zone is active, its quakes are largely unnoticeable and deep underground, so an earthquake of 5.8 is quite large for Virginia--in fact, it’s the biggest quake to hit the area since 1897.
+
+
+This zone sits in the middle of the North American plate, and covers about 3000 square miles around the Piedmont Province. A glance at the state may also be a hint that it sits on a seismically active area, as the Appalachian Mountains pass right through it, and the Virginia Seismic Zone could link to various other nearby faults. Holly Ferrie, a Geology student at the Open University, explains how the waves in Virginia probably moved:
+
+
+“The fault [the quake] happened along led up to the location of Mineral, Virginia, which was [where] the first and strongest... seismic waves were felt.
+
+
+“Although [seismic] waves can travel through the earth internally, they most commonly fan out to nearby locations, and energy decreases the further away it gets, unless a fault connects certain locations.”
+
+
+And as the Washington Post points out, "the released energy traveled 'along the grain' of the Appalachian Mountains to the northeast and southwest." In other words, the quake's waves could have been amplified through a seismic chain reaction of sorts.
+
+Scratching the Surface
+
+Depth could have played a key factor in the Virginia quake’s coverage as well. The Central Virginia Seismic Zone is hard to find on seismic activity maps because the quakes within the zone usually happen very deep underground—so by the time the seismic waves reach the surface, they’re hardly noticeable unless you have a seismograph. However, the Virginia quake was only 3.7 miles below the surface--quite shallow for an earthquake.
+
+
+So, due to the shallow depth of the quake’s epicenter, which happened in the Virginia Seismic Zone, which is connected to other faults, the quake’s seismic energy was able to travel at a stronger force over a wider distance than a similar-sized quake in, say, California.
+
+The Ground Matters
+
+As strange as it seems, the ground can play a big part in how well an earthquake travels.
+
+
+Due to the positioning of the North American Plate boundary and nearby fault lines, the West Coast sees a lot of activity. Because of all this activity, the crust along the West Coast is generally a lot hotter and also a lot weaker in comparison to the East Coast, where the plate boundary is further out to sea. Seismic waves find it much easier to travel through colder, stronger, less abused areas of the Crust than more offset surfaces such as in California. As Holly explains:
+
+
+“The West Coast is worse due to the collision of the Pacific and North American plate, creating the San Andreas fault line. The East Coast's closest plate boundary is Mid-Atlantic ridge, and that's pretty far away from it! [The East Coast's crust is] cooler and stronger, but [it] does not necessarily have a thicker crust though. But the colder surface definitely makes waves travel faster!”
+
+
+The actual bedrock can have an impact on how earthquakes travel. In Virginia, the Piedmont contributes to the Appalachian Range, created millions of years ago, out of very old rock. The mountain ranges were created out of faulted marine sedimentary rocks, volcanic rocks and were part of the original Pangaea supercontinent. The old and faulting rock of the Appalachian range, combined with the coolness of the east coast, and potential activity in the Seismic Zone encourages further-moving waves due to reverberation. The breaks in the bedrock of California usually stop this kind of reflex.
+
+
+“Virginia is part of the Appalachian Range, so a similar formation to Scotland and Norway [once all of these countries were attached and the range ran throughout]--very old rock squashed in Pangaea supercontinent collision 440 Ma [million years ago]," Holy tells us. "This created loads of faulting, hence the wide spread of seismic propagation.”
+
+
+When you bring all these factors together, it makes a clearer picture as to why the Virginia quake carried so magnificently: cool, barely-ruptured ancient ground combined with an activity zone will let a sudden powerful surge energy equivalent to 7000 tons of TNT less than 4 miles from the surface travel at a fair pace across lots of connected faults and fault lines to reach other parts of the continent.
+
+
+Of course, why such a sudden moderate-heavy quake happened at such a shallow depth is yet to be really uncovered--perhaps it's a mystery fault that went previously undetected--but if there's one thing that geologists, seismologists, and scientists can agree on, it's that the Earth will always continue to surprise.
+
+Like this? You might also enjoy...
+
+See the First 3D Live-Stream from Space
+Mars 500 Crew Breaks Isolation Record, But Lonely Astronauts Don't Leave Earth
+Team Robot Swarmanoid Works Together, Completes Mission Impossible 
+
+
+Get your GeekTech on: Twitter - Facebook - RSS | Tip us off
+
+
+ 
+
+
+		Would you recommend this story?
+		
+		YES
+NO
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+Leave a comment
+Submit Comment
+
+Once you click submit you will be asked to sign in or register an account if you are not already a member.
+
+
+
+
+
+
+Posting comment ...
+
+
+
+
+
+ 
+
+Print 65% more pages than with refilled inks. Trust Original HP Inks. Hit Print Reliably. 
+
+
+
+ 
+ 
+
+
+
+
+
+Subscribe to the Daily Technology News Newsletter - 7 days a week
+
+
+
+
+
+
+
+
+
+
+
+
+
+See All Newsletters »
+
+ 
+
+
+
+
+
+
+Similar Articles:
+
+
+
+Virginia Quake Sends Social Networks Into Overdrive
+
+
+
+Kinect Powered Robot Could Help Earthquake Victims
+
+
+
+Cameras and Apps That Bring Out Your Best, Your Worst, or Your Most Bizarre
+
+
+Data Centers Largely Unaffected by East Coast Quake
+
+
+
+Tech Spending Increases
+
+
+ 
+
+
+Sponsored Advertisement
+
+
+
+
+Free Trial of Trend Micro™ Titanium
+Download Free 30-Day trial. You will get a full version of this Trend Micro™ product that includes all of the security features of the regular product FREE for 30 days. It works on Windows XP/Vista platforms and Windows 7.
+
+
+Click Here to Download Your 30 Day Free Trial
+
+
+
+
+
+Lenovo Laptop Deals
+
+
+
+
+
+
+
+
+
+
+
+
+
+ThinkPad Edge E420
+Lenovo Style in an Affordable Package
+
+Buy now direct from Lenovo
+
+
+
+
+
+
+
+
+
+
+
+
+ThinkPad X220
+Fast and light, with great input ergonomics and battery life, this powerhouse ultraportable is best-of-breed.
+
+Buy now direct from Lenovo
+
+
+
+
+
+
+
+
+
+
+
+
+ThinkPad X120e
+One of the best netbooks ever, X120e has the best netbook keyboard ever--nothing else comes close
+
+Buy now direct from Lenovo
+
+
+
+
+
+About GeekTech
+
+What is GeekTech? The name really says it all. GeekTech covers the latest  in hacks, hardware, cutting edge tech, and geek culture. Want to learn  more? Meet the GeekTech crew.
+Tip us off: geektips [at] pcworld [dot] com
+
+Follow GeekTech...
+
+@geektech on Twitter
+GeekTech on Facebook
+Subscribe via  RSS
+
+
+
+
+Geek Tech
+
+Most Recent
+Most Recommended
+
+
+
+
+
+DIY Ambient Lighting Reduces Eye Strain, Looks Awesome
+    Put that eye-strain away for the night; get some ambient lights behind that TV. Oh, they look cool, too.
+
+
+Mario Meets Portal in Cool Mashup Indie Game
+    Mario takes a trip around the Mushroom Kingdom with a Portal gun in this neat indie game. 
+
+
+12c Calculator Turns 30; HP Releases Anniversary Edition
+    HP's gold-standard calculator hits the grand old age of 30, so the company celebrates with a limited anniversary edition.
+
+
+RankMyHack Adds Leaderboards and Achievement Points to Hacking 
+    RankMyHack turns hacking websites into a game by adding leaderboards and scores to those who can make the most daring hacks.
+
+
+ 
+
+
+
+TouchDroid Will Turn TouchPads Into Android Tablets
+    A group of developers is working on a way to load Android onto the HP Touchpad.
+
+
+Mario Meets Portal in Cool Mashup Indie Game
+    Mario takes a trip around the Mushroom Kingdom with a Portal gun in this neat indie game. 
+
+
+Check Out The (Surprisingly Good) Portal Fan Film
+    Fan films can be quaint and ultimately embarrassing at times, but such is not the case with Portal: No Escape.
+
+
+Jordan to Build $1.5 Billion Star Trek Theme Park
+    King Abdullah of Jordan, who was once an extra on 'Star Trek: Voyager,' has just committed $1.5 billion to building a Star Trek theme park in the gulf state. 
+
+
+ 
+ 
+ 
+
+
+Best Prices on LCD Monitors
+
+Most Popular
+All Categories
+
+
+
+
+
+
+S2031 Black 20" Widescreen LCD Monitor
+$94.99 and up
+See All Prices
+
+
+
+PX2710MW Black 27" Widescreen LCD Monitor
+$285.99 and up
+See All Prices
+
+
+
+VA2333-LED Black 23" Widescreen LED Monitor
+$159.95 and up
+See All Prices
+
+
+
+SyncMaster P2770HD Black 27" Widescreen LCD Monitor
+$279.00 and up
+See All Prices
+
+
+See all Best Prices on LCD Monitors »
+See also:
+				Best Prices on Laptops, Best Prices on TVs, Best Prices on Cameras, Best Prices on Printers
+
+
+
+
+
+Laptops
+Under $500
+$500 to $1000
+$1000 to $2000
+$2000 to $3000
+Over $3000
+
+
+Desktops
+Under $500
+$500 to $1000
+$1000 to $2000
+Over $2000
+
+
+Printers
+Inkjet
+B&W Laser
+Color Laser
+
+
+Portable Audio
+MP3 Players
+Accessories
+
+
+Digital Cameras
+Cameras
+Lenses
+Accessories
+
+
+Software
+Design & Multimedia
+Business Productivity
+Utilities
+Operating Systems
+
+
+Monitors
+18 to 19 Inches
+20 to 21 Inches
+21 Inches & Up
+
+
+Camcorders
+Camcorders
+Batteries & Power
+Bags & Cases
+
+
+Televisions
+Plasma & LCD 
+Projection
+TV Accessories & Mounts
+
+
+Storage
+Hard Drives
+Flash Memory
+DVD-ROM/DVD Writers
+
+ 
+
+ 
+ 
+
+All PCWorld Blogs
+
+Most Recent
+Most Recommended
+
+
+
+
+
+Apple TV Set Has "Got To Happen," Former Exec Says
+    An Apple TV could provide the missing link between the computer and the living room -- and show up Google, to boot.
+
+
+Photograph Star Trails With Your Digital Camera
+    Capture beautiful images of stars spinning around in the sky at night.
+
+
+Google+, Day 27: Comparing Google+ with Facebook
+    Google+ has some unique qualities that are missing in Facebook, but the two seem more alike than different, and the similarity of the social networks is going to be a problem for Google.
+
+
+Open Windows 7 Explorer to Your Favorite Location
+    Jim Pearson wants to change the default location for Windows 7's version of Windows Explorer, and have it default to opening C:\
+
+
+ 
+
+
+
+Windows Laptop Makers Can't Catch Up to the MacBook Air
+    Laptop manufacturers are struggling to compete with the MacBook Air, and by the time they do, it won't matter. It's not a manufacturing problem, it's an attitude problem.
+
+
+The Netflix Streaming Price Trap
+    I'd love to cut back on my Netflix service like others are doing, but the streaming policy may actually force me to give Netflix even more money.
+
+
+Microsoft Windows 8: Here's What We Know So Far
+    Microsoft's newest operating system is expected in 2012, but we have some of the nitty gritty details of its features now.
+
+
+Google Doodle Honors Argentine Author Jorge Luis Borges
+    Borges was a pioneer in the genre of magical realism and he also imagined some of the foundational concepts of the Internet.
+
+
+ 
+ 
+ 
+
+
+Subscribe to the Daily Technology News Newsletter - 7 days a week
+
+
+
+
+
+
+
+
+
+
+
+
+
+See All Newsletters »
+
+ 
+
+ 
+
+
+
+
+
+12 Criteria for Selecting the Best ERP System Replacement
+				An ERP system is your information backbone and reaches into all areas of your business and value chain. Replacing it can open unlimited business opportunities. This white paper explains the 12 criteria that allow you to identify and select the solution that will meet these expectations.
+				
+
+
+Leveraging Social Computing Technologies for ERP Applications
+				This white paper details how Web 2.0 technologies support business strategies by improving efficiency, productivity, and collaboration.
+				
+
+
+
+ 
+
+
+
+
+Today's Special Offers
+ 
+
+
+
+
+
+
+
+
+
+
+
+Editors' Picks
+
+ 
+ 
+
+
+
+
+
+
+
+Tech Spending Increases
+
+
+
+
+
+Apple Owns Mobile Browsing: Report
+
+
+
+
+
+Do More in Chrome Than Browse: 12 Free Fun Apps
+
+
+
+
+
+Summer of Google: 10 Hot New Features From the Search Giant
+
+
+
+
+
+Customer Strolls Out Of Apple Store With Confidential Data
+
+
+
+
+
+Liar Liar, Brain's Been Fired
+
+
+
+
+
+Could the PS4 Really Be On the Way?
+
+
+
+
+
+Sony's Head-Mounted Personal 3D Viewer 
+
+
+
+
+
+British Police Nab Men Believed Linked to HBGary Data Breach
+
+
+
+
+
+Running Windows on a Mac: Lion vs. Windows 7 Shootout
+
+
+
+
+
+Google, in a Season of Changes, Trims Products
+
+
+
+
+
+Syncplicity Expands Cloud Storage to the iPad
+
+
+
+ 
+ 
+ 
+
+
+
+Home
+Products
+
+
+
+Android App Reviews
+iPhone App Reviews
+Business Center
+Cameras
+Camcorders
+Cell Phones & PDAs
+Consumer Advice
+
+
+
+
+Desktop PCs
+E-Readers
+Gadgets
+Gaming
+HDTV
+Home Theater
+
+
+
+
+Laptops
+Macs & iPods
+Monitors
+Printers
+Software
+Spyware & Security
+
+
+
+
+Storage
+Tablets
+Tech Industry
+Tech Events
+Upgrading
+Windows 7
+
+
+
+
+
+Network Sites
+
+PCWorld Business Center
+Search for Tech Jobs
+Careers at IDG
+Macworld
+MacUser
+Mac OS X Hints
+iPhone Central
+
+
+
+About PCWorld
+
+About Us
+Ad Choices
+Advertise
+PCWorld Content Works
+Terms of Service Agreement
+Privacy Policy
+Site Map
+
+
+
+Resources
+
+Newsletters
+FAQ
+Contact Us
+RSS Feeds
+Magazine Customer Service
+Community Standards
+
+
+
+
+Visit other IDG sites:
+		            
+Select One
+CIO
+Computerworld
+IDG Connect
+CSO
+DEMO
+GamePro
+Games.net
+InfoWorld
+ITworld
+JavaWorld
+Macworld
+MacUser
+Network World
+PC World
+The Industry Standard
+IDG Knowledge Hub
+IDG TechNetwork
+IDG International Sites
+
+© 1998-2011, PCWorld Communications, Inc.
+
+ 
+
+
+
+
+
+
+Name
+
+City
+
+
+
+
+
+
+
+Address 1
+
+State
+
+Zip
+
+
+
+
+
+
+
+
+
+Address 2
+
+E-mail (optional)
+
+
+
+
+
+
+
+
+Click Here
+
+
+
+Canadian Residents | Foreign Residents | Gift SubscriptionsCustomer Service | Privacy Policy 
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by the Parse.ly Publisher Platform (P3).
+
+
+
+
+
+
+

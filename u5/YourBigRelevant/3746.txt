@@ -1,0 +1,1087 @@
+What’s with all these earthquakes? | Bad Astronomy | Discover Magazine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Today »
+
+
+Renew
+Give a Gift
+Archives
+Customer Service
+
+
+Facebook
+Twitter
+Newsletter
+
+
+
+
+SEARCH
+
+
+
+
+
+
+
+
+
+
+
+Health & Medicine
+Mind & Brain
+Technology
+Space
+Human Origins
+Living World
+Environment
+Physics & Math
+Video
+Photos
+Podcast
+RSS
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+« Don’t stop the Detroit Science Center!
+Putting the eye in Irene »
+
+
+What’s with all these earthquakes?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Earth is trembling. 
+A magnitude 5.9 earthquake hit Virginia on August 23 at 17:51 UTC. Twelve hours earlier, a magnitude 5.3 quake shook southern Colorado (I slept through it; it was 360 km away). On August 20, a magnitude 7.0 hit off the coast of eastern Australia, and another magnitude 7.0 earthquake took place in northern Peru on August 24 at 17:46 UTC, just a few hours ago as I write this.
+What gives? Are we seeing a swarm of related events? Is the Earth shaking itself apart?
+It’s easy enough to think so. But our brains are wired in a way that makes them easily fooled (proof). What we need to do is not panic — always a good start — and think this through. Happily, we have an exceptionally good tool for this sort of problem: science. Well, science and a tiny touch of math. 
+
+
+Get me some stats, stat!
+You need to look at the statistics, and not by coincidence the United States Geological Survey provides them. When you look at the chart, you see that there is 1 quake per year somewhere on Earth that’s magnitude 8 or more. There are 15 between 7.0 and 7.9 every year, or on average about one every three weeks. Mag 6? 134 per year, or 2-3 per week. Mag 5: 1300 per year, or about 4 per day.
+Right away, you can see that there are going to be decent-sized earthquakes somewhere on Earth all the time. And while on average you get  mag 7 quake every few weeks, in reality the distribution is random. Getting two of them within a few days of each other is not only not surprising, statistically speaking it’s expected!
+It’s unusual to get a quake centered in Virginia, but it’s not that odd. They’re rare for sure, but there was a bigger one in 1897. Colorado has had its share, too. Every state in the union has quakes; I remember one in Michigan when I was an undergrad at Ann Arbor. So in and of itself, having an earthquake anywhere in the US is not necessarily suspicious. Again, a chart on that USGS page shows that we should expect 50-70 mag 5 quakes a year in the U.S., so having two even on the same day is not all that unusual. 
+
+
+It came from outer space
+So right away, the math is telling us that these quakes are probably not really clustered, and it’s a simple coincidence. Still, maybe it’s better to be sure. Could there be some other, unearthly cause?
+
+I’ve had a couple of emails and such asking if these earthquakes could be related to solar activity. The answer to that is: nope. First off, the Sun has been pretty quiet for the past couple of weeks, so that should be a tip-off that our nearest star isn’t to blame. Plus, Ian Musgrave at AstroBlog tried to correlate sunspots with earthquakes and came up empty. So the Sun isn’t to blame here.
+I know that there are conspiracy theorists out there trying to pin this kind of stuff on comets and things, but that’s just so much fertilizer as well. I debunked that idea years ago (and updated it here and here).
+Interestingly, a writer at DailyKos tried to pin the Virginia quake on fracking — a method of extracting natural gas from underground repositories, so calm down, Battlestar fans — but a different writer at DailyKos put that idea down. It doesn’t sound plausible to me, to be honest, if only because, as I point out above, earthquakes in Virginia aren’t unknown. But as the second DK writer points out, the causation the first writer is trying to find probably isn’t there.
+And somehow, I don’t think the east coast quake was caused by gay marriage. Or boobs.
+
+
+Plait tectonics
+So what is the deal then? 
+What the science is telling me is pretty simple: what we have here is simply a restless planet coupled with our all-too-human nature of correlating events if they happen close in time or place. The latter isn’t surprising; it’s an evolutionary advantage to be able to pin an effect to a cause ("Hmmm, that rustle in the trees is probably a tiger. I’d better run."). That ability can be fooled, and get us in trouble as it might in the case of the apparently-clustered earthquakes, but in general it’s better to be able to put the horse before the cart than otherwise. 
+And having a restless planet is a consequence of having a habitable one. Earthquakes and other tectonic events are a major threat to humans, but they are the trade-off of having a thin crust floating on a magma ocean. We may owe our existence to that fact; volcanoes built up our continents and helped create our atmosphere, and the liquid inner bits of our planet are what generate our magnetic field that protects us from the solar wind. Mars doesn’t have that, and over a few billion years the Sun eroded away that planet’s atmosphere. Continental drift helped drive evolution (separating species and forcing them to adapt to new environments), and hey, here we are. 
+Trying to find some reason other than seismic activity for all this is natural, and as long as it’s done scientifically I have no problem with it. But I think in this case, it really all boils down to one simple thing:
+Shift happens.
+
+
+
+Related posts:
+- Virginia earthquake waves ripple across the US
+- No, the Supermoon didn’t cause the Japanese earthquake
+- Do rainbow clouds foretell earthquakes
+- Magnitude 8.8 earthquake off the Chile coast
+- Repeat after me: asteroid TU24 is no danger to Earth
+
+
+
+          August 25th, 2011 6:27 AM          Tags: earthquakes 
+           by Phil Plait in Antiscience, Debunking, Piece of mind, Science, Top Post | 71 comments | RSS feed | Trackback > 
+
+
+
+
+
+
+
+71 Responses to “What’s with all these earthquakes?”
+
+
+            1.              RaginKagin Says:
+                        
+August 25th, 2011 at 6:34 am 
+ Quick question, if anyone can answer this, and I ask it in the most innocent and curious way possible: I heard a rumor that the levies breaking in the Midwest floods could cause an earthquake or a rise in activity. It doesn’t seem plausible, but we’ve had some massive levies and dams break out here and parts of the Mississippi have rerouted (not a lot of coverage on this, but some towns are completely gone now)…Is something like this possible?
+
+
+
+            2.              Gareth Says:
+                        
+August 25th, 2011 at 6:57 am 
+ No, you’re wrong.  It’s a big build-up of geological activity in preparation for the (new) Rapture in October.  This is what Harold Camping was talking about.  Run for your lives, people!
+
+
+
+            3.              TDL Says:
+                        
+August 25th, 2011 at 7:10 am 
+ @Gareth.
+Run??? Where too?!?!?!   
+
+
+
+            4.              Zathras Says:
+                        
+August 25th, 2011 at 7:15 am 
+ @Gareth
+Don’t you mean “rupture”?  
+(running and ducking from thrown tomatos)
+
+
+
+            5.              Messier Tidy Upper Says:
+                        
+August 25th, 2011 at 7:15 am 
+  I don’t think the east coast quake was caused by gay marriage. Or boobs.
+I agree that’s almost certainly the case but I think further experimentation is required to test both those theories!  
+ you can see that there are going to be decent-sized earthquakes somewhere on Earth all the time. And while on average you get mag 7 quake every few weeks, in reality the distribution is random. Getting two of them within a few days of each other is not only not surprising, statistically speaking it’s expected! ..[snip].. So right away, the math is telling us that these quakes are probably not really clustered, and it’s a simple coincidence. 
+Indeed. The most suspicious pattern would surely be one with even spacing non-clusters and no co-incidental clusters right?
+I know that there are conspiracy theorists out there trying to pin this kind of stuff on comets and things,
+What comets?!? 
+Sadly, there’s no very bright comet in the skies now or likely to be for ages is there? A bit late to be be blaming Comet McNaught of 2007. (Click my name for it’s wikipage.)
+Didn’t the idea of predicting disasters* from passing comets go out of date post Halley’s comet getting its name in Edmund’s honour? 
+Used to be that back in the Dark Ages (earthly historic not cosmic cosmological) a comet pressaged the death of kings, wars, famines and plagues – but then they got those all the time in those days whatever was in the sky at the time. 
+———— 
+* From ‘Dis aster’ – literally meaning “bad star” just as comets are literally  “hairy stars” and planets “wandering stars” btw.
+
+
+
+            6.              Messier Tidy Upper Says:
+                        
+August 25th, 2011 at 7:17 am 
+  First off, the Sun has been pretty quiet for the past couple of weeks, so that should be a tip-off that our nearest star isn’t to blame.
+It has been? That’s NOT what you were telling us the other week   :
+http://blogs.discovermagazine.com/badastronomy/2011/08/05/sun-blows-out-another-big-one-expect-aurorae-tonight/ 
+& 
+http://blogs.discovermagazine.com/badastronomy/2011/08/20/solar-storm-tracked-all-the-way-from-the-sun-to-earth/ 
+& 
+http://blogs.discovermagazine.com/badastronomy/2011/08/09/another-big-solar-flare/ 
+for example.  
+Also  solar maximum is coming up in the next year or two isn’t it? 
+I agree with your conclusions sun -quakes link ~wise though.  
+
+
+
+            7.              Chris Says:
+                        
+August 25th, 2011 at 7:18 am 
+ @ RaginKagin
+When I hear things like that I always think of the tides on the Earth’s crust.  Similar to the ocean tides, just smaller in amplitude.
+http://en.wikipedia.org/wiki/Earth_tide
+Every day the Earth’s crust moves up and down by nearly half a meter at the equator.  That’s a heck of a lot of movement.  Flexing the crust like that could have an effect.
+Now I’m not saying any supermoon or silliness is the cause of earthquakes.  Every day we go through this tidal up and down and most of the time we don’t see anything occur.  In the big picture this is a pretty small effect.
+Now could the water cause an earthquake, or could the moon?  Maybe it could be the straw that broke the camel’s back, but you have to realize that camel was already carrying several bundles of hay.
+
+
+
+            8.              vagueofgodalming Says:
+                        
+August 25th, 2011 at 7:18 am 
+ Shift happens
+You’re cracking me up.
+
+
+
+            9.              Chew Says:
+                        
+August 25th, 2011 at 7:21 am 
+ “Plait tectonics”? I almost unsubscribed because of that.
+
+
+
+            10.              James Says:
+                        
+August 25th, 2011 at 7:23 am 
+ Whenever people point out that there’ve been a lot of something (earthquakes/planecrashes/volcanoes/moose sightings/badger attacks) recently, I always like to point out that it’s not random clusters of these events that ought to worry you. What would be really scary would be if they started happening with… precise.. periodic… regularity.
+
+
+
+            11.              Larry Says:
+                        
+August 25th, 2011 at 7:25 am 
+ While the Virginia earthquake probably has plate tectonic causes, not all earthquakes may. You have pointed out in past postings that non-volcanic  tremors” are correlated with lunar passages (Tidal Modulation of Nonvolcanic Tremor, Science 11 January 2008: , Vol. 319 no. 5860 pp. 186-189, DOI: 10.1126/science.1150558).
+Also, recent earthquake swarms in Arkansas may (MAY) be related to disposal of waste water from drilling operations, as explained in this quote from the NY Times (http://www.nytimes.com/2011/03/01/us/01earthquakes.html):
+“The situation has garnered national attention because of its possible connection to natural-gas drilling operations in the area. Researchers with the Arkansas Geological Survey have pointed out spatial and temporal relationships between the earthquakes and the use of injection wells, which are used to dispose of the wastewater left over from gas drilling. (Researchers see no such correlation between the quakes and the drilling itself, a process called hydraulic fracturing.)”
+The USGS has an excellent poster (PDF) of the swarm at http://earthquake.usgs.gov/earthquakes/eqarchives/poster/2011/20110228.php).
+
+
+
+            12.              Grizzly Says:
+                        
+August 25th, 2011 at 7:28 am 
+ One other suspect in addition to plate tectonics is the last ice age. Say what?  Well the eastern half of the continent is still rebounding from the weight of the ice sheet.  While to human observers that’s ancient history, in geologic time it’s a blink of an eye ago.  The crust in the east is older, less pliable, less maleable than the western subduction zone.  It takes a while to rebound from the pressure and strain placed upon it by the ice.
+
+
+
+            13.              Nobody Says:
+                        
+August 25th, 2011 at 7:36 am 
+ This reminds me of my family.
+I’m a geology student, and the only scientifically-educated (indeed, University-educated) person in my entire family. With all these earthquakes happening, in New Zealand, Japan, here in south-east Australia where we live, and elsewhere, my family always asks me when there’s another one, “What’s with all these earthquakes? What’s causing this? Is something big and bad about to happen?” and getting generally freaked out. I don’t think they’re ever really satisfied with my answer, which is the only one I can give: It’s nothing special. There’s no reason this spate of big earthquakes should be happening, but there’s no reason it shouldn’t either. It’s just the earth going about its business.
+
+
+
+            14.              hhEb09'1 Says:
+                        
+August 25th, 2011 at 7:43 am 
+ It’s *not* unusual to get a quake in Virginia–it is unusual to get one this big.  The Central Virgina Seismic Zone seems to get them all the time, but this one was the biggest recorded.  http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usc0005ild/#summary
+
+
+
+            15.              Messier Tidy Upper Says:
+                        
+August 25th, 2011 at 7:46 am 
+ @ 10. Grizzly : An article here :
+ http://www.newscientist.com/article/mg20327273.800-climate-change-may-trigger-earthquakes-and-volcanoes.html
+(have to be a subscriber to see full details alas.)
+suggests that climate change & Human Caused Global Overheating could play a role too.
+See also : 
+http://blog.professorastronomy.com/2010/04/earthquakes-volcanoes-global-warming.html
+& 
+http://www.livescience.com/7366-global-warming-spur-earthquakes-volcanoes.html
+for more. 
+Of course, unlike the rest of the climatological conclusions regarding Anthropogenic Global Warming this connection seems tentative, somewhat preliminary and is yet to be firmly estabblished
+
+
+
+            16.              kuhnigget Says:
+                        
+August 25th, 2011 at 7:56 am 
+ Lord Poseidon would appreciate it if you stopped with all this plate tectonics nonsense. Meanwhile, he will continue to drive his chariot about under the sea, so expect more earthquakes. Αυτό είναι όλο. Σας ευχαριστώ.
+
+
+
+            17.              Earthquake Today. Next: Hurricane. « NotionsCapital Says:
+                        
+August 25th, 2011 at 8:00 am 
+ [...] “What’s with all these earthquakes?” Phil Plait, Bad Astronomy [...]
+
+
+
+            18.              Jessica Says:
+                        
+August 25th, 2011 at 8:03 am 
+ Oh, no, Phil! Not the “magma ocean” myth! You were doing good with the geology up until that. 
+Dave Schumaker also did a useful writeup on earthquake frequency after last year’s Chilean earthquake (http://daveschumaker.net/have-there-really-been-more-earthquakes-than-average/), and Callan Bentley has a great discussion of Tuesday’s VA quake (http://blogs.agu.org/mountainbeltway/2011/08/23/the-mineral-va-earthquake-of-august-23-2011/) if you want some additional in-depth commentary.
+
+
+
+            19.              CraterJoe Says:
+                        
+August 25th, 2011 at 8:04 am 
+ “Plait Techtonics”? BOoOOOooOOoo…  There you go again, Phil-ing up your articles with puns.
+
+
+
+            20.              Messier Tidy Upper Says:
+                        
+August 25th, 2011 at 8:10 am 
+ @ ^ CraterJoe : Well that’s hardly an earth-shattering problem now is it?  
+@ 13. kuhnigget : So what does : 
+Αυτό είναι όλο. Σας ευχαριστώ.
+mean in english, please?
+
+
+
+            21.              Firoz Jokhi Says:
+                        
+August 25th, 2011 at 8:15 am 
+ Its just the turtle walking.
+
+
+
+            22.              Thameron Says:
+                        
+August 25th, 2011 at 8:38 am 
+ If the solar wind is responsible for peeling away Mars’ atmosphere then why hasn’t it done the same thing to Venus which also doesn’t have an appreciable magnetic field and is a lot closer to the sun where the wind is stronger?  I’ve never really understood that.
+
+
+
+            23.              Messier Tidy Upper Says:
+                        
+August 25th, 2011 at 8:55 am 
+ @ ^ Thameron : More mass – stronger gravity to hold onto that atmosphere more tightly?  
+Venus is the size and mass of Earth remember whilst Mars is much smaller with just 11% of Earth’s mass and half the diameter. (Source : Wikipedia – click on my name.)
+Think I read somewhere that Venus is losing much of its atmosphere – a lot of hydrogen stripped off its former H2O molecules – streaming off far into space like an invisible comet tail – because of the solar wind. It’s apparently already lost a lot of its lighter elements but it takes time for an entire atmosphere to get blown away and carbon & oxygen molecules tend to be relatively heavy so they are more likely to stay behind longer. 
+I could be mistaken, natch, but that might be some of the explanation for it.
+
+
+
+            24.              Don´t Panic Says:
+                        
+August 25th, 2011 at 8:56 am 
+ Stats on calenders also show us that only the Mayan one runs out next year… haha
+But seriously.
+It´s HAARP ofcourse.
+
+
+
+            25.              XRBfan Says:
+                        
+August 25th, 2011 at 8:56 am 
+ @ #5 Messier Tidy Upper – Just an FYI there is a comet nearby, Comet C/2010 X1 (Elenin).  It might reach magnitude 6 in mid-Oct.  It is about 8 now.  Maybe not the *bright* you were thinking of but, might be worth dragging out the telescope.   N.B. – I’m not suggesting this is the cause of the earthquakes.   
+
+
+
+            26.              geekgirl Says:
+                        
+August 25th, 2011 at 8:56 am 
+ @Firoz Jokhi
+“It’s just the turtle walking.”  I spit my tea.
+
+
+
+            27.              Maki Says:
+                        
+August 25th, 2011 at 8:57 am 
+ It’s funny that we have a few teacup-rattlers here and everybody gets up in arms trying to find a supernatural explanation. Meanwhile in Japan, earthquakes happen all the time (I’ve been in at least one every time I visited growing up) and are “meh” unless they’re Kobe or Sendai scale devastation.
+You hit the probability points dead on. Randomness includes clustering. It’s also worth noting the “tree falling in the forest” effect: Humans cover more and more of the globe every day, so the probability of an earthquake happening in a populated area will only increase over time.
+
+
+
+            28.              Kevin Says:
+                        
+August 25th, 2011 at 9:05 am 
+ The Obama administration announced today that the D.C. earthquake can be traced to a geologic formation known as Bush’s Fault.
+
+
+
+            29.              Sunfell Says:
+                        
+August 25th, 2011 at 9:07 am 
+ While the VA quake might not have been caused by fracking, the swarm of quakes near Guy, Arkansas were. After that 4.7 that was felt clear to Little Rock and beyond, the company shut down two injection wells near a fault line there.
+The frequency of the quakes dropped off sharply. The company decided to permanently stop using those injection wells. One of my colleagues is very relieved- he lives about 1/2 mile from one of the wells.
+
+
+
+            30.              Tom (H. Type) Says:
+                        
+August 25th, 2011 at 9:14 am 
+ So then, based on this data, between 1-2 earthquakes of  magnitude 3.0 or great , occur every second of every day, on this planet.
+Really?!?!
+
+
+
+            31.              Maki Says:
+                        
+August 25th, 2011 at 9:21 am 
+ @Tom – Sure. Luckily most of the Earth is covered in water and we never even know they happen. Trees falling in the forest.
+
+
+
+            32.              Ken B Says:
+                        
+August 25th, 2011 at 9:23 am 
+ Messier Tidy Upper:
+So what does :
+Αυτό είναι όλο. Σας ευχαριστώ.
+mean in english, please?
+What?  You don’t have the Google Translate plugin for your browser?  In any case, it tells me:
+That is all. Thank you.
+
+
+
+            33.              Justin Says:
+                        
+August 25th, 2011 at 9:23 am 
+ ah, more normalcy bias . . .
+
+
+
+            34.              Ken B Says:
+                        
+August 25th, 2011 at 9:26 am 
+ Plait tectonics
+I’m ashamed to admit that I didn’t spot this until I read the comments here.   
+
+
+
+            35.              Janitor Says:
+                        
+August 25th, 2011 at 9:42 am 
+ @Gareth Please… Do not feed the trolls ;D
+
+
+
+            36.              Shawnamous Says:
+                        
+August 25th, 2011 at 9:46 am 
+ I think it is quite obvious that the earthquakes and hurricane are Obama’s fault. We’d never get hit this hard if Rick Perry was president.. what a travesty!
+
+
+
+            37.              Dee Wade Says:
+                        
+August 25th, 2011 at 10:15 am 
+ nonsense…Elenin is freakin out the Sun and Earth ,who are they fooling ?
+raise your cell phone to the sun ,take a photo ,the problem is as clear as the day ,Elenin approaching Sun at speed and then headin toward Earth and we through its tail ,a whole mini Solar system moving through our system and nasa posts this garbage
+alignments , and the binary suns intersection sillys
+
+
+
+            38.              DanVeteran Says:
+                        
+August 25th, 2011 at 10:15 am 
+ I thought it was the Haliburton Earthquake machine causing all the earthquakes…. or was that a hurricane machine. I get so confused.
+
+
+
+            39.              Nick M Says:
+                        
+August 25th, 2011 at 10:22 am 
+ Tom M.
+If you watch the USGS site for California then it doesn’t seem unlikely at all!  So I’m going to say, with only experience and allegory to back me up, really!
+I haven’t done a scientific check on it, but I’m very certain that there was at least one 3.x somewhere around California about once a week.  Sometimes shallow, sometimes deep, sometimes near populated areas but often not.
+
+
+
+            40.              JimR Says:
+                        
+August 25th, 2011 at 10:29 am 
+ Analog SF & Fact had an article about a month ago about the Madrid Fault earthquakes  200 years ago this December. Further research has downgraded its probable magnitude from 8.1 to below 7.0 and it may go lower. Very interesting discussion in the article about facts and myths and the way they have been investigated. Much less probability for a mid continent earthquake, but different propagation in that tectonic “Plait”.
+
+
+
+            41.              cnc Says:
+                        
+August 25th, 2011 at 10:29 am 
+ I read somewhere that there might be a relationship between Lunar Eclipses and earthquakes. I wonder if anyone has studied that and come up with an answer
+
+
+
+            42.              JimR Says:
+                        
+August 25th, 2011 at 10:35 am 
+ I found a reference in Wikipedia to an article about the downgrade at:
+http://www.nature.com/news/2010/100429/full/news.2010.212.html
+
+
+
+            43.              Jim Baerg Says:
+                        
+August 25th, 2011 at 10:48 am 
+ Phil & MessierTidyUpper
+Re: magnetic field & loss of atmosphere.
+Venus has a thicker atmosphere than earth but no magnetic field. Isn’t that a point against the idea thatn planetary magnetic fields help hold the air in?
+Could someone point me to an article explaining why anyone thinks magnetic fields do *anything* to hold in the air?
+
+
+
+            44.              Srajdelhi Says:
+                        
+August 25th, 2011 at 10:52 am 
+ I find out this mater before 15 years back
+
+
+
+            45.              Harold Says:
+                        
+August 25th, 2011 at 11:06 am 
+ We’ll have plenty of opportunities to investigate the relationship between fracking and earthquakes here in Pennsylvania in the coming years. The frackers are going hog-wild, with the blessing of a governor who wants to turn Penn’s Woods into the wastelands of Texas.
+
+
+
+            46.              Justin Says:
+                        
+August 25th, 2011 at 11:08 am 
+ So . . . ELEs are no longer possible because of our advanced scientific progress?  Carrington events are now impossible?  Maybe not pole shift, but maybe geomagnetic reversal? Nah, none of this could happen these days, right?
+Those who outright dismiss these possibilities will be like T-Rex in the headlights when they come to pass.
+
+
+
+            47.              MarkHB Says:
+                        
+August 25th, 2011 at 11:14 am 
+ Plait tectonics?  Shift happens?  Oh dear, oh dear, oh dear….  
+
+
+
+            48.              DramaMama487 Says:
+                        
+August 25th, 2011 at 11:41 am 
+ Thank you for being the calm voice of reason.  I enjoyed your article and appreciate your sense of humor.  Keep writing, please.
+
+
+
+            49.              Sebastian Says:
+                        
+August 25th, 2011 at 11:45 am 
+ If it tickles anybody’s fancy: a friend of mine put together a mashup a couple of years ago of official LIVE earthquake data and a Google Map
+http://www.oe-files.de/gmaps/eqmashup.html
+More info about it here:
+http://www.oe-files.de/oefiles/gmaps/eqmashups_html
+
+
+
+            50.              John Paradox Says:
+                        
+August 25th, 2011 at 11:52 am 
+ 38.   DanVeteran Says:
+August 25th, 2011 at 10:15 am
+I thought it was the Haliburton Earthquake machine causing all the earthquakes…. or was that a hurricane machine. I get so confused.
+
+Please don’t HAARP on “weather control”…..
+J/P?
+
+
+
+            51.              john Says:
+                        
+August 25th, 2011 at 12:09 pm 
+ @Tom “So then, based on this data, between 1-2 earthquakes of magnitude 3.0 or great , occur every second of every day, on this planet. Really?!?!”
+Not quite. At 130,000 3.0-3.9 quakes per year and 525,600 minutes per 365 days, that’s an average of one such quake per 4 minutes.
+
+
+
+            52.              Another Eric Says:
+                        
+August 25th, 2011 at 12:36 pm 
+ Wait, wait… No mention of 2012 being just around the corner?? I ‘m shocked, simply shocked!
+
+
+
+            53.              Wzrd1 Says:
+                        
+August 25th, 2011 at 1:21 pm 
+ Gotta love the HAARP crowd, who blame HAARP for earthquakes, hurricanes, tornadoes, droughts, someone singing off key on America’s Got Talent and Cheney’s impotence or something. Then, they cite something brilliant, like the engineer who should have his sheepskin shredded for claiming HAARP is EXACTLY THE SAME as audio vibrations, apparently electromagnetism and sound are the same in his engineers notebook. Ignoring the difference, the inverse square law and all of physics.
+And we shan’t even go INTO how much energy it would take to convince that much rock to vibrate in any significant amount, my flatulence would have a far greater impact!
+Besides, I KNOW what caused the east coast earthquake. It was caused by a sense of humor on the part of the creator, as I had gotten up REAL late and was reading the story about the Colorado earthquake when it struck.
+My proof is the proof of the creator’s sense of humor. How else can you explain the survival of the platypus, let alone it’s existence?   
+Come on now, nature’s had plenty of fun at our expense with the platypus. When first discovered, it was a, errrm, it’s a… Erm… It’s a bird, mammal, reptile, SOMETHING.
+Ever since, the same. First, further research showed characteristics of bird, reptile and mammal.
+Then, genetics, which show bird, reptile and mammalian DNA characteristics.
+Just think what we’ll discover over the NEXT century?  
+Assuming that the Neo-Luddites don’t thoroughly destroy our education system and ban science from the land…
+
+
+
+            54.              I am Elenin Says:
+                        
+August 25th, 2011 at 1:23 pm 
+ I saw that of the 50 comments before mine, 2 each came in at 7:15, 7:18, 10:15, and 3 at 8:56.  Over the course of six hours and 2 minutes, one “should” have come every 7 minutes, and since that did not happen and they were clustered, the world must be ending.  Indeed, it must have ended just after 8:56 a.m. and I somehow missed that.
+I am, btw, poor little comet Elenin, and I wish people would quit blaming me for imaginary stuff.  I’m small and innocent and harmless, and it hurts my little comet feelings when you do that.
+
+
+
+            55.              jcm Says:
+                        
+August 25th, 2011 at 1:23 pm 
+ …or maybe something else.
+
+
+
+            56.              Wzrd1 Says:
+                        
+August 25th, 2011 at 1:41 pm 
+ Elenin @53: Oh, crapmuffins! I HATE when the world ends and nobody bothered to tell me! That’s the 7th time this year it’s happened!   
+Now, kindly stop lying. We KNOW you’re going to spray magic blinding dust so that the Triffids will get us.
+
+
+
+            57.              ophu Says:
+                        
+August 25th, 2011 at 3:17 pm 
+ Ken B said: “Αυτό είναι όλο. Σας ευχαριστώ.”
+Προβλέπω ότι η Αρπαγή δεν θα συμβεί φέτος.
+I make the same prediction every year and I have never been wrong. That makes my track record better than Camping’s. So listen to me.  
+
+
+
+            58.              Davec Says:
+                        
+August 25th, 2011 at 4:10 pm 
+ Gives @54 a Teddy Bear.
+
+
+
+            59.              Wzrd1 Says:
+                        
+August 25th, 2011 at 5:32 pm 
+ ophu @57, speak for yourself. I and my wife shall enjoy our own rapture tonight.
+Kids are grown, out of the house and have their own houses, SECOND HONEYMOON!
+
+
+
+            60.              Danilo Albergaria Says:
+                        
+August 25th, 2011 at 6:52 pm 
+ Bravissimo, Phil.
+
+
+
+            61.              UserGoogol Says:
+                        
+August 25th, 2011 at 6:54 pm 
+ Actually, if you’re wondering which politician angered which god, here’s a fun little fact about the earthquake: The epicenter of the earthquake was located in the congressional district of House Majority Leader Eric Cantor.
+More seriously, that table of earthquake frequency is pretty interesting since it shows that an earthquake ten times as strong as another happens about one tenth as often. That’s a nice simple relationship. Looking it up online, apparently it’s called the Gutenberg-Richter law.
+
+
+
+            62.              Kimpatsu Says:
+                        
+August 25th, 2011 at 7:12 pm 
+ It’s all Jen McCreight’s fault…
+
+
+
+            63.              Steve Morrison Says:
+                        
+August 25th, 2011 at 7:14 pm 
+ Oh, crapmuffins! I HATE when the world ends and nobody bothered to tell me! That’s the 7th time this year it’s happened!
+Well, in recent years we have seen Rebeccapocalypse, Snowmageddon, and the Potterdammerung. I’ve been wondering just how many ways the world will end in my lifetime…
+
+
+
+            64.              Wzrd1 Says:
+                        
+August 25th, 2011 at 7:38 pm 
+ steve @63 Did you forget the vacuum metastability disaster?   
+
+
+
+            65.              Naomi Says:
+                        
+August 25th, 2011 at 9:04 pm 
+ Not sure you could call the August 20 one Australian, given that no one here actually felt it (and this is the first time I’ve even READ about it). What’s wrong with saying that it was in Vanuatu?
+
+
+
+            66.              Teaching Science 2.0 » Statistics and Tuesday’s Earthquakes Says:
+                        
+August 25th, 2011 at 10:15 pm 
+ [...] Statistics and Tuesday’s Earthquakes  http://blogs.discovermagazine.com/badastronomy/2011/08/25/whats-with-all-these-earthquakes/ [...]
+
+
+
+            67.              Terry Says:
+                        
+August 25th, 2011 at 10:49 pm 
+ What about pole shift….the location of the north pole is shifting much faster than at any time in recorded history….search ‘Pole Shift’ on  You Tube.
+
+
+
+            68.              Wzrd1 Says:
+                        
+August 26th, 2011 at 10:31 am 
+ Terry @67, not likely. Conservation of momentum prevents such a thing.
+A rapid MAGNETIC reversal IS theoretically possible, but again, unlikely and it would overall be innocuous, save for the need to change maps and compasses.
+I DID get a laugh at the convenience store today. The Philadelphia Daily News has the headline:
+“Ackerman
+Earthquake
+Irene
+WHAT NEXT, LOCUSTS?”
+Ackerman is the outgoing school system superintendent, where millions were “anonymously” donated to pay out her contract and terminate it. Big controversy here.
+Still, it gave me a good chuckle.
+Now, where DID I put my kite…?
+
+
+
+            69.              Joe Slomka Says:
+                        
+September 1st, 2011 at 11:51 am 
+ I actually felt the quake.
+I was sitting at my Mac, on the Internet, when my chair and desk shook.
+My neighbor was having some work done on her house, so I went outside to see if there was any
+heavy equipment . Not only no equipment, there was no one there!
+So, now I figure it was a quake. The local NPR station started a call in show, where people were
+sharing their experiences.
+Coincidently, that morning a small 2.2 mag quake shook the town of Altamont, a suburb of Albany, NY.
+There have been aftershocks since, all in the range of second magnitude.
+
+
+
+            70.              Evelyn Says:
+                        
+September 1st, 2011 at 1:44 pm 
+ I think has been said already in the comments, but there is no magma ocean on our planet today. Also, tectonic plates aren’t made up of crust. Actually, they are made up of the brittle lithosphere, which consists of both crust *and* mantle. Underneath the lithosphere is the asthenosphere, which consists of mantle which deforms in a plastic manner, much like honey or toothpaste. 
+In the past, there very likely was a large magma ocean on Earth (and also on the moon), but there’s nothing like that now. Today, most of our Earth is solid. The asthenosphere is a solid that can deform slowly (enabling the motion of the lithosphere above), but it’s still a solid. Only the Earth’s outer core is liquid. 
+Here’s a quick guide to the crust vs. lithosphere and the mantle vs. the asthenosphere which I wrote up last year: http://blogs.agu.org/georneys/2011/01/19/geology-word-of-the-week-l-is-for-lithosphere/
+
+
+
+            71.              Evelyn Says:
+                        
+September 1st, 2011 at 1:45 pm 
+ Other than the magma ocean slip, great post, though!  
+
+
+
+Leave a Reply
+
+
+Name (required)
+
+Mail (will not be published) (required)
+
+Website
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Bad Astronomy 
+Phil Plait, the creator of Bad Astronomy, is an astronomer, lecturer, and author. After ten years working on Hubble Space Telescope and six more working on astronomy education, he struck out on his own as a writer. He's written two books, dozens of magazine articles, and 12 bazillion blog articles. He is a skeptic and fights the abuse of science, but his true love is praising the wonders of real science.
+
+ The original BA site (with the Moon Hoax debunking, movie reviews, and all that) can be found here.
+
+Contact me: The Bad Astronomer "at" gmail "dot" com
+
+
+
+ Bad Astronomy is a Wikio Top Blog! Clearly, Wikio has excellent taste.
+ 
+
+ 
+ Bad Astronomy was chosen as one of Time.com's Best Blogs of 2009.
+
+
+Subscribe to BA 
+
+Subscribe to Bad Astronomy using RSS! 
+
+Death from the Skies! 
+Order a copy of Death from the Skies! from Amazon, Barnes and Noble, or Borders.
+
+"If things worked the way I wanted them to, any reporter about to do another 'sensational' story on deadly meteors would consult this volume, and bang! common sense would find its way into the news. How strange would that world be?" -- Adam Savage, Mythbusters
+
+"Reading this book is like getting punched in the face by Carl Sagan. Frightening, but oddly exhilarating." -- Daniel H. Wilson, author of How to Survive a Robot Uprising
+
+
+
+
+
+
+  Recent Posts 
+Me Versus the World
+TEDxBoulder, containing me
+STUNNING lunar eclipse photo
+Symphonic Symphony of Science
+Caturday bugs me
+
+Social/Networking/Cool Stuff 
+ Twitter
+
+Phil Plait on Twitter Counter.com
+
+
+
+ Facebook
+
+
+Post Categories
+Select Category
+10 Things
+About this blog
+Alt-Med
+Antiscience
+Astronomy
+Bad Universe
+Caturday
+contest
+Cool stuff
+DeathfromtheSkies!
+Debunking
+Geekery
+Humor
+illusion
+IYA
+JREF
+Miscellaneous
+NASA
+Pareidolia
+Piece of mind
+Politics
+Pretty pictures
+Q & BA
+Rant
+Religion
+Science
+SciFi
+Skepticism
+Space
+Time Sink
+Top Post
+TV/Movies
+Uncategorized
+Video Blog
+
+
+Archives  Select Month  September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+
+Blogroll
+
+Bad Astronomy (old site)
+Bad Astronomy and Universe Today Forum
+Commenting Policy
+Computer Support
+Contact Information
+DM: 80 Beats
+DM: Cosmic Variance
+DM: Discoblog
+DM: Gene Expression
+DM: NERS
+DM: Science Not Fiction
+DM: The Intersection
+DM: The Loom
+James Randi Educational Foundation
+My use of the word "denier"
+Planetary Society Blog
+Politics and Religion posts
+Press Kit
+The Antivax Bible
+Universe Today
+
+
+ DISCOVERmagazine.com: Latest Articles on SpaceSTUNNING lunar eclipse photo | Bad AstronomyHi-Tech Eye Exam Shows Jaw-Dropping Accuracy of Webb Telescope's OpticsThe delicate tendrils of a solar dragon | Bad Astronomy(1) Capture Asteroid. (2) Mine It. (3) PROFIT!! (4)…KABLOOM | Discoblog… and a real meteor over Georgia | Bad Astronomy DISCOVER Blogs: The LoomClimate Relicts: My new story for Yale Environment 360More on Scientific American Podcast: Science Tattoos and the Myth of the Parasite-Driven Cat LadyScientific American interviews me about evolution in the city (and more to come)Ann Coulter Nostalgia: Behold, For *I* Am The Giant Flatulent RaccoonHow many species are there? My latest for the New York Times 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2011, Kalmbach Publishing Co.
+
+
+Privacy - Terms - Reader Services - Subscribe Today - Advertise - About Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

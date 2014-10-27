@@ -1,0 +1,2479 @@
+More Grumbine Science
+
+
+
+
+
+
+skip to main  |
+      skip to sidebar
+
+
+
+
+
+
+More Grumbine Science
+
+
+
+Thoughts and notes on science from another blogging Grumbine.
+
+
+
+
+
+
+
+Pages
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saturday, September 3, 2011
+
+
+
+
+
+Peer review and Wagner Resignation over Spencer and Braswell
+
+
+
+"It's peer review, not God review"    My wife's comment about peer review seems particularly apt for the current tempest regarding the resignation of Wolfgang Wagner from his post as editor in chief of the journal Remote Sensing.  It regards a paper I mentioned in July, and related to the one that prompted Barry Bickmore to suggest "Just Put the Model Down, Roy".  
+
+I won't be taking the usual line of consideration here (surprise!).  Rather, let's go back to talking about peer review.  As my wife said, it is not God review -- reviewers and editors are human, and therefore make mistakes.  At the end of peer review, therefore, you don't have gospel, you have something that has a fairly good chance of being worth your time to read.  To rephrase Wagner, papers that pass peer review should at least not contain fundamental errors of method or false claims.  And it now seems likely to him that this paper (Spencer and Braswell) may well not pass that standard.
+
+Richard Feynman's comment about fooling yourself is commonly quoted:
+We've learned from experience that the truth will come out. 
+Other experimenters will repeat your experiment and find out whether you
+ were wrong or right. Nature's phenomena will agree or they'll disagree 
+with your theory. And, although you may gain some temporary fame and 
+excitement, you will not gain a good reputation as a scientist if you 
+haven't tried to be very careful in this kind of work. And it's this 
+type of integrity, this kind of care not to fool yourself, that is 
+missing to a large extent in much of the research in cargo cult science.
+"Cargo Cult Science", adapted from a commencement address given at Caltech (1974)
+
+This underlies some parts, I think, of the failure in Spencer and Braswell's work, and the subsequent failure in the review and editorial process.  Namely, it is assumed by reviewers and editors that authors have already done some work doubting themselves and checking to see how it is they might have fooled themselves -- and to take action against such possibilities.  Further, the review process is based on the presumption that your purpose in publishing is to advance our understanding of science. 
+
+Read more »
+
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+11:49
+
+
+4
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+doing science
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Wednesday, August 31, 2011
+
+
+
+
+
+Too-early consideration of sea ice estimates
+
+
+
+I won't let it stop me, but considering that it is still August as I write, it's premature to evaluate estimates of September's sea ice extent.  On the other hand, it's fun and easy, and some parts make sense even at this early date.
+
+Last May I made, with colleagues, some estimates for September 2011's extent.  As usual, I also included some other forecasts for comparison.  The NSIDC figure for August 29th is:
+Where I've added lines in red for the 30 year mean climatology of September extents (6.67 million km^2), the mean monthly September extents if we take a 30 year linear trend (5.31), and lines at 5.0 and 4.5 million km^2.
+
+
+Read more »
+
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+05:02
+
+
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+sea ice
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Tuesday, August 30, 2011
+
+
+
+
+
+Earthquake followup
+
+
+
+Phil Plait showed the spectacular animation of seismic waves propagating across the US from the 5.8 Virginia earthquake last week, but left out part of the story.  A commenter, davenquinn,  picked up some details.  If you look at the video:
+
+you see an enormous number of sensors in the Midwest and Great Plains.  These are areas not known for seismic activity, so what are they doing with so many sensors?
+They are part of a travelling array (the 'transportable array') of seismometers, part of the Earthscope initative from the National Science Foundation.
+
+The idea is to have a substantial number of seismometers moving stepwise across the US every few years.  Then, having a dense array of seismometers, particularly to have them in places that we don't normally, will show us things that we don't normally see.  That spectacular wave propagating across the country is one of those things.  Get in to the data and you start seeing that the seismic waves didn't travel the same speed in all directions.  And that tells us something about what the earth is made of.  No idea what is up, but take a look at the Texas-Louisiana area.  Early in the propagation of the waves, they follow along with the rest of the US.  But later in the animation, that area shows much larger amplitude variations.  Why?
+
+In other words, more fun science to be done!
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+19:48
+
+
+3
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+earthquake
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Saturday, August 27, 2011
+
+
+
+
+
+Now twittering @rgrumbine
+
+
+
+My thoughts, between earthquake, stolen wallet, and hurricane, are now more in line with twitter than blogging.  I'm @rgrumbine there. 
+
+For tracking the hurricane and forecasts, I like the Weather Underground.  Specifically on the hurricane, the WunderMap (r). 
+
+But, speaking of the wallet, it was returned this morning.  Minus cash, but plus all the plastic and photos.
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+17:40
+
+
+0
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+meta
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Tuesday, August 23, 2011
+
+
+
+
+
+My first earthquake
+
+
+
+Yes, I was one of the many who felt the 5.8 to 5.9 earthquake centered in Virginia.  The final scoring and location will come from the US Geological Survey -- http://www.usgs.gov/  This is the first time I've noticed an earthquake in my life.  Growing up around Chicago and then living around here doesn't give you a lot of exposure.  The strongest here that I've been present for was 4.3 to 4.4, as I recall it.  I didn't notice it at all, not even in the sense of 'oh, so that's what was happening'.
+
+This time, it was noticeable.  The initial stage was some fairly minor, fairly high frequency vibration -- similar to having some heavy trucks drive past, or some kinds of construction drilling.  Since there is construction going on in my area, I figured this was it.  For the first few seconds.  Then there was a rapid increase in the size of the vibrations, and a decrease in their frequency.  Rather than having some vibrations passing through the building, we moved to having the building itself swaying back and forth.  Earthquake!
+
+By my count, I felt the quake for about 30 seconds.  (If that's too long compared to the USGS figures, blame my inner ears.)  Call it 20-30.  One friend estimated the swaying as being 4 cycles per second in the real quake phase.  My guess is closer to 2.  I'll have to see what the USGS has.  There are probably confounders from the engineering of my building.  So far, all seems ok at work and home.  Some of the more precariously perched items fell off book cases at home, but that's about it.  Fingers crossed that this is true for everybody.
+
+A question popular in our parking lot at work (we'd been evacuated post-quake) was to wonder what fault line caused the quake.  My early answer, which was supported by a snippet on the radio (i.e., don't place a lot of confidence here) is that there was no fault line involved.  This is simply a much stronger version of the usual earthquake for this region -- adjusting to the fact that the Laurentide ice sheet is gone.  In areas that the ice sheet occupied -- down to southern Illinois or in to Pennsylvania -- the land sank under the weight of the ice sheet.  This squeezed some of the more fluid parts of the mantle out from there, and over to the areas in front (south) of the ice sheet.  That elevated the areas around, say, Virginia.  Once the ice sheet was removed, the fluid started oozing back to its original location.  As it does so, the crust creaks its way back in to position.  Creaking = earthquake.
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+17:24
+
+
+9
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+earthquake
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Monday, August 8, 2011
+
+
+
+
+
+Is climate a random walk?
+
+
+
+Let's pick up again the discussion between Tamino and me.  He has objected to my use of cumulative sums on the grounds that cumulative sums of random numbers have bad behavior statistically.  He's correct about that statistical point, naturally, which means caution is needed regarding the statistical part of my post on finding a climate normal.
+
+But how concerned should we be as climate scientists?  Crucial to that concern is that climate be, to a fair degree, experiencing random variation.  It isn't, strictly.  As Tamino mentioned, there is certainly a trend in more recent years -- not purely random variation.  His criticism is more one against the cumulative sums method.  As Jim Bouldin mentioned in the comments recently, we do routinely transform variables in order to study topics of scientific interest.  In his case, plants.
+
+I'll start by showing you an illustration of why Tamino is concerned.  This is a plot of the cumulative sum -- of a purely random variable, with uniformly random numbers in the range plus or minus 1 degree.  This is actually about 10 times too large for climate.  So the late period value of 40 really means 4 degrees.
+Each tick mark is 1 month, but assumes that each month's random number is completely independent of each other.  That isn't the case, as Tamino has documented.  This curve manages to accumulate its 4 degrees in about 200 years.
+
+Er, it accumulates that climate wandering in only 200 years!.  That and the smooth curves, suggest why we cannot take climate to be random wandering over long periods.  Volcanoes suggest why we cannot do so for short periods either.  Intermediate periods might be ok physically.
+
+
+Read more »
+
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+09:45
+
+
+7
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+climate,
+mathematics,
+project folder
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+
+
+Endogenous Retroviruses and a Different Writing Style
+
+
+
+One of the blogs I keep an eye on is erv, Endogenous RetroViruses, by Abbie Smith.  Not the usual language you'll see here (some over PG-13), and certainly different style (Abbie doesn't believe in the ', for instance).  But for some discussion of biology, particular parts involving viruses and especially endogenous retroviruses (surprise), it's a good place to go.
+
+I'll note that back when I was thinking about blogging, Abbie was one of the people who gave me some ideas on approach.
+
+Some articles to take a look at for a sample of the blog:
+
+What is normal, and how it matters in examining bees
+Open Access Publishing -- and some limits
+How immunization works
+Antivaccinationism and death by measles
+AIDS and CD4+ T-cells
+Blood groups and viruses
+Antibodies and dengue
+Pursuing science and results
+Zinc and the common cold
+The Timetree of life
+Scientists  being slandered
+Scientists and media
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+05:48
+
+
+3
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+blogs
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Thursday, August 4, 2011
+
+
+
+
+
+Is it really normal?
+
+
+
+Is my previous post about finding a climate normal really ok, or fatally flawed for statistical reasons?  This wasn't how I was planning on doing so, but it provides a good chance to discuss some ideas about doing science and statistical versus physical significance.
+
+In my note, I took a look to see if it was possible to find a period in which climate (as defined by the HadCRU temperatures) behaved in a way that we think of climate as doing -- some warming, some cooling, and totalling to no real change.  That put me in mind of a cumulative sum, and the result was that it was indeed possible to find such a period -- 1850-1940.  It could well have been that it was not possible to find such a period, or at least not one long enough to be interesting for climate.  That would have told us that our notion of climate was not something that the climate system respected -- time to learn more about climate and update our thinking. 
+
+A second part of that post was my conclusion that something changed around 1940.  This is a statistical conclusion, made by eyeball inspection.  Quite a hazardous thing to do and Tamino shows ample reason to be leery of that conclusion, given the statistical nature of cumulative sums.  On the other hand, the deviations he shows from his noise simulation reach only about 50, versus the 300+ of mine using real data. 
+
+So where are we?  
+
+Read more »
+
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+09:18
+
+
+5
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+doing science
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+Tuesday, August 2, 2011
+
+
+
+
+
+How to find climate normals?
+
+
+
+It's that time of the decade when the official 'climate normals' are computed -- according to the rules of the WMO and NOAA (in the US).  But can we find a better way of deciding 'normal'?  I'll do some thinking out loud here, and invite you to play too.  Could we even be so lucky as to find a way of defining climate normal in such a way that we don't need to worry about an early period of 'coming out of the Little Ice Age', or a later period of Anthropogenic Global Warming.
+
+In previous posts, I illustrated that there are principles which lead to the requirement of 20-30 years to define a climate average and, separately, 20-30 years to define a climate trend.
+
+In those approaches, we were able to make good use of the adage that climate is what you expect.  It was only after 20-30 years of data that our expectations for the mean or trend would be stable -- would not depend sensitively on how long a period we chose to be our data period.
+
+This time, I'll pick up with a different notion or description.  A common description of climate is also that sometimes its warmer and sometimes it's cooler, but it all averages out in the end.  Let's start by looking at the Hadley-CRU temperatures, back to 1850, month by month.  I'll start with looking at temperatures relative to the average over the entire data set:
+For the earlier part of the record, we see the deviations being both above and below the reference value.  On the other hand, the last 26+ years, every month since December 1984 -- 317 consecutive months, has been above the reference value.  That's not a sign of sometimes warmer, sometimes cooler.  That's the recent period being different from 'normal'.  For instance, because of a warming trend.  If you're younger than 26, you have never seen a month where the global mean was as cold as the 161 year average.  On the other hand, looking at the early part of the record, we see some years warmer than 'normal' even though most are cooler.  Further (look directly at the original data, don't take my word) there are no periods as long as even 20 years of continual below reference temperatures.  In other words, the Little Ice Age, insofar as it was global, had ended by 1850.
+
+
+Read more »
+
+
+
+
+
+
+
+Posted by
+Robert Grumbine
+
+
+at
+05:58
+
+
+13
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels:
+climate,
+project folder
+
+
+Links to this post
+
+
+
+
+
+
+
+
+
+
+
+
+Older Posts
+
+Home
+
+
+
+
+Subscribe to:
+Posts (Atom)
+
+
+
+
+
+
+
+Welcome
+
+I'll be trying what seems to be an unusual approach in blogs -- writing to be inclusive of students in middle school and jr. high*, as well as teachers and parents (whether for their own information or to help their children).  To that end, comments will have to pass a stricter standard than I'd apply for an all-comers site.  It shouldn't be onerous, just keep to the topic and use clean language.I expect it to be fun for all, however, as you really can get quite far in understanding the world, even climate, by understanding this sort of fundamental. If I get too much less fundamental, let me know where I went astray.* Ok, I concede that not many middle school students will get everything.  Even a fair number of adults will find some parts hard to follow.  Still, some middle school kids will have fun.  And almost everyone will follow a number of posts just fine.Please see the comment policy for details.  And the link policy for details about that.  The latter is more open than you might expect.
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe MoreGrumbineScience
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Atom
+              
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+All Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Atom
+              
+
+
+
+
+
+
+
+
+
+
+All Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share this blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+▼ 
+
+2011
+(41)
+
+
+
+▼ 
+
+September
+(1)
+
+Peer review and Wagner Resignation over Spencer an...
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(9)
+
+Too-early consideration of sea ice estimates
+Earthquake followup
+Now twittering @rgrumbine
+My first earthquake
+Is climate a random walk?
+Endogenous Retroviruses and a Different Writing St...
+Is it really normal?
+How to find climate normals?
+Giant Mutant Imperial Moths
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(10)
+
+Odds and Ends -- July 2011
+Best Frenemies
+How not to compute trends
+Reconsidering forecasts and wagers
+Sea Ice Wagers
+Making your own sea ice estimates
+Adding to the blogroll
+2011 Sea Ice Outlooks
+How large a conspiracy?
+Happy Anniversary ...
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(1)
+
+Hiatus to end shortly
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(2)
+
+Hiatus
+Setting Goals in Running
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(3)
+
+Starting to work with data
+Messy Science
+Says who?
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(4)
+
+Internationality of Science
+Where is north?
+What is a day?
+Running in the rain
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(4)
+
+Science Fairs
+The Invention of Air
+The Way Things Break
+Question Place
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(7)
+
+Rabett on History of Radiation
+Whiteboard on the end of global warming
+Wrestling with data
+Help save data
+Penguins
+Was Easterbrook talking science?
+Back and becoming active
+
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2010
+(84)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(4)
+
+Kids are scientists
+Off-blog and Happy New Year
+Evolving Thoughts
+How to make sanity checks
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(8)
+
+Verifying forecasts 2
+Verifying forecasts 1
+Thanks Teachers!
+Vererans Day
+Sea Ice Predictions vs Reality
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(1)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(6)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(10)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(5)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(4)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(2)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(5)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(11)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(16)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(12)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2009
+(107)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(3)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(10)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(9)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(10)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(6)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(9)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(9)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(7)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(13)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(13)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(6)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(12)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2008
+(90)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(11)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(8)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(8)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(12)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(29)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(15)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(2)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Science Links
+
+
+Today's Sea Ice
+Cryosphere Today
+National Snow and Ice Data Center
+NASA
+NOAA
+AGU
+AMS
+
+
+
+
+
+
+
+
+
+
+
+
+Blogroll
+
+
+
+
+
+
+
+
+
+
+Skeptical Science
+
+
+
+4 minutes ago
+
+
+
+
+
+
+
+
+
+
+
+
+Climate Abyss
+
+
+
+4 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Arctic Sea Ice
+
+
+
+5 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Bad Astronomy
+
+
+
+6 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+A Few Things Ill Considered
+
+
+
+8 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+James' Empty Blog
+
+
+
+13 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Hot Topic
+
+
+
+17 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Rabett Run
+
+
+
+19 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Stoat
+
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+Open Mind
+
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+BraveNewClimate.com
+
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+Chris Colose @ Times Union
+
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+Only In It For The Gold
+
+
+
+2 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+Our changing climate
+
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+Deltoid
+
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+The Science of Doom
+
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+The Cost of Energy
+
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+RealClimate
+
+
+
+4 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+maribo
+
+
+
+5 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+Jules' klimaatblog
+
+
+
+1 week ago
+
+
+
+
+
+
+
+
+
+
+
+
+The Way Things Break
+
+
+
+1 week ago
+
+
+
+
+
+
+
+
+
+
+
+
+Serendipity
+
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+
+
+
+ClimateSight
+
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+
+
+
+emretsson.net (Swedish)
+
+
+
+3 weeks ago
+
+
+
+
+
+
+
+
+
+
+
+
+Scruffy Dan
+
+
+
+3 weeks ago
+
+
+
+
+
+
+
+
+
+
+
+
+A Blog Around The Clock
+
+
+
+2 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Atmoz
+
+
+
+2 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Rationally Thinking Out Loud
+
+
+
+3 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Greenfyre's
+
+
+
+3 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Die Klimakrise (German)
+
+
+
+4 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Koillinen (Finnish)
+
+
+
+5 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Trees for the Forest
+
+
+
+6 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Clear Climate Code
+
+
+
+6 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Rust Never Sleeps
+
+
+
+7 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+All of My Faults Are Stress-Related
+
+
+
+9 months ago
+
+
+
+
+
+
+
+
+
+
+
+
+Stigs klimablogg (Norwegian)
+
+
+
+2 years ago
+
+
+
+
+
+
+
+
+
+
+
+
+Old man in a cave
+
+
+
+2 years ago
+
+
+
+
+
+
+
+
+
+
+
+
+Even More Grumbine Science!
+
+
+
+2 years ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels
+
+
+doing science
+(57)
+
+
+meta
+(34)
+
+
+project folder
+(31)
+
+
+weeding sources
+(29)
+
+
+climate
+(28)
+
+
+sea ice
+(27)
+
+
+mathematics
+(22)
+
+
+misc
+(21)
+
+
+being a scientist
+(18)
+
+
+reading
+(18)
+
+
+modelling
+(15)
+
+
+questions
+(15)
+
+
+health
+(13)
+
+
+climate change
+(10)
+
+
+running
+(10)
+
+
+blogs
+(9)
+
+
+concepts
+(9)
+
+
+observations
+(8)
+
+
+weather
+(8)
+
+
+history
+(7)
+
+
+science
+(7)
+
+
+temperature
+(7)
+
+
+astronomy
+(6)
+
+
+data
+(5)
+
+
+greenhouse
+(5)
+
+
+ice
+(5)
+
+
+Arctic
+(4)
+
+
+antarctic
+(4)
+
+
+atmosphere
+(4)
+
+
+co2
+(4)
+
+
+genealogy
+(4)
+
+
+politics
+(4)
+
+
+ice age
+(3)
+
+
+media
+(3)
+
+
+oceanography
+(3)
+
+
+pseudoscience
+(3)
+
+
+scientists
+(3)
+
+
+spectating
+(3)
+
+
+sst
+(3)
+
+
+technology
+(3)
+
+
+travel
+(3)
+
+
+computers
+(2)
+
+
+earthquake
+(2)
+
+
+elements
+(2)
+
+
+engineering
+(2)
+
+
+experiments
+(2)
+
+
+ice sheet
+(2)
+
+
+international
+(2)
+
+
+philosophy
+(2)
+
+
+sea level
+(2)
+
+
+young scientists
+(2)
+
+
+biology
+(1)
+
+
+clouds
+(1)
+
+
+evolution
+(1)
+
+
+lakes
+(1)
+
+
+laurentide
+(1)
+
+
+news
+(1)
+
+
+research discussion
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+Robert Grumbine
+
+
+In my day job I work on the oceanography, meteorology, climatology, glaciology end of my science interests, but I'm interested in everything, science or not.  So I've also been on stage in a production of Comedy of Errors, run an ultramarathon, and been to Epidaurus, Greece, to see a production of Euripides' Iphigenia among the Taurians
+
+Prior to starting the current job, I was a post-doc in oceanography in the UCAR ocean modelling program, and earned my doctorate from the Department of the Geophysical Sciences at the University of Chicago (1989).  My undergraduate degree involved Applied Math, Engineering, Astrophysics, and Glaciology. 
+
+Of course I don't speak for my employer, whoever that may be.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Recent Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search This Blog
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sitemeter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

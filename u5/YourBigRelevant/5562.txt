@@ -1,0 +1,3259 @@
+Not Running a Hospital
+
+
+
+
+
+
+skip to main  |
+      skip to sidebar
+
+
+
+
+
+
+Not Running a Hospital
+
+
+
+This is a blog by a former CEO of a large Boston hospital to share thoughts about hospitals, medicine, and health care issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, September 05, 2011
+
+
+
+
+
+Bob is good and lucky; Others are not
+
+
+
+
+
+Bob Wachter, one of my heroes in the patient safety arena, is on sabbatical and has written this blog post comparing the approach of US and UK hospitals with regard to improvements in this area.  As always, it is thoughtful and provocative.
+I found the post a bit too self-congratulatory, though, with regard to the progress made in US academic medical centers.
+While engaging practicing doctors is vital, so too is capturing the  hearts and minds of the next generation.... In the US, kids go to four years of college, then to medical school  for four more years. From there, they enter a residency in the specialty  of their choice and, for some, additional fellowship training. Training  programs are run by individual academic medical centers, such as NYU or  Johns Hopkins, or smaller teaching hospitals. While in training,  American residents work under the wing of a single program director and  rotate through a limited set of training experiences, usually in 2-3  hospitals.... Because the training  director is responsible for the residents and can track them easily, he  or she has the tools to create new curricular experiences  in crosscutting areas like patient safety. At UCSF, for example, all  our interns now have a two-week safety/quality rotation, during which  they learn core principles and begin working on a project.
+While I would like to think that USCF is the norm, it is not.  I have met residents and young attendings from throughout the country who have decried the lack of such programs as part of their multi-year graduate medical education.  At my former hospital, where such training was included, we noticed a stark difference in the ability of our residents to perform systems analytic work compared to residents from other institutions who had rotations in our hospital.
+Perhaps the biggest difference I’ve noticed is in the background of  the leaders in safety research and policy. In the US, the vast majority  of the leaders are physicians, most of them based in academia and still  seeing patients part-time. In the UK, most of the prominent and highly  published patient safety experts are PhDs—mainly in psychology and  sociology.
+ How to explain this striking difference? I’m guessing it reflects  several factors. The first is the US college-before-med school system,  which allows kids with a social science intellectual sweet tooth to  pursue their passion in college, yet still become physicians. Atul Gawande,  for instance, has a Stanford degree in biology and political science,  and then studied philosophy at Oxford. Johns Hopkins safety expert Peter Pronovost  double majored in biology and philosophy at Fairfield University, and I  majored in political science at Penn. One can’t really do this in Great  Britain; kids here begin their professional education at age 17. In  England, a student like me probably wouldn’t go to med school in the  first place, and if he did, he wouldn’t have had much time to study  politics during his university years.
+ Second, the US has a strong tradition of physicians receiving  additional social and political training after their clinical years,  through the Robert Wood Johnson Clinical Scholars  and similar fellowship programs. In the UK, while many MDs pursue  additional training in biomedical research, relatively few receive (or  have access to) the kind of training that promotes leadership in safety  or quality. Just as importantly, there isn’t an obvious pathway for  physician-leaders in quality or safety research to be promoted, funded,  or valued by their academic institutions, as they increasingly are in  the States, and so there are few role models with this phenotype.
+Yes, the leaders in the US are the type of people mentioned, but they are often "prophets in their own land," valued more by people in other hospitals than their own.  Some cannot even get their own hospital to agree to conduct studies of their safety theories.  Some cannot get their hospital to implement the protocols and approaches that have proven to be efficacious in their experiments elsewhere.
+Indeed, you sometimes get the feeling that academic medical centers are very happy to have these "trophy doctors" on staff more for the prestige they bring to those centers than for the knowledge they offer.
+I think Bob is lucky that UCSF values his work so much and has done the types of things he mentions in his blog post.  (The patients there are even more lucky!)  But I fear that his view is skewed by that positive experience and overstates the progress made in the attitude and work of many other academic medical centers.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/05/2011 07:11:00 PM
+
+
+0
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Periodic Table of Texting
+
+
+
+
+
+
+Seen today on a young lady, this t-shirt tells you all you need to know!
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/05/2011 03:38:00 PM
+
+
+0
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, September 04, 2011
+
+
+
+
+
+Labor, Delivery, Disclosure, Malpractice
+
+
+
+
+
+Let's talk about a different kind of labor on Labor Day weekend, the kind that delivers babies, and an order issued this past week by the U.S. Court of Appeals for the Seventh Circuit in Chicago.  The case is styled Arroyo vs United States, and I want to focus on the concurring decision by Judge Richard Posner.
+The appeal involved a question of whether a malpractice lawsuit was filed by the Arroyos after the statute of limitations had run out.  The statute exists to prevent "stale" lawsuits, those filed years after a reasonable period of time.  It makes sense to have such a statute of limitations, in that defending a case gets progressively difficult as years go by:  Memories fade and potential witnesses become unavailable. 
+The Court ruled for the Arroyos, based on the fact that it would have been unlikely for them to have understood that malpractice might have occurred during the aftermath of their baby's birth.  It therefore allowed the case to proceed.
+Judge Posner, one of the world's most distinguished legal scholars,  issued a concurring decision that is interesting in its implications, were it to be come the law of the land.  He said that, had the hospital given full disclosure of the medical error at the time it occurred, the start of the clock for the statute of limitations would have begun sooner.  He asserted that the current standard of medical care envisions the ethical duty of such disclosure, and that failing to offer it cannot be used as a defense against a stale malpractice lawsuit.
+
+Many of us have talked about the wisdom of early disclosure and apology.  It is an essential component of respectful and compassionate care.  In practical terms, it also reduces the risk of the kind of anger and distrust that leads to malpractice lawsuits or unreasonable demands for financial damages. 
+
+But Judge Posner offers an additional incentive.  And he raises the issue to a new level by claiming that disclosure is an ethical duty inherent in the legal review of this type of matter.
+
+Here are some excerpts from his concurring decision:
+
+I need to make clear that I am discussing only the standard for determining when the statute of limitations begins to run, not the standard of care. Kubrick holds that the statute of limitations begins to run in a malpractice case when the plaintiff either discovers, or if diligent would have discovered, that he has been injured by the (at that point merely potential) defendant, and not when the plaintiff discovers or should have discovered that his injury was the result of negligence. This is not only the law; it is sensible. Even unsophisticated people, when they learn that they have been injured by a physician rather than (just) by the condition the physician was (or should have been) treating, should know that there may have been malpractice, and so should consult another physician, or other medical person, or a lawyer.
+...Had someone informed the Arroyos that it was “highly possible” that the injuries to their child had been caused by the failure to administer antibiotics to Mrs. Arroyo, the statute of limitations would have begun to run then, just as in Kubrick. For they would have known, or in the exercise of reasonable diligence (reasonably understood in light of their socioeconomic position) should have known, that a cause of their child’s injuries might have been the failure of the doctors to administer antibiotics to Mrs. Arroyo; given that information, they would or should have known enough to consult a lawyer or other expert. That may be asking a lot of them; but to ask that they have suspected malpractice in the absence of any disclosure of the possibility of an iatrogenic injury would be to ask too much.
+...[I]f the Erie Family Health Center (or its backer, the United States) wants to avoid being hit by stale malpractice suits, it has only to level with patients (or in the case of a child, the patient’s parents) concerning possible causes of a medical injury. When the Arroyos’ child was discharged from the hospital with brain injuries two months after his birth, the Center’s physicians told the parents only that their child’s injuries had been caused by an infection that Mrs. Arroyo had transmitted to him during his birth. They said nothing that might have alerted the Arroyos to the possibility that a medical act or omission had contributed to the infection. The physicians did not have to confess liability; indeed, at the trial the defense presented respectable evidence that there had been no negligence. All the Center would have had to do was give the Arroyos a reasonably full account of the circumstances of the child’s injuries — that antibiotics could have been administered to the mother before the birth and to the child immediately after and that had this been done the injuries might have been averted, or been less serious.
+...“According to recent codes and guidelines . . . individual clinicians and institutions have an ethical responsibility to disclose unanticipated negative outcomes. Respect for personal autonomy entails disclosure of what occurred — even if no further medical decisions are involved — and of options to take nonmedical actions, including legal actions, if appropriate.” Tom L. Beauchamp & James F. Childress, Principles of Biomedical Ethics 294 (2009); see also American Medical Association, Code of Medical Ethics: Current Opinions with Annotations § 8.12, pp. 141-42 (1998). If a patient dies as a result of his physician’s failure to diagnose a readily diagnosable, and if diagnosed readily curable, condition, such as appendicitis, it is a deceptive half-truth to tell the grieving spouse or parents that the patient died of appendicitis; the patient’s death was jointly caused by appendicitis and medical negligence. Compliance with the ethical duty of disclosure of possible medical errors in simple, intelligible terms would give medically unsophisticated plaintiffs enough information to recognize that medical decisions might have contributed to their injuries.
+...I am not arguing that a breach of the ethical duty of disclosure is itself malpractice, although it could be if it prevented the patient from obtaining medical treatment that would mitigate the consequences of the original medical error. I am not arguing that the disclosure must go beyond an acknowledgment of the possibility of medical error and become a confession that there was a medical error; or that a doctor is required to explain that additional treatment might have avoided the patient’s injury if failure to provide that treatment would not have been negligent, because of the expense, side effects, or uncertain benefits of the treatment, as when a patient suffers an injury that would have been prevented had the doctor performed a battery of painful and expensive experimental tests. But if a potential defendant in a medical malpractice suit wants to take advantage of the statute of limitations he should have to disclose information known to him that would alert the patient to the possibility of an error. By doing that he can be sure that the statute of limitations will begin to run immediately . . . and not years later.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/04/2011 07:13:00 AM
+
+
+4
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We're interested, but only if you are quick
+
+
+
+
+
+I'd like to give American Airlines credit for being interested in customers' opinions: A computer sent out this email three days after a recent trip.  But, then it put this odd deadline on the survey.  I guess my opinion doesn't matter if I need think about it for a while.
+
+
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/04/2011 05:55:00 AM
+
+
+3
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, September 02, 2011
+
+
+
+
+
+Question causality
+
+
+
+
+
+Another statistics lesson for Samantha Riley and her folks at the NHS South East Coast, as well as for the rest of you.  This is from Randall Munroe's book xkcd:
+ 
+
+
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/02/2011 02:46:00 PM
+
+
+2
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+That clears things up
+
+
+
+
+
+For some reason, this status report on Facebook from an employee of an insurance company  attracted my attention:
+I  spent an hour looking for a Dr.'s contract in my system only to find out  she changed the spelling of her name last year to "avoid confusion."  You'd think she would mention that.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/02/2011 11:15:00 AM
+
+
+2
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Halamka rises to the occasion
+
+
+
+
+
+When Dr. John Halamka talks about the future of computing in health care, it is worth paying attention.  You will find a superb overview by him in this month's issue of Technology Review, in an article entitled, "The Rise of Electronic Medicine".
+I like these excerpts, in particular:
+A Network of Networks
+Many people believe that doctors continually share data  electronically with one another to coordinate treatment, do research, or  track disease outbreaks. The reality is that only a few hospitals and  cities in the U.S. are able to securely exchange health records, and  even fewer have economic reasons to do so. Over the next few years,  however, new standards for secure e-mail of data between providers will  be integrated into electronic health records. The use of the fax machine  will wane and patients will expect that every time they see a new  doctor, or visit a new hospital, their health record will follow them.
+
+Will one giant database hold all our health records? Will a  monolithic network link insurers, doctors, and patients? Given privacy  concerns, that's unlikely. What we are seeing instead is that cities,  states, and regions are developing regional data exchanges. Just as the  Internet has many e-mail providers and many Internet service providers, a  collection of private and public "Health Information Service Providers"  will be able to exchange data among themselves, creating a nationwide  health information network that is a federation of subnetworks.
+
+Engaged, Connected, E-Patients
+In my parents' generation, doctors were considered largely  infallible, and the medical record was something owned and viewed only  by clinicians. Today, with credible medical knowledge available on the  Internet and electronic records allowing doctors and patients to view  the same data, joint decision making is becoming more commonplace.  Research shows that shared decision making between doctor and patient  results in better outcomes. An engaged patient is also less likely to  assert malpractice and sue.
+
+New reimbursement models will pay clinicians to keep patients well  rather than for ordering tests or performing procedures. Such an  emphasis on early intervention will lead to the rise of home-connected  devices such as electronic blood pressure cuffs, glucometers and  bathroom scales that report data wirelessly to clinician offices and  patients' personal health records. Teleconsultation in the home will  become much more common. The pendulum is swinging. Fifty years ago,  doctors made home visits and attempted to keep you well. Today, we have  abbreviated office visits that result in prescriptions to treat disease.  Home monitoring and telemedicine will return us to the bygone era of  wellness.
+
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/02/2011 10:38:00 AM
+
+
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Above average (or is it median?)
+
+
+
+
+
+Samantha Riley and friends at the Quality Observatory at NHS South East Coast continue to publish the interesting and useful newsletter, Knowledge Matters.  You can see the current issue here.  
+This remains one of the best examples I have seen of a useful locally produced newsletter for hospital and health care staff of all backgrounds.  There is a variety of engaging pieces that have educational value for many.
+This edition, for example, contains an article entitled "Ask an Analyst" that covers the difference between mean, median, and mode, concepts that are often confused, even by experienced folks.  I like how the presentation simply shows how the mean of a distribution can be skewed by outliers.  This is an important topic if you are measuring the quality of outcomes in a hospital.
+Click on this excerpt below to enlarge it for an example of how that is presented:
+
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/02/2011 06:46:00 AM
+
+
+2
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday, September 01, 2011
+
+
+
+
+
+September Sepsis
+
+
+
+
+
+Dr. Jim O'Brien at OSU Medical Center reminds us that September is Sepsis Awareness Month. Sepsis Alliance is asking its partners and friends to help spread the word and encourage action to as many people as possible. 
+
+How can you help? To encourage awareness of sepsis, SA is planning some activities for Sepsis Awareness Month and we need your help to pass on this information by forwarding this message to friends, family members, and colleagues who may also be interested in helping. 
+
+According to a 2011 poll undertaken for SA, most Americans still don’t know what sepsis is. The telephone survey, conducted in June 2011 by Harris Interactive® on behalf of SA among 1,003 adults, revealed that more than half of Americans (58%) still have never heard of "sepsis." Even fewer could actually define it. 
+
+The results of this poll remain significant. The fact that so few people have heard of sepsis underlines the need for increased efforts to improve education and awareness of sepsis.  As part of SA’s continuing efforts, September has been declared Sepsis Awareness Month: Say Sepsis. Save Lives.
+
+What people may learn from the SA website or by following SA through social media:  
+·         Every year, over 1 million Americans are affected by sepsis. Through  September a “sepsis victim counter,” featured on the SA site, will count the number of new cases of sepsis that are expected to occur throughout the month. 
+·         The site will have a dedicated Sepsis Awareness Month page to highlight what SA is doing throughout September. There will be information about sepsis, as well as highlights of Faces of Sepsis stories, stories of real people who have had sepsis. 
+·         Social media (Facebook and Twitter) will play a large role in Sepsis Awareness Month. By tweeting sepsis facts and by highlighting sepsis information and stories on Facebook, SA supporters can help spread the word by retweeting and by sharing Facebook statuses on the own FB page. 
+·         Members of the public will be encouraged to vote on a Sepsis Awareness bumper sticker slogan.  
+We know that if sepsis is caught early (suspect sepsis) and it is treated as a medical emergency with antibiotics and fluids, thousands of lives can be saved. The establishment of Sepsis Awareness Month aims to continue increasing awareness among the general public and healthcare professionals across the country.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/01/2011 11:27:00 AM
+
+
+2
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comments from Parkland Memorial Hospital
+
+
+
+
+
+Following up on my post on this topic, in the nature of equal time, I thought I would print excerpts from a recent edition of the Dallas Business Journal, in which a senior hospital official from Parkland Memorial Hospital rebuts aspects of coverage by the Dallas Morning News.
+
+Anderson said the Dallas Morning News, and the investigative  team it has assigned to aggressively cover Parkland, has a "vendetta"  against the hospital. He characterized that paper's coverage as  "sincere, but sincerely wrong," and said it's "chipping away at the  trust" people place in Parkland.
+
+ "Think about the negative consequences of someone who needs care  holding back instead of going to Parkland," he said. "They'll suffer as  much as anything that an investigative reporter thinks he's doing or  she's doing for the benefit of the patients."
+
+ Part of the problem is that Parkland is an easy target, Anderson said.
+
+ "We're the house of conspiracy theories," he said. "JFK came here. So  we know every conspiracy theory that was ever pushed out about JFK.  Someday, I'm going to write a book about conspiracy theories about  people out to get Parkland."
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/01/2011 09:22:00 AM
+
+
+5
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick, e-Patient Dave needs your vote
+
+
+
+
+
+Here's a worthwhile and time-sensitive assignment for those of you who are fans of E-Patient Dave and his message of patient empowerment.  He is seeking to be a presenter at the 2012 South by Southwest conference in Austin, Texas.  But he needs votes to get chosen, and by tomorrow!
+It takes a few steps to be eligible to vote, but you and I know that the audience will be happy he was chosen for this conference.  Go to Dave's post here to learn how.
+And thanks!
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+9/01/2011 08:52:00 AM
+
+
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday, August 31, 2011
+
+
+
+
+
+Leaning together in North Carolina
+
+
+
+
+
+Here's a heartening story from Alexandra Wilson Picci at HealthLeaders Media, entitled "NC Rural Hospitals Lean Together to Zap Waste."  An excerpt:
+With the help of the North Carolina Hospital Association, a consulting firm, and a grant from the Duke Endowment,  Caldwell Memorial Hospital teamed with four other hospitals to learn  how to apply lean management principles. The hospitals shared ideas and  resources, including funding and consulting services, and attended each  other's learning events.
+This is a great way to mitigate the expenses of a Lean program and share the enthusiasm.  As you have seen in examples on this blog, a portion of the Lean approach consists of rapid improvement events.  These focus on specific value streams within the  organization, mapping out the entire work flow, identifying areas of waste, and experimenting with a new process. Here's a wonderful quote about how this kind of employee engagement works:
+"It's remarkable to watch employees sit down and map out issues  and discover possible solutions in a team environment and then have the  wherewithal and the authority to implement these changes and see if they  work," said Edgar Haywood III, president and CEO at Dosher Memorial Hospital, which is part of the new Eastern North Carolina Rural Hospital Lean Collaborative.  
+Caldwell Memorial CEO Laura Easton added a key point:
+ "This is not something that you can delegate to one of your  executives," she said. "I think Lean is only really appropriate if the  CEO is committed to changing the way they operate the organization, and  learning too, and being part of running their organization in a new and  different way."
+She is right, of course. As I have noted, like physical systems in which entropy takes over, consistently applied  energy is necessary to maintain the process improvement system that we  call Lean.  Without commitment from the top, the process will wither.  Congratulations to this group of CEOs for walking the walk. 
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/31/2011 09:46:00 PM
+
+
+3
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harvard medical residents are stupid
+
+
+
+
+
+There, that got your attention.
+Obviously they are not all stupid.
+Just the ones who ride their bicycles in the Longwood area without wearing helmets.
+And especially the ones who wear dark clothes at night while riding without a helmet.
+But extra especially the one who was wearing dark clothes at night while riding without a helmet, while texting.
+Do you know what we call these people?
+Organ donors.  
+
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/31/2011 06:22:00 AM
+
+
+10
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, August 29, 2011
+
+
+
+
+
+Hadassah and Panama
+
+
+
+
+
+
+
+
+Hadassah's Dr. Miklosh Bala
+An excellent example of international health care cooperation is evident in Panama City this week, where Hadassah Panama is hosting a seminar in trauma medicine at Hospital Santo Tomas.  Hadassah Hospital in Jerusalem has sent over experts in the field to provide a focused curriculum for Panamanian doctors and nurses.  In addition, those clinicians will spend time in the emergency room and wards, working side by side with local doctors and nurse to compare protocols and real-time delivery of care.
+This is the fourth year this program has been run.  Clinicians from hospitals throughout the country have found value in  these sessions.  Over 700 doctors and nurses attended the first session in 2007, a rate that has persisted each year.  
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/29/2011 10:58:00 AM
+
+
+4
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's going on at Parkland Memorial Hospital?
+
+
+
+
+
+A series of stories at the Dallas Morning News raised some serious questions about the quality of care at Parkland Memorial Hospital.  I draw no judgments about those issues.  But what comes across in these stories is something equally interesting:  A hospital that has chosen to take a hard line, dare I say stonewall, with the local press on issues of community concern.  In an era of increasing transparency, this approach is an anachronism.
+Those of us a certain generation remember Parkland Memorial as the site of President Kennedy's trauma treatment and death in 1963, providing it an important symbol of high level care in our national consciousness.  But it is also a major teaching facility of the UT  Southwestern Medical Center and is prominent in its own right for many reasons.
+When a hospital with this kind of affection and reputation faces difficulties in the delivery of care, there are two possible approaches.  One is to be open and transparent about the nature of the problems, their causes, and the solutions being tried.  That approach is consistent with the high level of trust granted by the community.  The other approach is to hunker down and draw on powerful interests in the community to put pressure on journalists to back off from the story.  That may work for a while, but eventually fails, with an even greater loss of trust that would have been thought possible at the start.
+It looks like Parkland has engaged in the latter kind of campaign.  The phases are disturbingly familiar.  After some highly visible cases, including stories of a patient care system heavily dependent on residents who  sometimes work with little or no faculty supervision, federal regulators warned that failures in care at Parkland  Memorial Hospital posed “an immediate and serious threat to patient  health and safety,” and ordered it to submit a plan to remedy the  problems within two weeks or lose federal funding.  The hospital administration described the report "as a collection of mainly 'technical violations.'"(Full story here.)
+Meanwhile, conflicting explanations to the press emerge.  Here is an excerpt on a medical student issue:
+Newly obtained records contradict UT  Southwestern Medical Center's  claims about unlicensed  med students who were paid to work in Parkland  Memorial Hospital's psychiatric ER -- and why the  30-year cost-saving practice ended this summer.
+UTSW spokesman Tim  Doke previously told me that the students were  "administrative assistants" who "do absolutely no clinical, patient-care  work" and had no formal job description. He also insisted I was  misinterpreting a 2009  letter from four UTSW psychiatry professors that repeatedly  called the students "clinicians" and never "administrative assistants."
+But now a Texas Public Information Act request, filed right after we brought  the unusual employment practice to light in June, has forced UTSW  to release the  students' job description. It says the students "provide  experienced help" in Parkland's psychiatric ER -- they obtain the  patient's history, perform a "brief neurologic exam" and "periodically  assess patients."   Think about this.  The press was forced to file a freedom on information request to obtain job descriptions of students.  In fact, the hospital sued the Attorney General to challenge rulings that required this and other kinds of information to be provided. This is clearly a situation that has spun out of control.
+Prominent members of the community have publicly come to the defense of the hospital.  Staff from UT Southwestern Medical Center asserted that the newspaper has a  "vendetta" against the school and its teaching partner, Parkland.  Also, the hospital has retaliated against the newspaper by removing its advertisements. This is the kind of nasty local politics that eventually backfires.
+I don't know where this is all headed, but given Parkland Memorial's place in the country's consciousness, the next stage has to be the national media.  What a shame that the hospital's return to the national scene will be about these kinds of issues.  Wouldn't it be marvelous if it adopted a truly transparent approach to the problems and instead became a national example of that philosophy?
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/29/2011 08:11:00 AM
+
+
+10
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free up the data, Commissioner
+
+
+
+
+
+The Governor of Massachusetts has made an excellent choice for the new Commissioner of the Division of Health Care Finance and Policy.  He is attorney Áron Boros, who comes to DHCFP after serving as director of  federal finance  for the state’s Medicaid office since 2008.  Prior to working for  MassHealth, Boros was  an associate at the Boston law firm Foley Hoag LLP, where he worked  with health care  clients on a wide variety of issues.  His work included initiatives related to chronic disease management,  health information technology, and evidence-based medicine.  His  first day at DHCFP will be Sept. 15.
+Let's hope that Mr. Boros makes good on the promises of his predecessor.  Under state legislation, the DHCFP has been assembling an all-payer  claims database (APCD).  It comprises medical claims, dental claims,  pharmacy claims, and  information from member eligibility files,  provider files, and product  files. It includes fully-insured,  self-insured, Medicare, and  Medicaid data and clear  definitions of insurance  coverage (covered services, group size,  premiums, co-pays, deductibles)  and carrier-supplied provider  directories.
+The existence of this database offers the potential for all parties to study the actual transactions taking place in the Massachusetts health care system.  It permits testing of hypotheses with regard to payment models, clinical affiliations, and a variety of other pertinent matters with regard to the state's health care policy agenda.  Because Massachusetts took the national lead with regard to health care reform, it also offers potential value to the country as a whole.
+But transparency only works if the data are made available to all and easily so.  The previous commissioner made this promise over a year ago:  "That the database would be widely accessible, so that independent  researchers, policy analysts, advocates, market participants, and others  would be able to manipulate it to test hypotheses and assumptions."
+Here is what the current regulations (114.5 CMR 22.00: Health Care Claims Data Release) say about getting this data:
+22.03: Procedures for Data Requests
+(1) Public and Restricted Use Files. The Division will create Claims Data Public Use Files and Restricted Use Files to which Applicants may request access in accordance with 114.5 CMR 22.03(2).
+(2) Application Review Procedures. 
+(a) Applications for Data.
+1. All Applicants must submit a written application. Each Applicant shall:
+a. specify the data requested, including Public Use Files and any restricted data elements requested; b. specify the purpose and intended use of the data requested, including a detailed project description that describes any other data sources to be used for the project;
+c. specify security and privacy measures that will be taken in order to safeguard patient privacy and to prevent unauthorized access to or use of such data; d. specify the Applicant's methodology for maintaining data integrity and accuracy;
+e. describe how the results of the Applicant’s analysis will be published; f. agree to provide the results of all analyses, research, or other product of the data requested to the Division for the Division’s own use;
+g. agree to the data disclosure restrictions in 114.5 CMR 22.04; and h. obtain prior approval from the Division to release any reports that used restricted use files prior to publication or other release.
+Obviously, protection of patient privacy is important and required by statute, but several of the other requirements here are not.  Truly, this is "old style" government.  Say I am an academic researcher, exploring multiple hypotheses related to payments or clinical care management.  Why should I have to tell the state what other data sources I plan to use?  Why should I describe how the results will be published?  (Indeed, I probably cannot, in that my work may have to go through levels of peer review at multiple journals.)  For public use files, rather than restricted files, why should there be a need for any application at all?  I fear that these requirements act as an effective bar on public inquiry, well beyond that intended by the Legislature.
+But maybe I am over-reacting.  I would love to be proven wrong.  Here's a test to see whether my concerns are valid.  This is the most comprehensive data set in the state on this topic, in a state filled with public policy researchers at multiple academic institutions and NGOs.  How many applications for data have been received since the regulations were adopted in July of 2010?  How many have been approved?  For the ones not approved, what reasons were given?
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/29/2011 12:01:00 AM
+
+
+5
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saturday, August 27, 2011
+
+
+
+
+
+Eugene Eisenmann's living memorial
+
+
+
+
+
+
+At the time of his death in 1981, the New York Times reported that Eugene Eisenmann was trained as a lawyer. He received his law degree  from Harvard University in 1930 and was a partner in the New York City  law firm of Proskauer Rose & Paskus until 1957, but he had a  lifelong interest in bird studies.		He became a leading ornithologist and a research associate  in the department of ornithology at the American Museum of Natural  History since 1957.  He was active in bird conservation and the author of the book ''The  Species of Middle American Birds,'' a checklist of more than 1,400  species, and coauthor of ''The Species of Birds of South America.''
+
+The Fundación  Avifauna Eugene Eisenmann was created in his memory, with the objective of conserving the 1000 species of birds that reside and pass through Panama.  They created the Panama Rainforest Discovery Center as an ecotourism and environmental  education project.  The centers has forty meter observation tower, constructed from recycled materials, that permits you to view various levels of the forest, and also a nice set of trails to view things at ground level.  There is an incredible diversity of flora and fauna.
+Eugene was a kind, gentle, and thoughtful man, whom I remember well from my childhood   in New York City.  I think he would have been pleased with this living memorial in Panama.  Even though he never lived in the country, his family history was centered there, as were his avocational ornithological interests.  As he never married, it is well that there is this kind of legacy in his honor. 
+
+(Here's the geneological link:  Eugene was the son of Esther Maduro Brandon, daughter of my great-grandparents, David Henry Brandon and Judith Piza Maduro -- making him my first cousin, once removed.  You may recall David as being the founder of the volunteer fire department in Panama City around the turn of the century.  The postage stamp issued in his honor is to the right.)
+
+But back to Eugene's memorial park -- see how these family connections suck you in when you visit your ancestral homeland! -- if you would like to see more images from the Rainforest Discovery Center, click on this link to my Facebook album.  In the meantime, enjoy the ants in this video below.
+
+(If you cannot see the video click here.)
+
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/27/2011 09:43:00 AM
+
+
+0
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, August 26, 2011
+
+
+
+
+
+Piva satisfies
+
+
+
+
+
+It was August of 1967, and my great-uncle Elias Alvin ("Bill") Fidanque (the family geneologist) was giving me a walking tour of the old section of Panama City. We walked past a vendor, and Bill bought some interesting orange-colored nut-like things.  "Try it," he said, as he demonstrated the technique for eating piva (pronounced pee-vie for some odd reason).  These are starchy nuts from a palm tree -- Bactris        gasipaes -- that are boiled in salt water and served at room temperature.
+They are probably terrible for you, full of high cholesterol palm oil and an incredible number of calories per cubic centimeter (1000 per fruit), but they are delicious, especially if you add -- to make things even worse! -- mayonnaise.  This week at dinner at Bill's nephew's house in Panama City, I helped finish off the ones that had been prepared as appetizers that way, leaving uneaten these that were served with a touch of jelly.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/26/2011 05:24:00 PM
+
+
+3
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday, August 25, 2011
+
+
+
+
+
+The Infrastructure Chronicles -- Volume 11
+
+
+
+
+
+There is a lot to be said about the history of the Panama Canal, a concept that piqued people's imagination almost as soon as the Europeans landed on the isthmus in 1501.  The first serious attempt to dig a canal was led by Ferdinand de Lesseps (honored here in a memorial in the Plaza de Francia in Panama City), who had successfully built the Suez Canal; but this was a different task altogether.  He was stymied by disease, the difficulty of construction, and a failure to secure (from the recalcitrant American owner of the trans-Isthmian railroad) or build an effective railroad link to carry workers, material, and supplies to and from the interior of the country. 
+
+After the French gave up, an American team began and ultimately had  greater success.  First, though, they had to deal with Colombia, the owner of Panama, which refused to give America a franchise to build.  President Teddy Roosevelt, in a classic move of  imperialism and practicality, helped Panama declare its independence  from Colombia in 1903.  Shortly thereafter, the new government authorized French businessman Philippe  Bunau-Varilla, to negotiate a treaty with the United States. The  Hay-Bunau-Varilla Treaty allowed the U.S. to build the Panama Canal and  provided for perpetual control of a zone five-miles wide on either side  of the canal, creating the political and institutional  framework for a successful project.  It was completed in 1914.
+
+
+
+Plaque in Plaza de Francia
+
+
+
+Plaque on Ancon Hill
+
+Decades later, President Jimmy Carter decided it was time -- in part because of anti-American sentiment -- to divest American interests in the canal and transfer the canal and the Canal Zone to Panama.  A treaty was signed in 1977 which set forth the framework for the ownership and operational transition.  This was controversial in the American Senate, passing by split votes in both political parties.
+
+(The first day cover below is of the last postage stamp issued by the  Canal Zone, in 1978.)
+
+
+
+From the collection of Henry Fidanque
+
+Full Panamanian control occurred on December 31, 1999.  Notably, still  feeling the pressure of American mixed sentiment, President Clinton did  not attend the turning-over ceremony a couple of weeks before, nor did  he send any high-ranking American officials to share the podium with the  leader of Panama.  An assistant secretary of the Army represented the  US in handing over billions of dollars in assets to Panama.
+
+However, there remained an underlying design  problem in the canal, the inability of the new generation of larger ships  to fit through the locks, requiring containers to be unloaded at one end  of the canal, transported by railroad (see below), and reloaded on the  other coast.
+
+
+Likewise, oil shipments are sent via pipeline from tankers  in one ocean to those in the other.  But that is about to change.
+
+The New York Times recently ran this story about the construction project to widen the Panama Canal.  Here's an excerpt:
+
+COCOLÍ, Panama — For now, the future of global shipping is little more  than a hole in the ground here, just a short distance from the Pacific  Ocean.        Ah, but what a hole it is.
+
+ About a mile long, several hundred feet wide and more than 100 feet  deep, the excavation is an initial step in the building of a larger set  of locks for the Panama Canal that should double the amount of goods  that can pass through it each year.
+
+ The $5.25 billion project, scheduled for completion in 2014, is the  first expansion in the history of the century-old shortcut between the  Atlantic and Pacific. By allowing much bigger container ships and other  cargo vessels to easily reach the Eastern United States, it will alter  patterns of trade and put pressure on East and Gulf Coast ports like  Savannah, Ga., and New Orleans to deepen harbors and expand  cargo-handling facilities.
+
+I was given a tour of the construction site today, and it is indeed a spectacular project.  Here's a short video:
+
+
+
+If you can't see the video click here.  You can read more about the project here and see some images from the tour here on Facebook.
+
+
+
+Future site of third set of locks, Pacific side
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/25/2011 03:50:00 PM
+
+
+4
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday, August 24, 2011
+
+
+
+
+
+Must be high profit items
+
+
+
+
+
+A friend received this phone call four times in the past week, at various times of the day and night:
+This is CVS pharmacy.  Allergy season is rapidly approaching. It is important to be prepared for the season to prevent the onset of symptoms.  Please contact your local CVS pharmacist for the many ways we can help.  For guidance on the upcoming allergy season, please call the CVS pharmacy at . . .
+Note that this is not a matter of patient adherence with prescriptions.  This is just out-and-out marketing based on a customer's previous purchases.
+By the way, the friend didn't need to be reminded.  Fall allergy season is not approaching.  It has landed.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/24/2011 07:05:00 PM
+
+
+3
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using EHRs to wag the dog of corporate mergers
+
+
+
+
+
+The New York Times reported this week that the Federal Trade Commission has raised concerns in Ohio and elsewhere about anti-competitive effects of mergers in the health care sector.  Those involved in the deals, though, state that the intent of the recent health care reform act was to enable and encourage such consolidation.
+I covered this topic a year ago and then in November, predicting the arguments that would be used by the proponents, just as seen in the Times story:
+Randy Oostra, the president of ProMedica, said the merger would benefit  patients in many ways. “We could coordinate care,” Mr. Oostra said. “We  could improve quality at St. Luke’s by adopting electronic health  records and using clinical protocols to standardize the delivery of  care. But the F.T.C. has stopped us in our tracks."
+Of course, it is possible and desirable to coordinate care and improve quality even without creating behemoths of market power.  Corporate integration and common ownership is in no way a necessary condition for such improvements, whether the parties are non-profit or for-profit.  Requiring all electronic health record systems to be mutually compatible would also go a long way to ensuring that proprietary information systems do not become the tail that wags the dog of corporate consolidation.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/24/2011 10:05:00 AM
+
+
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Hub of the Universe
+
+
+
+
+
+Most humorous comment about yesterday's magnitude 5.8 Virginia-centered earthquake, from Boston's Peter Shelley on Facebook:
+"For all my friends who are worried about me, I rode out the big quake at my desk.  It interrupted my afternoon nap."
+Comment:  "Where are you?"
+Reply:  "Home now, recuperating."
+Comment:  "I hope you are feeling better."
+Reply:  "Just a little shaken up.  It'll pass soon."
+Classic Boston-centered headline (from Boston.com):
+ 
+The Washington Post was nicely descriptive in its coverage:
+The first warnings of the earthquake may have occurred at the  National Zoo, where officials said some animals seemed to feel it coming  before people did. The red ruffed lemurs began “alarm calling” a full  15 minutes before the quake hit, zoo spokeswoman Pamela Baker-Masson  said. In the Great Ape House, Iris, an orangutan, let out a guttural  holler 10 seconds before keepers felt the quake. The flamingos huddled  together in the water seconds before people felt the rumbling. The rheas  got excited. And the hooded mergansers — a kind of duck — dashed for  the safety of the water.
+For people, it was a lovely, sparkling  day for an emergency evacuation. Much of the capital’s workforce had  gathered on sidewalks by 2 p.m. The federal government later urged  agencies to send non-emergency workers home.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/24/2011 07:55:00 AM
+
+
+0
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuesday, August 23, 2011
+
+
+
+
+
+The emperor remains unclothed
+
+
+
+
+
+I guess I shouldn’t be surprised when two of the architects of the health care reform act write an op-ed that continues in the deception that the law would deliver access, choice, and lower costs.  But that is what Ezekiel Emanuel and Jeffrey Liebman offer in their New York Times article, “Cut Medicare, Help Patients.”
+
+The authors start by saying some things that make a lot of sense.  They point out that it would be smart to “eliminate spending on medical test, treatments and procedures that don’t work -- or that cost significantly more than other treatments while delivering no better health outcomes . . . [and that} can be made without shortchanging patients.”
+
+But they quickly give up that fight:  “The sad truth is, Washington is never going to do a good job of making smart cuts to Medicare.  Elected officials hate being blamed for directly restricting access to medical treatments -- even when those treatments are proven to be worthless.” 
+
+So then they revert to their underlying bias, er, theology:  “The responsibility for ending unnecessary medical spending needs to be placed in the hands of doctors and hospitals.  This can happen only if we change our fee-for-service payment system.”
+
+How much damage is being done and how much time is being lost by our society by a religious belief in a payment scheme that has not been proven and that has many inherent difficulties?  As I have noted, not the least of the difficulties with capitation is in deciding the transfer payments among the different medical specialists.
+
+And then to add salt to the wound, they say:
+
+“These seeds of a solution lie in the accountable care organizations, medical homes and bundled payment reforms that were authorized by last year’s Affordable Care Act.”
+
+As I have discussed, the ACO framework prescribed by Congress is inherently flawed because Congress could not and will not limit patient choice.  An ACO cannot manage patient care if there is a PPO structure in place, allowing patients to shift care not a non-ACO provider at will.  Meanwhile, the ACO framework also has risks of market concentration that are drawing the attention of federal antitrust regulators.
+
+This whole discussion is incredibly painful to watch, especially when Emanuel (or was it his brother?) admitted privately during the Congressional debate on the ACA that the costs of providing universal insurance access were well above those that were being publicly projected, and that, ultimately, the US would be forced to pass a value added tax to cover the health benefits that were the result of the law.  What’s the chance of that during this political environment?
+
+On this blog, I have talked about things that can work and that are within the power of Medicare to implement.  The most powerful would be to change the relative fees paid to primary care and other cognitive specialists, compared to proceduralists.  Giving a primary care doctor the ability to spend more than 18 minutes with a patient could change the nature of those doctors from having a triage function to allowing proper management of care.
+
+Medicare can also engage in real clinical transparency, insisting on the publication of real-time information about infections and other important aspects of quality and safety as one of its Conditions for Participation.
+
+But, we must also find fault with the nation’s doctors and hospital administrators who fail to lead process improvement in their institutions, even in the face of documented quality and safety enhancements and cost savings in exemplary hospitals.  Medical schools, too, have systematically failed to teach young doctors about the science of improving care delivery.
+
+I have often asked the question, “What does it take?”, suggesting that a failure to proceed with such changes and to engage in full-hearted transparency is unethical behavior -- in the most fundamental sense -- on the part of the medical community.  As long as the medical profession fails to demonstrate its own ability to improve results and lower costs and engage in patient-driven care, you can count on officials in Washington and in other jurisdictions to offer prescriptions that simply will not work.  The resulting resentment and anger on the part of the profession then feeds a negative vicious cycle.
+
+Time’s a-wasting, folks.  Let me make this very personal, and perhaps uncomfortable to some of my readers.  As e-Patient Dave likes to say, “Patient is not a third person word.”  We will all be patients some day.  What kind of system do you want in place when you are in the lying in the bed rather standing next to it, or when a loved-one is there?  Chances are that it is not the system that you are helping to run right now.  You can rationalize your inaction and compartmentalize your thinking all you want, but a failure by you -- if you are a medical or administrative professional -- to demand and lead improvement is, in fact, a deadly decision.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/23/2011 11:19:00 AM
+
+
+6
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, August 22, 2011
+
+
+
+
+
+Peter Pronovost is a liar.  He must be.  Isn't he?
+
+
+
+
+
+Peter Pronovost and his subversive friends are at it again.  Imagine, first they assert that implementation of a standard protocol and checklist could reduce the rate of central line associated bloodstream infections.
+ "It wouldn't work here.  Our patients are sicker."
+Then, to make matters worse, they go and contend that reducing the rate of central line infections saves money.  Here's the abstract from the American Journal of Medical Quality:
+This study calculates the costs and benefits of a patient safety program  in intensive                      care units in 6 hospitals that were part of the  Michigan Keystone ICU Patient Safety Program. On average, 29.9  catheter-related                      bloodstream infections and 18.0 cases of  ventilator-associated pneumonia were averted per hospital on an annual  basis. The                      average cost of the intervention is $3375 per  infection averted, measured in 2007 dollars. The cost of the  intervention is                      substantially less than estimates of the additional  health care costs associated with these infections, which range from  $12,208 to $56,167 per infection episode. These results  do not take into account the additional effect of the Michigan Keystone                      program in terms of reducing cases of sepsis or its  effects in terms of preventing mortality, improving teamwork, and  reducing                      nurse turnover.                    
+"No, it can't work that way unless we get rid of fee-for-service payments and go to capitation.  We all know that nobody will act to reduce infections because they will get paid less."
+And then he has the nerve to tell us that reporting of central line infections is highly variable across the United States.  Here's the abstract from that study, again from the AJMQ:
+The authors searched state health department Web  sites                      for publicly available CLABSI data. Fourteen  states, all with mandatory CLABSI monitoring laws, had publicly  available data.                      The authors identified significant variation in the  presentation of infection rates, methods of risk adjustment, locations                      and care settings reported, time span of data  collection, and time lag to reporting. The wide variation in  availability and                      content of information illustrates the need for  standardized CLABSI monitoring and reporting mechanisms.                   
+"We'll publish our numbers in a real-time, standard way when we are good and ready, but our numbers are better than their numbers."
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/22/2011 08:12:00 PM
+
+
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern MA mushroom crop
+
+
+
+
+
+
+
+At Broadmoor Wildlife Sanctuary in Natick
+This has been an excellent growing season for mushrooms in Eastern Massachusetts, with lots of steamy warm weather.  They seem to pop up everywhere. I think Dr. John Halamka would tell me that these are all polypore mushrooms.  The one above was seen at the Massachusetts Audubon sanctuary in Natick.  The one below is growing out of a tree on Marshall Street in Brookline.
+
+
+
+In Brookline
+And the ones below, well, they are growing in my back door, which was poorly installed and wicked water into its core.  I think this is what is known as "Massachusetts grown . . . and fresher."  Pretty, but not enough for dinner.
+
+
+
+On the back door
+
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/22/2011 07:32:00 PM
+
+
+2
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, August 21, 2011
+
+
+
+
+
+Decision Fatigue.  For doctors, too?
+
+
+
+
+
+This article by John Tierney in the New York Times suggests that humans suffer from decision fatigue, the tendency to make worse decisions as you make a series of hard decisions as the day goes along.  Here are some pertinent excerpts:
+
+No matter how rational and high-minded you try to be, you can’t make  decision after decision without paying a biological price. It’s  different from ordinary physical fatigue — you’re not consciously aware  of being tired — but you’re low on mental energy. The more choices you  make throughout the day, the harder each one becomes for your brain, and  eventually it looks for shortcuts, usually in either of two very  different ways. One shortcut is to become reckless: to act impulsively  instead of expending the energy to first think through the consequences.  The other shortcut is  the ultimate energy saver: do nothing. Instead of agonizing over  decisions, avoid any choice. Ducking a decision often creates bigger  problems in the long run, but for the moment, it eases the mental  strain. You start to resist any change, any potentially risky move. 
+
+Once you’re mentally depleted, you become reluctant to make trade-offs,  which involve a particularly advanced and taxing form of decision  making.
+
+“Even the wisest people won’t make good choices when they’re not rested  and their glucose is low,” Baumeister points out. That’s why the truly  wise don’t restructure the company at 4 p.m. They don’t make major  commitments during the cocktail hour. And if a decision must be made  late in the day, they know not to do it on an empty stomach. “The best  decision makers,” Baumeister says, “are the ones who know when not to trust themselves.” 
+
+All of this led me to wonder whether there is any evidence that there is a higher rate of medical errors later in the day, after doctors have made dozens of decisions.  So, in tune with the times, I crowd-sourced the question, posing it this way on Twitter and Facebook:  "Query:  Has anyone seen studies linking surgical error rate to the time of day?"
+
+Bobby Ghaheri, MD (@DrGhaheri) tweeted, "That's why I insist on operating in the morning." 
+
+Braden O'Neill (@BradenONeill), an MD student in Calgary, searched the NIH literature and responded:  "There has been some work on time of day and surgical outcomes but it seems more about the cases themselves."  The article he cites does have some interesting conclusions, but is not supportive of my hypothesis:
+
+After adjustment for patient and procedure characteristics, mortality  had a moderately strong association with start time, but only for  nonemergency cases starting 9:30 pm to 7:30 am. As for morbidity, after  adjustment, operations starting 9:30 am to 1:30 pm and 5:30 pm to 9:30  pm were associated with a weakly elevated risk of morbidity, but those  starting 9:30 pm to 7:30 am demonstrated a strong effect on morbidity.. Subgroup analysis showed this effect  was largely a result of elevated risk of morbidity in emergency cases  from this overnight time period.
+
+David Rosenmann (@DavidRosenman) from Mayo Clinic noted:  "A 2011 study suggested  increased maternal morbidity when unscheduled cesarean sections took place at night."  But that may not help, in and of itself, because we don't know if the doctors handling those cases have been through many during the day, or whether it is a fresh crew.
+
+Over at Facebook, transplant surgery fellow Kristin Raven reported,  "The time of day organ transplants occurs is known not have any effect  on outcomes."
+
+A medical colleague who responded to an email supported Kristin's finding:  Surgery  is interestingly  less intense than clinic -- people are more  complicated than bodies. So  no consistent findings have emerged except  that emergencies/late night  cases have poorer outcomes, which is not a  surprise. 
+
+A few minutes later, he elaborated:  I  should correct to say  that it depends on the operation -- routine  feeding tube placement vs  Whipple -- and the clinic -- breaking bad  news about a concern vs  routine well baby visit. This is the  complicated nuance about medical  decisions that exists just as the  nuance about financial decisions the  article talks about matters.
+
+Meanwhile, engineer Roberta Brown noted, "There  are some solid safety statistics about the most likely times for   accidents.  If I remember properly, it's the half hour after lunch or a   break." 
+
+But, pathologist Beverly Rogers suggested that I was probably asking about the wrong specialty: 
+
+This is a problem for pathologists too,  and  actually that would be a better measure - surgical error rates could be  due to physical fatigue or other factors not related to decisions,  whereas pathology or other diagnostic error is clearly related to  decision-making (as well as interruptions, and other cognitive  errors.)
+
+I am left thinking that Beverly raised the question in a better context than I did.  We would need to look at specialists who need to make several difficult decisions in a row.  For example, here would be the hypothesis to test:  As pathologists look at dozens of tissue samples during the course of the day, making explicit decisions as to whether the cell patterns are evidence of disease, does their percent of positive findings change as a function of time of day and/or the number of cases reviewed?
+
+Tierney describes an element of decision fatigue in terms of "crossing the Rubicon."  He notes:
+
+The experiment showed that crossing the Rubicon is more tiring than  anything that happens on either bank — more mentally fatiguing than  sitting on the Gaul side contemplating your options or marching on Rome  once you’ve crossed. As a result, someone without Caesar’s willpower is  liable to stay put.  Part of the resistance against making decisions  comes from our fear of giving up options. The word “decide” shares an  etymological root with “homicide,” the Latin word “caedere,” meaning “to  cut down” or “to kill,” and that loss looms especially large when  decision fatigue sets in. 
+
+It would indeed be fascinating to know whether, notwithstanding their exceptional training, medical specialists like pathologists display any such patterns of behavior.  And, in the case of pathologists, would "not crossing the Rubicon" lead to more positive findings or fewer?
+
+Perhaps this offers a research opportunity for a rising medical star.
+
+
+
+
+Posted by
+Paul Levy
+
+
+at
+8/21/2011 12:04:00 PM
+
+
+11
+comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email This
+
+BlogThis!
+
+Share to Twitter
+
+Share to Facebook
+
+Share to Google Buzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Older Posts
+
+Home
+
+
+
+
+Subscribe to:
+Posts (Atom)
+
+
+
+
+
+
+
+About Me
+
+
+
+
+Paul Levy
+
+
+Advocate for patient-driven care, eliminating preventable harm, transparency of clinical outcomes, and front-line driven process improvement.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter your email address:Delivered by FeedBurner
+
+
+
+
+
+
+
+
+
+
+
+Patient-Centered Links
+
+
+A Chronic Dose
+Alliance for Patient Safety
+Brain Today
+Cautious Patient Foundation
+Celebrity Diagnosis
+Clinical Transformation
+Cochlear Implant Online
+Diabetes Mine
+e-Patient Dave
+e-patients
+Engaging the Patient
+Gastrically Changed
+Health Care Savvy
+Institute for Clinical Systems Improvement
+It is the weak tree . . .
+James's Project
+Living with Breast Cancer
+Look Me in the Eye by John Elder Robison
+Medical Lessons
+Miracle Survivors
+Patient Safety Blog
+Press Ganey
+PULSE of Florida
+Regina Holliday's Medical Advocacy
+Reports from a Resident Alien
+Rheumatoid Arthritis Warrior
+Society for Participatory Medicine
+Somebody heal me
+Sophia's Garden Foundation
+The Cardiac Chronicle
+The Empowered Patient Coalition
+The Momo Blog
+The New Life of e-Patient Dave
+The Preemie Experiment
+The Savvy Patient
+Then Everything Changed
+This be my (b)log by Caroline
+Unbiased Smoking Information
+When life hands you a broken heart
+Where to Find Care
+Word Medicine
+Xeloda Side Effect & Henna
+
+
+
+
+
+
+
+
+
+
+
+
+Transparency Related Links
+
+
+About Health Transparency
+BIDMC: Putting Ourselves Under a Microscope
+Joint Commission center for transforming healthcare
+Justin's HOPE at The Task Force for Child Survival and Development
+Medically Induced Trauma Support
+PatientCareLink -- MHA
+Saskatchewan Health Quality Council
+
+
+
+
+
+
+
+
+
+
+
+
+General Topical Links
+
+
+A Lean Journey
+Addicted to Medblogs
+Albert Schweitzer Fellowship
+Barbara Duck's The Medical Quack
+Better Health with Dr. Val
+BNET Healthcare
+Bob Coffield's Health Care Law
+Boston Health News
+CA HealthCare Foundation's iHealthBeat
+Care and Cost
+David Harlow's Health Blawg
+David Williams' Health Business
+Disruptive Women in Health Care
+Drew Weilage's Our Own System
+Gary Schwitzer's HealthNewsReview
+Halamka's Geek Doctor
+Health Affairs Policy Journal
+Health and Administration
+Health Beat by Maggie Mahar
+Health Care for All
+Health Care Renewal
+Health Populi
+Health Wonk Review
+Healthcare 100
+Hospital Impact
+Hospital.com
+IHI Open School
+JNJ BTW
+John Sharp's eHealth
+Joint Commission Perspectives on Patient Safety
+Kevin, MD
+Kicking Back
+Live Process Healthcare Emergency Management
+MA Hospital Association
+Mark Graban's Lean Blog
+Massachusetts Liberal
+Med Page Today
+Medgadget
+Media Nation
+MedicalSchool
+Michael Miller's Health Policy and Communications
+MW&Emery Health Care Law Reform
+Old Lean Dude
+Phil Baumann -- Health is Social
+Physician.com
+Pioneer Portfolio at Robert Wood Johnson
+Richard Wittrup's Health Care Anew
+The (UK) Health Foundation blog
+The doctor weighs in
+The Health Care Blog
+The Incidental Economist
+The New Health Dialogue
+Thrive: Children's Hospital Boston
+Tim McMahon's A Lean Journey
+
+
+
+
+
+
+
+
+
+
+
+
+Nurse, Doctor & Other Caregiver or Related Links
+
+
+A cartoon guide to becoming a doctor
+Academic Ob/Gyn
+Adventures in Improving Access
+An Anesthesiologist's Waking Up Costs
+Apollo, M.D.
+Bad Science
+Basic Eating by Jeremy Warner, MD
+Ben Goldacre
+Buckeye Surgeon
+Clinical Ops @ UK HealthCare
+Code Blog, Tales of a Nurse
+Controversies in Hospital Infection Prevention
+Corazón Hispano
+Doing Common Things Uncommonly Well
+Dr. Anonymous
+Dr. Bruce Campell's Reflections in a Head Mirror
+Dr. Deb Pschological Perspectives
+Dr. Gillick's Perspectives on Aging
+Dr. Ken Cohn's Healthcare Collaboration
+Dr. Wes
+Emergiblog, The Life & Times of an ER Nurse
+Everything Health
+Family Medicine Rocks
+FutureDocs
+Geriatrics and Palliative Care
+GruntDoc
+Health Care Organizational Ethics
+Human Factor in Medicine and Life
+Indiana Wesleyan School of Nursing
+Joe Wright's Hemodynamics
+MD Whistleblower
+Medical Lessons
+Movin' Meat
+Neuropathology Blog
+Notes of an Anesthesioboist
+Nurse Ratched's Place
+Nursetopia
+Oral Health Matters
+Other Things Amanzi
+Pallimed, Hospice & Palliative Medicine
+Pam Ressler
+Plastic Surgery 101
+Question Authority with Dr. Peter Rost
+Riaz Dharamshi
+Scan Man's Notes
+Schwartz Center: Bedside Manner
+Supporting Safer Healthcare
+Suture for a Living
+Ted Eytan, MD
+The Blog that Ate Manhattan
+The Derm Blog
+The Doctor Weighs In
+The Doctors' Rheum
+The Examining Room of Dr. Charles
+The Happy Hospitalist
+Wachter's World
+Wishful Thinking in Medical Education
+
+
+
+
+
+
+
+
+
+
+
+
+Social Media, Marketing, and Networking Links
+
+
+33 charts
+a shel of my former self
+David Meerman Scott's Web Ink Now
+Healthcare Marketing Matters
+Jessica Lipnack's Endless Knots
+Scienceroll -- A Medical Student's Journey Through Web 2.0
+Social Media for Health Care
+Social Media Today
+Toby Bloomberg's Diva Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+CEO bloggers
+
+
+Anna Roth, CEO of Contra Costa Regional Medical Center
+Barry Ronan, Western MD Health System
+Bill Roper, CEO of University of North Carolina Health Care System
+Dave Dobosenski, CEO of St. Croix Regional Medical Center
+Marty Bonick, CEO of Jewish Hospital in Louisville
+Raymond Hino, CEO of Mendocino Coast District Hospital
+Rey Spadoni, CEO of VNA of Boston
+Rob Colones, CEO of McLeod Health in South Carolina
+Scott Kashman, CEO of St. Joseph Medical Center
+Todd Linden, CEO of Grinnell Regional Medical Center
+Tom Quinn, CEO of Community General Hospital
+
+
+
+
+
+
+
+
+
+
+
+
+Former CEOs
+
+
+Action for Better Healthcare
+John Toussaint
+Nick Jacobs
+
+
+
+
+
+
+
+
+
+
+
+
+Media Sponsored Links
+
+
+Comm Magazine CW Unbound
+Forbes David Whelan Health Dollars
+Health News Review
+HealthLeaders Media
+NPR Health Blog
+Wall Street Journal Health & Medical Blog
+WBUR's Commonhealth
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+▼ 
+
+2011
+(372)
+
+
+
+▼ 
+
+September
+(11)
+
+Bob is good and lucky; Others are not
+Periodic Table of Texting
+Labor, Delivery, Disclosure, Malpractice
+We're interested, but only if you are quick
+Question causality
+That clears things up
+Halamka rises to the occasion
+Above average (or is it median?)
+September Sepsis
+Comments from Parkland Memorial Hospital
+Quick, e-Patient Dave needs your vote
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(49)
+
+Leaning together in North Carolina
+Harvard medical residents are stupid
+Hadassah and Panama
+What's going on at Parkland Memorial Hospital?
+Free up the data, Commissioner
+Eugene Eisenmann's living memorial
+Piva satisfies
+The Infrastructure Chronicles -- Volume 11
+Must be high profit items
+Using EHRs to wag the dog of corporate mergers
+The Hub of the Universe
+The emperor remains unclothed
+Peter Pronovost is a liar.  He must be.  Isn't he?...
+Eastern MA mushroom crop
+Decision Fatigue.  For doctors, too?
+My friend, the display ad
+Chump change
+A simple proposal on malpractice
+So cheap, I'll take two.
+Trash talk
+How to rebrand a hospital
+To help Talia and others with Dravet syndrome
+Time to talk for the common good
+Jubilee Project offers hope for Red Balloon
+More Irish eyes are shining! Congratulations, Mr. ...
+Pull out your crayon box
+Shirley Fletcher offers a Dance of Difference
+Never blue at Indian Head Farm
+MHA does CLABSI right
+Action in Saskatoon
+An ad for NASDAQ?
+Self-dialysis in Sweden
+What's the story behind the story?
+Closing?  I don't care.
+In memoriam:  Thousands from Hiroshima and Nagasak...
+To build a fire
+Supporting “The Boshman” in His Recovery
+Birthday thoughts
+Coffee ice cream at Dresser Hill
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(53)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(45)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(41)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(48)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(42)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(42)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(41)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2010
+(537)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(42)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(46)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(40)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(43)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(42)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(37)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(46)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(31)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(55)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(57)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(39)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(59)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2009
+(613)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(81)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(68)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(59)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(59)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(45)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(37)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(59)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(56)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(46)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(40)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(30)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(33)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2008
+(511)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(57)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(41)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(33)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(48)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(39)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(37)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(40)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(35)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(60)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(33)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(39)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(49)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2007
+(408)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(34)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(38)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(39)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(35)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(32)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+July
+(27)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+June
+(34)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+May
+(41)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+April
+(51)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+March
+(37)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+February
+(26)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+January
+(14)
+
+
+
+
+
+
+
+
+
+          ► 
+        
+
+
+2006
+(80)
+
+
+
+
+
+          ► 
+        
+
+
+December
+(19)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+November
+(26)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+October
+(25)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+September
+(6)
+
+
+
+
+
+
+
+          ► 
+        
+
+
+August
+(4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Statcounter
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

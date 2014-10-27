@@ -1,0 +1,405 @@
+ScienceLogic Blog :: Monitoring Inside & Out :: EM7 Meta-Appliances
+
+
+
+
+Monitoring Inside & Out
+
+
+
+
+
+Nintendo 3DS Giveaway Winners!
+August 31st, 2011 by Brian Boyko, Technology Humorist and Blog Overlord
+
+So far at VMWorld, we’ve given away three of four Nintendo 3DS consoles.  We’ve got one more to give away, so check us out at Booth #223.
+
+Quentin, one of our winners, with his 3DS.
+AKPC_IDS += "5422,";Popularity: 1% [?]  
+
+
+VMware the platform. Déjà vu all over again.
+August 31st, 2011 by Steve Harriman, SVP Marketing
+
+I sat through an interesting (but long) keynote presentation today at VMworld. The speaker was the VMware CTO, Dr. Steve Herrod, and he discussed his company’s recent developments and offered a glimpse of some of the things to come.  Perhaps not the most impactful, but certainly one of the sexiest developments was support in the vSphere iPad thin client for initiating vMotion events with a finger swipe, moving a VM icon from one ESX server to another. Cool. Is this the beginning of the end for desktops in IT?
+VMWare is betting that we’re moving beyond the “desktop computing” model entirely. Many of the technologies they introduced worked to essentially separate applications from being tied to a particular device or operating system. For example, in a demonstration, VMware showed an on-the-road claims adjuster accessing Microsoft Excel, through the Safari browser on an iPad using HTML5. Windows applications, sans Windows – that is impressive.
+Clearly, VMware has a moved way beyond enabling server virtualization and is making some bold moves to offer a broad array of services for enabling cloud adoption. I applaud the company for its pioneering work, for shaping an industry and becoming a major force in it… in just a decade or so.
+It was also interesting to note that VMware is now taking IT management quite seriously. This is good, and suggests the company is maturing into a full-fledged platform vendor. As anyone who has been in IT long enough to witness technology cycles knows, market availability of management tools for new technology always trails availability of the technology itself. But ultimately, the tools enable broad market adoption of the new technology because they mitigate risk and help users realize the full value of the new technology. VMware gets it, and from the VMworld stage, Herrod stated that the company wants to be in the business of data center and operations management. He asserted that VMware is best positioned technologically to do this because they see everything from the OS level.
+Interesting.
+Charles Babcock at Information Week wrote that VMware’s ambitions are towards turning virtual administrators into network, database, and cloud administrators.
+Clearly, VMware recognizes a big market opportunity when they see it. Few would argue that virtualization and cloud computing are disrupting the IT status quo, and nowhere more than in the IT management space.  ScienceLogic is intimately familiar with the new requirements and challenges that IT professionals face in managing service delivery from highly virtualized infrastructures that can reside anywhere—on premises or in the cloud. In fact, we are spending a ton of money on R&D to ‘manage compute anywhere’ as part of our dynamic cloud management initiative and have already delivered many of the capabilities Herrod disclosed today (as a ‘secret sneak preview for VMworld attendees’ of future VMware deliverables).
+I am tempted to spend  the rest of this blog post explaining why I disagree with Herrod’s claim that VMware is best positioned for IT operations management in highly virtualized/cloud environments. I would point out that, unless I missed something (it is Vegas after all and you know what lack of sleep can do to you), virtualized elements (servers, storage, network) run on physical devices. No matter how much visibility you have into the OS, if you can’t see that your HVAC system just exploded and your server racks are running hot, or your telco has a flapping WAN circuit that is creating unhappy remote users, or someone fat fingered a router table and suddenly your order entry application is offline in Shanghai, you are flying blind. I also would point out that there are many more required disciplines in a comprehensive IT operations management approach than merely OS-centric monitoring. How about event management? Asset and configuration management? Service desk functionality? Run book automation?
+VMWare is recognizing that virtualized environments create very complex management challenges, and they are clearly addressing tha.  But as for managing the entire IT environment, I think they have a little more maturing to do.
+This brings me back to the original point of this blog post.
+If, as I suggested earlier, VMware is becoming a platform vendor, what does this mean for the ecosystem of vendors and technologies that interface with the company and its technology? As a ‘seasoned veteran’ in the IT industry who cut his teeth on mainframe computing, I witnessed IBM’s rise to dominance. Other mainframe platforms came and went, but only one platform survived.
+But interestingly, it was this dominance that spawned the software industry as we know it today. When the threat of antitrust legislation in 1968 prompted IBM to unbundle software from its hardware, the door was opened for independent software vendors to develop products to fill voids left by IBM and to compete with better products. IBM, although still a large software provider, long ago relinquished its software leadership position, including IT management software.
+For VMware to realize its goal of becoming a data center and IT operations management (ITOM) vendor, it must offer management software that competes with the best, across all disciplines. The company has talented people, no doubt, but is IT operations management in its DNA? Do the VMware vSphere engineers wake up every day thinking about IT operations, or do they think about virtualization management? My guess is the latter. And while that’s necessary for virtualization to be used in mission critical applications, it’s not sufficient for the whole of IT.
+At ScienceLogic, we believe IT organizations and service providers need to manage IT infrastructure and service delivery holistically, to monitor and manage all facets of the operation in context. And ITOM is as much about people and processes as it is about technology. Management tools should provide insight and enable efficient process workflows. In the future, they will enable IT to make intelligent orchestration decisions and even automate dynamic infrastructure changes based on policy. More visibility is always good, but you must see the whole picture, not just the virtual environment.
+ 
+ 
+Popularity: 1% [?] Add comment
+
+
+ScienceLogic is VMware Ready, has a new VP of Biz Dev, and oh yes how we’ve grown
+August 30th, 2011 by Chandra Hosek, Director, Corporate Communications
+
+We are exhibiting at VMworld in Vegas this week (please come see us in booth #223 if you are there) and are making a couple of announcements today in conjunction with the show. First, we have achieved VMware Ready status, which means our EM7 IT management software platform has passed VMware’s rigorous evaluating and testing process. This strengthens our virtualization monitoring capabilities and overall ability to help IT organizations centrally manage distributed resources whether they reside in the data center or cloud. For more information, read our announcement here. 
+Second, we announced that we achieved 41% growth over the first two quarters of this year (January to June). More than 30 percent of this growth came from new customers, including Logicworks, a managed cloud computing provider that we recently announced. In fact, more than half of all sales came from service providers, which is a key segment for us along with enterprises and government organizations. 
+In addition, we have hired Fred Johannessen as vice president of business development. Fred, a former BMC software executive based in Austin, will be responsible for building and extending our partnerships with technology companies and resellers. We are pleased to have him on board! Read more about our first-half growth/developments in the announcement here. As our SVP of Sales Scott Sherwood said: 
+“New ScienceLogic customers this year are at various stages of virtualization and cloud computing deployments, but they all have one thing in common: They see the value of having a unified IT operations platform that will help them manage their collective IT resources now and in the future, for better support of business goals. ScienceLogic is building a firm foundation for future growth with continued product innovation, outstanding customer support, and the hiring of experienced, dedicated professionals like Fred Johannessen, who will help us build the ecosystem of partners we need to support customer requirements across the globe.”
+Stay tuned for more news and commentary from VMworld!
+Popularity: 1% [?] Add comment
+
+
+VMWorld 2011 Las Vegas Keynote – Paul Moritz on the Next Generation of IT
+August 29th, 2011 by Brian Boyko, Technology Humorist and Blog Overlord
+
+
+We shuffled into the convention hall around 3:00 for the VMWorld 2011 Las Vegas keynote.  Lining an entire auditorium wall were massive projection screens; a good thing, because for most of the audience, the stage was a bit of an obstructed view.  The VMWorld keynote itself kicked off with a motion graphics video emphasizing “Computing,” “Virtualization,” “Automation,” and the “Cloud.”  Finally, VMWare’s big theme: “It’s your cloud, own it.”
+Rick Jackson, VMWare’s Chief Marketing Officer, came out, said his thoughts are with the victims of Hurricane Irene, then thanks the VMWorld sponsors.
+“The big draw for VMWorld are the labs,” Jackson said.  He then goes on to explain that at VMWorld 2009, they used a private cloud for the VMWorld infrastructure.  In 2010, they used a hybrid cloud.  This year they are using a pure public cloud model.  He also mentions that last year there were 145,000 VMs deployed at VMWorld, this year, it was over 200,000.  Finally, he thanks the VMWare User Group leaders before plugging VMWorld 2012 in San Francisco.
+VMWorld CEO Paul Moritz comes out.
+Last year, Moritz said, VMWare stated that there were more new server applications being deployed on virtual hardware than on physical hardware as of the end of 2009.  This year, there are more server applications total running on virtual hardware than on physical hardware.  A new VM is create every six seconds, and 20 million VMs ticking away around the globe.  There are more virtual machines in motion than airplanes in flight – 5.5 vMotions per second.  There are over 800,000 vSphere admins, over 68,000 VM ware certified professionals, over 1650 ISV partners, and over 3000 apps certified on VMware.
+“We tend to use the word ‘cloud’ a lot,” says Moritz.  What is profound about the cloud?  Is it just time-share rediscovered, or are there more profound things at work? Moritz argues the latter, because of:
+
+The next major round of interaction between enterprise IT and consumer driven change
+There are many forces acting together.
+The cloud will re-define IT over the coming decade.
+
+Moritz then talks about the mainframe era, and pointed out that the canonical applications of the mainframe era centered around automated bookkeeping, for the most part. [Ed. Note: “Canonical applications” is Moritz’s term – he essentially means the basic applications of the era, not applications developed by Canonical Ltd. nor the Canonical Model of Enterprise Application Integration]
+The Client-Server era, with the millions of PC users, brought the relational database, and the canonical apps were ERP, CRM, e-commerce, and non-real-time analytics.
+Moritz believes that we’ll see a new set of canonical applications with the cloud, and that will have a profound change in the entire IT industry, explaining that devices, not PCs, make up the majority of network connections.  That means that there need to be new techniques in the development and presentation of application to work consistently across a broad range of devices.  He believes that the cloud era’s canonical apps will be real-time high-scale analytics, and commerce.
+Moritz then explained that in order to move forward, infrastructure needs to be modernized away from the client-server model in order to carry existing and future applications.  They will need to be run fundamentally more efficiently to serve business needs in the future, because users expect to see information on a broad set of devices, and that information must bridge from existing to new modes of end-user access.
+Virtualization can be applied in a non-disruptive way to applications, Moritz says, which is the first step in modernizing infrastructure and operations, and is the foundation for cloud operations.  What VMWare is working on, he says, is taking that reservoir and working towards operational efficiency.
+“We’re not just creating a hypervisor, but a complete suite that can address infrastructure operations.”
+Moritz then announced the new version of vSphere, vSphere 5.0.  Moritz says that there are more than 200 new features and more than 2000 partner qualifications – the big news – vSphere 5.0 leads with performance and scale, storage load balancing, automatic storage tiering, a virtual storage applicance, automated host provisioning, and support for very large virtual machines.
+For the small and medium business market, Moritz promised VMWare Essentials, and VMWare Go – a “datacenter in a box” with both computing and storage.  It installs, finds the attached direct storage of the servers, and sets up a virtual SAN.
+Moritz also says that as a part of the application renewal process, they need to address the application developer-led revolution against programming complexity – by programmers who work at a high level and choose not to get down into low level detail.  Platform-as-a-service makes that possible.
+He then announced the vFabric data director, which can automatically provision and manage databases and fabrics on vSphere.  They also added modifications to the open-source Postgres database which allows it to work more efficiently when virtualized.  This allows for a much higher density of databases per infrastructure.  Additionally, they released Cloud Foundry as open-source to add to the Cloud Foundry framework, and found a way to create “micro clouds” that can be pushed out on a single USB stick to be used on a developer’s own personal computer.
+Additionally, he announced an update to VMWare View, View 5.0, claiming bandwidth improvement, client ubiquity, and VoIP/Unified Communication support.
+Finally, he introduced a set of technologies called Horizon which allowed IT people to provision applications to specific people, rather than specific devices. 
+Moritz concluded his remarks by inviting Carl Eschenbach, the Co-President of customer operations, on stage.  Eschenbach then invites three of VMWare’s customers, representing NYSE Eurolink, Revlon, and Southwest Airlines to tell their stories of how VMWare solved their particular needs.
+Popularity: 1% [?] Add comment
+
+
+Biting the hand of the service provider that feeds you
+August 29th, 2011 by Mike Boros, Director of Product Marketing
+
+Is it OK for IT management software vendors to compete with the same service providers they’re trying to sell to? Some of our competitors have recently rolled out SaaS versions of the very same IT infrastructure management products that they expect their service providers to resell, thus establishing a channel relationship and then cutting out their channel partner.  While people who have been in the industry for quite a while might not be surprised by such practices, we think it’s counterproductive to the vendor-customer relationship.
+We understand why so many IT management software vendors are scrambling to provide SaaS versions of their offerings.  But when exploring the potential pros and cons of a SaaS model, businesses need to understand how it will impact their customers’ businesses. Our co-founders established ScienceLogic in 2003 with a combined 45 years of experience in the service provider business and built our EM7 IT operations and cloud management platform with service providers in mind (though, years later, we have considerable reach into the enterprise and government sectors). Since the beginning, service providers have helped us design our solutions, and we always keep our finger on the pulse of their business, through all the significant changes of the last eight years (See Jeremy Sherwood’s recent blog post for some insight into the current state of the hosting business). That’s probably why today more than half of our business comes from service providers.
+Service providers made clear early on that they wanted our help with two things: 1) Help them better manage their own IT service delivery, and 2) help their customers participate in the monitoring and management of the resources our providers host for them (and in the process differentiate their services and add new revenue streams).
+Many of our service providers’ customers are technically savvy and are not comfortable with throwing a huge chunk of their infrastructure into a “black box.” These customers want performance monitoring, dashboards, reports, helpdesk/ticketing, etc. Fortunately, our co-founders drew on their own experience and listened to customer needs. We built the ScienceLogic EM7 IT operations and cloud management platform with multi-tenancy, automation and other capabilities that make it an ideal platform for service providers to manage their infrastructure, while providing their end customers with managed services and customized “customer portals” to address their specific needs. 
+When our service provider customers build a portal for their own customers, for example, they often don’t want “powered by ScienceLogic EM7” graphics, color scheme, contact info, or logos. Using EM7’s built-in customization capabilities, these providers will personalize their portals and integrate them with the rest of their customer-facing services. After all, it’s not about us. It’s about their own relationships with their customers.  
+Thus, ScienceLogic EM7 is a tool for each service provider to deliver unique user experiences. Our customers are free to explore whatever pricing or business models they see fit to deliver – branded or generic, bare-bones or value-added. 
+ A few of our competitors have more recently recognized the need service providers have for dual-purpose management products and have retrofitted theirs to at last partially address these needs. But by competing with their own customers, we wonder what their intentions are. What are your thoughts?
+Popularity: 1% [?]		  Tagged with: IT infrastructure management, IT infrastructure monitoring, IT management software, MSP, SaaS, Service Providers Add comment
+
+
+Good vibrations: Earthquake cake
+August 26th, 2011 by Chandra Hosek, Director, Corporate Communications
+
+Just before our company meeting yesterday, ScienceLogic employees in our Reston headquarters celebrated surviving the biggest earthquake to hit Virginia since 1897. Reston is about 100 miles from Mineral, VA, the epicenter of Wednesday’s 5.9 quake:
+
+Popularity: 1% [?] Add comment
+
+
+Yes, yes it can, Datamation.
+August 25th, 2011 by Brian Boyko, Technology Humorist and Blog Overlord
+
+Datamation has just put out a buying guide to cloud computing management tools. The first section is titled: “Can it unify monitoring and management for all my cloud engagements, in-house or outsourced?”
+The article then mentions that service provider Logicworks decided on deploying a cloud monitoring and management solution – ScienceLogic’s EM7.
+From the article:
+According to Steve Zeller, VP of Sales for Logicworks, the lack of visibility into – and control over – their cloud services was quickly becoming a problem, preventing them from attracting clients in heavily regulated sectors, such as health care and financial services… “Now, clients ask, ‘is it safe to store medical records in your cloud?’ Or ‘can I safely connect to several different banks for trading purposes?’”…
+Logicworks deployed ScienceLogic’s cloud monitoring and management solution, EM7. Now, Logicworks has a holistic view of performance across their entire hosting infrastructure, and they are alerted to the most critical performance issues facing their clients…“We see what exactly is happening when it is happening.”
+We’re big proponents of being able to see what’s happening when it’s happening. (But don’t go see “The Happening.” It’s a terrible movie.)
+LogicWorks is currently using our management and automation capabilities to free up staff time for more strategic projects. This has resulted in a 75% increase in IT efficiency. Plus, LogicWorks can now offer value-added monitoring services to their customers, providing them with customized, automated reports that detail service levels and usage trends to clients. (Here’s our press release on the subject.) This allows LogicWorks to have a leg up on their competition, as few service provider customers expect service providers to provide complete performance metrics.
+Popularity: 1% [?] Add comment
+
+
+Linus Torvalds, Virtualization, and the Devil
+August 23rd, 2011 by Brian Boyko, Technology Humorist and Blog Overlord
+
+Linus Torvalds, who initiated the development of the Linux kernel, and acts as the kernel coordinator, said at LinuxCon that “I’m not a virtualization kind of guy. I think virtualization is evil,” according to Network World.
+With VMworld coming up soon (and with ScienceLogic making our presence known at the Solutions Exchange), I thought I’d examine this.
+Now, I don’t think that Torvalds literally thinks that virtualization is evil – Torvalds is well known for his hyperbole. But Torvald’s personal preferences are that he’s coming from a career in developing and architecting the Linux kernel so that it would work with a variety of physical hardware and software; to be able to interface with a number of different technologies and have room for additional technologies in the future. In short, as he put it: “I built a kernel because I wanted to get my hands grubby with things like I/O ports.”
+The irony here is that virtualization has done more for the spread of Linux than 10,000 Richard Stallman rants. When people need a virtualized system created quickly, they usually use some version of Linux. Because Windows needs to be licensed, (and MacOSX won’t run on non-Apple hardware) developers need to spend time getting the license approved by accounting (and sometimes legal). Since the whole point of rapidly deploying a virtual machine anyway is to speed things up, it’s often much easier just to set up a Linux VM. This doesn’t mean that Windows VMs aren’t useful; but the key advantage to Windows VMs is easy porting of legacy Windows applications – not the development of new ones. 
+More than that, though, Linux’s ability to work well in VMs is partially because virtualized hardware is usually standardized – since everything’s emulated anyway, why not emulate what you know will work, after all? And while it probably doesn’t provide Torvalds with his preferred challenges, most people using Linux to get stuff done don’t particularly want to be challenged by it.
+But Linux has also contributed to the spread of virtualization. Imagine, would virtualization have taken off as quickly as it has if there wasn’t a well-developed and mainstream open source operating system, which could be duplicated ad infinitum? Perhaps it could have been Hurd or 386BSD if Torvalds hadn’t created Linux – but Linux served that purpose better than either. 
+Either way, what is happening is that virtualization is a major part of IT. Without it, we wouldn’t have cloud computing, we wouldn’t have nearly as many tech SaaS startups, and we wouldn’t be able to go from development to production much quicker. These things to me, are the opposite of “evil.” There are problems, of course – when one box runs multiple virtual machines, it means IT infrastructure management and virtualization monitoring becomes even more critical. And it can be difficult to control VM sprawl without the proper tools. But ultimately, the good outweighs the “evil.”
+Popularity: 1% [?] Add comment
+
+
+IT lessons from law enforcement
+August 19th, 2011 by Brian Boyko, Technology Humorist and Blog Overlord
+
+In Santa Cruz, California, according to the New York Times, police are instituting a new plan to send police to trouble areas before crimes are committed, partially to catch people in the act. While they don’t employ psychics and scientologists, they do use trend analysis to find out when and where most crimes seem to be occurring, and send the police there as deterrent and as enforcers on the scene.
+Of course, this isn’t exactly rocket science for the IT department. If you’ve got the data to find the trends in your network and infrastructure performance, you act proactively to prevent or mitigate the problems before they occur.  That’s the whole purpose behind enterprise network monitoring and IT infrastructure management.
+But then there’s another counterpoint. The London riots of these past few weeks; which occurred in the most CCTV (closed circuit television) monitored city in the world. Monitoring the city had absolutely no deterrent effect on the riots. The deterrence theory of CCTV monitoring assumes that would-be criminals make smart and rational choices about their future. But street crime is not a rational act. Repeat criminals don’t think rationally; nor do rioters.
+Where CCTV does work is in deterring crimes that require planning. Car theft, bank robberies, and jewelry store thefts benefit from CCTV; but they do not need to monitor all the time, they just need to save the last few seconds before a break-in and during. Selective monitoring is important.
+And, while computers may be the most logical thing on the planet, there is no way anyone can argue that a computer is rational. A computer doesn’t think about the consequences of running that while(1)fork() command. So when you talk about network monitoring, you can’t just monitor everything and assume that will solve the problem. You need to focus in on the information that happened before an incident occurred, and have the appropriate tools to alert you when something is out of the ordinary.
+Popularity: 1% [?] Add comment
+
+
+Standard Deviations, and Poor Deviations.
+August 17th, 2011 by Brian Boyko, Technology Humorist and Blog Overlord
+
+When I left college, in 2001, I was told that the economy was bad. The economy got worse in 2003. Then again in 2005, after Katrina. Then the 2007 economic downturn. Then again in 2008, with the sub-prime loans financial crisis. Now we have the debt ceiling crisis.
+I’m sensing a pattern here. For my generation of Americans, there’s never been a time when the economy has actually improved. Adjusted for inflation, the median household income for 25-34 year olds by age in 1999 was $53,669. ($41,414 in 1999 dollars). In 2009, it was $51,002. ($50,199 in 2009 dollars).
+And now we have a situation where the United States has lost its AAA rating, which means it will cost more for the government to borrow money, which means that it will cost more for everyone else to borrow money, which means that there’s going to be less credit available for starting and expanding businesses and…
+Let me put it to you this way. Considering the trend line over the past 10 years, my long term retirement investment strategy for 35 years from now is heavily weighted towards canned goods and shotguns.
+It’s not that S&P thinks that the U.S. can’t pay back its debt. It’s that S&P took a look at the political brinksmanship that went on in Washington during the debt ceiling negotiations and realized that the political threat to default on the debt was a scarily real possibility. I don’t want to blame one party or the other, as I’m sure various pundits will do that for me. Heck, even S&P got the numbers wrong at first, so maybe they’re to blame.
+But what I can get angry at is that this whole deficit thing is being treated as a political problem, rather than a mathematical problem. I mean, really. The U.S. government has tons of data on how much the country makes, how much and where they spend it. The government knows exactly how much I spent on video games in 2005 (it was a legitimate business expense, I swear!), but they can’t figure out how to get Number A to Number B by Year C? Get the data! Do the math! Fix it!
+In the 111th congress, there are 225 lawyers, but only six engineers, five scientists, and one accountant. Maybe the Sui Dynasty had it right. Forget high school kids – maybe we need politicians to be able to pass a standardized math test.
+Okay, rant over. Here’s the takeaway from this. Don’t turn the mathematical and engineering problems that we constantly have to solve in IT into political ones. Make sure you get all the data you need to quickly diagnose problems conclusively.
+More importantly, make sure you’ve got consistent data. Every issue has supporters and detractors, and even working from the same data, you’re never going to get a Keynesian, a Marxist, and a Supply-sider to agree on anything. The problem with today’s (American) political landscape is that it’s no longer a case where everyone has their own opinion. It seems like everyone has their own set of facts, and somehow, the value of “2+2” becomes “5” in the “most optimistic projections,” and “3” in the “most pessimistic.”
+I wish we didn’t have to deal with this in IT. But it’s too often the case that separate IT teams working in separate silos all insist that the problem is “someone else’s.” This problem only gets worse when you consider that every silo has its own set of tools (e.g., network management tools vs. system admin tools vs. application management tools), each providing different sets of data that lead to different conclusions reached without the benefit of a holistic approach to the problem. As a result, the buck gets passed, and problems don’t get solved.
+Look, don’t be like Congress. We can give you the tools you need to monitor and manage your entire IT infrastructure, with all the individual collections of data correlated into a single database. Use that data. Work together. Solve problems.
+And if you can actually solve a problem without threatening to destroy the entire economy if you don’t get your way, run for office, because you’re better qualified than the clowns we have now.
+Popularity: 1% [?] Add comment
+
+
+
+Previous Posts
+
+
+
+
+
+
+
+Visit Us
+
+
+
+
+
+
+Subscribe
+
+Entries via RSS
+Entries via Email
+Comments via RSS
+Comments via Email
+
+
+Sign up forour newsletter.
+
+
+
+
+
+
+Latest Tweets
+follow ScienceLogic at http://twitter.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+ type keywords | hit enter
+
+Navigation
+
+About Monitoring Inside & Out
+Blogroll
+Meet the Bloggers
+
+Recent Posts
+Nintendo 3DS Giveaway Winners!
+VMware the platform. Déjà vu all over again.
+ScienceLogic is VMware Ready, has a new VP of Biz Dev, and oh yes how we’ve grown
+VMWorld 2011 Las Vegas Keynote – Paul Moritz on the Next Generation of IT
+Biting the hand of the service provider that feeds you
+
+Categories
+
+Analysts
+
+Card Contest
+
+Cisco Live
+
+Cloud Computing
+
+Conferences
+
+MySQL 2008
+
+MySQL 2009
+
+
+
+Customer Stories
+
+FOSE
+
+FOSE 2008
+
+FOSE 2009
+
+FOSE 2010
+
+
+
+Government IT
+
+Interop
+
+Interop NY 08
+
+Interop NY 09
+
+Interop NY 10
+
+Interop Vegas 08
+
+Interop Vegas 09
+
+Interop Vegas 2010
+
+Interop Vegas 2011
+
+
+
+InteropNet
+
+InteropNet 2008
+
+InteropNet 2009
+
+InteropNet 2010
+
+InteropNet 2011
+
+
+
+IPv6
+
+IT Operations Management
+
+Just for Fun
+
+Local Tech
+
+Meta-Appliance
+
+Network Management
+
+Network Monitoring
+
+Open Source
+
+ScienceLogic Corporate
+
+Service Providers
+
+Single Pane of Glass
+
+Systems Management
+
+Tech Talk
+
+Cisco
+
+EM7
+
+
+
+Uncategorized
+
+Virtualization Management
+
+VMWorld 2011
+
+web 2.0
+
+
+Archives
+
+
+2011
+
+August 2011 (17)
+July 2011 (15)
+June 2011 (15)
+May 2011 (16)
+April 2011 (15)
+March 2011 (20)
+February 2011 (11)
+January 2011 (5)
+
+2010
+2009
+2008
+
+
+Recent Comments
+Cloud Security Guy commented on Cloud Industry Forum Code of Practice: The Three Pillars
+Now that major cloud service providers have achieved CIF certification, it’s possible that other ven
+
+Elizabeth Shea commented on Hottest Venture Deal in the Hottest State for Biz in the Union
+Congratulations to the ScienceLogic team! It was great to see you receive the award in front of 450 
+
+Brian Boyko commented on Links List 4.1.11
+I also wanted to add some of the other cool April Fools' Day stuff I've been seeing around the web. 
+
+Lee Calcote commented on Seven Dot Oh My!
+May you never lose a Power-Pack License Key again - embedded license keys. What a great feature.
+
+Charan commented on Planning a Virtualization Infrastructure – What You Need to Know
+Hi Adnan, Hope you are doing good. Thanks for such a nice post. I am also a vmware freak, i am also 
+
+
+Most Popular Posts
+
+Light Up Your IT Environment with Liquid DashboardsDashboard Heaven with EM7Netflix and Stolen TimeThe Marxist View of Cloud ComputingHow the 4 Hour Body Can Help Your IT Infrastructure ScaleCisco Live! - John Willsey on Smart Business ArchitectureGartner Hype Cycle: Live from Midsize Enterprise SummitCloud Industry Forum Code of Practice: The Three PillarsVivek Kundra Kicks Off the NIST Cloud Computing Forum and WorkshopCloud computing myths answered: Part 2
+
+
+
+
+
+
+
+
+
+
+Copyright © 2011 ScienceLogic Inc. | All Rights Reserved
+
+
+
+
+
+
+

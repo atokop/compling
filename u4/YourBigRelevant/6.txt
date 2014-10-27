@@ -1,0 +1,1247 @@
+Complexity and Social Networks Blog: TweetQuake
+
+
+
+
+Complexity and Social Networks Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 2011
+
+
+
+Sun
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+5
+
+
+
+
+
+
+6
+
+
+
+
+
+
+7
+
+
+
+
+
+
+8
+
+
+
+
+
+
+9
+
+
+
+
+
+
+10
+
+
+
+
+
+
+
+
+11
+
+
+
+
+
+
+12
+
+
+
+
+
+
+13
+
+
+
+
+
+
+14
+
+
+
+
+
+
+15
+
+
+
+
+
+
+16
+
+
+
+
+
+
+17
+
+
+
+
+
+
+
+
+18
+
+
+
+
+
+
+19
+
+
+
+
+
+
+20
+
+
+
+
+
+
+21
+
+
+
+
+
+
+22
+
+
+
+
+
+
+23
+
+
+
+
+
+
+24
+
+
+
+
+
+
+
+
+25
+
+
+
+
+
+
+26
+
+
+
+
+
+
+27
+
+
+
+
+
+
+28
+
+
+
+
+
+
+29
+
+
+
+
+
+
+30
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Editor Login
+
+
+Convener in chief:
+
+
+
+ David Lazer 
+
+ (Methodology, Networked Governance)
+
+
+Editors:
+
+
+
+ Stanley Wasserman
+
+ (Current Trends, Methodology, Social Networks)
+
+
+
+ Guy Stuart
+
+ (Economic Sociology, Finance)
+
+
+
+ David Gibson
+
+ (Social Networks, Interaction, Theory)
+
+
+ Jason Greenberg>
+ (Networks, Econmic Sociology, Entrepreneurship)
+
+
+
+ Allan Friedman 
+
+ (Simulations)
+
+ Yu-Ru Lin (Networks, Visualization)
+
+
+ Sklyer Place (Networks, Decisionmaking)
+
+
+ Sune Lehmann (Complex Networks, Computational Social Science, Statistics)
+
+ Jukka-Pekka Onnela
+
+ (Methodology, Social Networks, Technology)
+
+
+
+ Nathan Eagle
+
+ (Technology, Social Computing, Powerlaws, Current Trends)
+
+
+
+ Ben Waber
+
+ (Technology, Social Computing)
+
+
+ Ines Mergel 
+
+ (Knowledge Sharing, Social Computing, Social Software, Government 20)
+
+
+
+ Maria Binz-Scharf 
+
+ (Qualitative Methodology, Knowledge Sharing, eGovernment) 
+
+
+ Sebastian Schorf
+
+(Social Interaction, Cultural Interaction)
+
+
+ Alexander Schellong 
+
+ (Admin, eGovernment, Government 20, Citizen Relationship Management) 
+
+
+Categories
+
+
+
+
+Business (
+6)
+
+
+
+
+Citizen Relationship Management (
+23)
+
+
+
+
+Commentary (
+24)
+
+
+
+
+Complexity (
+8)
+
+
+
+
+Congress (
+3)
+
+
+
+
+Current Trends (
+72)
+
+
+
+
+Events/Announcements (
+129)
+
+
+
+
+Government 20 (
+9)
+
+
+
+
+Innovation (
+17)
+
+
+
+
+International relations (
+1)
+
+
+
+
+Internet (
+35)
+
+
+
+
+Knowledge Sharing (
+25)
+
+
+
+
+Methodology (
+46)
+
+
+
+
+Networked Governance (
+24)
+
+
+
+
+Networks in political science (
+12)
+
+
+
+
+Open Government Initiative (
+1)
+
+
+
+
+PNG Working Paper Series (
+6)
+
+
+
+
+Politics (
+2)
+
+
+
+
+Powerlaws (
+5)
+
+
+
+
+Reviews (
+3)
+
+
+
+
+SN in the news (
+83)
+
+
+
+
+Simulations (
+1)
+
+
+
+
+Small Worlds (
+3)
+
+
+
+
+Small group networks (
+4)
+
+
+
+
+Social Capital (
+7)
+
+
+
+
+Social Computing (
+20)
+
+
+
+
+Social Finance (
+2)
+
+
+
+
+Social Networking Platforms (
+22)
+
+
+
+
+Social Psychology (
+5)
+
+
+
+
+Social Software (
+33)
+
+
+
+
+Social media (
+8)
+
+
+
+
+Societal Networks (
+42)
+
+
+
+
+Technology (
+59)
+
+
+
+
+Web 2.0 (
+10)
+
+
+
+
+eGovernment (
+35)
+
+
+
+Archives
+
+
+
+
+August 2011
+
+
+
+
+July 2011
+
+
+
+
+June 2011
+
+
+
+
+March 2011
+
+
+
+
+February 2011
+
+
+
+
+January 2011
+
+
+
+
+December 2010
+
+
+
+
+November 2010
+
+
+
+
+October 2010
+
+
+
+
+August 2010
+
+
+
+
+July 2010
+
+
+
+
+June 2010
+
+
+
+
+May 2010
+
+
+
+
+April 2010
+
+
+
+
+March 2010
+
+
+
+
+February 2010
+
+
+
+
+January 2010
+
+
+
+
+December 2009
+
+
+
+
+November 2009
+
+
+
+
+October 2009
+
+
+
+
+September 2009
+
+
+
+
+July 2009
+
+
+
+
+June 2009
+
+
+
+
+May 2009
+
+
+
+
+April 2009
+
+
+
+
+March 2009
+
+
+
+
+February 2009
+
+
+
+
+January 2009
+
+
+
+
+December 2008
+
+
+
+
+November 2008
+
+
+
+
+October 2008
+
+
+
+
+September 2008
+
+
+
+
+August 2008
+
+
+
+
+July 2008
+
+
+
+
+June 2008
+
+
+
+
+May 2008
+
+
+
+
+April 2008
+
+
+
+
+March 2008
+
+
+
+
+February 2008
+
+
+
+
+January 2008
+
+
+
+
+December 2007
+
+
+
+
+November 2007
+
+
+
+
+October 2007
+
+
+
+
+September 2007
+
+
+
+
+August 2007
+
+
+
+
+July 2007
+
+
+
+
+June 2007
+
+
+
+
+May 2007
+
+
+
+
+April 2007
+
+
+
+
+March 2007
+
+
+
+
+February 2007
+
+
+
+
+January 2007
+
+
+
+
+December 2006
+
+
+
+
+November 2006
+
+
+
+
+October 2006
+
+
+
+
+September 2006
+
+
+
+
+August 2006
+
+
+
+
+July 2006
+
+
+
+
+June 2006
+
+
+
+
+May 2006
+
+
+
+
+April 2006
+
+
+
+
+March 2006
+
+
+
+
+February 2006
+
+
+
+
+January 2006
+
+
+
+
+December 2005
+
+
+
+
+November 2005
+
+
+
+Recent Entries
+
+
+
+
+Half of the adults in the US use network platforms to interact with friends
+
+
+
+
+TweetQuake
+
+
+
+
+Highlights from the 5th International Conference on Weblogs and Social Media
+
+
+
+
+Hustle and Flow --- Life's Hard at the Top for Baboons
+
+
+
+
+HBO Actor Recycling Program
+
+
+
+
+A real neural network ..... amazing research
+
+
+
+
+Networks on display at the Annual Association for  Psychological Science Meeting
+
+
+
+Recent Comments
+
+
+
+
+
+
+Search this site:
+
+
+
+
+
+
+
+Notification
+
+Enter e-mail to subscribe:                
+
+
+
+
+
+
+
+Powered by
+
+Movable Type 
+4.24-en
+
+
+
+
+Syndicate this site (XML)
+
+
+
+
+
+
+
+
+
+
+
+
+View Blog Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complexity and Social Networks Blog of the Institute for Quantitative Social Science and the Program on Networked Governance, Harvard University
+
+Welcome!  The objective of this blog is to offer a forum for the discussion of the intertwined subjects of network analysis and complex systems theory.
+David Lazer, Director 
+
+
+
+
+« Highlights from the 5th International Conference on Weblogs and Social Media |
+
+Main
+
+| Half of the adults in the US use network platforms to interact with friends »
+
+24 August 2011
+TweetQuake
+Note: This is a joint post with Alan Mislove, based on our work with Yong-Yeol Ahn and Chloe Kliman-Silver.
+On on August 23, 2011, at 1:51 PM EDT a magnitude 5.8 earthquake hit the Piedmont region of the U.S. state of Virginia. Orders of magnitude smaller than the recent earthquake in Japan, this quake was nonetheless the largest in the U.S. east of the Rocky Mountains in 114 years (according to  Wikipedia).
+But why are we talking about earthquakes? We should be talking about people talking about earthquakes. And people really did some talking. The official twitter account (@twitter) posted three back-to-back tweets on the subject:
+
+Are Tweets faster than seismic waves? We can't speak to speed of seismic waves, but a Tweet can reach your followers in less than a second. [link]
+
+Within a minute of today's #earthquake, there were more than 40,000 earthquake-related Tweets. [link]
+And, we hit about 5,500 Tweets per second (TPS). For context, this TPS is more than Osama Bin Laden's death & on par w/ the Japanese quake. [link]
+
+Now, as I am sure many people have already pointed out (e.g. on twitter), this situation was deftly analyzed and anticipated by Randall Munroe, author of the wonderful webcomic xkcd back in April 2010. Here's the strip:
+
+
+As Munroe points out, the speed of "damaging" seismic waves is around 3-5 km/second, which is much slower than the speed of information spreading on the internet. This simple fact means that if you're more than 100 km away from the epicenter you can read about the quake on twitter before it hits you.
+Now, combine idea from the xkcd strip with data from the  tweetquake and it's possible to observe this phenomenon in practice. In the visualization below, we've generated a video of the mentions of the work "earthquake" in tweets from the gardenhose in the 5 minutes immediately following the earthquake.  For simplicity, we have assumed a uniform 4 km/s wave and ignored deformations due to map projections, etc (we're not geologists, after all).
+
+The comic strip doesn't factor in the time it takes to actually write a tweet, and since seconds count, it takes more than 100 km before we see tweets posted outside the wavefront (validating the last frame of the comic strip). It is awe inspiring to see a truly real time news medium in action.
+
+Notes:
+PS The video looks a lot better in high definition on YouTube.
+PPS Follow @suneman on twitter: http://twitter.com/suneman/
+
+
+
+Posted by Sune Lehmann at August 24, 2011  3:50 PM
+
+  .
+   
+   Business (6)
+  .
+   
+   Citizen Relationship Management (23)
+  .
+   
+   Commentary (24)
+  .
+   
+   Complexity (8)
+  .
+   
+   Congress (3)
+  .
+   
+   Current Trends (72)
+  .
+   
+   eGovernment (35)
+  .
+   
+   Events/Announcements (129)
+  .
+   
+   Government 20 (9)
+  .
+   
+   Innovation (17)
+  .
+   
+   International relations (1)
+  .
+   
+   Internet (35)
+  .
+   
+   Knowledge Sharing (25)
+  .
+   
+   Methodology (46)
+  .
+   
+   Networked Governance (24)
+  .
+   
+   Networks in political science (12)
+  .
+   
+   Open Government Initiative (1)
+  .
+   
+   PNG Working Paper Series (6)
+  .
+   
+   Politics (2)
+  .
+   
+   Powerlaws (5)
+  .
+   
+   Reviews (3)
+  .
+   
+   Simulations (1)
+  .
+   
+   Small group networks (4)
+  .
+   
+   Small Worlds (3)
+  .
+   
+   SN in the news (83)
+  .
+   
+   Social Capital (7)
+  .
+   
+   Social Computing (20)
+  .
+   
+   Social Finance (2)
+  .
+   
+   Social media (8)
+  .
+   
+   Social Networking Platforms (22)
+  .
+   
+   Social Psychology (5)
+  .
+   
+   Social Software (33)
+  .
+   
+   Societal Networks (42)
+  .
+   
+   Technology (59)
+  .
+   
+   Web 2.0 (10)
+
+Comments
+Notification
+
+Enter e-mail address to receive notification of new comments to this entry
+
+
+
+
+
+
+Post a comment
+
+
+
+
+
+
+Name:
+
+Email Address:
+
+
+
+URL:
+
+Remember Me?
+YesNo
+
+Comments: 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1275 @@
+Virginia earthquake waves ripple across the US! | Bad Astronomy | Discover Magazine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Today »
+
+
+Renew
+Give a Gift
+Archives
+Customer Service
+
+
+Facebook
+Twitter
+Newsletter
+
+
+
+
+SEARCH
+
+
+
+
+
+
+
+
+
+
+
+Health & Medicine
+Mind & Brain
+Technology
+Space
+Human Origins
+Living World
+Environment
+Physics & Math
+Video
+Photos
+Podcast
+RSS
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+« Another jaw-dropping time lapse video: Tempest
+WISE finds coolest brown dwarfs ever seen! »
+
+
+Virginia earthquake waves ripple across the US!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is very cool: seismometers deployed across the United States detected the seismic waves from the magnitude 5.9 earthquake that hit Virginia on August 23, 2011. In this animation showing the data you can actually see the wave rippling across the country!
+
+What you’re seeing here are vertical displacement measurements from an array of detectors that are part of the USArray/EarthScope facility (you can read more about the array and the animation on the IRIS website). These are very sensitive instruments; note the scale on the lower graph showing the motion is only about 40 microns top-to-bottom! That’s less than the thickness of a human hair. 
+Red dots represent upward motion, and blue downward. The intensity of the color represents the amplitude (height) of the wave. Animations like this make it very easy to see the waves moving across the country; the arc even gives you a rough idea of where the epicenter was.
+I grew up in Virginia, and went to UVa not far from the quake’s epicenter of Mineral, Virginia. I felt several earthquakes when I lived in California, and ironically there was a moderate quake about 360 km south of me in Colorado last night, but I never felt it! The Virginia quake, though, was felt as far away as Canada, apparently due to the East coast’s different crust structure than on the West coast, where quakes aren’t felt so far away. I didn’t know that, and that’s pretty interesting. Every state in the US has earthquakes, but the East coast quakes can be particularly dangerous because structures like houses and buildings aren’t built to withstand them. Perhaps this quake will be a wake-up call to construction companies and the government which regulates the industry.
+I expect over the next day or two we’ll see psychics and people peddling earthquake prediction services to be chattering about this. However, there’s no way known to predict an earthquake, so if someone says they knew this was coming, well, go find a big ol’ grain of salt. And this quake (and the one in Colorado) has nothing to do with the Moon (which was full well over a week ago) or Comet Elenin or anything like that. The Earth is a tectonically active body, with a crust that sometimes lets us know that vast and powerful forces lurk beneath the surface. I think the scientifically reality of that knowledge — plus our ability to understand it, using measurements like the one in that video — is more than cool enough without having to make stuff up about it.
+Credit: Data from the TA network were made freely available as part of the EarthScope USArray facility supported by the National Science Foundation, Major Research Facility program under Cooperative Agreement EAR-0350030. Tip o’ the tectonic plate to Emily Lakdawalla.
+
+
+
+Related posts:
+- No, the Supermoon didn’t cause the Japanese earthquake
+- Do rainbow clouds foretell earthquakes
+- Magnitude 8.8 earthquake off the Chile coast
+- Repeat after me: asteroid TU24 is no danger to Earth
+
+
+
+          August 23rd, 2011 5:10 PM          Tags: earthquake, EarthScope facility, IRIS, seismic waves, Virginia earthquake 
+           by Phil Plait in Cool stuff, Science, Top Post | 102 comments | RSS feed | Trackback > 
+
+
+
+
+
+
+
+102 Responses to “Virginia earthquake waves ripple across the US!”
+
+
+            1.              Brett McCoy Says:
+                        
+August 23rd, 2011 at 5:13 pm 
+ When we had one here in Maryland last summer (which is where that picture of the toppled chair originated from, incidentally), it was explained that because of the thinner crust here we “feel” the quakes more here than in more heavily mountainous areas.
+
+
+
+            2.              Peter Kazmir Says:
+                        
+August 23rd, 2011 at 5:20 pm 
+ Do you know why Texas seemed to vibrate for such a “long” time after the rest of the country settled down? And why there are so many seismic stations in the middle of the country?
+
+
+
+            3.              Ian Says:
+                        
+August 23rd, 2011 at 5:20 pm 
+ So is our government going to arrest our seismologists, a la Italy?
+
+
+
+            4.              barbara tomlinson Says:
+                        
+August 23rd, 2011 at 5:23 pm 
+ Does anybody else get the Mormon ads on that video? That’s… odd.
+Based on the weird bouncing effect in Texas it’s no wonder they have so many sensors in that band up the middle of the country. So much more fun to monitor sensors that have something to sense.
+
+
+
+            5.              ishie Says:
+                        
+August 23rd, 2011 at 5:24 pm 
+ Thanks for posting this! We’ve been trying to figure out approximately how quickly the waves reached us here in southwest Ohio, since most of the people in our office didn’t feel a thing.
+
+
+
+            6.              Tavi Greiner Says:
+                        
+August 23rd, 2011 at 5:28 pm 
+ “Perhaps this quake will be a wake-up call to construction companies and the government which regulates the industry.”
+You can bet your sweet as-teroid that will not happen anytime soon, as long as a certain political party continues to chip away at this country’s infrastructure, and especially if there is any science involved. In fact, they would probably prefer to use this quake as an opportunity to further their religious bias and unbridled greed. Seriously.
+
+
+
+            7.              LarianLeQuella Says:
+                        
+August 23rd, 2011 at 5:30 pm 
+ It’s sad how predictably woo-woos come out of the woodwork AFTER the event happens…
+Although, I predict that Evelyn will “soon” have a post about it at this blog:  http://blogs.agu.org/georneys/  (With soon defined as soon as she gets settled in South Africa)
+$1,000,000 plz.   
+
+
+
+            8.              Burn Says:
+                        
+August 23rd, 2011 at 5:33 pm 
+ I know this isn’t exactly your area, Dr. Plait, but what caused the detection to linger so much longer in the Texas area than it did in the northern midwest?
+
+
+
+            9.              Ron Richter Says:
+                        
+August 23rd, 2011 at 5:39 pm 
+ Wow!  I wonder what the residual noise is in the Southern parts of the network in Texas and near Nevada/California? Something sloshing around?
+
+
+
+            10.              Defying Disaster » Virginia Earthquake Links Says:
+                        
+August 23rd, 2011 at 5:40 pm 
+ [...] Discover Magazine’s  seismic wave animation  Link [...]
+
+
+
+            11.              Stephen Cope Says:
+                        
+August 23rd, 2011 at 5:48 pm 
+ Prof Thomas Lumley has an examination of moon data and earthquakes:
+http://www.statschat.org.nz/2011/08/08/the-moon-and-earthquakes/
+As you say in your last paragraph, there isn’t a relationship between them.
+
+
+
+            12.              Ozonator aka Robert Rhodes Says:
+                        
+August 23rd, 2011 at 5:51 pm 
+ “there’s no way known to predict an earthquake”
+With Kansas ~120 miles from the 5.3 Colorado quake, about 15 weeks earlier, “B). … the specifics of the Giulaino – Gansu Model (5/15 – 21/11) of extreme AGW earthquake warnings among tectonic energy lines with individual predictions for regions (magnitude in Richters) are: 1). Moon Walk Model: a). Mojave Desert (7+) – Kansas (5+) – Arkansas (7+) – Alabama (5+) – Virginia (5+) – New York (4+) – Reykjanes Ridge (6+) … C). … Virginia; … 13). 16-week model … Virginia” (“GBRWE 5/15 – 21/11”s Extreme Planetary Warnings for Earthquakes, Volcanoes, and Solar/Terrestrial Flares from Human Activities”; Robert Rhodes, Supplemental; GBRWE 5/15 – 21/11, 5/14/11).
+
+
+
+            13.              Rick Says:
+                        
+August 23rd, 2011 at 5:53 pm 
+ I’m not sure I agree fully with this:  “Every state in the US has earthquakes, but the East coast quakes can be particularly dangerous because structures like houses and buildings aren’t built to withstand them. Perhaps this quake will be a wake-up call to construction companies and the government which regulates the industry.”  Read Seth Stein’s new book “Disaster Deferred” for a cautionary story about how the relative risks of mid-plate quakes in the New Madrid zone have been overstated and the misinvestment that has resulted.
+
+
+
+            14.              SocraticGadfly Says:
+                        
+August 23rd, 2011 at 5:59 pm 
+ I will venture soil structure due to the constant re-channeling of the MIssissippi (before our modern levees, etc.) has at least something to do with the midsection of the country. (For those who don’t know, the Mississippi has flowed into the Gulf of Mexico at places as far west as today’s Houston.)
+
+
+
+            15.              Robert Daniel Says:
+                        
+August 23rd, 2011 at 6:12 pm 
+ “felt as far away as Canada” — which is actually closer to the epicentre than Florida.
+
+
+
+            16.              Bob Bock Says:
+                        
+August 23rd, 2011 at 6:19 pm 
+ Sorry but the Builders PAC supports the Repubs. They won’t make codes stronger.
+
+
+
+            17.              neutron tamper Says:
+                        
+August 23rd, 2011 at 6:33 pm 
+ Awesome share Phil!
+
+
+
+            18.              Mike Says:
+                        
+August 23rd, 2011 at 6:33 pm 
+ Can you back this up so that you can see the earlier earthquake in Colorado first?
+
+
+
+            19.              BJN Says:
+                        
+August 23rd, 2011 at 6:38 pm 
+ There’s residual vibration in the California cluster, and I’d bet in much of the Basin and range that’s harder to see since the stations are sparse. I’d guess (and it’s only a guess) that the Mississippi sediments can “ring” for a while when disturbed. But that wouldn’t really explain why the sensors in SoCal and apparently other areas in the West also ring for a while. Perhaps it’s related to areas of the continent that aren’t underlain by ancient core rocks of the continental craton. I’d love to hear from a geophysicist what’s going on.
+
+
+
+            20.              COD Says:
+                        
+August 23rd, 2011 at 6:44 pm 
+ I live about 20 miles from the epicenter. One picture off the wall, a few books off the shelves and that sort of thing. No warning from the dogs either. So much for that urban myth.
+
+
+
+            21.              Chas, PE SE Says:
+                        
+August 23rd, 2011 at 6:51 pm 
+ >>East coast quakes can be particularly dangerous because structures like houses and buildings aren’t built to withstand them<<<
+Feller who taught me Earthquake Engineering flew into Chicago from California.  Driving down the Kennedy, he looked out and asked: "All those brick chimneys are steel-reinforced, aren't they?"
+"No," he was told.  "Why should they be?"
+
+
+
+            22.              Elwood Herring Says:
+                        
+August 23rd, 2011 at 6:55 pm 
+ Fascinating stuff – now you can call yourself Phil the “Tech Tonic” Plait.
+
+
+
+            23.              Jack Hagerty Says:
+                        
+August 23rd, 2011 at 7:02 pm 
+ Seems like folks on the east coast always want the Calfornia life style. Well, here you go!
+It’s amazing the amount  of coverage this has gotten for an event less than 1/10 the size of the Loma Prieta quake in 1989 (the one that brought down a section of the Bay Bridge and about 2 miles of the Nimitz freeway).
+- Jack
+
+
+
+            24.              Meskine Says:
+                        
+August 23rd, 2011 at 7:05 pm 
+ My sister lives in Lexington, Virginia, about 75 miles from the epicenter.  She described the sensation as a helicopter hovering very low overhead.  They all ran outside to look for it, but of course there was no helicopter sound.  She’s never experienced an earthquake so the whole thing gave her goose bumps.
+I was impressed seeing the waves ripple through my home in Northeast Texas.  Naturally, I didn’t feel a thing, but it did happen after lunch and I was probably asleep at my desk.  While my finely tuned ear will detect the boss trying to tiptoe up behind me, anythong else requires a pretty big jolt to wrest me from the sweet embrace of Morpheus.
+
+
+
+            25.              Nobody Says:
+                        
+August 23rd, 2011 at 7:30 pm 
+ Americans on the East Coast have relatively little to fear. The crust there is old, thick, and very stable. Earthquakes big enough to really worry about can’t happen there – no plate collision to build up tension. The most you’d get is like this one, where it’s just the crust ‘twitching’ in response to far-off stresses.
+
+
+
+            26.              Messier Tidy Upper Says:
+                        
+August 23rd, 2011 at 7:37 pm 
+ Neat video.  
+This quirkifact :
+These are very sensitive instruments; note the scale on the lower graph showing the motion is only about 40 microns top-to-bottom! That’s less than the thickness of a human hair. 
+is pretty impressive especially. It has me wondering if it can detect or would perhaps even be confused by the presence of tides – which the land experiences just as the oceans do only to a much lesser and harder to see extent.  
+I was in Hiroshima when a fairly sizeable (magnitude 6-7?) earthquake hit outside Hiroshima castle. Remember the rumble like a passing truck and watching the water in the moat shake in an odd linear pattern – photographed it   – and the traffic light pole swaying.
+The Earth certainly ripples from time to time. 
+As for regional variations – I wonder what effect, if any, the Yellowstone supervolcano (past – and future?) hotspot has there? I imagine much of the coastal area around Texas, Florida, New Orleans – Lousiana, etc .. is alluvial ex-eusturine floodplain thus made of softer, more  shake~able material but it’s been too long since I’ve done any geomorphology so I really can’t do more than make the vaguest guesses.
+
+
+
+            27.              Daniel J. Andrews Says:
+                        
+August 23rd, 2011 at 7:45 pm 
+ In Canada, the shocks were felt in Sudbury, Ontario, where several downtown buildings were evacuated. That really isn’t that far though. From Sudbury, Florida is a very long day’s drive…quicker though than driving to Manitoba (the neighbouring province)…and Virginia can easily be reached in a day.
+
+
+
+            28.              Chris Says:
+                        
+August 23rd, 2011 at 7:51 pm 
+ @#26 Tidy Upper
+I think there is some frequency response built into the seismometers.  Tides are very low frequency events, however the earthquake is a relatively high freq event.
+Also Phil as you said 40 microns is a small amount, but let’s see you try and move the Earth’s crust up and down that much.  It isn’t so easy, is it?
+
+
+
+            29.              Ian Says:
+                        
+August 23rd, 2011 at 8:01 pm 
+ Why all those sensors in the midwest and only a handful up in the pacific northwest? RING OF FIRE guys. Sheesh.
+
+
+
+            30.              Earthquake Today. Next: Hurricane. « NotionsCapital Says:
+                        
+August 23rd, 2011 at 8:08 pm 
+ [...] Phil Plait’s animation (above) shows how the shock of today’s earthquake rippled across the country, but the seismic wave also rolled across the Blogosphere and Twitterverse: [...]
+
+
+
+            31.              Thopter Says:
+                        
+August 23rd, 2011 at 8:08 pm 
+ @Rick: Making buildings stronger and safer is a “misinvestment”?
+
+
+
+            32.              shawmutt Says:
+                        
+August 23rd, 2011 at 8:29 pm 
+ I was at work about 100 miles from the epicenter.  At first I thought it was someone rolling a large piece of equipment down the hallway, but the rumbling got louder and the whole floor started shaking.  Before I could decide what to do it was over.  I lived through my first earthquake!
+
+
+
+            33.              Jamey Says:
+                        
+August 23rd, 2011 at 8:32 pm 
+ I second the wish that there had been a bit more data shown prior to the prime event – though perhaps not so much as to show the Colorado quake.  I’d just liked to have have had a better feel for the background noise level in this detector array.
+While the gap in detectors in the Great Plains is understandable – hyper-low population density – the gap between the Mississippi Valley and the East Coast puzzled me quite a bit.
+
+
+
+            34.              Earthquake! Says:
+                        
+August 23rd, 2011 at 8:46 pm 
+ [...] Bad Astronomy)   This post should always be at this [...]
+
+
+
+            35.              Robert Says:
+                        
+August 23rd, 2011 at 9:00 pm 
+ I liked the way you can clearly see the much faster waves arriving first, followed by the larger, slower waves after. Very pretty. It would be nice if someone with knowledge could give the descriptions of those two distinct wave structures.
+
+
+
+            36.              Patrick Says:
+                        
+August 23rd, 2011 at 9:03 pm 
+ In regards to the questions about “why so many seismometers in the midwest”…these instruments are part of the USArray. USArray is part of the larger EarthScope science project. USArray is a dense array of 400 seismometers that were originally placed on the west coast and are slowly sweeping to the east coast. Each seismometer remains in its location for two years. Earthquakes like the one in Virginia today are part of the reason for the project: to learn more about the underlying structure of the North American continent. So those of you on the east coast…the USArray will soon be coming to your neck of the woods. Learn more about USArray here: http://www.usarray.org
+-Patrick, Education and Outreach Specialist, IRIS
+
+
+
+            37.              Wzrd1 Says:
+                        
+August 23rd, 2011 at 9:15 pm 
+ The Mississippi valley is heavily covered because of the New Madrid seismic zone, which literally reversed the course of the Mississippi river for a time. The faults in that area are part of a failed rift from hundreds of millions of years ago.
+Hence, due to the higher probability of a major disaster, there is heavy monitoring of the region.
+As for Phil’s notion of changing building codes, Phil should take a quick course in risk remediation and risk assessment. One does NOT spend far more to mitigate a remote risk than one would expect to lose over the assessed period.
+As an example, one takes the composite risk index= impact of risk event times the probability of said event occurring in a year (one can do longer term plans and assessments as well).
+For an earthquake like this, in Delaware County, PA, the risk is vanishingly small. So, regardless of the impact, short of Fukushima type of damage, which is also impossible in the area, as we’d then be in the tsunami event, 90 miles inland and 30 feet minimum above sea level, mitigation would cost far, far, far more than the protected asset WORTH.
+I’m not going to spend one million dollars protecting a two hundred thousand dollar home. That is the height of foolishness!
+Indeed, the probability of a 5.8 or higher hitting the area is pretty close to the probability of a substantial asteroid striking the area and we’re not even going to CONSIDER protecting against THAT! Even Site R can’t withstand THAT! Cheyenne Mountain can’t even withstand that and it was built for a real close thermonuclear detonation.
+For my own home, we have no flood protection or plans for it. The reason is due to our location and elevation. We DO get water in the basement with heavy, heavy rain, but not even to a level that requires the use of a sump pump, due to the thick clay under the foundation and an improperly backfilled area around the foundation. It would cost more than the house is worth to fix that.
+Meanwhile, in Darby borough, there ARE flood plans, as there is an area in the business district that is flood prone and has flooded many, many times over the past decade.
+In Lester, there is a hotel that had NO flood management plan, foolish, as it’s right outside the airport AND brilliantly built in an old swamp, WITH A MOAT AROUND IT!
+The National Guard had to rescue stranded patrons, after a hurricane flooded the area.
+Said hotel has since taken some mitigation measures to ensure evacuation is possible.
+I’ll also say, we don’t have zombie outbreak disaster plans, they’re about the same probability of happening as the aforementioned asteroid impact.   
+There are other formulae used for risk assessment, such as ALE (Annual Loss Expectancy, fancy talk for how often that particular risk may occur).
+IN short, you don’t pay to protect against what won’t happen and you DO NOT pay for more than it’s worth to protect it.
+Otherwise, we’d all be living in bunkers designed to take both penetrators AND nukes.
+And asteroids and zombies.
+BTW, the town within spitting distance of the epicenter had a few walls crumble, a bunch of chimneys damaged or broken and zero casualties. Thank God!
+And shaddap, I can freely express myself and use a common idiom.   
+Yeah, I pick on everyone, even God. But, God has a sense of humor. How ELSE can you explain the platypus, which should’ve gone extinct with the dinosaurs?    :p:P:p:P:p:P:p
+
+
+
+            38.              Phil Plait Says:
+                        
+August 23rd, 2011 at 9:27 pm 
+ Patrick (36): Thanks for the update! I hope this helps you guys get more science outreach done.  
+
+
+
+            39.              Jake Says:
+                        
+August 23rd, 2011 at 9:38 pm 
+ I’m slightly curious if anybody is watching Yellowstone after an earthquake like this.  I’m guessing that it had little to no effect on the area, but I’m curious nonetheless!
+
+
+
+            40.              RwFlynn Says:
+                        
+August 23rd, 2011 at 9:55 pm 
+ From about 40 miles away (below Quantico) the quake was quite jarring and shook the house for roughly 2 minutes. It started as a small rumble. We thought nothing of it because Quantico is always bombing or blowing something up this time of the year, and our local quarry occasionally shakes the neighborhood.  That’s what we all thought, at least, even my Mom who grew up in SoCal. About 1/3 of the way through things got violent and we knew it had to be an earthquake, and we just sat there slack-jawed (No worries, we weren’t near any doorways or tables to hide under and clear of  falling household objects). Anywho, that was one hell of a first earthquake experience for me and my bro.  
+
+
+
+            41.              Wzrd1 Says:
+                        
+August 23rd, 2011 at 10:00 pm 
+ Jake (39), from the video, it rang like a bell, not anywhere as much as Texas or southern California though.
+Phil! Caught you reading!   
+
+
+
+            42.              Amanda Says:
+                        
+August 23rd, 2011 at 10:00 pm 
+ In response to Nobody’s post claiming nothing big can happen on the East Coast: in Summerville, SC at the end of August 1886, a quake estimated at magnitude 7.2 struck. They do happen here, just not nearly as often as in subduction zones.
+
+
+
+            43.              RwFlynn Says:
+                        
+August 23rd, 2011 at 10:01 pm 
+ Also, I’d like to add my voice to those asking why there was so much more lasting detection in Texas and Southern California. I don’t know very much about the geology, so I’m a bit perplexed.
+
+
+
+            44.              Wzrd1 Says:
+                        
+August 23rd, 2011 at 10:22 pm 
+ RwFlynn, that is a tomorrow project for me. I’ll be locking up those particular zones.
+I suspect that I know what is going on in SoCal. But, Texas is a blank to my geological knowledge.
+Other points that rang like a bell are known fault zones, for the most part.
+That said, hopefully a geologist will post again about those areas.
+There are two things I truly love in life: Science and learning.
+I try my utmost to learn something new each and every day. On the rare occasion that I don’t, I honestly feel that that day was wasted.
+
+
+
+            45.              Menyambal Says:
+                        
+August 23rd, 2011 at 10:23 pm 
+ You ask why there was so much more lasting detection in Texas, Louisiana and Southern California?
+Both places are river deltas. 
+Everything south of Missouri is just river deposits from the Mississippi River, on quite a ways both sides, which is to say mud and sand thousands of feet deep. The stuff probably sloshed a good bit, and might well liquify in a bad quake. There’s also some quake zone there. (BTW, the New Madrid quake only reversed a bit of the Mississippi for a while.) As was said, the continent tried to rift there some time back. 
+Southern Cal has a lot of deposits from the Colorado river. And, of course, another quake zone.
+
+
+
+            46.              Wzrd1 Says:
+                        
+August 23rd, 2011 at 11:17 pm 
+ ALL of Texas is a river delta? Not arguing, asking.
+AS for SoCal, I seem to remember some oddity at the Baja “border” area, can’t recall WHAT offhand. Hence, the tomorrow project.   
+
+
+
+            47.              Dashukta Says:
+                        
+August 23rd, 2011 at 11:55 pm 
+ For anyone wondering about the concentration of seismographs in the midwest:
+…it actually is NOT due to the New Madrid area–not directly.
+What you are seeing is the EarthScape Transportable Array–a large-scale, long-term science project funded by the NSF. Essentially, the goal is to generate a complete seismic survey and subsurface geophysical “map” of the entire U.S.
+To do this, they have a large number of semi-portable seismographs. But, installing a sensor net across the entire country would be prohibitively expensive. Instead, they’re doing a ~20-year project where a smaller number of instruments are installed, kept there for a while, and then moved to a new location.
+The array started on the West Coast and has been slowly working its way east. It just happens to be in the Midwest and Great Plains right now.
+
+
+
+            48.              Wzrd1 Says:
+                        
+August 24th, 2011 at 12:01 am 
+ Thanks for the correction. I made an assumption.  :/
+
+
+
+            49.              kuhnigget Says:
+                        
+August 24th, 2011 at 12:35 am 
+ I just assumed all the bouncing in Texas was due to all the religious nuts assuming the apocalypse was finally upon them. Lots of jumping up and down and such. 
+Or not.
+
+
+
+            50.              katwagner Says:
+                        
+August 24th, 2011 at 12:56 am 
+ 39 Jake, as far as I know, the Yellowstone caldera wasn’t affected. We pay attention when park scientists talk about the lake bottom rising and falling. The Salmon (Idaho) earthquake in 1983 (or so) caused Mount Borah to add a few feet and put big ole trench in the valley floor. Two kids in Salmon walking to school were hit by bricks and killed. And Old Faithful’s eruptions were skewed in some way – not as high as usual I think.
+It happened around 8am – the old miner’s house we were renting shook harder and harder and the dog barked at the wall so I flew downstairs and out the door. The neighbor’s horses were going bananas. I had lived in Japan as a kid – Army brat – so I was used to quakes, but this house was ready to fly apart. And if Yellowstone blows, it would make a big mess.
+
+
+
+            51.              Shannon (@Ageekmom) Says:
+                        
+August 24th, 2011 at 1:18 am 
+ **not a scientist** We have a lot of underground aquifers in our limestone here i  Texas. Wonder if that contributes to the extended response in the sensors (sloshing?)
+
+
+
+            52.              Bogdan Says:
+                        
+August 24th, 2011 at 1:28 am 
+ @45 But it doesn’t feel right, why would sand and mud oscillate longer? I’d expect rigid stuff to resonate for longer, the way a tap on a glass makes sound for longer than a tap on sand.
+I’d understand it if it moved farther in space, but why longer in time? Or does sand and mud have really low viscosity at those frequencies, so it’s a bit like water in a tapped glass sloshing around long after the glass stops ringing?
+
+
+
+            53.              Pete Jackson Says:
+                        
+August 24th, 2011 at 2:33 am 
+ I wonder if there were any tsunami effects on the Chesapeake Bay!
+
+
+
+            54.              Lawrence Says:
+                        
+August 24th, 2011 at 3:30 am 
+ It was pretty interesting yesterday – I’m about a hundred miles from the epicenter (north of DC) and it felt like a big truck was rumbling through our cul-de-sac, until the house starting shaking side to side (for a few seconds). Of course, with the huge freak-out around here, I knew there would be 40 million Californians laughing their asses off at us.
+
+
+
+            55.              Las ondas del terremoto de Virginia, visibles en su recorrido por todo EE UU | Francesc Masana Says:
+                        
+August 24th, 2011 at 3:59 am 
+ [...] (Vía Discover Magazine, Bad Astronomy.) [...]
+
+
+
+            56.              Las ondas del terremoto de Virginia, visibles en su recorrido por todo EE UU | Microsiervos (Ciencia) Says:
+                        
+August 24th, 2011 at 4:13 am 
+ [...] Discover Magazine, Bad Astronomy.) Publicado por Nacho # 24/Ago/2011 Categorías: Ciencia, MundoReal™, Tecnología Compartir: [...]
+
+
+
+            57.              Xargs Stobor Says:
+                        
+August 24th, 2011 at 4:44 am 
+ The duration of the quake in the sedimentary states of the country was remarkable. I did not expect it would continue that long either.  The destabilization waves persisted much longer in states made up of sedimentary layers.  Sediment behaves a lot more like a fluid than rocks do, which is why we see the wave form persist and reverse back on itself as well.  Also sediments that have been lithified wholesale, as the Northern Eastern USA was a while back, tend to be very dense, this is why the quake(s), although reasonably small by west coast standards, were felt over such a huge distance. 
+What is surprising to me is that it is announced as one quake when it was actually at least 6 quakes all along effectively the same mountain structure up the entire eastern range.  It would be great to get this information from the news..I do wonder why it is so sparse, you cannot tell anything much from one single quake.  Thanks for the link about tectonic energy lines, that is what I needed to know about next!
+   I was also wondering about the large number of monitoring sites directly east of the Mississippi. The rather organic locking eastern border of the monitoring ‘boundary’ indicates to me that the system may still be under construction to the east?  Why there are nearly zero on the western side of the river? 
+I would also add that if there are no plans to do it yet, a convincing argument for completing the sensor array as an immediate imperative may be pictures of certain radio active parts of Japan and the ocean at large right now.
+Ut Astrum per Divum!
+- Xargs
+
+
+
+            58.              Susan Says:
+                        
+August 24th, 2011 at 5:50 am 
+ Not a geophysicist, but my understanding is the early waves are the P (primary) waves and the later waves are S (secondary) waves.  P waves compress in the direction of motion and travel fastest. S waves move perpendicular to the direction of motion and arrive a bit later.
+I experienced and earthquake a few years ago which first woke the dog — who went nuts and was dancing around on the bed.  As soon as I got her calmed down the house began to shake.  I’m guessing that dogs (and some other animals) are sensitive enough to feel the early P waves even though we often don’t.
+
+
+
+            59.              ErnestPayne Says:
+                        
+August 24th, 2011 at 7:03 am 
+ Good thing none of those waves crossed the Canadian border. I was chatting with my daughter (via gmail) when she, from her 9th floor apartment  in Kitchener (Ont) typed EARTHQUAKE (her second). A few seconds later I felt it on the second floor. First time in 59 years & 68 months I have felt an earthquake. Perhaps they should call it the Obama Fault (heaven knows the republicans feel everything else is his fault).
+
+
+
+            60.              Earthquakes « xkcd Says:
+                        
+August 24th, 2011 at 7:11 am 
+ [...] in cell traffic, but I got an IRC message from my brother in Newport News, VA at 13:52:09. Based on USArray/EarthScope detector readings posted at Bad Astronomy, his message overtook the seismic waves outside Philadelphia, and reached New England over a [...]
+
+
+
+            61.              Bryan Says:
+                        
+August 24th, 2011 at 7:28 am 
+ #35. Robert:
+What you are seeing are the P and S waves, followed by the body waves.
+P waves are compression waves and move much faster than the others. S waves are shear waves (they do not propagate through liquids).
+The most destructive force comes from the body waves. Two types of motion you might feel come from  Love (lateral motion) and Rayleigh (rolling) waves.
+—
+Interestingly enough, the reason why we know how big the core is (and what it is made of) is partially due to seismic studies. Since S waves do not travel through liquids, geophones on one side of the earth see a “dead zone” (i.e., shadow) of S waves from earthquakes whose epicenters are on the other side.
+
+
+
+            62.              Bryan Says:
+                        
+August 24th, 2011 at 7:29 am 
+ argh –
+Why isn’t there no preview on this commenting system? Outsource development much?
+That is SOOO 1990s….
+
+
+
+            63.              Joshua Zelinsky Says:
+                        
+August 24th, 2011 at 7:57 am 
+ Wzrd1,
+That seems like a reasonable analysis overall. However, I need to take issue with the asteroid/zombie comparison. While it is true that large asteroids are very rare, the chance of a devastating asteroid impact is orders of magnitude higher than that for zombies. We have record of large scale asteroid impacts and have a mechanism for it. There’s both no known way of making zombies and no evidence that it has ever happened. It is easy when dealing with very low probability events to lump them all together, but that isn’t helpful. This example is especially relevant given that while you are correct that it doesn’t make sense for corporations and small buildings to be prepared for asteroids, it does make sense for governments to prepare and deal with asteroids. It doesn’t make sense for anyone to prepare for zombies, (although zombies are sometimes used as a gaming scenario to simulate unknown Black Swanish threats).
+
+
+
+            64.              Sy Zmic Says:
+                        
+August 24th, 2011 at 8:13 am 
+ BREAKING NEWS: President Obama has just confirmed that the DC earthquake occurred on a rare and obscure fault-line, apparently known as “Bush’s Fault”. Obama also announced that the Secret Service and Maxine Waters continues an investigation of the quake’s suspicious ties to the Tea Party. Conservatives however have proven that it was caused by the founding fathers rolling over in their graves.
+/color me surprised that the eco-nuts haven’t tried to tie it to global warming yet.
+
+
+
+            65.              Ken B Says:
+                        
+August 24th, 2011 at 8:22 am 
+ Every state in the US has earthquakes, but the East coast quakes can be particularly dangerous because structures like houses and buildings aren’t built to withstand them.
+While probably true in the general sense, I can tell you that the high school I went to in southern New York was, in fact, designed to be “earthquake-resistant”.
+The story goes that the school district got a discount on the building plans by buying a “used” set from a California school.
+
+
+
+            66.              Ken B Says:
+                        
+August 24th, 2011 at 8:25 am 
+ Amanda (#42):
+In response to Nobody’s post claiming nothing big can happen on the East Coast: in Summerville, SC at the end of August 1886, a quake estimated at magnitude 7.2 struck. They do happen here, just not nearly as often as in subduction zones.
+Look up “New Madrid fault” on your favorite search engine.
+Here’s a good start:  http://earthquake.usgs.gov/earthquakes/states/events/1811-1812.php
+
+
+
+            67.              Ken B Says:
+                        
+August 24th, 2011 at 8:35 am 
+ barbara tomlinson (#4):
+Does anybody else get the Mormon ads on that video? That’s… odd.
+I get an ad for Hasbro Transformers.
+
+
+
+            68.              VinceRN Says:
+                        
+August 24th, 2011 at 8:50 am 
+ As someone who lived in a house that was damaged during the sylmar quake as a kid and worked in an ER during the Northridge quake I’d like to ask everyone on the east coast to stop whining about a minor earthquake.  You really shut everything down and evacuated buildings for this?  Really?
+
+
+
+            69.              Sterling Archer Says:
+                        
+August 24th, 2011 at 9:09 am 
+ I think it’s pretty clear that the recent earthquakes were caused by the US government’s earthquake machine. Wake up sheeple.
+
+
+
+            70.              katwagner Says:
+                        
+August 24th, 2011 at 10:05 am 
+ Some additional info and corrections on the Borah Peak quake of 1983: It was 8:06 am Friday, Oct. 28, 1983. The two kids who were killed were walking to school in Challis. The quake was 6.9 on the scale and added over seven feet to Borah which is in the Lost River Range. Over 200 houses suffered damage in the MacKay-Challis area.
+
+
+
+            71.              Patrick Says:
+                        
+August 24th, 2011 at 10:31 am 
+ In regards to the comments about why Texas/Louisiana areas continue to vibrate after other areas have settled down, in those areas the seismometers are installed on sediments. It could be that the frequency of the seismic waves are resonating in the sediment basins in those areas. So the energy dies off slower.
+
+
+
+            72.              earthscope worker Says:
+                        
+August 24th, 2011 at 10:31 am 
+ Phil, why have you slapped your name at the end of that video?  We produced all the data, stop trying to take credit for our work!
+
+
+
+            73.              Phil Plait Says:
+                        
+August 24th, 2011 at 10:37 am 
+ earthscope worker (72): I didn’t take credit for the work. In fact, I have a title slide in the video with a credit line, and notes on the video’s YouTube page with detailed credit and links, as there also are at the bottom of the blog post.
+
+
+
+            74.              Watch How The Virginia Earthquake Waves Ripple Across the US (Video) « Cool Green Magazine Says:
+                        
+August 24th, 2011 at 10:43 am 
+ [...] Discover Magazine writes, “What you’re seeing here are vertical displacement measurements from an array of detectors that are part of the USArray/EarthScope facility. These are very sensitive instruments; note the scale on the lower graph showing the motion is only about 40 microns top-to-bottom! That’s less than the thickness of a human hair.” [...]
+
+
+
+            75.              Earthquake Visualization of the Day - TDW Geeks Says:
+                        
+August 24th, 2011 at 11:19 am 
+ [...] animation — posted by Bad Astronomer Phil Plait — shows the seismic waves as they crossed the detector array. Red dots indicate upward [...]
+
+
+
+            76.              mike burkhart Says:
+                        
+August 24th, 2011 at 12:48 pm 
+ I felt this hear in Akron Ohio ,I was lying on my couch watching Fox news when I felt a small shake and the tv tray shook back and forth . At frist I thought it was caused by a truck that went up my street untill Fox news alert Washtion D.C. hit by earthquake .Then I said ”is that what I just felt?” It was not as bad as a minor Earthquake I was in in 1986 that had my High School building shakeing.One more thing this was NOT A PUNSHIMENT FORM GOD!!!!!!!!!!
+
+
+
+            77.              Renee Marie Jones Says:
+                        
+August 24th, 2011 at 12:54 pm 
+ This is soooo awesome!
+
+
+
+            78.              Wzrd1 Says:
+                        
+August 24th, 2011 at 1:05 pm 
+ VinceRN, we’ll stop acting like we don’t know how to deal with earthquakes when California doesn’t panic if a meter of snow fell on it.
+YOU get earthquakes on a regular basis. The east coast doesn’t get anything larger than a 3.nothing normally.
+I guess you’ll poke fun when the New Madrid system lets loose and levels a few states too, huh?
+We don’t build to protect against what doesn’t happen.
+I was well over 200 miles from the epicenter of this earthquake and it shook my house by quite a bit, my daughter’s home, two miles away, was harder hit and she heard the walls cracking.
+There were a handful of buildings that collapsed in NJ and Philadelphia had one as well. AND a water main gave way and a few gas mains.
+For us, it’s a big deal. Because it is BEYOND unusual. And because we didn’t waste money protecting against something that doesn’t even happen on a century basis.
+
+
+
+            79.              The IRC will set them free | Ad Astra Errans Says:
+                        
+August 24th, 2011 at 2:44 pm 
+ [...] cell traffic, but I got an IRC message from my brother in Newport News, VA at 13:52:09. Based on USArray/EarthScope detector readings posted at Bad Astronomy, his message overtook the seismic waves outside Philadelphia, and reached New England over a [...]
+
+
+
+            80.              Jesse Says:
+                        
+August 24th, 2011 at 3:11 pm 
+ Here’s a similar animation for the Colorado quake: http://www.iris.edu/spud/gmv/109963
+And many more animations for other global earthquakes: http://www.iris.edu/spud/gmv
+and on YouTube: http://www.youtube.com/user/IRISEnO#g/c/6656B65AC44F3017
+
+
+
+            81.              Jewel Says:
+                        
+August 24th, 2011 at 3:44 pm 
+ I work on the 6th floor of an 8 story office building in Fairfax, VA and we felt it pretty good.  It was the first earthquake I’ve ever felt, in fact.  Certainly unusual for this area.
+
+
+
+            82.              Geology Links for August 24th, 2011 | The Geology News Blog Says:
+                        
+August 24th, 2011 at 6:01 pm 
+ [...] Virginia earthquake waves ripple across the US! | Bad Astronomy | Discover Magazine [...]
+
+
+
+            83.              Ozonator aka Robert Rhodes Says:
+                        
+August 24th, 2011 at 7:59 pm 
+ “The sherif is a Ni!”, “the sherif is a Ni!”.  This AGW Blazing Saddles (1974) moment is brought to you by the USGS and is a historically correct film document under the t-GOP war on science program.
+“The magnitude 7.0 earthquake in northern Peru today (Aug. 24) was the third major temblor to shake the Americas in less than 48 hours. A magnitude 5.8 quake hit Virginia yesterday, and a magnitude 5.3 event rumbled under Colorado the day before.  …  a trend … connected. But experts say there isn’t, and they aren’t.  “The question comes up all the time,” said David Schwartz, an earthquake geologist with the U.S. Geological Survey (USGS), “but these three earthquakes are completely unrelated … But having these events so far apart and in different geologic settings: there’s no cause and effect.” … people …  may sometimes draw connections where there aren’t any” (“Flurry of Earthquakes in Peru, Virginia & Colorado Not Connected”; By Natalie Wolchover | LiveScience.com; news.yahoo.com, 8/24/11).  With condolences, “It was the most powerful earthquake to hit the Andean country since a 7.9-magnitude temblor killed more than 500 people and destroyed thousands of houses in 2007. … Local radio bulletins said the quake caused alarm across central Peru, sending panicked students and workers rushing out of classrooms and offices” (“Strong 7.0-magnitude quake shakes Peruvian Amazon”; By Caroline Stauffer and Marco Aquino | Reuters; news.yahoo.com, 8/24/11).
+About 7 weeks ago, “B). … the specifics of the Giulaino – Gansu Model (7/10 – 16/11) of extreme AGW earthquake warnings among tectonic energy lines with individual predictions for regions (magnitude in Richters) are: … 1). Moon Walk Model: a). Peru (7+) … C). … 8). 8-week model … Peru” (“GBRWE 7/10 – 16/11”s Extreme Planetary Warnings for Earthquakes, Volcanoes, and Solar/Terrestrial Flares from Human Activities”; Robert Rhodes, Supplemental; GBRWE 7/10 – 16/11, 7/9/11).
+About 5 days earlier, “A). … 1). Regular qualitative predictions are US for “normal” qualitative predictions for catastrophic, violent AGW ecosystems (quakes to CMEs to toxic feticide) from the EssoKochs and their willing accomplices. … There has been a tremendous amount of dissonant, deep magma upwelling from exported AGW products and/or components that has resulted in unusual, roughly equal amounts of hurricane ecosystems, tectonics, and solar storms.  This is a catastrophic unstable 3-legged AGW stool from the extremist Republican and Christian stool samples of humanity. … South America may act like a tectonic clapper in a bell between geologists’ CO2 Australia and Africa” (“GBRWE 8/21 – 27/11”s Extreme Planetary Warnings for Earthquakes, Volcanoes, and Solar/Terrestrial Flares from Human Activities”; Robert Rhodes, Supplemental; GBRWE 8/21 – 27/11, 8/20/11).
+Charging by the inch, “Warmists have long history of blaming earthquakes on AGW! …’” and “ …  Reaction: ‘CO2 is apparently permeating very deep into earth’s crust & causing all kinds of psychotic disruption in the minds of the AGW faithful’” (enrichment through corruption station found on 8/23/11) (home page soundbites written/assembled in a fraudulent/plagiaristic/incitement to riot T-buggers by Marc ‘conserving failed states’ Morano - peerless container model for Koch ExxonMassingill purchased corporate fraud+crimes against nature with w-Times Rev. Rush Moon types and gangs working a tomorrow’s con with legal slavery today; elite corporate whore who still lacks a page in en.wikipedia.org to chronicle his years of evil for hire, animal abuse, and visual challenges; climatedepot.com).
+
+
+
+            84.              Richard Drumm The Astronomy Bum Says:
+                        
+August 24th, 2011 at 10:41 pm 
+ I’m a little late to this thread. I’ve been distracted making bumper stickers to sell at Dragon*Con…
+I live in Northern Albemarle Co., 28 miles from the epicenter. I can only say this:
+THAT.
+WAS.
+AWESOME!
+I’d just closed my laptop when it happened. I stood up & held onto my grandfather clock to make sure it wouldn’t fall over. My 2 daughters came running up all a-twitter. The younger one had been finishing up taking a shower. We all agreed that it was off the scales of awesomeness. It lasted well over a minute. Later that night (~8:05PM) I felt ( well, heard more than felt) a minor aftershock, 4.2 I think it was.
+A few CDs fell off a shelf. A carved elephant my brother gave me decades ago fell onto a soft chair, and my toothbrush fell about an inch. Oh the humanity!
+The Washington monument on the other hand…. Well….
+
+
+
+            85.              Robert Says:
+                        
+August 25th, 2011 at 6:20 am 
+ Phil,
+Beautiful graph, but why are there so many detectors in the middle of the US.?  What are we expecting there?
+
+
+
+            86.              Steve (treelobsters) Says:
+                        
+August 25th, 2011 at 7:06 am 
+ Y’know, if you took the VA animation plus the CO animation and looped them, you could make some sort of seismic PONG clip.
+
+
+
+            87.              Lewis Says:
+                        
+August 25th, 2011 at 7:37 am 
+ The people out West might laugh at us near the East coast concerning Earthquakes … but they don’t have a major* hurricane bearing down on them either.  
+*likely won’t make landfall as a major hurricane but a hurricane nonetheless
+
+
+
+            88.              Pepijn Says:
+                        
+August 25th, 2011 at 8:07 am 
+ I love all the stories from people who actually heard about it via Twitter *before* they felt it… Someone should map the spread of the news via social media!  
+
+
+
+            89.              Mystic ∞ Says:
+                        
+August 25th, 2011 at 9:24 am 
+ It was an underground, nuclear detonation that caused the Virginia earthquake…
+http://conspiracymystic.blogspot.com/2011/08/haarp-storm-fake-quake.html
+
+
+
+            90.              Earthquakes, social media, XKCD and science | Living in a Media World Says:
+                        
+August 25th, 2011 at 10:42 am 
+ [...] an IRC message from his brother in Virginia about the quake that reached his phone before the time seismic measurements show the quake reached Munroe’s  city. Data point 2 – Social media moves faster than [...]
+
+
+
+            91.              Earthquakes » Everybody feels the wind blow Says:
+                        
+August 25th, 2011 at 11:43 am 
+ [...] in cell traffic, but I got an IRC message from my brother in Newport News, VA at 13:52:09. Based on USArray/EarthScope detector readings posted at Bad Astronomy, his message overtook the seismic waves outside Philadelphia, and reached New England over a [...]
+
+
+
+            92.              Virginia earthquake waves ripple across the US! | Bad Astronomy | Discover Magazine | The Gizzard Stone Says:
+                        
+August 25th, 2011 at 3:33 pm 
+ [...] via Virginia earthquake waves ripple across the US! | Bad Astronomy | Discover Magazine. [...]
+
+
+
+            93.              MysticEve Says:
+                        
+August 25th, 2011 at 5:21 pm 
+ I’m in the upper mid-west and didn’t feel anything, a friend of mine that is in upper New York also didn’t feel anything…so I think more people are taking anything shaking (truck, car etc.) these days to the extremes with all they say because they are really having a hard time with all this recent DOOMSDAY stuff that fear-mongerers have created world-wide. I’d say about 75% of all DOOMSDAY preachers have really lost their heads a long time ago and will  spread even more fake stories trying everything they can to connect any event (no matter how big or small) to the so called “Apocalyptic Days” to make their bible come true. What an undoubtedly terrible disappointment this will be for them when they wake up every morning from now on until the next 20 years from now…hmm….
+
+
+
+            94.              Bobby Ewing Says:
+                        
+August 25th, 2011 at 11:29 pm 
+ A message to all from those who has survived the tragedy of THE GREAT VIRGINIA EARTHQUAKE of 2011 http://www.jlaforums.com/viewtopic.php?t=100454077
+
+
+
+            95.              Tweetwaves vs. Seismic Waves | Science & Technology Says:
+                        
+August 26th, 2011 at 7:32 am 
+ [...] Virginia quake and use the speed of the waves from that event. I saw this nice animation posted on Bad Astronomy showing how different detectors across the USA detected the event. Here is that [...]
+
+
+
+            96.              Mystic ∞ Says:
+                        
+August 26th, 2011 at 8:45 am 
+ I’d like to retract my earlier comment and say that the nuclear detonation rumor has been debunked…
+http://conspiracymystic.blogspot.com/2011/08/nuclear-detonations-are-hoax.html
+
+
+
+            97.              John M. Burt Says:
+                        
+August 27th, 2011 at 11:05 am 
+ How often does one go to Bad Astronomy and get good geology…?
+
+
+
+            98.              Messier Tidy Upper Says:
+                        
+August 28th, 2011 at 5:55 am 
+ @ ^ John M. Burt : Surprisingly often actually. Of course, its usually (other) planetary geology!  
+
+
+
+            99.              Watch How The Virginia Earthquake Waves Ripple Across the US (Video) | BeeHiveTech.com Says:
+                        
+August 28th, 2011 at 7:30 pm 
+ [...] Discover Magazine writes, “What you’re seeing here are vertical displacement measurements from an array of detectors that are part of the USArray/EarthScope facility. These are very sensitive instruments; note the scale on the lower graph showing the motion is only about 40 microns top-to-bottom! That’s less than the thickness of a human hair.” [...]
+
+
+
+            100.              watching the VA earthquake spread | diana maps Says:
+                        
+August 31st, 2011 at 8:48 am 
+ [...] I like this visualization of the spread of the waves. [...]
+
+
+
+            101.              World’s Strangest | Traveling Seismic Waves Says:
+                        
+August 31st, 2011 at 11:07 am 
+ [...] more at Bad Astronomy Blog. Link -via [...]
+
+
+
+            102.              Earth Update – September « Earth « Science Today: Beyond the Headlines Says:
+                        
+September 2nd, 2011 at 3:21 pm 
+ [...] Luckily, damage was minimal. And even though East Coasters had the wrong physical response to earthquakes, they knew what do digitally. Twitter messages moved more quickly than the seismic waves! [...]
+
+
+
+Leave a Reply
+
+
+Name (required)
+
+Mail (will not be published) (required)
+
+Website
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Bad Astronomy 
+Phil Plait, the creator of Bad Astronomy, is an astronomer, lecturer, and author. After ten years working on Hubble Space Telescope and six more working on astronomy education, he struck out on his own as a writer. He's written two books, dozens of magazine articles, and 12 bazillion blog articles. He is a skeptic and fights the abuse of science, but his true love is praising the wonders of real science.
+
+ The original BA site (with the Moon Hoax debunking, movie reviews, and all that) can be found here.
+
+Contact me: The Bad Astronomer "at" gmail "dot" com
+
+
+
+ Bad Astronomy is a Wikio Top Blog! Clearly, Wikio has excellent taste.
+ 
+
+ 
+ Bad Astronomy was chosen as one of Time.com's Best Blogs of 2009.
+
+
+Subscribe to BA 
+
+Subscribe to Bad Astronomy using RSS! 
+
+Death from the Skies! 
+Order a copy of Death from the Skies! from Amazon, Barnes and Noble, or Borders.
+
+"If things worked the way I wanted them to, any reporter about to do another 'sensational' story on deadly meteors would consult this volume, and bang! common sense would find its way into the news. How strange would that world be?" -- Adam Savage, Mythbusters
+
+"Reading this book is like getting punched in the face by Carl Sagan. Frightening, but oddly exhilarating." -- Daniel H. Wilson, author of How to Survive a Robot Uprising
+
+
+
+
+
+
+  Recent Posts 
+Me Versus the World
+TEDxBoulder, containing me
+STUNNING lunar eclipse photo
+Symphonic Symphony of Science
+Caturday bugs me
+
+Social/Networking/Cool Stuff 
+ Twitter
+
+Phil Plait on Twitter Counter.com
+
+
+
+ Facebook
+
+
+Post Categories
+Select Category
+10 Things
+About this blog
+Alt-Med
+Antiscience
+Astronomy
+Bad Universe
+Caturday
+contest
+Cool stuff
+DeathfromtheSkies!
+Debunking
+Geekery
+Humor
+illusion
+IYA
+JREF
+Miscellaneous
+NASA
+Pareidolia
+Piece of mind
+Politics
+Pretty pictures
+Q & BA
+Rant
+Religion
+Science
+SciFi
+Skepticism
+Space
+Time Sink
+Top Post
+TV/Movies
+Uncategorized
+Video Blog
+
+
+Archives  Select Month  September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+
+Blogroll
+
+Bad Astronomy (old site)
+Bad Astronomy and Universe Today Forum
+Commenting Policy
+Computer Support
+Contact Information
+DM: 80 Beats
+DM: Cosmic Variance
+DM: Discoblog
+DM: Gene Expression
+DM: NERS
+DM: Science Not Fiction
+DM: The Intersection
+DM: The Loom
+James Randi Educational Foundation
+My use of the word "denier"
+Planetary Society Blog
+Politics and Religion posts
+Press Kit
+The Antivax Bible
+Universe Today
+
+
+ DISCOVERmagazine.com: Latest Articles on SpaceSTUNNING lunar eclipse photo | Bad AstronomyHi-Tech Eye Exam Shows Jaw-Dropping Accuracy of Webb Telescope's OpticsThe delicate tendrils of a solar dragon | Bad Astronomy(1) Capture Asteroid. (2) Mine It. (3) PROFIT!! (4)…KABLOOM | Discoblog… and a real meteor over Georgia | Bad Astronomy DISCOVER Blogs: The LoomClimate Relicts: My new story for Yale Environment 360More on Scientific American Podcast: Science Tattoos and the Myth of the Parasite-Driven Cat LadyScientific American interviews me about evolution in the city (and more to come)Ann Coulter Nostalgia: Behold, For *I* Am The Giant Flatulent RaccoonHow many species are there? My latest for the New York Times 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2011, Kalmbach Publishing Co.
+
+
+Privacy - Terms - Reader Services - Subscribe Today - Advertise - About Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
