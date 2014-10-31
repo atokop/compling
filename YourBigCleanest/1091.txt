@@ -1,0 +1,32 @@
+That’s also true of the unexpected DC earthquake last week.  The picture of the overturned lawn chair is funny and all, but because the region doesn’t get a lot of earthquakes, some of the infrastructure was unprepared.  And while disaster has hopefully been avoided, this should raise caution, especially with respect to one nuclear plant in Virginia:
+
+The earthquake that prompted the shutdown of a Virginia nuclear power plant last week may have been more severe than the plant’s reactors were designed to withstand, federal regulators said.
+
+The revelation is likely to put increased pressure on the Nuclear Regulatory Commission (NRC) to quickly implement a series of safety recommendations intended in part to protect plants from major natural disasters like earthquakes.
+
+NRC said Monday that its preliminary analysis indicates that the ground motion caused by the magnitude-5.8 earthquake near the North Anna Power Station in Louisa County, Va., exceeded the maximum level the two reactors at the plant were built to handle.
+
+Nuclear plants cannot lose power.  This has been the source of much of the trouble in Fukushima.  In the case of North Anna, offsite power was lost, but backup diesel generators kicked in.  However, if the plant started to crumble because it wasn’t built to withstand an earthquake of that magnitude, power could have become an issue.  And then a hugely populated area could have been materially affected.
+
+A few things here.  First of all, these are the kinds of problems you simply don’t have with other forms of renewable energy.  Second, as natural disasters grow more frequent, improving critical infrastructure design is just another cost of climate change, one that doesn’t get scored by the CBO, but one which exists and drains budgets.  Third, it’s worth looking into whether one form of energy production – fracking – is leading to natural occurrences like earthquakes that threaten other forms of energy production.
+
+The earthquake that prompted the shutdown of a Virginia nuclear power plant last week may have been more severe than the plant’s reactors were designed to withstand, federal regulators said.
+
+http://theintelhub.com/2011/08/24/north-anna-nuclear-plant-forced-to-vent-steam-following-power-failure-from-virginia-earthquake/
+
+http://blog.alexanderhiggins.com/2011/08/23/backup-generator-cooling-nuclear-power-plant-shutdown-virginia-quake-fails-63871/
+
+I would be surprised if any non-West Coast nuclear plants are adequately hardened for earthquakes.  That includes plants near the New Madrid Fault in Missouri-Illinois-Iowa and plants near the faults that caused earthquakes in Charleston and Edgefield SC.
+
+usgs map of earthquake probabilities in continental u.s. :
+
+http://www.dailymail.co.uk/news/article-1366603/Earthquake-map-America-make-think-again.html
+
+u.s. nuclear power plants listed by quake damage estimate:
+
+http://www.msnbc.msn.com/id/42103936/ns/world_news-asia_pacific/t/what-are-odds-us-nuke-plants-ranked-quake-risk/
+
+with a low risk of only 1 chance in 22,747 of experiencing an earthquake.
+
+I have conferred with people in the oil industry that I know and confirmed from them that this earthquake could have been caused by fracking taking place along the eastern seaboard. Same for recent earthquakes in Arkansas. 
+

@@ -1,0 +1,5 @@
+Äcnltk.classify.decisiontree
+DecisionTreeClassifier
+q)Åq}q(U_fnameqUcontains(sichuan)qU_labelqâU
+_decisionsq}q(âh)Åq	}q
+(hUcontains(sikkim)qhâh}q(âh)Åq}q(hNhâhNU_defaultqNubàh)Åq}q(hNhàhNhNubuhNubàh)Åq}q(hNhàhNhNubuhNub.

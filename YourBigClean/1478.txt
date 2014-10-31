@@ -1,0 +1,426 @@
+ Emergency Management & Continuity Planning
+Skip to content
+
+Emergency Management & Continuity Planning 
+Reflections On All Things Emergency Management & Continuity Planning
+
+Home
+Contact
+About EMS Solutions
+About Regina Phelps
+
+Happy National Preparedness Month to You…in true California fashion, the state launches the “Totally Unprepared” Campaign to get us ready!
+September 1, 2011
+
+tags: Earthquake Preparedness, Earthquakes, Family Preparedness, Regina Phelps, Social Media, Totally Unprepared
+by Regina Phelps EMS Solutions
+
+One of the most classic “California” words used by young and old is …totally.  I had to chuckle when I saw the announcement this morning that the California Emergency Management Agency has partnered with the California Seismic Safety Commission (CSSC) and California Earthquake Authority (CEA) to launch “Totally Unprepared” just in time for National Preparedness Month!   This totally California multimedia campaign is geared to help Californians (actually anyone!) better understand their risk of earthquakes and how to prepare for them.
+Drop, cover and send a tweet? Twitter "blows up" during Virginia earthquake
+Today the first in a series of videos showing Californians taking simple steps to keep themselves safe in the event of an earthquake.  The first video features former NFL star Vencie Glenn as he admits he wasn’t prepared and actually suffered damages from a recent earthquake.  The best part is that he learns what to do to safely secure his home and safeguard his property from damages.
+Each Tuesday, different online resources and new videos will be released through March of 2012.   The campaign hopes to leverage the power of social media in getting the word out.  A special 30-minute program is also being aired on twelve California Public Television Stations throughout the month of September.
+In addition to weekly videos, the Totally Unprepared campaign will incorporate the use of other social media sharing, blogging, and an accompanying website dedicated to spreading the message of preparedness.  The use of these familiar online channels encourages the public to not only participate but share the message among their own networks and beyond.
+The Totally Unprepared campaign centers around two web-based television series created by a veteran of reality television.  In addition, the campaign is supported by a website containing news, resources, preparedness tips, and regular blogs.
+Haven't signed up for this years Shake Out exercise? There is still time! Go to www.shakeout.org.
+Connect with Totally Unprepared for the latest information and resources at the following websites:
+
+www.totallyunprepared.com
+www.YouTube.com/weareunprepared
+www.Facebook.com/totallyunprepared
+www.Twitter.com/weareunprepared
+
+ 
+
+Leave a comment
+from → Crisis Leadership, Earthquake Preparedness, Emergency Management, Family Preparedness, Incident Management, Kids and Emergencies, Preparedness, Regina Phelps, Social Media
+
+The One, Two Punch…first the earthquake and then Irene…what sources did you use to track the storm information?
+August 28, 2011
+
+tags: Emergency Management, hurricane, Hurricane Irene, hurricane preparedness, incident management, National weather service, Prepare, Regina Phelps
+by Regina Phelps EMS Solutions
+
+North Carolina boards up in preparation for Hurricane Irene with a sense of humor!
+In the world of fast moving information, I was surprised at how difficult it was to find specific damage information on the storm damage.  There was lots of general information but nothing that drilled down to specifics.  Twitter, county websites and local newspapers were actually slower than I imagined, or perhaps it was a reflection of my impatience.
+In the world of general storm data, I was relying on three primary sites.
+Google Crisis Response 
+Google Map from Google Crisis Response
+If found some of the best information on the general storm data from the Google Crisis Response Hurricane page. Using Google Maps and a lot of the data from the National Hurricane Center, Google has put together a simple, easy-to-use dashboard for tracking the storm. You can add all sorts of layers to the map, including watches and warnings, storm surge potential, and (most useful of all) evacuation routes.
+http://crisislanding.appspot.com/
+http://www.google.org/crisisresponse/
+Mobile Apps
+Apps like the one from the Weather Channel and Hurricane Tracker HD provide on-the-go storm tracking and just about as much information as you can find on the traditional Web, so long as cell phone service remains available when the storm draws closer.
+http://appshopper.com/weather/real-hurricane-tracker-hd
+The National Hurricane Center
+The National Weather Service’s official hurricane site has tons of up-to-date information and data. Maps show where storm surges and hurricane-force winds are most likely to hit, and the NWS constantly updates watches and warnings at an impressive level of detail–right down to the zip code. This site is also the source of the data that many other sites and apps post.
+http://www.nhc.noaa.gov/#IRENE
+Where did you go for information?  I would love to hear about them!
+ 
+
+Comments Off
+from → Crisis Leadership, Crisis Management, Hurricane, Hurricane Irene, Incident Management, National Weather Service, NOAA, Preparedness, Regina Phelps
+
+Did the earth move for you yesterday?!? For a lot of people in the East it did! Virginia’s BIG 5.8 earthquake…widespread ground shaking
+August 24, 2011
+
+tags: Regina Phelps, Earthquakes, Earthquake Preparedness, USGS, Virginia earthquake August 2011, Colorado earthquake 2011
+by Regina Phelps EMS Solutions
+
+My there was a lot of ground shaking going on yesterday!  This morning the NYT published a telling map showing how far away people reported the shaking…an impressive distance.
+Comparing two similar quakes in two different parts of the United States...significant difference in how far away the ground shaking is felt. (Source New York Times)
+Earthquakes in the central and eastern U.S., although less frequent than in the western U.S., are typically felt over a much broader region. East of the Rockies, an earthquake can be felt over an area as much as ten times larger than a similar magnitude earthquake on the west coast. A magnitude 4.0 eastern U.S. earthquake typically can be felt at many places as far as 100 km (60 mi) from where it occurred, and it infrequently causes damage near its source. A magnitude 5.5 eastern U.S. earthquake usually can be felt as far as 500 km (300 mi) from where it occurred, and sometimes causes damage as far away as 40 km (25 mi).
+Yesterday’s earthquake occurred on a north or northeast-striking plane within a previously recognized seismic zone, called the “Central Virginia Seismic Zone” (CVSZ).  The CVSZ has produced small and moderate earthquakes since at least the 18th century. The previous largest historical shock from the CVSZ occurred in 1875 and occurred before the invention of effective seismographs, but the felt area of the shock suggests that it had a magnitude of about 4.8. The 1875 earthquake shook bricks from chimneys, broke plaster and windows, and overturned furniture at several locations. A magnitude 4.5 earthquake, December 9, 2003 also produced minor damage.
+Right after I heard about the quake I started Googling for information…what blew me away was the Wikipedia had already placed a “placeholder for information” on their page on the Virginia Seismic Zone…that was within 20 minutes of the ground shaking!!!!  Wow…social media and the internet…blazing!
+For those of you in the East and Midwest this is a bit of a wake up call.  Earthquakes happen throughout the United States, albeit more commonly in the West.  Take a look at your emergency response and business continuity plans this morning through fresh, earthquake filled eyes.
+Oh, and by the way, the largest natural earthquake in Colorado in more than a century struck Monday night in the state’s southeast corner, but there were no reports of damage or injuries. The quake, with a preliminary magnitude of 5.3, was centered about nine miles from the city of Trinidad and hit at 11:46 p.m. local time. It was felt as far away as Greeley, about 350 miles north, and into Kansas and New Mexico.
+http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/se082311a.php#summary
+http://www.nytimes.com/2011/08/25/us/25quake.html?_r=1&hp
+ 
+
+2 Comments
+from → Colorado earthquake 2011, Earthquake Preparedness, Earthquakes, Emergency Management, Regina Phelps, USGS, Virginia earthquake August 2011
+
+Things are heating up out there! We are entering a phase of increased solar flares?  Big deal?  Could be!
+August 22, 2011
+
+tags: Coronal Mass Ejections (CME), Radiation, Regina Phelps, Solar Flares, Solar Storms
+by Regina Phelps EMS Solutions
+
+A couple of weeks ago, a massive solar flare released by the sun sent stargazers and space junkies into a twitter (literally I might add!). The amazing image below was captured by NASA’s Solar Dynamics Observatory (SDO) in extreme ultraviolet light at 131 Angstroms. Scientists say the bursts of radiation hurled by the solar blast were not in the direction of Earth (that’s the good news!), so there’ll be little impact to satellites and communication systems.
+This image provided by NASA shows a solar flare early Tuesday, Aug. 9, the largest in 5 years.
+Then this past week, researchers from Stanford University announced that they have developed a method of providing advanced warning of the possible harmful effects to Earth posed by solar flares and Coronal Mass Ejections (CME).  Now what the heck you say is a CME (sounds awful doesn’t it?!??!)  A CME is a massive burst of solar wind, while a solar flare is a sudden brightening observed over the Sun surface or the solar limb, which is interpreted as a large energy release.
+A Stanford graduate student in physics, was able to develop a way to reduce the electronic clutter in the data so he could accurately measure the solar sounds.
+Sunspots develop in active solar regions of strong, concentrated magnetic fields and appear dark when they reach the surface of the sun. Eruptions of the intense magnetic flux give rise to solar storms, but until now, no one has had luck in predicting them.
+According to the team behind the latest research, if disruptions such as solar flares and mass eruptions could be predicted, protective measures could be taken to shield vulnerable electronics before solar storms strike (and that would be a good thing!). The Stanford researchers have developed a method that allows them to peer deep into the sun’s interior, using acoustic waves to catch sunspots in the early stage of development and giving as much as two days’ warning.  The team is using acoustic waves generated inside the sun by the turbulent motion of plasma and gases in constant motion. In the near-surface region, small-scale convection cells – about the size of California – generate sound waves that travel to the interior of the sun and are refracted back to the surface.
+All in a days work and just ONE more thing to add to your company risk assessment and business continuity plans!
+What is a solar flare?
+A solar flare is an intense burst of radiation on the sun’s surface. Sometimes this eruption ejects clouds of electricity, plasma and magnetic fields through the sun’s atmosphere, or corona, flinging it through space.
+What can a solar flare do to earth?
+Solar flares are responsible for the electromagnetic phenomenon known as the Northern Lights, or the aurora borealis. A large enough solar flare can damage or destroy satellites, interrupt radio signals, disrupt global positioning systems, and damage power grids. It may sound fanciful, but in 1989, a solar flare damaged a power grid in Quebec, Canada, cutting power for hours to millions of people.
+What is the solar flare cycle?
+Over several hundred years of observations, scientists have learned that the sun goes through several years of relative dormancy, and then, on average, every 11 years becomes more active for a period of two years or so. That period is just beginning, and is expected to peak around June 2013.
+What is a Coronal Mass Ejections (CME)?
+CMEs are billion-ton clouds of solar plasma launched by the same explosions that spark solar flares. When they sweep past our planet, they can cause auroras, radiation storms, and in extreme cases power outages. Tracking these clouds and predicting their arrival is an important part of space weather forecasting.
+Sources:  Space Weather Prediction Center, National Oceanographic and Atmospheric Administration
+http://www.irishweatheronline.com/news/space/solar/sun-spot-examination-key-to-forecasting-solar-eruptions/32845.html
+http://www.csmonitor.com/Science/2011/0810/Solar-storms-New-solar-flare-is-largest-in-years
+ 
+
+Leave a comment
+from → Solar Storms, Emergency Management, Radiation, Regina Phelps, cybersecurity, Solar Flares, Sunspots, Coronal Mass Ejections (CME)
+
+Another interesting data point and tool for your toolbox…Europa Report on Terrorism and Extremism 2011
+August 18, 2011
+
+tags: Emergency Management, Extremism, Knights Templar, Regina Phelps, Terrorism
+by Regina Phelps EMS Solutions
+
+Last week I was listening to a CNN clip on line about the group that has come to everyone’s attention because of Anders Behring Breivik’s killing spree in Norway. He claimed in his rambling manifesto to represent a modern-day “Knights Templar”.
+The Knights Templar were a Christian military order founded in the early 12th century. Its members were said to be elite warriors who wore distinctive white mantles with a red cross. They made their reputation by winning a series of battles in the Crusades. (And yes, they were in The DaVinci Code!)
+Anders Breivik’s fascination with the Knights is less bizarre – in fact, he’s part of a larger movement. People like Breivik are trying to resurrect the idea of a modern-day Crusade, a real clash of civilizations against what they see as an Islamic invasion of Europe.
+The commentator went on to discuss a report I had never heard of before…the European Union’s 2010 Terrorism Situation and Trend Report which has some pretty fascinating findings. It showed that of the 294 terror attacks committed in Europe in 2009, only one was conducted by Islamists. That’s a third of one percent. The most recent statistics show there were 249 terror attacks in Europe in 2010. Only three of those attacks were carried out by Islamist terrorists. Again, that’s about one percent. Most of the attacks were by separatist groups or anarchists.
+General overview of the situation in the EU in 2010
+
+249 terrorist attacks
+611 individuals arrested for terrorist related offences
+46 threat statements against EU Member States
+307 individuals tried for terrorism charges
+The internet: a crucial facilitating factor for terrorists and extremists
+
+Islamist Terrorism
+
+3 Islamist terrorist attacks carried out in the Member States
+179 individuals arrested for Islamist terrorist offences
+89 individuals arrested for the preparation of attacks in the EU
+Terrorist recruitment and support networks are active in many EU Member States
+The security situation outside the EU impacts on Islamist terrorist activities inside the EU
+
+Maybe one of the things that we can learn from the events in Norway is that there are many different types of terrorist and extremist organizations in the world and that we need to keep our eyes open from attacks from a wide variety of sources.  Remember the Oklahoma City bombings as an example.  To get a copy of the report go to https://www.europol.europa.eu/sites/default/files/…/te-sat2011.pdf
+http://globalpublicsquare.blogs.cnn.com/2011/07/31/what-is-the-knights-templar/?iref=obinsite
+ 
+
+Leave a comment
+from → Terrorism, Emergency Management, Incident Management, Regina Phelps, Extremism, Knights Templar
+
+Can earthquakes be predicted? Long held belief is no, but a Bay Area project, QuakeFinder, is trying to prove the naysayers wrong.
+August 14, 2011
+
+tags: Earthquake Prediction, Earthquakes, Emergency Management, incident management, Regina Phelps, USGS
+by Regina Phelps EMS Solutions
+
+Reading the New York Times this weekend, I came upon an article about a Bay Area company trying to predict earthquakes.  Well, that requires a little data mining to find out what they are all about…
+QuakeFinder Network in California
+The company, Stellar Solutions has a project called QuakeFinders which involves installing 200 five-foot-tall sensors near fault lines to measure changes in underground magnetic fields and detect electrically charged particles in the air. The theory behind it is that changes in electromagnetic fields can foretell quakes.  Now isn’t that interesting!?!?!
+So why do geological scientists like U.S. Geological Survey (USGS) think about this idea?!? Well it turns out, that the science behind QuakeFinder is disputed. It appears that most seismologists dismiss it as a sham and that forecasting earthquakes is impossible. USGS, the main sponsor of most earthquake research, does not support quake-related studies of electromagnetic radiation because it has found them to be a scientific dead end.
+As you might suspect, QuakeFinder has other thoughts.  As reported by the company, QuakeFinder devices detected electromagnetic pulses that resembled those produced by lightning in the two weeks before an earthquake struck at Alum Rock near San Jose in 2007, he said, and charged air particles and infrared light were also detected. Similar observations by QuakeFinder preceded an earthquake in Peru last year.
+It looks like this might be one of those cases of wait and see.
+QuakeFinder is the world’s leading private research organization focused on creating a system for forecasting major earthquakes. Operating as a humanitarian R&D division of Stellar Solutions and funded by Stellar Solutions, by grants from NASA, subscriptions, and sponsorships from the public, QuakeFinder has developed the science, technology, infrastructure and expertise that are the foundation for a practical earthquake forecasting solution.
+http://www.quakefinder.com/
+http://www.nytimes.com/2011/08/14/us/14bcquakefinder.html?_r=1&scp=1&sq=quakefinders&st=cse
+ 
+
+Leave a comment
+from → Business Continuity, Crisis Management, Earthquake Prediction, Earthquake Preparedness, Earthquakes, Emergency Management, Incident Management, Preparedness, USGS
+
+London Riots:  Organized and Now Cleaned Up by Social Media…Now That Is Two sides of the Spectrum!
+August 9, 2011
+
+tags: Crisis Communications, Facebook, Regina Phelps, Social Media, Twitter
+by Regina Phelps EMS Solutions
+
+After days of riots in London, thousands of Londoners and worldwide supporters are taking to social networks to help reclaim the streets of London.  Possibly, the first Twitter organized  post-riot clean up party!
+While the rioters organized using the underground paths of Blackberry Messenger, the highly spreadable mediums of Facebook and Twitter have shown to be the perfect platforms for mobilizing cleanup organizers and followers in the early aftermath of the rioting.
+For the most part, organization has been very smooth, with a few key hubs across social platforms taking root. The @RiotCleanup Twitter page has amassed more than 50,000 followers in fewer than 10 hours and is consistently broadcasting cleanup locations and times, along with other pertinent information regarding the initiative.
+On Facebook, a similar page has emerged as the central location for information on the world’s largest social network. And for a more static look at where the action is, riotcleanup.co.uk is being constantly updated with cleanup location information. The creator of the website and resident of rural Shropshire, England explained: “I was sitting at home following the #londonriots hashtag — then I saw #riotcleanup start to appear. I am not in London, but wanted to do something. Near enough simultaneously, I registered riotcleanup.co.uk as someone else got the Twitter account @riotcleanup going. Then, I just knocked something together as fast as possible and uploaded it!”
+Stunning!!!
+Beyond the riot cleanup, another effort to catch and prosecute looters has taken root, with the Tumblr account “Catch A Looter” accepting and posting images of looters for identification.
+Now how brilliant is that!?!?!
+ 
+
+2 Comments
+from → Civil Unrest, Crisis Communication, Crisis Leadership, Crisis Management, Emergency Management, Facebook, Regina Phelps, Social Media, Twitter
+
+We Hear Them And Often Accept Them As Fact…But Are They True?  What Are A Few Myths About Weather That We All Seem To Believe?
+August 7, 2011
+
+tags: Climate Change, Emergency Management, Flood, NOAA, Regina Phelps, Severe Weather
+by Regina Phelps EMS Solutions
+
+1. This summer is much hotter than normal.
+It feels hot for a reason, and not just in the United States. Last month’s global average land surface temperature was the fourth warmest on record.
+According to the National Oceanic and Atmospheric Administration, 49 states — all except Delaware — have had record highs this summer. This summer, much of the East Coast has suffered through a heat wave that pushed temperatures into triple digits. This is however, not an aberration. Globally, June was the 316th month in a row that had a higher temperature than the 20th century average. So, while it is indeed much hotter than it used to be, we may be witnessing a new normal in heat and other extreme weather.
+2. “Hundred year” weather events happen only once every 100 years.
+Hundred-year weather events no longer live up to their name.
+In 2005, for instance, a devastating “once a century” drought hit the Amazon, only to be followed by another in 2010. Globally, previously rare weather events have been occurring with startling frequency. Consider the massive floods that inundated a fifth of Pakistan last year and submerged eastern Australia and the American Midwest this year. It’s time for meteorologists to come up with a new, more accurate term. Of course, what scientists actually mean by “one in 100 years” is not that a major flood, drought or hurricane will strike a given place only once a century, but rather that there is a 1 percent chance of such an event in any given year. Either way, the fact that what were once considered hundred-year events seem to be happening more often is consistent with climate models projecting that rising global average temperatures will lead to more frequent and extreme weather.
+3.  Red sky at morning, sailor’s take warning; red sky at night, sailor’s delight.
+The rhyme works in most of the United States where storms generally move from west to east.
+The “red”, which refers to the sky overhead, is caused by the sunlight reflecting off clouds. For a red sky in the morning, the eastern horizon has to be clear while clouds are moving in from the west. Since most storms come from the west, a storm is probably heading your direction. For a red sky at night, clouds have to have moved away from the western horizon – heading east. With the storm moving east, clear skies are coming your way.
+4. Extreme droughts and extreme floods can’t both be due to climate change.
+It seems counterintuitive that climate change could be responsible for both withering droughts and devastating floods. Yet it can.
+Scientists have found that climate change can trigger periods of intense rainfall followed by long spells of dry weather. This combination of severe rainstorms and droughts, in turn, can lead to more flooding, landslides, soil erosion and other disasters. There are signs in some places that this may already be underway.
+What Should You Be Doing?
+The key thing to remember in all of these myths/facts is that weather is indeed changing.  You need to be prepared for emergencies and disasters that are likely to befall you in the region you live in….this is at work AND at home.  Don’t be passive…get engaged!  Get disaster ready for your area!
+http://www.washingtonpost.com/opinions/five-myths-about-extreme-weather/2011/07/21/gIQAcjZaTI_story.html
+http://www.usatoday.com/weather/resources/basics/wredsky.htm
+http://en.wikipedia.org/wiki/Weather_lore#Red_sky_at_night
+ 
+
+Leave a comment
+from → Climate Change, Climatological disaster, Drought, Emergency Management, Flood, NOAA, Preparedness, Regina Phelps, Severe Weather, Tornado
+
+McAfee issues a New Report on Global Cyber Spying – 72 Targets Identified – What Is Your Info Security Group Doing To Protect You?
+August 3, 2011
+
+tags: Cyber Security, Cyberwarfare, Emergency Management, Regina Phelps
+by Regina Phelps EMS Solutions
+
+Today, McAfee issued a report on Wednesday saying it had identified cyberattacks that lasted for up to five years on a wide range of governments, American corporations and United Nations groups.  McAfee announced that had alerted the 72 targets it identified and also informed law enforcement agencies, who are now said to be investigating the matter.  For some interesting download the14-page report (link at the bottom of this posting).  The report entitled, Operation Shady Rat (love the title!), calls the attacks highly sophisticated and says they appear to have been operated by a government body, which it declined to name.
+McAfee identified 72 compromised parties in the just issued report: Operation Shady RAT
+Although the country was not named, China has repeatedly been the focus of suspicion in such cases. The report comes after high-profile cyberattacks aimed at the International Monetary Fund, Sony and the Lockheed Martin Corporation, America’s largest military contractor.
+Although in recent months there have been an alarming number of reports about computer spying, many offer few details, citing concern for the targets’ privacy. Operation Shady Rat offers little detail about the cases, what kinds of documents were stolen or what kind of evidence was found to determine the perpetrator was a government body. The report said that 49 targets were in the United States and that governments, companies, and organizations in Canada, Japan, South Korea, Taiwan, Switzerland and Britain were also targets multiple times.
+In the report, McAfee notes that it learned of the hacking campaign last March, when it discovered logs of attacks while reviewing the contents of a server it had discovered in 2009 as part of an investigation into security breaches at defense companies. It dubbed the attacks Operation Shady RAT — RAT stands for remote access tool, a type of software used to access computer networks. The company dated the earliest breaches to mid-2006, though it said other intrusions might have gone undetected. The duration of the attacks ranged from a month to what McAfee said was a sustained 28-month attack against an Olympic committee of an unidentified Asian nation.
+Cyber security is now a major international concern, with hackers gaining access sensitive corporate and military secrets, including intellectual property. In some attacks, the culprits are believed to be professional hackers engaged in disrupting an organization’s operations for the sheer pleasure of it (such as the group Anonymous), or perhaps seeking revenge. There are also growing concerns that some of the cyberattacks are being carried out by nation-states, particularly after Google said last year that Chinese hackers stole some of the company’s source code. Many security experts say the Chinese government has built up a sophisticated cyber warfare unit and that the government may be partnering with professional hackers.
+If you haven’t spoken with your Information Security group in your organization about their current plans regarding cyber security, you might want to move this up on your to-do-list and forward them a copy of this white paper.
+McAfee White Paper:  Operation Shady RAT:  http://www.mcafee.com/us/mcafee-labs.aspx
+ 
+
+Leave a comment
+from → Crisis Communication, Crisis Leadership, Crisis Management, cybersecurity, Cyberwarfare, Emergency Management, Regina Phelps
+
+Experts Are Calling This Summer’s Drought A Once-In-A-Lifetime Catastrophe…Is This Our Great Dust Bowl?
+July 22, 2011
+
+tags: climatological disaster, Drought, Regina Phelps, Severe Weather
+by Regina Phelps EMS Solutions
+
+After a spring filled with unprecedented record disasters of tornadoes and floods, we heading straight into a catastrophic disaster that few people outside of the affected region seem to be talking about.  In fact, the situation seems so dire, you would think you are reading about a country in sub-Saharan Africa.  I am speaking about the next climatological disaster here in the United States – drought.
+Last month, the United States Department of Agriculture designated all 254 counties in Texas natural disaster areas, qualifying them for varying levels of federal relief.
+Fourteen states across the southern United States, particularly Texas, are facing a deadly combination of record heat and low precipitation.  The Office of the Texas State Climatologist reports that this past June was the hottest June in recorded history. Twenty-five Texan cities broke heat records. Meanwhile, water supplies are drying up and crops are dying. Meteorologist say a strong La Niña – an abnormal cooling of Pacific waters — is to blame.
+Experts are quick to tell you that this is no ordinary drought. It’s a large-scale crisis that some are comparing to the Dust Bowl of the 1930s. The National Drought Mitigation Center (I didn’t even know we had one until I did this research) has stated that this is a once- or twice-in-a-lifetime event.
+The Drought Mitigation Center is housed in the University of Nebraska-Lincoln.  It uses a ranking system to evaluate drought:
+
+D0 – abnormal dryness
+D1 – moderate drought
+D2 – severe drought
+D3 – extreme drought
+
+The current crisis surpasses all of these, earning a rating of D4 -- exceptional drought. What does that mean?? Crop losses are not just major but dire and widespread. The New York Times reports that agricultural losses could exceed $3 billion. And municipalities are not just experiencing water shortages but water emergencies including severe water restrictions and rationing.
+It is interesting to me to compare the 30’s with now.  In the ’30s, there was the Depression with the drought on top of that difficult economic time, creating even more devastation.  Eighty years later, we find ourselves and the world, mired in the throes of another difficult economy, millions of people out of work and another exceptional drought (in fact, a D4 rated drought).  Grocery shoppers will feel the effects of the drought at the dinner table, where the cost of staples like meat, dairy and bread will surely rise and this will certainly have an impact on global food supplies as well.
+http://www.drought.unl.edu/dm/
+http://www.nytimes.com/2011/07/12/us/12drought.html?_r=3&scp=2&sq=drought&st=cse
+Check out the Drought Impact:
+
+Drought impact by state: http://droughtreporter.unl.edu/
+Short term impact http://www.cpc.ncep.noaa.gov/products/predictions/tools/edb/sbfinal.gif
+Long Term impact
+http://www.cpc.ncep.noaa.gov/products/predictions/tools/edb/lbfinal.gif
+Animated map over the summer  http://www.drought.unl.edu/dm/monitor.html
+
+ 
+
+Leave a comment
+from → Climatological disaster, Drought, Emergency Management, National Weather Service, Regina Phelps, Severe Weather
+
+« Older Entries
+
+ Regina Phelps, RN, BSN, MPA, CEMWelcome to our blog on contemporary issues in the field of emergency management and business continuity planning.  We'd love for you to be part of the conversation.  Please subscribe, follow us and let us know what you think.
+ 
+September 2011
+
+M
+T
+W
+T
+F
+S
+S
+
+« Aug
+ 
+ 
+
+ 1234
+
+567891011
+
+12131415161718
+
+19202122232425
+
+2627282930
+ 
+
+   Email Subscription
+
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+Join 25 other followers
+
+Tweets
+Happy National Preparedness Month to You…in true California fashion, the state launches the… http://t.co/hwXNSfM 4 days ago
+The One, Two Punch…first then earthquake and the Irene…what sources did you use to track the… http://t.co/I98T9aF 1 week ago
+Did the earth move for you yesterday?!? For a lot of people in the East it did! Virginia’s… http://t.co/BaLfxLt 1 week ago
+
+Follow @ReginaPhelpsTag CloudAntiviral
+Argentina
+Bird Flu
+Business Continuity
+CDC
+Counterfeit Antivirals
+Earthquake Preparedness
+Earthquakes
+Emergency Management
+Emergency Preparedness
+Fall flu season
+Family Preparedness
+Fever
+Flu
+Flu View
+H1N1
+H1N1 vaccine
+H5N1
+handwashing
+Health
+India
+Influenza
+Life
+NaBloPoMo09
+News
+obese
+Pandemic
+Pandemic Education
+Pneumonia
+Pregnancy
+pregnant
+Regina Phelps
+risk factors
+School Closure
+Schools
+Severe Weather
+Social Media
+Swine Flu
+Tamiflu
+Tamiflu Resistance
+Tornado
+Vaccine
+vitamin D
+Vitamins
+WHOArchives  Select Month  September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+
+  Top Posts H1N1(Swine Flu): WHO Global Update; Great On-Line Class on Vaccine BasicsDon’t let the Bed Bugs Bite…remember that funny childhood comment as you went off to bed?  It has a whole different meaning now!   Recent Comments Regina Phelps EMS So… on Did the earth move for you yes…Jill on Did the earth move for you yes…Метастазы Мексиканск… on Lots of sick folks around you …
+   EMSS Blog Wins Two First Prizes – IAEM US and Global Awards EMS Solutions has just received an award for its H1N1 (Swine Flu) Pandemic Influenza News Blog from both the US Council of the International Association of Emergency Managers (IAEM) and the IAEM-Global Council.  
+These two First Place Awards were in the Commercial/For-Profit Organization (Division 3) category Public Awareness Awards. This tribute recognizes outstanding public awareness programs or public education products related to emergency management, homeland security and/or disaster preparedness.
+To learn more about the awards program go to IAEM:
+http://www.iaem.com/about/awards/intro.htm
+
+Helpful Links
+
+AMA Flu Self Assessment Tool
+Asian Disease Blog – Arkanoid Legent
+ASIS SPC.1-2009
+Association of Continuity Planners
+British Standard 25999-2:2007
+Business and Recovery Managers Association
+California Specialized Training Institute (CSTI)
+Centers for Disease Control (CDC)
+Chandi Media
+CIDRAP
+Contingency Planning & Management (CPM)
+Continuity Central
+Continuity Insights
+Department of Homeland Security
+Disaster Recovery Journal
+Disaster Resource Guide
+EMS Solutions
+European Centre for Disease Prevention and Control (ECDC)
+Exercise Design: From Response to Recovery
+Federal Emergency Management Agency
+FEMA Independent Study Program
+Flu Tracker
+Flu View
+Flu Wiki Forum
+International Association of Emergency Managers
+NFPA 1600
+ProMED mail
+PS Prep
+Radiation Factsheets (CDC)
+Ready.gov
+Seattle – King County Health Department
+U.S. Pandemic Flu Website
+US State Department – travel advisories
+Virology Blog – About Viruses and Viral Diseases
+World Conference on Disaster Management
+World Health Organization (WHO)
+
+  
+Blog at WordPress.com.
+Theme: Vigilance by The Theme Foundry. 
+

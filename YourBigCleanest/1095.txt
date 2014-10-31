@@ -1,0 +1,32 @@
+After the big earthquake on Tuesday, significant structural damage was reported at several Washington landmarks including the Washington Monument and the Smithsonian Castle. Another one, less recognizable to most folks, but key in our personal geography, is the Embassy of Ecuador. Not only is it an outpost of my wife’s dual citizenship, but it also happens to be located adjacent to Meridian Hill Park (a.k.a. “Malcolm X Park”), a few blocks from where we live in Columbia Heights.
+
+Yesterday morning, after a pre-hurricane run through the Zoo (visiting those putative quake-predictors, the gorillas and lemurs), we detoured past the Ecuadorian Embassy to see if any of the damage was visible from the outside. Indeed it was. After a shower and some breakfast, we walked back armed with our cameras to document what we saw.
+
+As I indicated at the end of Wednesday’s post about damage to my condo, chimneys are a huge risk in earthquakes because they are (a) often constructed from unreinforced masonry which has very low shear strength, and (b) relatively massive, which gives them a lot of inertia. As the ground accelerates out from underneath the building, the chimney’s inertia keeps it where it was. Then, as it finally gets moving, trying to catch up to the rest of the structure, the building beneath it has switched direction, moving back in the opposite direction. Without some internal or external reinforcement like rebar, this is a sure recipe from breaking your chimney into chunks. If your chimney is four storeys above street level, that can present problems for anyone on the sidewalk below.
+
+Pre-crumbled structures like this are a big reason that we should still be vigilant during aftershocks, even if they are lesser in magnitude than the original quake (a point also made by the “5 myths about earthquakes” article in yesterday’s Post that you should definitely read).
+
+Notice how only the chimney above this strut snapped off – the brace helped keep the lower portion of the chimney mechanically bound to the rest of the building so that they moved together during the earthquake. Shear was thus minimized for the lower portion of the chimney, and accordingly it did not fail.
+
+Scenes like this should remind us city folk that during an earthquake, it’s better to shelter in place (indoors, under a desk or in a doorway) than to run outside onto the street. Total building collapse is rare; flying debris is common. If you are outside, move the heck away from buildings – and keep in mind that unreinforced masonry may be on its way down to meet you.
+
+So what you’re looking for is not “magnitude” (which is a measure that corresponds to the absolute amount of energy released at the site of the quake itself), but a fuzzier quantity which is dubbed “intensity.”
+
+http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/index.html
+
+http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/082311a/
+
+http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/082311a/#Peak_Ground_Acceleration
+
+Or you can have it as velocity (in units of cm per second) http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/082311a/#Peak_Ground_Velocity
+
+http://earthquake.usgs.gov/earthquakes/pager/events/us/082311a/index.html
+
+But, were there any real measurements taken at locations outside the epicenter, say, DC perhaps? The damage seems consistent with a larger quake.
+
+Nice chimney shot!  It might have been the chimney brace that actually snapped the 2nd one, those things are notoriously bad for seismic.  I’m really looking into the chance that this earthquake is induced by the dammed lake, but the lack of any seismic monitoring is a bummer.  Hopefully they are bringing in more.
+
+Japan M8.9 quake + tsunami (57)
+
+Recent CommentsKaren Phaup on The Mineral, VA earthquake of August 23, 2011 – UPDATEDCallan on The Mineral, VA earthquake of August 23, 2011 – UPDATEDKinky Columns | life as a geologist on Columns form perpendicular to cooling frontsMelanie on The Mineral, VA earthquake of August 23, 2011 – UPDATEDHow Did So Many People Feel a 5.8 Earthquake in Richmond, Virginia? | Environmental, Health and Safety News on The Mineral, VA earthquake of August 23, 2011 – UPDATED 
+

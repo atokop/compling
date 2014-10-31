@@ -1,0 +1,535 @@
+
+AGU Blogosphere | Mountain Beltway | Damage to the Ecuadorian Embassy
+
+Home
+Blogs
+Discussion
+About
+
+This blog
+
+Site
+
+Sign In
+
+Home
+About Callan
+Blog history
+Why “Mountain Beltway”?
+ 
+
+            28 August 2011          
+
+            Damage to the Ecuadorian Embassy            
+
+Posted by Callan
+
+    
+
+My wife Lily is an Ecuadorian citizen. She was born in Quito, and we have traveled there together. (She’s also a U.S. citizen.)
+After the big earthquake on Tuesday, significant structural damage was reported at several Washington landmarks including the Washington Monument and the Smithsonian Castle. Another one, less recognizable to most folks, but key in our personal geography, is the Embassy of Ecuador. Not only is it an outpost of my wife’s dual citizenship, but it also happens to be located adjacent to Meridian Hill Park (a.k.a. “Malcolm X Park”), a few blocks from where we live in Columbia Heights.
+Yesterday morning, after a pre-hurricane run through the Zoo (visiting those putative quake-predictors, the gorillas and lemurs), we detoured past the Ecuadorian Embassy to see if any of the damage was visible from the outside. Indeed it was. After a shower and some breakfast, we walked back armed with our cameras to document what we saw.
+Here’s a view of the north side of the building, from the intersection of 15th and Euclid. Perspective is facing the southeast:
+
+You can see that several of the gables near the roof have sustained severe damage, and that apparently they were clobbered by loose bricks launched off a disintegrating chimney above. Zooming in, we can see areas where the bricks apparently bounced down the slate tiles and damaged them on the way down.
+
+As I indicated at the end of Wednesday’s post about damage to my condo, chimneys are a huge risk in earthquakes because they are (a) often constructed from unreinforced masonry which has very low shear strength, and (b) relatively massive, which gives them a lot of inertia. As the ground accelerates out from underneath the building, the chimney’s inertia keeps it where it was. Then, as it finally gets moving, trying to catch up to the rest of the structure, the building beneath it has switched direction, moving back in the opposite direction. Without some internal or external reinforcement like rebar, this is a sure recipe from breaking your chimney into chunks. If your chimney is four storeys above street level, that can present problems for anyone on the sidewalk below.
+Down the block a bit, looking back at the same scene, but from a different perspective – view is now towards the southwest:
+
+And a zoom-in on the stub of the chimney itself:
+
+Pre-crumbled structures like this are a big reason that we should still be vigilant during aftershocks, even if they are lesser in magnitude than the original quake (a point also made by the “5 myths about earthquakes” article in yesterday’s Post that you should definitely read).
+Using Google Map’s “streetview” feature, I was able to get a look at what this particular chimney looked like before the earthquake last Tuesday:
+
+We walked a bit further down, and saw that on the alley to the east of the embassy, another chimney had partially collapsed. They had already wrapped the top of this one in plastic, a procedure motivated in part by impending arrival of Hurricane Irene.
+
+Note the guy cleaning up below, and also notice the chimney brace, wrought iron and with a decorative filigree added on:
+
+Notice how only the chimney above this strut snapped off – the brace helped keep the lower portion of the chimney mechanically bound to the rest of the building so that they moved together during the earthquake. Shear was thus minimized for the lower portion of the chimney, and accordingly it did not fail.
+Screenshot from Google Maps “streetview,” with former position of chimney highlighted by arrow:
+
+Scenes like this should remind us city folk that during an earthquake, it’s better to shelter in place (indoors, under a desk or in a doorway) than to run outside onto the street. Total building collapse is rare; flying debris is common. If you are outside, move the heck away from buildings – and keep in mind that unreinforced masonry may be on its way down to meet you.
+
+Posted in:
+            dc, earthquake, ecuador, hurricane 
+10 Comments/Trackbacks » 
+
+← Previous Post 
+
+Next Post  → 
+
+Comments
+Damage to the Ecuadorian Embassy
+9 Comments
+
+ 
+
+Joe Westner said:				On 29 August 2011
+
+Hi Callan,
+For some reason my post this morning disappeared and it was longer so I didn’t feel like retyping all of it. 
+I am curious as to the relative magnitude and how it radiated outward from the epicenter in Mineral Va. Can you give me a link to data on this? I’d like to get an idea how strong it would have been in say, upper NW DC, Rockville, etc… Perhaps there’s a formula or rule of thumb for attenuation across a distance in this region.
+Thanks again!
+
+Reply 
+
+ 
+
+Callan said:				On 29 August 2011
+
+So what you’re looking for is not “magnitude” (which is a measure that corresponds to the absolute amount of energy released at the site of the quake itself), but a fuzzier quantity which is dubbed “intensity.”
+http://earthquake.usgs.gov/earthquakes/dyfi/events/se/082311a/us/index.html
+Intensity is famously hard to measure, as it varies dramatically with substrate (bedrock of various kinds, disrupted by various structures like foliation, folds, and faults, or perhaps there is no bedrock in a given area, and instead you’re dealing with loose sediments or artificial fill), building structure and quality of construction, heights in those buildings, and the subjectivity of the people reporting the intensity of their experience. The “ShakeMap” from USGS might be a good place to start:
+http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/082311a/
+Another map they offer shows peak ground acceleration as a percentage of gravity’s pull:
+http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/082311a/#Peak_Ground_Acceleration
+Or you can have it as velocity (in units of cm per second) http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/082311a/#Peak_Ground_Velocity
+A program called “PAGER” estimates population exposure (and corresponding fatalities/property damage) for every quake:
+http://earthquake.usgs.gov/earthquakes/pager/events/us/082311a/index.html
+There is no formula or rule of thumb that matches the complexity of the actual Earth, but those maps should help you start exploring it.
+
+Reply 
+
+ 
+
+Joe Westner said:				On 29 August 2011
+
+Thanks a bunch Callan…more reading for me:)
+But, were there any real measurements taken at locations outside the epicenter, say, DC perhaps? The damage seems consistent with a larger quake.
+Appreciate the responsiveness!
+
+Reply 
+
+ 
+
+Callan said:				On 29 August 2011
+
+What do you mean “real” measurements? Yes, the ground acceleration measurements are “real”…
+
+Reply 
+
+ 
+
+Joe Westner said:				On 29 August 2011
+
+Sorry Callan,
+Maybe I didn’t express myself properly. I meant where there any physical seismometers outside of Mineral, in the greater DC area?
+I’m familiar with the shake map but that is data generated by us lay people. I’m not sure how accurate it that data is because it’s based on feeling. I’d have to assume it is useful or else the USGS wouldn’t utilize it. 
+I think i’m answering my own question since if there were other seismometers you’d have pointed me to it.
+No worries, this is interesting reading.
+thanks again
+
+Reply 
+
+ 
+
+Callan said:				On 29 August 2011
+
+There are NO seismographs in Mineral, as far as I know… That would be quite a coincidence, if so. There is an enormous national (& international) network of seismographs, and Mineral’s position as the epicenter was figured out from the data gathered by that network: triangulated from the difference in arrival time between fast-moving P and slower-moving S waves. I’ll bet there are some seismographs at USGS HQ in Reston…
+
+Reply 
+
+ 
+
+Joe Westner said:				On 29 August 2011
+
+Ahh, ok so do they triangulate and compare travel time to locate the epicenter, similar to how GPS functions? If so I suppose they’d have to utilize a time synchronization method too. 
+Yes, it would be quite a coincidence:)
+
+ 
+
+Harold Asmis said:				On 29 August 2011
+
+Nice chimney shot!  It might have been the chimney brace that actually snapped the 2nd one, those things are notoriously bad for seismic.  I’m really looking into the chance that this earthquake is induced by the dammed lake, but the lack of any seismic monitoring is a bummer.  Hopefully they are bringing in more.
+
+Reply 
+
+ 
+
+terry said:				On 30 August 2011
+
+I know West Coasters snarked at us, and perhaps rightly so given how hysterical the media got, but even their M5.8s have killed people (Whittier Narrows in 1987). I rather consider us all lucky this one’s epicenter was out in a mostly rural area and not directly under Richmond, or the District.
+
+Reply 
+
+ 
+
+					Leave a Reply				
+
+Click here to cancel reply. 
+
+Name *
+
+Email  *
+
+Website
+
+Comment
+
+Notify me of followup comments via e-mail
+
+Damage to the Ecuadorian Embassy
+1 Trackback
+
+Wonderful Life - Stinky Mushroomson 28 August 2011
+
+Connect with Callan:
+
+About Callan  Callan Bentley is an assistant professor of geology at Northern Virginia Community College in Annandale, Virginia. He is particularly interested in structural geology and the evolution of the Appalachian mountain belt. Callan draws cartoons and writes for EARTH magazine. He lives in Washington, D.C.
+Other AGU Blogs 
+
+Dan's Wild Wild Science Journal >>
+
+The Landslide Blog >>
+
+GeoSpace >>
+
+Magma Cum Laude >>
+
+Martian Chronicles >>
+
+Georneys >>
+
+Mountain Beltway >>
+
+Outdoor Science >>
+
+The Plainspoken Scientist >>
+
+terra central >>
+
+Quick Links 
+
+Latest
+Most Popular
+Recent Comments
+
+ Latest 
+Friday fold: duplex structure in the gastropod limestone
+Columns form perpendicular to cooling fronts
+Updated aftershock plot
+Damage to the Ecuadorian Embassy
+Animated GIF of Virginia quake aftershocks
+
+ 
+
+Most Popular Posts
+ The Mineral, VA earthquake of August 23, 2011 - UPDATED (155)
+Japan M8.9 quake + tsunami (57)
+Drilling: what, why, and how (45)
+Mystery rock with radiating crystals (39)
+Geological heroes: call for posts (31)
+
+Recent CommentsKaren Phaup on The Mineral, VA earthquake of August 23, 2011 – UPDATEDCallan on The Mineral, VA earthquake of August 23, 2011 – UPDATEDKinky Columns | life as a geologist on Columns form perpendicular to cooling frontsMelanie on The Mineral, VA earthquake of August 23, 2011 – UPDATEDHow Did So Many People Feel a 5.8 Earthquake in Richmond, Virginia? | Environmental, Health and Safety News on The Mineral, VA earthquake of August 23, 2011 – UPDATED 
+
+Categories
+Select Category
+africa  (3)
+alabama  (1)
+alaska  (1)
+amphibians  (1)
+analogies  (21)
+appalachian plateaus  (1)
+arachnids  (4)
+archaeology  (5)
+archean  (4)
+arizona  (2)
+art  (28)
+arthropods  (12)
+asia  (8)
+astronomy  (1)
+atmosphere  (3)
+award  (2)
+basalt  (21)
+basin and range  (4)
+BIF  (1)
+biodiversity  (5)
+biology  (1)
+birds  (2)
+blogs  (26)
+blue ridge  (40)
+books  (21)
+boudinage  (9)
+building stone  (15)
+california  (34)
+cambrian  (15)
+canada  (10)
+caves  (2)
+central america  (1)
+chemistry  (4)
+chile  (1)
+cleavage  (11)
+climate change  (11)
+CO2  (7)
+coal  (3)
+coastal geomorphology  (2)
+coastal plain  (7)
+colorado  (1)
+concretions  (4)
+conferences  (23)
+contest  (11)
+corals  (2)
+cretaceous  (10)
+culpeper basin  (5)
+dc  (22)
+delaware  (1)
+deltas  (3)
+denmark  (1)
+devonian  (11)
+dinosaurs  (3)
+dunes  (1)
+earthquake  (13)
+echinoderms  (1)
+ecuador  (1)
+energy resources  (1)
+environmental  (6)
+eocene  (3)
+erosion  (1)
+europe  (4)
+euxinia  (1)
+evolution  (4)
+faults  (43)
+floods  (1)
+folds  (92)
+foliation  (7)
+food  (9)
+fossils  (23)
+Friday Fold  (54)
+fungi  (1)
+gear  (5)
+geoengineering  (1)
+geologic time  (1)
+geology  (125)
+geomorphology  (9)
+germany  (1)
+gigapan  (18)
+glacial landforms  (13)
+glaciers  (9)
+google earth  (7)
+GPS  (1)
+grand canyon  (2)
+granite  (23)
+graphs  (4)
+graves  (4)
+greece  (1)
+greenland  (1)
+greenstone belts  (1)
+gsa  (17)
+gsw  (3)
+guatemala  (1)
+himalayas  (2)
+history  (24)
+holocene  (2)
+hurricane  (1)
+ice  (4)
+iceland  (2)
+igneous  (32)
+illinois  (1)
+indigenous cultures  (1)
+information design  (1)
+insects  (17)
+iowa  (1)
+ireland  (1)
+isotopes  (3)
+japan  (6)
+joints  (38)
+jurassic  (9)
+lakes  (6)
+limestone  (26)
+lineation  (4)
+lola  (10)
+mammals  (5)
+maps  (7)
+marble  (3)
+mars  (1)
+maryland  (19)
+mass wasting  (3)
+math  (7)
+mesoproterozoic  (16)
+mesozoic  (11)
+metamorphism  (43)
+meteorite impacts  (1)
+meteorites  (1)
+microbes  (1)
+microscopy  (7)
+minerals  (20)
+minnesota  (1)
+miocene  (1)
+mississippian (carboniferous)  (15)
+mollusks  (3)
+mongolia  (1)
+montana  (39)
+moon  (1)
+mountains  (6)
+movies  (2)
+museums  (9)
+national parks  (19)
+neoproterozoic  (13)
+new hampshire  (11)
+new york  (13)
+new zealand  (1)
+north america  (14)
+north carolina  (3)
+norway  (1)
+nova  (19)
+nyc  (13)
+ocean acidification  (1)
+oceans  (2)
+oil  (3)
+oman  (1)
+ontario  (1)
+ophiolites  (4)
+ordovician  (10)
+pakistan  (2)
+paleogene  (5)
+paleomagnetism  (4)
+paleoproterozoic  (1)
+paleozoic  (12)
+partial melting  (2)
+pennsylvania  (6)
+pennsylvanian (carboniferous)  (7)
+permian  (4)
+piedmont  (31)
+plankton  (2)
+plants  (7)
+plate tectonics  (11)
+pleistocene  (10)
+plutons  (1)
+policies & politics  (4)
+primary structures  (61)
+proterozoic  (19)
+pseudoscience  (4)
+quartz  (20)
+religion  (11)
+reptiles  (7)
+rhode island  (1)
+rivers  (13)
+rockies  (11)
+russia  (1)
+sandstone  (14)
+satellite imagery  (2)
+science & society  (10)
+scotland  (3)
+seasons  (1)
+sediment  (93)
+sequestration  (2)
+shale  (7)
+shear zones  (11)
+sierras  (4)
+silurian  (6)
+skepticism  (6)
+snow  (5)
+snowball earth  (6)
+soil  (2)
+south africa  (2)
+south america  (1)
+south dakota  (1)
+stratigraphy  (6)
+stromatolites  (5)
+structure  (149)
+stylolites  (1)
+surveys  (1)
+tafoni  (1)
+talks  (2)
+teaching  (22)
+tech  (5)
+television  (3)
+trace fossils  (5)
+transect trip  (8)
+travel  (54)
+triassic  (7)
+tsunami  (2)
+turkey  (43)
+Uncategorized  (1)
+unconformities  (7)
+uniramia  (1)
+united kingdom  (2)
+urbanite  (1)
+usgs  (3)
+utah  (1)
+valley and ridge  (33)
+vermont  (2)
+virginia  (76)
+volcano  (22)
+water  (2)
+weathering  (33)
+web resources  (2)
+west virginia  (25)
+wind  (1)
+words  (8)
+wyoming  (18)
+xenoliths  (8)
+yellowstone  (1)
+
+Archives  Select Month  September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+
+The “Callander”
+August 2011
+
+M
+T
+W
+T
+F
+S
+S
+
+« Jul
+ 
+Sep »
+
+1234567
+
+891011121314
+
+15161718192021
+
+22232425262728
+
+293031
+ 
+
+My Twitter feed
+
+60 mins ago
+@GeoEvelyn data ARE.
+
+2 hours ago
+RT @drjerque: Thanks forever to @callanbentley for the geology tour today. Migmatite rocks! The Potomac is pretty cool too. http://t.co/ ...
+
+14 hours ago
+Looking forward to showing @drjerque around the Billy Goat Trail today. Turbidites, migmatites, lamprophyre, straths, potholes, and more!
+
+4 September 2011
+RT @aboutgeology: Flood geologists have refuted Flood geology: http://t.co/N3Dr89o
+
+4 September 2011
+Curiously kinky columns http://t.co/WdBasfT
+
+ Other geobloggers are writing aboutMIMARSE Lo que viene a ser, hacerse pajas (I) 5 September 2011Los fósiles de luz de Darren Pearson 5 September 2011Vintage Dinosaur Art: Carl Dahlgren 5 September 2011Out of Control Texas Wildfire from Space 5 September 2011Tehuelchesaurus 5 September 2011
+
+©2011 American Geophysical Union. All rights reserved. Powered by MT.
+
+Terms of Use
+Privacy Policy
+Contact Us
+
