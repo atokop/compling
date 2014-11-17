@@ -1,0 +1,1 @@
+function wxDivLoadPulse () { if (! updateWxWOWDIV () && ( wx_wait

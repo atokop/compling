@@ -6,7 +6,7 @@ import os
 direc = os.path.join(os.path.dirname(os.path.realpath(__file__)), os.pardir, "scripts/")
 sys.path.append(direc)
 
-from small_analysis import big_sents as sents
+from small_analysis import yoursmall_sents as sents
 print sents
 
 a = 0

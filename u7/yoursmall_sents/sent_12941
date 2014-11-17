@@ -1,0 +1,1 @@
+The change is applied part of BZ 7171 , replacing // the prior logic of waiting for entire page to be reloaded .

@@ -12,7 +12,7 @@ from nltk.corpus import brown, reuters, state_union, words
 import utils
 
 # Put your corpus directory path below instead, e.g. "D:\Test\ClassEvents"
-corpus_root = '/Users/kwamina/school_dev/senior/comp_linguistics/YourSmallCleanest/'
+corpus_root = '/Users/kwamina/school_dev/senior/comp_linguistics/YourSmall/'
 classevent_corpus_root = '/Users/kwamina/school_dev/senior/comp_linguistics/Islip13Rain'
 big_corpus_root = '/Users/kwamina/school_dev/senior/comp_linguistics/YourBigCleanest'
 yoursmall_wordlists = PlaintextCorpusReader(corpus_root, '.*')
