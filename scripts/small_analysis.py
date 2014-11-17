@@ -39,7 +39,6 @@ print "ClassEvent loaded"
 
 yoursmall_words = yoursmall_wordlists.words()
 yoursmall_sents = yoursmall_wordlists.sents()
-print yoursmall_words
 yoursmall_words = [str(w).lower() for w in yoursmall_words if w.isalnum()]
 yoursmall_words = nltk.Text(yoursmall_words)
 yoursmall_words_lem = [lemmer.lemmatize(w) for w in yoursmall_words]
