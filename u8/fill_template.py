@@ -111,6 +111,7 @@ def find_date(raw_collection):
     year = most_common(results)
 
     date = (day, month, year)
+    return date
     print "Date: {1} {0}, {2}".format(date[0], date[1], date[2])
 
 def find_time(raw_collection):
@@ -125,36 +126,35 @@ def find_time(raw_collection):
 
     print "Time: {0} {1}".format(time, am_versus_pm)
     return time
-    
-def find_aid(sentences):
-    from nltk.stem.wordnet import WordNetLemmatizer
-    stopwords = nltk.corpus.stopwords.words('english')
-	lemmer = WordNetLemmatizer()
-	wordvec = []
-	aidwords = ["aid", "provide"]
-    for sentence in sentences:
-			words = sentence.split()
-			for x, word in enumerate(words):
-				if lemmer.lemmatize(word.lower()) in aidwords:
-					phrase = words[x-2:x]
-					for string in phrase:
-						if string.lower() not in stopwords and string not in aidwords and string[0].isupper():
-							wordvec.append(string)
-	set_words = set(wordvec)
-	set_words = sorted(set_words, key=lambda v: wordvec.count(v))
-	set_words = set_words[len(set_words)-k:].reverse()
-    print "Aid: {0} {1} {2}".format(set_words[0], set_words[1], set_words[2])
-    return set_words[0:3]
-    
-def earthquake_template(corpus):
+
+def find_word(word, path_to_corpus, cutoff):
+    files = os.listdir(path_to_corpus)
+    found = len(["a" for f in files if word in open(os.path.join(path_to_corpus, f)).read()])
+    word_percentage = float(found)/len(files)
+    if word_percentage > cutoff:
+        print word + "(s) present"
+        return True
+    else:
+        print word + "(s) not present"
+        return False
+
+def earthquake_template(corpus, path_to_corpus=None):
     raw_text = corpus.raw()
     sents = corpus.sents()
 
-    find_date(raw_text)
-    find_location(raw_text)
-    find_magnitude(raw_text)
-    find_epicenter(sents)
-    find_deaths(raw_text)
+    template = {}; 
+    template['date'] = find_date(raw_text)
+    template['location'] = find_location(raw_text)
+    template['magnitude'] = find_magnitude(raw_text)
+    template['epicentre'] = find_epicenter(sents)
+    template['deaths'] = find_deaths(raw_text)
     # find_injuries(raw_text)
-    find_time(raw_text)
-    find_aid(sents)
+    template['time'] = find_time(raw_text)
+    if path_to_corpus:
+        template['aftershock'] = find_word('aftershock', path_to_corpus, 0.2)
+        template['tsunami'] = find_word('tsunami', path_to_corpus, 0.3)
+        template['landslide'] = find_word('landslide', path_to_corpus, 0.15)
+
+    return template
+
+

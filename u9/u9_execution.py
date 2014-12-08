@@ -6,14 +6,16 @@ import os
 direc = os.path.join(os.path.dirname(os.path.realpath(__file__)), os.pardir, "scripts/")
 sys.path.append(direc)
 
-sys.path.append("/Users/kwamina/compling/scripts")
 from small_analysis import big_wordlists, yoursmall_wordlists
 from fill_template import *
+from summary import *
 
 print ""
 print "Big Corpus Earthquake Analysis:"
-earthquake_template(big_wordlists, '/Users/kwamina/compling/YourBigCleanest')
+template =  earthquake_template(big_wordlists, '/Users/kwamina/compling/YourBigCleanest')
+summarize(template)
 
 print ""
 print "Small Corpus Earthquake Analysis:"
-earthquake_template(yoursmall_wordlists)
+template =  earthquake_template(yoursmall_wordlists, '/Users/kwamina/compling/YourSmallCleanest')
+summarize(template)
