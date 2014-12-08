@@ -125,7 +125,27 @@ def find_time(raw_collection):
 
     print "Time: {0} {1}".format(time, am_versus_pm)
     return time
-
+    
+def find_aid(sentences):
+    from nltk.stem.wordnet import WordNetLemmatizer
+    stopwords = nltk.corpus.stopwords.words('english')
+	lemmer = WordNetLemmatizer()
+	wordvec = []
+	aidwords = ["aid", "provide"]
+    for sentence in sentences:
+			words = sentence.split()
+			for x, word in enumerate(words):
+				if lemmer.lemmatize(word.lower()) in aidwords:
+					phrase = words[x-2:x]
+					for string in phrase:
+						if string.lower() not in stopwords and string not in aidwords and string[0].isupper():
+							wordvec.append(string)
+	set_words = set(wordvec)
+	set_words = sorted(set_words, key=lambda v: wordvec.count(v))
+	set_words = set_words[len(set_words)-k:].reverse()
+    print "Aid: {0} {1} {2}".format(set_words[0], set_words[1], set_words[2])
+    return set_words[0:3]
+    
 def earthquake_template(corpus):
     raw_text = corpus.raw()
     sents = corpus.sents()
@@ -137,3 +157,4 @@ def earthquake_template(corpus):
     find_deaths(raw_text)
     # find_injuries(raw_text)
     find_time(raw_text)
+    find_aid(sents)
